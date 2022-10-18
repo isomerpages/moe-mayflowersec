@@ -5,7 +5,7 @@ description: ""
 ---
 Principal's Message
 ===================
-**Mayflower Promise:**
+<img src="/images/mdmlee1.png" style="width:200px;height:300px;margin-left:15px;" align = "left">**Mayflower Promise:**
 
 **Future Ready Mayflowerians with a zest for life, a curious mind and a generous spirit**
 
