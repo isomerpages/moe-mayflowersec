@@ -10,3 +10,19 @@ Mayflower Sec Alumni
 About our Alumni
 ----------------
 <img src="/images/alumni.jpg" style="width:40%">
+
+### Mission
+
+To continue to stay connected with the school, continue supporting her development and well being, as well as inspiring the next generation of Mayflowerians.
+
+### Connect with us
+
+### Mission
+
+To continue to stay connected with the school, continue supporting her development and well being, as well as inspiring the next generation of Mayflowerians.
+
+### Connect with us
+
+<img src="/images/icon_fb.svg" style="width:30px;height:30px;margin-left:15px;" align = "left"> [Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni/)
+
+<img src="/images/icon_instagram.svg" style="width:30px;height:30px;margin-left:15px;" align = "left"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
