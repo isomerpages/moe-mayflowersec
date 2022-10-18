@@ -37,3 +37,7 @@ _Future Ready Mayflowerians with_ _a **zest for life**,_ _a **curious mind**
 ### Mayflower Mission
 
 _**Every Mayflowerian - Mighty in Thought and Deed**_
+
+### Mayflower Values
+
+Moral Courage • Responsiblity • Optimism • Commitment • Discerning • Open-minded • Respect • Empathy • Integrity
