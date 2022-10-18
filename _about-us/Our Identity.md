@@ -69,4 +69,4 @@ Onward we'll march
 with kindred and spirit aglow  
 And that is our motto for a better tomorrow.
 
-**"Insert school song audio clip here"**
+**"Insert school song audio clips here"**
