@@ -9,7 +9,7 @@ Mayflower Sec Alumni
 
 About our Alumni
 ----------------
-<img src="/images/alumni.jpg" style="width:40%">
+<img style="width:40%" src="/images/alumni.jpg">
 
 ### Mission
 
@@ -23,14 +23,18 @@ To continue to stay connected with the school, continue supporting her developme
 
 ### Connect with us
 
-<img src="/images/icon_fb.svg" style="width:30px;height:30px;margin-left:15px;" align = "left"> [Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni/)
+<img align="left" style="width:30px;height:30px;margin-left:15px;" src="/images/icon_fb.svg"> [Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni/)
 
-<img src="/images/icon_instagram.svg" style="width:30px;height:30px;margin-left:15px;" align = "left"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
+<img align="left" style="width:30px;height:30px;margin-left:15px;" src="/images/icon_instagram.svg"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
 
-<img src="/images/gmail.png" style="width:30px;height:30px;margin-left:15px;" align = "left"> [alumni@mf.edu.sg](mailto:mfss.alumni@gmail.com)
+<img align="left" style="width:30px;height:30px;margin-left:15px;" src="/images/gmail.png"> [alumni@mf.edu.sg](mailto:mfss.alumni@gmail.com)
 
 [Join Us]()
 
 Video
 -----
-<iframe width="835" height="470" src="https://www.youtube.com/embed/cCEgjRt-zSc" title="Alumni Interview - MFSS Publicity Video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Alumni Interview - MFSS Publicity Video 2016" src="https://www.youtube.com/embed/cCEgjRt-zSc" height="470" width="835"></iframe>
+
+Hall of Fame
+-----
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyrhvqBaiOClp2UDeIDwIqol0VR0b8_A66HugkycrYhdoELtIHo4LHG1Hnc-XcPJ-G6rkrnbCV9EwN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
