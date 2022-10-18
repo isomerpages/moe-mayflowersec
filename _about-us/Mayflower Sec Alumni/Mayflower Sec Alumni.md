@@ -26,3 +26,5 @@ To continue to stay connected with the school, continue supporting her developme
 <img src="/images/icon_fb.svg" style="width:30px;height:30px;margin-left:15px;" align = "left"> [Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni/)
 
 <img src="/images/icon_instagram.svg" style="width:30px;height:30px;margin-left:15px;" align = "left"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
+
+<img src="/images/gmail.png" style="width:30px;height:30px;margin-left:15px;" align = "left"> [alumni@mf.edu.sg](mailto:mfss.alumni@gmail.com)
