@@ -45,3 +45,10 @@ A Homecoming Dinner was held on 28 August 2004 whereby 500 alumni and staff turn
 
 The new campus, complete with a 200-seat theatrette and dance studio, was completed in 2005 and Mayflower once again came together under one roof, our new building being sited on the combined parcel of land of the old Campus 1 and Ang Mo Kio Primary School, formerly Ai Tong Primary School.
 
+![](/images/school5.png)
+
+The “[Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni)” Facebook page was launched in 2010 and now has more than 1800 members.
+
+President S R Nathan was the Guest of Honour at our 30th Anniversary Dinner cum Opening Ceremony of the Indoor Sports Hall, on 27 May 2011.
+
+About 200 alumni and staff, including former Principal Mr Ibrahim Othman, turned up at our 35th Anniversary Alumni Homecoming held on 30 July 2016.
