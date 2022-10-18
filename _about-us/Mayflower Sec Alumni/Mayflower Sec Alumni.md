@@ -28,3 +28,9 @@ To continue to stay connected with the school, continue supporting her developme
 <img src="/images/icon_instagram.svg" style="width:30px;height:30px;margin-left:15px;" align = "left"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
 
 <img src="/images/gmail.png" style="width:30px;height:30px;margin-left:15px;" align = "left"> [alumni@mf.edu.sg](mailto:mfss.alumni@gmail.com)
+
+[Join Us]()
+
+Video
+-----
+<iframe width="835" height="470" src="https://www.youtube.com/embed/cCEgjRt-zSc" title="Alumni Interview - MFSS Publicity Video 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
