@@ -47,3 +47,24 @@ Moral Courage • Responsiblity • Optimism • Commitment • Discerning • O
 ### Mayflower Outcomes
 
 ![](/images/outcomes.png)
+
+### Our School Song
+
+![](/images/song.png)
+
+Mayflower our dearest school  
+Together aspire together we strive;   
+From thee we derive  
+The knowledge and the dignity  
+To thee we give our love and loyalty.
+
+Mayflower, Mayflower,  
+To fame and glory, to fame and glory;  
+Mayflower, Mayflower,  
+We serve and honour our school and country.
+
+Be mighty in thought and deed  
+Be modest to all men no matter what creed;  
+Onward we'll march  
+with kindred and spirit aglow  
+And that is our motto for a better tomorrow.
