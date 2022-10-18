@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Mayflower Sec Alumni/Mayflower Sec Alumni.md
       - Mayflower Sec Alumni/.keep
       - Our School Advisory Committee.md
       - Our Identity.md
