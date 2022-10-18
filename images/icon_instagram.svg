@@ -1,0 +1,23 @@
+<svg xml:space="preserve" viewBox="0 0 25 25" height="25px" width="25px" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="objects" version="1.1">
+<g>
+	
+		<radialGradient gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.1283 0 0 0.1283 7.2274 10.8958)" r="192.9164" cy="79.3467" cx="-18.7915" id="SVGID_1_">
+		<stop style="stop-color:#FEC053" offset="0"></stop>
+		<stop style="stop-color:#F2203E" offset="0.3273"></stop>
+		<stop style="stop-color:#B729A8" offset="0.6485"></stop>
+		<stop style="stop-color:#5342D6" offset="1"></stop>
+	</radialGradient>
+	<circle r="12.5" cy="12.5" cx="12.5" fill="url(#SVGID_1_)"></circle>
+	<g>
+		<path d="M17.526,21.287H7.475c-2.074,0-3.762-1.688-3.762-3.762V7.474c0-2.074,1.688-3.761,3.762-3.761h10.052
+			c2.074,0,3.762,1.687,3.762,3.761v10.051C21.288,19.6,19.601,21.287,17.526,21.287z M7.475,5.765c-0.943,0-1.71,0.767-1.71,1.709
+			v10.051c0,0.943,0.767,1.71,1.71,1.71h10.052c0.942,0,1.71-0.767,1.71-1.71V7.474c0-0.943-0.768-1.709-1.71-1.709H7.475z" fill="#F1F2F2"></path>
+	</g>
+	<g>
+		<path d="M12.5,17.354c-2.677,0-4.854-2.178-4.854-4.854S9.823,7.646,12.5,7.646s4.855,2.178,4.855,4.854
+			S15.177,17.354,12.5,17.354z M12.5,9.697c-1.546,0-2.803,1.257-2.803,2.803s1.257,2.803,2.803,2.803s2.804-1.257,2.804-2.803
+			S14.046,9.697,12.5,9.697z" fill="#F1F2F2"></path>
+	</g>
+	<circle r="0.875" cy="7.797" cx="17.469" fill="#F1F2F2"></circle>
+</g>
+</svg>
