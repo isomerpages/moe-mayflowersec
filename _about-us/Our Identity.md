@@ -41,3 +41,7 @@ _**Every Mayflowerian - Mighty in Thought and Deed**_
 ### Mayflower Values
 
 Moral Courage • Responsiblity • Optimism • Commitment • Discerning • Open-minded • Respect • Empathy • Integrity
+
+| Zest for Life | Curious Mind | Generous Spirit |
+| --- | --- | --- |
+| Mayflowerians believe in excellence with humility (moral courage, responsibility, optimism and commitment) | Mayflowerians are discerning and open-minded in the pursuit of lifelong learning. | Mayflowerians are responsible citizens who demonstrate respect, empathy and integrity. |
