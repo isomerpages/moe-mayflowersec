@@ -84,7 +84,7 @@ Singapore Polytechnic Scholarship (Engineering)
 
 ### **Updated as of 26/03/20**
 
-Singapore Polytechnic is pleased to inform Mayflower Secondary School that your former student Elise Tan Hui Ping was selected for this year’s Singapore Polytechnic Scholarship (Engineering).
+<img src="/images/sp.jpg" style="width:220px;height:300px;margin-left:15px;" align = "right">Singapore Polytechnic is pleased to inform Mayflower Secondary School that your former student Elise Tan Hui Ping was selected for this year’s Singapore Polytechnic Scholarship (Engineering).
 
 The award recognises students with excellent academic achievements, outstanding leadership qualities and significant accomplishments in co-curricular activities.
 
@@ -98,3 +98,4 @@ Yours sincerely,
 William Lim (Mr)  
 Director  
 Department of Communications
+
