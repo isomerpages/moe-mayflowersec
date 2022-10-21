@@ -22,3 +22,22 @@ Colin won his third gold medal of the Asian Youth Para Games in the SM 11-13 200
 
 https://www.straitstimes.com/sport/para-sports-swimmer-colin-soon-wins-third-gold-at-asian-youth-para-games?utm_campaign=stfb&utm_medium=social&utm_source=facebook
 (Straits Times Link)
+
+NAFA Best Graduate Award 2021
+-----------------------------
+
+### **Updated as of 21/10/21**
+
+Mayflower Secondary School is pleased to announce that Sarmiento Cyril Dominic Bambico and Wee Yun Lin, Tricia, alumni from Mayflower Secondary School, have been awarded the NAFA Best Graduate Award 2021 for Diploma in Screen Media and Diploma in Arts Management respectively.
+
+![](/images/nafa1.jpg)
+
+![](/images/nafa2.jpg)
+
+Well done Kieron Neo!
+---------------------
+
+### **Updated as of 29/06/21**
+
+We are pleased to share that our former student, Neo Hong Rui, Kieron has excelled academically at Temasek Polytechnic (TP) and recently graduated this year.
+
