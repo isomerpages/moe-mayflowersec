@@ -104,8 +104,7 @@ Congratulations on our former student,Keith Png Jun Xin
 
 ### **Updated as of 05/07/19**
 
-
-Singapore Polytechnic (SP) would like to congratulate Mayflower Secondary School for contributing to the success of one of our former student, Keith Png Jun Xin.
+<img src="/images/sp1.jpg" style="width:220px;height:300px;margin-left:15px;" align = "right"> Singapore Polytechnic (SP) would like to congratulate Mayflower Secondary School for contributing to the success of one of our former student, Keith Png Jun Xin.
 
 SP is proud of the achievement of Keith Png Jun Xin and believes that he will continue to do SP and Mayflower Secondary School proud.
 
@@ -116,3 +115,28 @@ Yvonne Chan,
 Director  
 Department of Communications  
 Singapore Polytechnic
+
+Ngee Ann Polytechnic's 2019 Graduating Class
+--------------------------------------------
+
+### **Updated as of 05/07/19**
+
+  
+
+### Award Winners From Mayflower Secondary School
+
+![](/images/np2.png)
+_(The Diploma with Merit is awarded to the top 10% of the graduates in each cohort)_
+
+Congratulations to Neo Zhi Sheng of Sec 4 Integrity (2018)
+----------------------------------------------------------
+
+### **Updated as of 15/01/19**
+
+https://www.facebook.com/mayflowersecofficial/videos/785517298465541/?t=6  
+(Facebook Link)
+
+Congratulations on our former student, Ong Yi Quan
+--------------------------------------------------
+
+### **Updated as of 13/01/18**
