@@ -140,3 +140,5 @@ Congratulations on our former student, Ong Yi Quan
 --------------------------------------------------
 
 ### **Updated as of 13/01/18**
+
+<img src="/images/tp1.jpg" style="width:220px;height:300px;margin-left:15px;" align = "right">**Ong Yi Quan**, who was the **Silver** medalist for his course (Diploma in Green Building & Sustainability). Yi Quan joined the Institute of Technical Education (ITE) after completing his secondary school education with Mayflower Secondary. He joined Temasek Polytechnic’s School of Engineering after obtaining a perfect GPA score of 4.0 from his Higher NITEC course at the ITE College.
