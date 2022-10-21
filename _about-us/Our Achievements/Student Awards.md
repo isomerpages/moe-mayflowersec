@@ -9,7 +9,6 @@ Student Awards
 
 Colin Soon wins third gold at Asian Youth Para Games \[Updated\]
 ----------------------------------------------------------------
-
 ### **Updated as of 06/12/21**
 
 Mayflower Secondary School is proud that our students Colin Soon had won his first two gold medals at the Asian Youth Para Games 2021 in Bahrain on Saturday, 4 December 2021. He claimed two bronze medals in the S11-13 100m backstroke and freestyle events previously in Dubai 2017.
@@ -41,3 +40,9 @@ Well done Kieron Neo!
 
 We are pleased to share that our former student, Neo Hong Rui, Kieron has excelled academically at Temasek Polytechnic (TP) and recently graduated this year.
 
+![](/images/tp.jpg)
+
+Ngee Ann Poly’s 2021 Graduating Class Award Winners from Mayflower Secondary School
+-----------------------------------------------------------------------------------
+
+### **Updated as of 18/06/21**
