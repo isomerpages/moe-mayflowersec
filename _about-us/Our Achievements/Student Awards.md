@@ -99,3 +99,20 @@ William Lim (Mr)
 Director  
 Department of Communications
 
+Congratulations on our former student,Keith Png Jun Xin
+-------------------------------------------------------
+
+### **Updated as of 05/07/19**
+
+
+Singapore Polytechnic (SP) would like to congratulate Mayflower Secondary School for contributing to the success of one of our former student, Keith Png Jun Xin.
+
+SP is proud of the achievement of Keith Png Jun Xin and believes that he will continue to do SP and Mayflower Secondary School proud.
+
+Thank you for your support.
+
+  
+Yvonne Chan,  
+Director  
+Department of Communications  
+Singapore Polytechnic
