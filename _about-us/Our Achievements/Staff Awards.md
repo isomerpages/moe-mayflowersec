@@ -81,3 +81,22 @@ In appreciation for receiving the award, Ms Chew said: "When I rally (my teacher
 
 [Read more: 10 teachers win awards for inspiring students in Chinese](https://www.straitstimes.com/singapore/parenting-education/10-teachers-win-awards-for-inspiring-students-in-chinese)  
 [Read more: 10教师荣获2020年全国杰出华文教师奖](https://www.zaobao.com.sg/zvideos/zbschools/story20201112-1100431)
+
+Congratulations to our President's Award for Teachers Recipient, Mdm Ira Wati!
+------------------------------------------------------------------------------
+
+### **Updated as of 21/09/20**
+
+![](/images/ira.jpg)
+
+We are proud to inform that Madam Ira Wati Sukaimi, our Art Lead Teacher, was one of the seven teachers who received the prestigious President’s Award from President Halimah Yacob this year. This award for teachers (PAT) recognizes the critical role teachers play in moulding the future of our nation. It was presented at a virtual ceremony, also attended by Education Minister Lawrence Wong.
+
+Mdm Ira believes that educating the mind starts with educating the heart. Through Art, she seeks to equip her students with values, dispositions, knowledge and skills necessary to thrive in a global community.
+
+Tapping on the affordances of Art as a discipline, Mdm Ira strives to break negative misconceptions pertaining to the issues of identity and sense of self-worth for her low progress learners. By bringing these students to the art museums to see for themselves the stories of how professional artists have reconciled their own identities with perceived social norms, she hopes to inspire them to find themselves through art.
+
+She said: "Education to me now has been about touching hearts and building students’ self-efficacy to move forward in life."
+
+![](/images/ira2.jpg)
+
+[Watch Wira Kita Season 2 - Episode 4 on meWATCH](https://www.mewatch.sg/series)
