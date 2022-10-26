@@ -100,3 +100,11 @@ She said: "Education to me now has been about touching hearts and building stude
 ![](/images/ira2.jpg)
 
 [Watch Wira Kita Season 2 - Episode 4 on meWATCH](https://www.mewatch.sg/series)
+
+Congratulations to Mr Gananedran
+--------------------------------
+
+### **Updated as of 07/07/18**
+
+[insert facebook link here]   
+Congratulations to Mr Gananedran who was conferred the Star to Bronze Award last evening at the Istana. The award was presented by none other than our President Halimah Yacob. The distinguished service award is given to Volunteer Adult Leaders who have contributed significantly to the Scout Movement.
