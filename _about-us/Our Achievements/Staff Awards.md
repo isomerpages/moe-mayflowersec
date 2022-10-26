@@ -45,3 +45,20 @@ This award recognised eight teachers who have made an exemplary effort in the te
 
 [Read more: Eight Chinese-language teachers honoured for exemplary effort in teaching](https://www.straitstimes.com/singapore/parenting-education/eight-chinese-language-teachers-honoured-for-exemplary-effort-in)    
 [Read more: 八位教师获颁2021年全国杰出华文教师奖](https://www.zaobao.com.sg/realtime/singapore/story20210911-1192604)
+
+Congratulations to Mr Mohamed Naguib for winning the Golden Point Award
+-----------------------------------------------------------------------
+
+### **Updated as of 13/07/21**
+
+Congratulations to Mr Mohamed Naguib bin Ngadnan, our experienced Malay teacher who clinched the 1st Prize for the 2019 Golden Point Award \[Malay Category\]. His very first book Saudagar Pagar, launched recently, consists of 24 short stories, compiled over 15 years. We recognize that this was no easy feat and hope that this will be the first of more to come.
+
+And to all our budding young writers, remember, Mayflower, why not you?
+
+![](/images/books.jpg)
+Photo: Berita Harian  
+'SAUDAGAR PAGAR': Menurut Encik Naguib ilham cerpen 'Saudagar Pagar' datangnya daripada konsep pagar itu sendiri di mana beliau memikirkan "adakah pagar itu menghalang sesuatu untuk masuk atau menghalang sesuatu untuk keluar".
+
+![](/images/book2.jpg)
+Photo: Berita Harian  
+DALAM PASARAN: Tiga buku dari siri Goresan Tinta Guru terbitan Unggun Creative kini dalam pasaran: 'Saudagar Pagar' oleh Mohamed Naguib Ngadnan; 'Intai Kami Antara Nampak' oleh Guru-Guru Penerima Anugerah Arif Budiman; dan 'Interlud' oleh Djohan Abdul Rahman.
