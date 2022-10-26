@@ -74,3 +74,11 @@ Celebration Programmes
 ### Termly Students Awards
 
 ![](/images/term1.jpg)
+
+![](/images/term2.png)
+
+### Graduation Ceremonies and Graduation Night
+
+![](/images/grad1.jpg)
+
+![](/images/grad2.jpg)
