@@ -60,3 +60,17 @@ Our partners in education - MF Alumni and Parents Support Group and the Rotary C
 
 We adopted the Buddy Programme for our ISPR. Through learning journeys and celebrating local festivals, we hope that they bond with our local students to promote a greater sense of belonging to school and Singapore.
 
+![](/images/pr.png)
+
+### Customised Form Teachers’ Period & Workshops for Students
+
+Embracing growth mindset and resilience in students
+
+![](/images/workshop.png)
+
+Celebration Programmes
+----------------------
+
+### Termly Students Awards
+
+![](/images/term1.jpg)
