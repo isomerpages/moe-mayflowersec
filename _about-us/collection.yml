@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements/Staff Awards.md
-      - Our Achievements/CCA.md
-      - Our Achievements/Student Awards.md
       - Our Achievements/.keep
+      - Our Achievements/Student Awards.md
+      - Our Achievements/CCA.md
+      - Our Achievements/Staff Awards.md
       - Mayflower Sec Alumni/Alumni Registration.md
       - Mayflower Sec Alumni/Mayflower Sec Alumni.md
       - Mayflower Sec Alumni/.keep
