@@ -2,17 +2,17 @@ collections:
   about-us:
     output: true
     order:
-      - Yearbook.md
-      - Contact us.md
+      - Our History.md
+      - Principal's Message.md
+      - Our Staff.md
+      - Our Identity.md
+      - Our School Advisory Committee.md
+      - Mayflower Sec Alumni/.keep
+      - Mayflower Sec Alumni/Alumni Registration.md
+      - Mayflower Sec Alumni/Mayflower Sec Alumni.md
       - Our Achievements/.keep
       - Our Achievements/Student Awards.md
       - Our Achievements/CCA.md
       - Our Achievements/Staff Awards.md
-      - Mayflower Sec Alumni/Alumni Registration.md
-      - Mayflower Sec Alumni/Mayflower Sec Alumni.md
-      - Mayflower Sec Alumni/.keep
-      - Our School Advisory Committee.md
-      - Our Identity.md
-      - Our Staff.md
-      - Principal's Message.md
-      - Our History.md
+      - Contact us.md
+      - Yearbook.md
