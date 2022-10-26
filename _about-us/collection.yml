@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Achievements/Staff Awards.md
       - Our Achievements/CCA.md
       - Our Achievements/Student Awards.md
       - Our Achievements/.keep
