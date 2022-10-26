@@ -108,3 +108,13 @@ Congratulations to Mr Gananedran
 
 [insert facebook link here]   
 Congratulations to Mr Gananedran who was conferred the Star to Bronze Award last evening at the Istana. The award was presented by none other than our President Halimah Yacob. The distinguished service award is given to Volunteer Adult Leaders who have contributed significantly to the Scout Movement.
+
+Launch of ‘Tanjong Katong Airnya Biru’ by Mr Naguib
+---------------------------------------------------
+
+### **Updated as of 19/03/18**
+
+[insert facebook link here]   
+Mr. Naguib, our Malay Language teacher recently launched his anthology entitled ‘Tanjong Katong Airnya Biru’ with four other writers, all former students of Tanjong Katong Secondary Technical School, at The Arts House on 10 March 2018.
+
+The event included readings from the four writers accompanied by a Wayang Kulit (Shadow Puppet) performance by Sri Setia Pulau Singa and was supported by [#BuySingLit](https://www.facebook.com/hashtag/buysinglit?__eep__=6&fref=mentions) and National Arts Council Singapore.
