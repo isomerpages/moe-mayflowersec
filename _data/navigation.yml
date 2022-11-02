@@ -1,6 +1,19 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About us
+    collection: about-us
+  - title: student development
+    collection: student-development
+  - title: cca
+    url: /permalink
+    sublinks:
+      - title: "LLP: Aesthetics"
+        url: /permalink
+      - title: Performing Arts
+        url: /permalink
+      - title: Sports
+        url: /permalink
+      - title: Uniformed Groups
+        url: /permalink
+      - title: Sports
+        url: /permalink
