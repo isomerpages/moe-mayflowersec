@@ -74,3 +74,14 @@ In 2020, we took part in performances such as our annual CCA Showcase, Chinese N
 | Vice President (Discipline) 	| Chia Zi Ying Genevie (3A) 	|
 | Vice President (Operations) 	| Cleopatra Yong Feng Jun (3D) 	|
 | Publicity 	| Tjong Jia Xin (3E) 	|
+
+### Training Schedule
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Tuesdays | 3.00 pm - 6.00 pm | Dance Studio |
+| Thursdays | 3.00 pm - 6.00 pm | Hall |
+
+Photos
+------
+
