@@ -14,8 +14,8 @@ Concert Band
 ### Key Objectives
 
 *   National Education – Aims to help our students become active, informed and responsible citizens with the ability to succeed in the global environment.
-*   Character Education & 21st Century Skills Acquisition – Aims to groom our students into a confident, well-managed and well-balanced individual with integrity, wisdom, passion and vision.
-*   Arts Enrichment & Appreciation – Aims to provide our students who are talented practitioners of a variety of artistic mediums opportunities to further explore and enhance their own creative capacity through interaction and collaboration with other young, gifted artists in the host country.
+*   Character Education &amp; 21st Century Skills Acquisition – Aims to groom our students into a confident, well-managed and well-balanced individual with integrity, wisdom, passion and vision.
+*   Arts Enrichment &amp; Appreciation – Aims to provide our students who are talented practitioners of a variety of artistic mediums opportunities to further explore and enhance their own creative capacity through interaction and collaboration with other young, gifted artists in the host country.
 
   
 
@@ -40,8 +40,8 @@ We take pride in developing potential young musicians. Many of our members have 
 | 2017 	| Chingay 2017 - Soundwaves 	|
 | 2016 	| Suntec City Christmas Joy of Music 	|
 | 2015 	| SG50 Band Fiesta 	|
-| 2014 	| Japan Exchange Programme (Hosting of Visiting Students & Outgoing Trip) 	|
-| 2013 	| Japan Exchange Programme (Hosting of Visiting Students & Outgoing Trip) 	|
+| 2014 	| Japan Exchange Programme (Hosting of Visiting Students &amp; Outgoing Trip) 	|
+| 2013 	| Japan Exchange Programme (Hosting of Visiting Students &amp; Outgoing Trip) 	|
 | 2012 	| Performance at Singapore International Water Festival 	|
 | 2011 	| Mayflower 30th Anniversary Variety Show<br>Music In The City – Bands by the Bay (Merlion Park)<br> 	|
 | 2010 	| Music At The Park Series – Mac Ritchie Reservoir 	|
@@ -92,3 +92,7 @@ All members who have no scheduled supplementary or compulsory remedial lessons m
 Video
 -----
 (video to be uploaded to youtube)
+
+Photos
+------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjj7y1sH2P7UbyVKI5MmERShE7lmJBEGb5J2-YsXLeFU_dLzt9F8U-zImvYO_eKR4x9iupIfZ9G83_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
