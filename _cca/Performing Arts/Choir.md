@@ -29,3 +29,48 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
 
 | <a href=https://mfsschoir.wordpress.com/><img style="width:25%" src="/images/wordpress.png"></a> **[Access our WordPress site for more information](https://mfsschoir.wordpress.com/)** 	| <a href="https://www.instagram.com/mfsschoir/"><img style="width:25%" src="/images/ig.png"></a> **[Follow us on Instagram @mfsschoir](https://www.instagram.com/mfsschoir/)**	| <a href="https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg"><img style="width:25%" src="/images/youtube.svg"></a> **[Check out our videos on YouTube @mfsschoir](https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg)**	|
 |---	|---	|---	|
+
+### Achievements and Events
+
+<table>
+<thead>
+  <tr>
+    <th>Year</th>
+    <th>Achievement / Event</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2021</td>
+    <td>Virtual Inauguration Concert, April<br>SYF Arts Presentation for Choir, June<br>Musical Cover Competition (Intra-CCA Competition), June<br><a href="https://www.youtube.com/watch?v=mZ45Bt2ACs0" target="_blank" rel="noopener noreferrer">NDP 2021 Theme Song Cover: The Road Ahead</a></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td><a href="https://www.youtube.com/watch?v=aCQngpKFGjE" target="_blank" rel="noopener noreferrer">Recording in light of COVID-19: You Do Not Walk Alone</a><br><a href="https://www.mewatch.sg/series" target="_blank" rel="noopener noreferrer">Lion Mums: Crash Landing on Schools Episode 7</a><br><a href="https://www.youtube.com/watch?v=TSTLcNfVOPo" target="_blank" rel="noopener noreferrer">Everything I Am (Teacher's Day 2020 Remake)</a></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>SYF Arts Presentation for Choir, April (Certificate of Distinction)<br>Bloom VIVA Concert, May<br><a href="https://www.youtube.com/watch?v=BcmNUinI35M" target="_blank" rel="noopener noreferrer">Choir Camp 2019</a><br>38th Speech Day, August<br><a href="https://www.youtube.com/watch?v=Gi5AAjCgV0U&list=PL-0txKiPyr5uyEh7l6KOH5Q5t2AfV6REE" target="_blank" rel="noopener noreferrer">Esplanade Presents Limelight, November</a></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Chinese New Year Celebration, February<br>37th Speech Day, March<br>Choral Workshop with Dr. Wickham, Course Director of MMus in Choral Studies, University of Cambridge, September<br><a href="https://www.youtube.com/watch?v=h3TY7CyZgXs&list=PL-0txKiPyr5sPSKScS_zy1BZHtXF6_Fx5" target="_blank" rel="noopener noreferrer">Tapestry @ Esplanade Recital Studio, November</a></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Guild in Concert @ National Gallery Singapore, January<br>36th Speech Day, April<br>SYF Arts Presentation for Choir, April (Certificate of Distinction)<br>Recording for Singapore Teachers’ Academy for the Arts (STAR)<br>ABRSM Singing Examination, August (Distinction)<br>Chorus for Opening Production of the 9th Xposition ‘O’ Contemporary Dance Fiesta, November</td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Chinese New Year Celebration, February<br><a href="https://www.youtube.com/watch?v=wlgoXaNw-Ic&list=PL-0txKiPyr5sNR-6H7Jss2z-6Pl6R5-Po" target="_blank" rel="noopener noreferrer">Esplanade Presents Limelight, November</a><br><a href="https://www.youtube.com/watch?v=GNg8kcEemEM" target="_blank" rel="noopener noreferrer">Hong Kong Cultural Exchange Trip, November</a></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Paying tribute to Mr. Lee Kuan Yew lying in state at Parliament House, March<br>34th Speech Day, April<br>SYF Arts Presentation for Choir, April (Certificate of Distinction)<br>Touch of the Hearts 2015 Performance @ NEX, August<br>Voices – A Festival of Song, December</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>#OneVoiceOneSg, June<br>MANIFEST Concert, August<br>ABRSM Singing Examination, August (Distinction)</td>
+  </tr>
+</tbody>
+</table>
