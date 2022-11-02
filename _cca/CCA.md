@@ -16,4 +16,3 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 Performing Arts
 ---------------
-
