@@ -58,3 +58,10 @@ Ms Serene Tung
 | Publicity Manager 	| Yau Zi Yu (4A) 	|
 | Head of Welfare 	| Tan Chloe (4F) 	|
 | Dance Coordinator 	| Charlene Teoh (4E) 	|
+
+### Training Schedule
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Tuesdays | 1500 - 1800 | Dance Studio |
+|     Thursdays | 1500 - 1800 | Hall |
