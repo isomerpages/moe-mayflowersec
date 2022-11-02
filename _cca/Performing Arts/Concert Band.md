@@ -58,3 +58,16 @@ We take pride in developing potential young musicians. Many of our members have 
 |:---:	|:---:	|:---:	|
 | 2011-2021 	| Singapore Youth Festival Arts Presentation (Band) 	| Certificate of Accomplishment 	|
 | 1981-2011 	| Singapore Youth Festival Central Judging (Band) 	| Silver Award 	|
+
+### Teachers in Charge
+
+Ms Mok Pei Jiun  
+Mr Yang Pei Qiang  
+Ms Azmira Binte Zailan  
+Mdm Dzarina Bte Tarih
+
+### Instructors / Conductors / Section Tutors
+
+Mr Tan Aik Koon (Conductor/Instructor)  
+Mr Png Boon Teck (Assistant Instructor)  
+Mr Chua Leng Heng (Section Tutor – Percussion)
