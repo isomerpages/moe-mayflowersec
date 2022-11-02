@@ -102,3 +102,7 @@ Mayflower Bowling aims to develop each bowler to be a leader equipped with the r
   </tr>
 </tbody>
 </table>
+
+| Teachers-in-Charge 	| CCA Leaders & Executive Committee Members 2020 	|
+|:---:	|:---:	|
+| Mr Jeremy Ong Zhen Wei<br><br>Ms Allycia Teo Wan Ngee<br><br>Ms Nadia Binte Sharin<br>Dr Tang Suyun 	| Captain: Tan Kai Shen<br>Vice-Captain: Naomi Ho Ai Hui 	|
