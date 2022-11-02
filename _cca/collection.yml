@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/.keep
-      - Uniformed Groups/.keep
-      - Sports/.keep
-      - Performing Arts/.keep
       - "LLP: Aesthetics/.keep"
+      - Performing Arts/.keep
+      - Sports/.keep
+      - Uniformed Groups/.keep
+      - Clubs/.keep
