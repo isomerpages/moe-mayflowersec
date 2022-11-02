@@ -74,3 +74,65 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
   </tr>
 </tbody>
 </table>
+
+### Teachers and Instructors
+
+| Teachers 	| Ms Bridget Ooi (IC)<br>Mrs Frances Ess<br>Ms Shen Sirui 	|
+|:---:	|:---:	|
+| Conductor Advisor 	| Mr Toh Ban Sheng 	|
+| Conductor 	| Mr Xie Zhizhong 	|
+
+### Executive Committee 2021
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Choir Committee</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>President</td>
+    <td>Sow Yu Yan</td>
+  </tr>
+  <tr>
+    <td>Vice-President</td>
+    <td>Kimberley Heng</td>
+  </tr>
+  <tr>
+    <td>Head Secretary</td>
+    <td>Ong Ming Li</td>
+  </tr>
+  <tr>
+    <td>Head Publicity</td>
+    <td>Jeanne Lai</td>
+  </tr>
+  <tr>
+    <td>Head Logistics</td>
+    <td>Wayne Wong</td>
+  </tr>
+  <tr>
+    <td colspan="2">Music Committee</td>
+  </tr>
+  <tr>
+    <td>Student Conductor</td>
+    <td>Koh Hong Ming</td>
+  </tr>
+  <tr>
+    <td>Soprano Section Leader</td>
+    <td>Zofia Montanez<br>Celene Ng</td>
+  </tr>
+  <tr>
+    <td>Alto Section Leader</td>
+    <td>Janelle Tan<br>Joanne Wong</td>
+  </tr>
+  <tr>
+    <td>Tenor Section Leader</td>
+    <td>Chong Xin Rong</td>
+  </tr>
+  <tr>
+    <td>Bass Section Leader</td>
+    <td>Koh Hong Ming</td>
+  </tr>
+</tbody>
+</table>
