@@ -84,4 +84,8 @@ In 2020, we took part in performances such as our annual CCA Showcase, Chinese N
 
 Photos
 ------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0fCTBQNPn928ZMBhtpM9rhkkr0MkBviKz1s4ZIGO21xIQSURGHCF1oLd3nqPZVB6jfDQGT51cRts9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+Video
+-----
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Chinese Dance Direct School Admission 2020" src="https://www.youtube.com/embed/DCb_Q1c6ewo" height="500" width="835"></iframe>
