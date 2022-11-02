@@ -26,7 +26,7 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 <tbody>
   <tr>
     <td>2019 - 2021</td>
-    <td>SYF Arts Presentation<br><a href="https://www.youtube.com/watch?v=WUGmDuuWarI" target="_blank" rel="noopener noreferrer">SYF21 - Mixed Ensemble Performance</a><br><a href="https://www.youtube.com/watch?v=CUk9FP7JPf0" target="_blank" rel="noopener noreferrer">SYF21 - Sectional Ensemble Performance</a><br>School Performance: CCA Exhibition<br>Chinese Ensembles Nite: Performance for CE Parents and Alumni<br>School Performance: Mayflower Speech Day<br>School Performance: Mayflower Open House<br>External Performance: KBCC Mid-Autumn Celebration at Mayflower Mall<br>CO Music Exchange with Greenridge Secondary and Maris Stella High School<br>Value-in-action Project: Flag Day for Kidney Dialysis Foundation<br>Value-in-action Project: Tea-party and performance at Thye Hua Kwan Senior Activity Centre<br>Aesthetic Outing: SCO performance at Botanic Garden<br>Aesthetic Outing: NYPCO<br>Sports Education Programme: Inline Skating</td>
+    <td>SYF Arts Presentation<br><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=WUGmDuuWarI">SYF21 - Mixed Ensemble Performance</a><br><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=CUk9FP7JPf0">SYF21 - Sectional Ensemble Performance</a><br>School Performance: CCA Exhibition<br>Chinese Ensembles Nite: Performance for CE Parents and Alumni<br>School Performance: Mayflower Speech Day<br>School Performance: Mayflower Open House<br>External Performance: KBCC Mid-Autumn Celebration at Mayflower Mall<br>CO Music Exchange with Greenridge Secondary and Maris Stella High School<br>Value-in-action Project: Flag Day for Kidney Dialysis Foundation<br>Value-in-action Project: Tea-party and performance at Thye Hua Kwan Senior Activity Centre<br>Aesthetic Outing: SCO performance at Botanic Garden<br>Aesthetic Outing: NYPCO<br>Sports Education Programme: Inline Skating</td>
     <td>Distinction - CO (Sectional)<br><br>Distinction - CO (mixed ensemble)</td>
   </tr>
 </tbody>
@@ -48,3 +48,8 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 |:---:	|:---:	|:---:	|
 | Tuesdays 	| 3 pm - 6 pm 	| CO Room 	|
 | Thursdays 	| 3 pm - 6 pm 	| CO Room 	|
+
+Photos
+------
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIzJlll1fwp77WGLDpkEt_-f16SqR2a_82CEJUukQSQ9n5eo4GQxtyxEuOFbudxOSagAAcaRx39ubL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
