@@ -28,9 +28,9 @@ Mayflower Drama Club aims to:
 | 2019 | SEP - Archery - Aug | \- |
 | 2019 | School Performance - Speech Day Skit - Aug | \- |
 | 2019 | VIA @ PCF Sparkletots - Aug | \- |
-| 2017 | SYF Presentation | Certificate of Distinction & Accomplishment |
+| 2017 | SYF Presentation | Certificate of Distinction &amp; Accomplishment |
 | 2015 | SYF Presentation | Certificate of Accomplishment |
-| 2013 | SYF Presentation | Certificate of Distinction  |
+| 2013 | SYF Presentation | Certificate of Distinction&nbsp; |
 
 ### Staff and Committee Members 2021
 
@@ -40,4 +40,15 @@ Mayflower Drama Club aims to:
 | President 	| Naamsi Jeslani 	|
 | Vice President 	| Amanda Fang Ning 	|
 | Events / Welfare Officer 	| Xavier Saw You En 	|
+
+### Training Schedule
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Tuesdays | 3 pm – 6 pm | Drama Cabin |
+| Thursdays | 3 pm – 6 pm | Drama Cabin |
+
+Photos
+------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDtlpCHePWw4UaTB7E0s1Wzl6Zo_IFBifHZJWgm-f3P5MqR6RH1CTKk8qlK212ltapWkNtEOYMKBgo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
