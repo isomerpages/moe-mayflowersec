@@ -88,3 +88,7 @@ Kareender Kaur D/O Bhupinder Singh (Sec 4I)
 
 **Important Note:**   
 All members who have no scheduled supplementary or compulsory remedial lessons must report for preparation and warm-up earlier.
+
+Video
+-----
+(video to be uploaded to youtube)
