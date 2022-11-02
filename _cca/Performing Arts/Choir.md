@@ -180,3 +180,19 @@ Want to hear more about our Choir? Check out this playlist and hear it straight 
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/VG1wPOfA0RU?list=PL-0txKiPyr5v6V3vAAp_wicIK3pzV2ff2" title="MFSS Choir: Experience Choir Redefined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Photo Gallery
+
+![](/images/sota.jpg)
+**SYF Arts Presentation 2019** where our Choir was awarded Certificate of Distinction for the 3rd consecutive year.
+
+![](/images/choir1.jpg)
+**Limelight 2019:** The Choir's mandatory photoshoot before the concert begins.
+
+![](/images/choir2.jpg)
+**Limelight 2019** where the Choir not only fills the hall with music, but also transforms the stage visually with cellophane lanterns to suit the theme of the music.
+
+![](/images/choir3.jpg)
+**Lion Mums: Crash Landing on Schools – Episode 7.** COVID-19 has not been friendly to anyone, forcing most activities into Home-Based Learning and eCCAs, but that did not waver the Choir's spirits!
+
+![](/images/choir4.jpg)
+**Farewell Seniors 2020.** Despite saying farewell to our seniors, the Choir is always a family that sings together, firm yet fun.
