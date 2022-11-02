@@ -106,3 +106,12 @@ Mayflower Bowling aims to develop each bowler to be a leader equipped with the r
 | Teachers-in-Charge 	| CCA Leaders & Executive Committee Members 2020 	|
 |:---:	|:---:	|
 | Mr Jeremy Ong Zhen Wei<br><br>Ms Allycia Teo Wan Ngee<br><br>Ms Nadia Binte Sharin<br>Dr Tang Suyun 	| Captain: Tan Kai Shen<br>Vice-Captain: Naomi Ho Ai Hui 	|
+
+### Training Schedule
+
+| Day | Assemble Time | Training Time | Dismissal Time from school | Venue |
+| --- | --- | --- | --- | --- |
+| Tuesdays | 3 pm | 3.30 - 5.30 pm | 6 pm | Orchid Country Club |
+| Thursdays | 3 pm | 3.30 - 5.30 pm | 6 pm | Orchid Country Club |
+
+\*Transport will be provided
