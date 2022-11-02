@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA.md
+      - "LLP: Aesthetics/LLP: Aesthetics.md"
       - "LLP: Aesthetics/.keep"
       - Performing Arts/.keep
       - Sports/.keep
