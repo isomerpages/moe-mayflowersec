@@ -3,3 +3,13 @@ title: Values in Action
 permalink: /student-development/values-in-action/permalink/
 description: ""
 ---
+Values-in-Action
+================
+
+Our Committee, Values-in-Action (VIA) inculcates the virtue of generous spirit in our students and develop our Mayflowerians into one who respects and celebrates differences in others, and continually contributes back to society. Throughout their Mayflower journey, they will embark on level-wide VIA initiatives to contribute to the society progressively. Despite the minimal interactions with the public due to the restrictions brought about by Covid-19, the committee adapted and made slight adjustments to the program. To show their appreciation and support, our Secondary 1 and 2 students prepared and customized Care Packs Hampers for our Migrant Workers Community and Staff at NUH Department of Laboratory Medicine as part of Community @ Heart. Our Secondary 3 students selected a cause for their advocacy project as part of Service @ Heart and our Secondary 4/5 collaborated with Kebun Baru CC as part of Community @ Heart and prepared Care Packs for our elderly and residents staying at the nearby rental blocks. Beyond the cohort VIA projects, students were also given opportunities to be Community Champions where they provide support for school National Education (NE) events and initiate and carry out local or overseas VIA projects.
+
+Mayflower Satellite Partnership started in 2018 with our friends from Pathlight School. Our Vision of “Inclusivity & Friendship” inspires us to tap on this opportunity to build an inclusive school community with a generous spirit, providing an authentic context for the practice of school values. Beyond providing an inclusive school environment, both schools have also strived for a higher goal of forging lasting friendships through providing opportunities for students from both schools to work in teams on projects together. This year was no different despite the restrictions on inter-mingling due to Covid-19, our Secondary 1 Endeavour interacted and shared their National Day celebrations with some Pathlight students over digital platform through Google Meet.
+
+Video
+-----
+<iframe width="835" height="450" src="https://www.youtube.com/embed/iLRJHFhYi98" title="Mayflower Sec: Value In Action 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
