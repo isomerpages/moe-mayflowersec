@@ -32,3 +32,12 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 </tbody>
 </table>
 
+### Staff and Committee Members 2021
+
+| Teachers-in-Charge 	| Mrs Jasmine Chan<br>Mr David Pang<br>Mr Tan Wee Tiong<br>Mrs Evelyn Ng 	|
+|:---:	|:---:	|
+| Conductor 	| Mr Mike Chiang 	|
+| Instructors 	| Ms Jessica Lu<br>Mdm Helen Chen<br>Mr Wu Xiang Yang 	|
+| President 	| Tan Yi Xin Cynthia (4A) 	|
+| Vice President 1 	| Wong Wen Hui, Megan (4E) 	|
+| Vice President 2 	| Lim Jing Yue (3E) 	|
