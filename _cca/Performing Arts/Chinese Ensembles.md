@@ -41,3 +41,10 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 | President 	| Tan Yi Xin Cynthia (4A) 	|
 | Vice President 1 	| Wong Wen Hui, Megan (4E) 	|
 | Vice President 2 	| Lim Jing Yue (3E) 	|
+
+### Training Schedule
+
+| Day 	| Time 	| Venue 	|
+|:---:	|:---:	|:---:	|
+| Tuesdays 	| 3 pm - 6 pm 	| CO Room 	|
+| Thursdays 	| 3 pm - 6 pm 	| CO Room 	|
