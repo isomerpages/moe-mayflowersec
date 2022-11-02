@@ -24,8 +24,8 @@ The Modern Dance Club specialises in contemporary dance which incorporates eleme
 | --- | --- | --- |
 | 2021 | SYF Arts Presentation | Certificate of Distinction |
 | 2019 | Overseas Cultural and Immersion Programme to Thailand | \- |
-| 2019 | 38th Speech Day | Participation |
-| 2019 | Mayflower Dance Camp | \-  |
+| 2019 | 38th&nbsp;Speech Day | Participation |
+| 2019 | Mayflower Dance Camp | \-&nbsp; |
 | 2019 | SYF Arts Presentation | Certificate of Accomplishment |
 | 2018 | Mayflower Dance Camp | \- |
 | 2018 | 2 Day Dance Exchange RE:define | Participation |
@@ -64,4 +64,12 @@ Ms Serene Tung
 | Day | Time | Venue |
 | --- | --- | --- |
 | Tuesdays | 1500 - 1800 | Dance Studio |
-|     Thursdays | 1500 - 1800 | Hall |
+| &nbsp; &nbsp; Thursdays | 1500 - 1800 | Hall |
+
+Photos
+------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+Video
+-----
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Modern Dance 2021" src="https://www.youtube.com/embed/6dVqB4-_WdQ" height="480" width="835"></iframe>
