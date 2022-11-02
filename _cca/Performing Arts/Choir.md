@@ -153,3 +153,30 @@ Photo & Videos
 The highlights of the choir's journey through these years.
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/fIqlJYOw5TE" title="A family that sings together, firm yet fun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Why MF Choir?**
+
+Wishing to join the choir family, don't hesitate anymore. Come down for an audition on the 11th, 13th and 18th of Jan from 3:30 pm to 5:00 pm.
+
+<iframe width="835" height="470" src="https://www.youtube.com/embed/2-YwRpcStiI" title="Why MF Choir?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Our choir's music to the world in light of COVID-19**
+
+In light of COVID-19, livelihoods of many are affected, be it as patients and family members, healthcare workers overwhelmed by alarming numbers in the hospitals, contact tracing officials, governments, freelancers, businesses, people who need to cross borders daily to make a living, and the list goes on.
+
+In these turbulent times, we’d like to let you know, in our own little way, we are all in this together – you do not walk alone.
+
+<iframe width="835" height="470" src="https://www.youtube.com/embed/aCQngpKFGjE" title="You Do Not Walk Alone - Elaine Hagenberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Interviewing Our Alumni**
+
+Hear the stories from some of our recently graduated choristers from the class of 2019, who are studying in Eunoia Junior College, Raffles Institution (Junior College), and Saint Andrew's Junior College as JC1 students in 2020. Whilst their paths now diverge, what they have gone through in the 4 years together has shaped them into who they are today.
+
+<iframe width="835" height="470" src="https://www.youtube.com/embed/04yX8TmsEMI" title="Interviewing Our Alumni - Class of 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Interviews and Highlights Playlist**
+
+Want to hear more about our Choir? Check out this playlist and hear it straight from our members from past to present!
+
+<iframe width="835" height="470" src="https://www.youtube.com/embed/VG1wPOfA0RU?list=PL-0txKiPyr5v6V3vAAp_wicIK3pzV2ff2" title="MFSS Choir: Experience Choir Redefined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
