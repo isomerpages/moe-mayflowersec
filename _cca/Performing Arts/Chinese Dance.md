@@ -63,3 +63,14 @@ In 2020, we took part in performances such as our annual CCA Showcase, Chinese N
 |  	| Annual Chinese New Year performance 	| - 	|
 |  	| Bowling - School Enrichment Programme (SEP) 	| - 	|
 |  	| Mayflower Sec Aesthetics production - Lion King 	| - 	|
+
+### Staff and Committee Members
+
+| Teachers-in-Charge 	| Mrs Neo Peck Hoon<br>Mdm Liu Xuefang 	|
+|:---:	|:---:	|
+| Coaches / Instructors 	| Ms Shen Xiao 	|
+| President 	| Ler Yining (3I) 	|
+| Vice President (Development) 	| Denise Lim (3A) 	|
+| Vice President (Discipline) 	| Chia Zi Ying Genevie (3A) 	|
+| Vice President (Operations) 	| Cleopatra Yong Feng Jun (3D) 	|
+| Publicity 	| Tjong Jia Xin (3E) 	|
