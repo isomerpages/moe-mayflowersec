@@ -136,3 +136,20 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
   </tr>
 </tbody>
 </table>
+
+### Training Schedule
+
+| DATE | TIME | VENUE |
+| --- | --- | --- |
+| Tuesdays | 1500 - 1800 | Theatrette |
+| Thursdays | 1500 - 1800 | Theatrette |
+
+Photo & Videos
+--------------
+
+### Videos
+
+**A family that sings together, firm yet fun**   
+The highlights of the choir's journey through these years.
+
+<iframe width="835" height="470" src="https://www.youtube.com/embed/fIqlJYOw5TE" title="A family that sings together, firm yet fun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
