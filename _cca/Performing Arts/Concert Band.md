@@ -71,3 +71,20 @@ Mdm Dzarina Bte Tarih
 Mr Tan Aik Koon (Conductor/Instructor)  
 Mr Png Boon Teck (Assistant Instructor)  
 Mr Chua Leng Heng (Section Tutor – Percussion)
+
+### Band/Drum Majors
+
+**2021-2022**  
+Clarisse Teo (Sec 4A)  
+Kua Ze Yin (Sec 4J)  
+Kareender Kaur D/O Bhupinder Singh (Sec 4I)
+
+### Training Schedule
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Tuesdays | 3pm - 6pm | Music Room, Forum, CPA Labs |
+| Thursdays | 3pm - 6pm | Music Room, Forum, CPA Labs |
+
+**Important Note:**   
+All members who have no scheduled supplementary or compulsory remedial lessons must report for preparation and warm-up earlier.
