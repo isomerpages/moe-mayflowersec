@@ -1,5 +1,4 @@
 collections:
   curriculum:
     output: true
-    order:
-      - Curriculum/.keep
+    order: []
