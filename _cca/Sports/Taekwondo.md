@@ -69,3 +69,11 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
   </tr>
 </tbody>
 </table>
+
+### CCA Teachers in Charge
+
+
+| Teachers-in-charge 	| CCA Leaders & Executive Committee Members 2020 	|
+|:---:	|:---:	|
+| Mr Tan Jian Xun (i/c)<br><br>Mdm Sharon Goh<br>Mdm Patricia Kwek<br>Ms Jeevana Rani 	| Won Jee Hee (3I) : Captain<br>Ashley Koh (3B): Vice- Captain 	|
+
