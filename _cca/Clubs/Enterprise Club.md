@@ -87,3 +87,11 @@ Students learn to manage funds wisely through events or selling of their own pro
 | Tuesdays 	| 1400 - 1700  	| Enterprise Café<br>(Canteen)  	| Weekly sales<br>(Depending on teams)  	|
 | Thursdays 	| 1500 - 1800 	| Computer Lab 3 	| Events / Workshops (All) 	|
 |  Fridays 	| 1300 - 1600  	| Enterprise Café<br>(Canteen) 	|  Weekly sales<br>(Depending on teams) 	|
+
+Photos
+------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-bf2Wxmb0qFsSptykFQgh6KELA2LTR3aiahE9MPj08qqMpgMhMPBXCnvfTeeiYMJ7NOLHv2x01TCJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+Video
+-----
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Enterprise open house video" src="https://www.youtube.com/embed/HtMZBYV2DeM" height="315" width="835"></iframe>
