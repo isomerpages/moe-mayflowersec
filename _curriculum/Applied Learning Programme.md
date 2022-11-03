@@ -36,3 +36,4 @@ Providing opportunities for students to practise the skills they learnt is somet
 
 We also appoint 2 Malay Language students as Malay Language Ambassadors for Rakan Bahasa every year. Through this exposure, our Malay Language Ambassadors are able to spread their love for the Malay Language by being role models to their family and peers. They are also able to enrich the lives of others through creative expression and usage of the Malay Language. Our Malay Ambassadors are given opportunities to undergo confidence-building and public speaking skills training. With these, they are given opportunities in school to promote activities related to the Malay Language such as Malay Short Stories trailer showcase, Mother Tongue Fortnight activities and many more.
 
+![](/images/alp3.png)
