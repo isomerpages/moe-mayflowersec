@@ -120,3 +120,22 @@ In Infocomm Club, we equip students with IT skills and knowledge and broaden the
   </tr>
 </tbody>
 </table>
+
+### Staff In-charge and Executive Committee Members 2020
+
+| Teachers in-charge 	| CCA Leaders 2021 	|
+|:---:	|:---:	|
+| Mdm Chelsea Yam (IC)<br>Mdm Noor Ezan Bte Khatib<br>Ms Wong Yin Sung 	| Chairperson<br>Felix Chua Zheng Yong (3F)<br><br>Vice - Chairperson<br>Lee Jia Le (3E) 	|
+
+### Training Schedule
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Tuesdays | 3.30 pm – 5.30 pm | Comp Lab 2 |
+| Thursdays | 3.30 pm – 5.30 pm | Comp Lab 2 |
+
+Photos
+------
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZRE7LFVPpwUk8kAGXGvflp0_tq6kzQR616KXgdYYdByVgYsYan5_wczwI6_94QQE9WKURjDiiXCFi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
