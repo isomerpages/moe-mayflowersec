@@ -45,3 +45,12 @@ Full Subject Based Banding \[FSBB\]
 Mayflower is one of the schools that have embarked on FSBB. Starting this year, our Secondary One students were placed in mixed classrooms; students taking subjects at the various streams \[Express/NA/NT\] shared the same form class. These students were taught common curriculum subjects together \[PE, Art, Design & Technology, Food & Nutrition and Citizenship and Character Education\] while they were still banded into different classes for other subjects like English, Mother Tongue, Math, Science and the Humanities depending on the level at which they were offering these subjects. This has allowed for better integration among the students and a higher level of motivation as students were not labelled according to a stream but instead were recognized for their strengths in the different subjects. Having gone through the FSBB for one year, our school is better equipped to handle the changes that will come with assessment in the near future as streams are phased out completely.
 
 Click here to find out more about FSBB.
+
+National Digitalisation Literacy Programme – \[NDLP\]
+-----------------------------------------------------
+
+<img src="/images/ndlp.png" style="width:280px;height:180px;margin-left:1px;" align = "left">
+
+The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with digital literacies to be future-ready. As part of NDLP, MOE announced in 2020 that every secondary school student will own a school-prescribed personal learning device (PLD) by the end-2021. Other than to support the development of digital literacies, the NDLP also aims to enhance teaching and learning while supporting self-directed and collaborative learning.
+
+Click [here] to find out more about NDLP.
