@@ -73,7 +73,21 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 ### CCA Teachers in Charge
 
 
-| Teachers-in-charge 	| CCA Leaders & Executive Committee Members 2020 	|
+| Teachers-in-charge 	| CCA Leaders &amp; Executive Committee Members 2020 	|
 |:---:	|:---:	|
 | Mr Tan Jian Xun (i/c)<br><br>Mdm Sharon Goh<br>Mdm Patricia Kwek<br>Ms Jeevana Rani 	| Won Jee Hee (3I) : Captain<br>Ashley Koh (3B): Vice- Captain 	|
 
+### Training Schedule
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Tuesdays | 1500 hr | Sheltered Court |
+| Thursdays | 1500 hr | Sheltered Court |
+
+Video
+-----
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Taekwondo Direct School Admission 2020" src="https://www.youtube.com/embed/SQlv797ilog" height="450" width="835"></iframe>
+
+Photos
+------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvlIuD0QQlfTBm_sbkzn3qp9ofgvkStQqx6W2TyyqMdVAbL_N7Y2n1jJQM6nNWj_bRgECR15X6pEvt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
