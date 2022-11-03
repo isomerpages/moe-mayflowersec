@@ -98,4 +98,4 @@ Better Scouting for more young People
 
 Photos
 ------
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSv49z2FqGOBJxBeuCX052Mpgs59HvKdNLrTCVcyLh0YdjAvpMHAqoSKcvFMaINJwJRmf52Uy5Iko2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
