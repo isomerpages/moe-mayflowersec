@@ -89,3 +89,13 @@ Better Scouting for more young People
 | Scout Leaders 	| Ng Ying Jie<br>Jabez Wong<br>Hazel Cai 	|
 | Senior Patrol Leader 	| Avis Chan<br>Koh Jing-wei 	|
 | Patrol Leaders 	| Foo Kok Yeow<br>Nabil Latifah Sumamar<br>Finn Tan<br>Nancy Liau 	|
+
+### Training Schedule
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Saturdays | 8 am to 2.00 pm | Parade Square/ Canteen |
+
+Photos
+------
+
