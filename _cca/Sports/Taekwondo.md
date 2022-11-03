@@ -4,3 +4,68 @@ permalink: /cca/Sports/taekwondo/permalink/
 description: ""
 third_nav_title: Sports
 ---
+Taekwondo
+=========
+
+Aim High, Kick High
+-------------------
+
+Taekwondo is a martial art where the focus is on the execution of kicks. Students learn various techniques in kicking and take grading tests to move up the belt levels. By the time the students reach Secondary 4, they would have achieved a black belt. They also have the chance to take part in annual Inter-school Competition as well as perform Taekwondo Demonstration and aerobics during school events.
+
+### Key events and Achievement
+
+<table>
+<thead>
+  <tr>
+    <th>Year</th>
+    <th>Event name</th>
+    <th>Award / Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2021</td>
+    <td>National School Games National B Girls Poomsae</td>
+    <td>4th Overall Placing</td>
+  </tr>
+  <tr>
+    <td rowspan="4">2019</td>
+    <td>National Inter-school Taekwondo Championships - C Division Girls Kyorugi</td>
+    <td>2nd Overall Placing</td>
+  </tr>
+  <tr>
+    <td>National Inter-school Taekwondo Championships - B Division Girls Kyorugi</td>
+    <td>4th Overall Placing</td>
+  </tr>
+  <tr>
+    <td>National Inter-school Taekwondo Championships - B Division Boys Kyorugi</td>
+    <td>4th Overall Placing</td>
+  </tr>
+  <tr>
+    <td>National Inter-school Taekwondo Championships - B Division Girls Poomsae</td>
+    <td>4th Overall Placing</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2018</td>
+    <td>National Inter-school Taekwondo Championships - B Division Girls Kyorugi</td>
+    <td>4th Overall Placing</td>
+  </tr>
+  <tr>
+    <td>National Inter-school Taekwondo Championships - B Division Boys Kyorugi</td>
+    <td>3rd Overall Placing</td>
+  </tr>
+  <tr>
+    <td rowspan="3">2017</td>
+    <td>National Inter-school Taekwondo Championships - C Division Girls Poomsae</td>
+    <td>4th Overall Placing</td>
+  </tr>
+  <tr>
+    <td>National Inter-school Taekwondo Championships - B Division Girls Kyorugi</td>
+    <td>4th Overall Placing</td>
+  </tr>
+  <tr>
+    <td>National Inter-school Taekwondo Championships - B Division Boys Kyorugi</td>
+    <td>3rd Overall Placing</td>
+  </tr>
+</tbody>
+</table>
