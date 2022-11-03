@@ -35,3 +35,7 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 Photos
 ------
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIGTgeo_DpQGzoCcvpQgxkmrU_DS_AcUlhz90vWp0le4H3Kq3d9-StOPDYWk17p24D-5p-4VkTU7t5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+Video
+-----
+<iframe width="836" height="470" src="https://www.youtube.com/embed/W7IowZGW0DI" title="Mayflower Secondary School - NCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
