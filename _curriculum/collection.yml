@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/Mathematics.md
       - Departments/2020 National Writing Competition.md
       - Departments/Mother Tongue.md
       - Departments/English & Literature.md
