@@ -138,4 +138,3 @@ Photos
 ------
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZRE7LFVPpwUk8kAGXGvflp0_tq6kzQR616KXgdYYdByVgYsYan5_wczwI6_94QQE9WKURjDiiXCFi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
