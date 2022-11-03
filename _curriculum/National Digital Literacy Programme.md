@@ -91,3 +91,15 @@ To support you in keeping your child safe online, you may refer to these resourc
 *   [http://sure.nlb.gov.sg/](http://sure.nlb.gov.sg/)
 *   [http://help123.sg/](http://help123.sg/)
 
+
+[Parent Handbook I on 1_1 Learning.pdf](/files/ndlp3.pdf)
+
+### Device Management Application (DMA) - Mobile Guardian
+
+Device management application (DMA) software will be installed on your child’s device to provide a safe learning experience for your child, and prevent misuse of the device.
+
+The DMA will be funded by MOE and will be uninstalled from the device when your child/ward graduates or leaves the school. The purpose of DMA are three fold as follows:
+
+| Classroom Management | Mobile Device Management | Usage Management |
+| --- | --- | --- |
+| To enable teachers to actively monitor and control the students' use of the PLD during lesson time to improve student management and deliver effective teaching. | To enable remote deployment of teaching and learning applications and security patches. | To enable the school to address cyber wellness concerns, such as excessive and inappropriate use of the PLD and manage prolonged use of the PLD to reduce stress on the eyes. |
