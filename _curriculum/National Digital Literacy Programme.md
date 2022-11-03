@@ -47,3 +47,47 @@ They will use their PLDs to access platforms such as the Student Learning Space 
 ### Digital Applications for Students
 
 As part of the NDLP, schools will progressively roll out ICT applications that are vital to students’ educational journey. These applications will form an integral part of the applications installed in the PLDs:
+![](/images/ndlp1.png)
+
+Supporting Students in the Safe and Effective Use of PLDs
+---------------------------------------------------------
+
+The school has put measures in place to enable a safe and conducive learning environment for students to use PLDs for teaching and learning as follows:
+
+1.  School and classroom routines
+2.  Cyber Wellness Education
+3.  Device Management Application (DMA)
+
+### Classroom Management and Routines
+
+![](/images/ndlp2.png)
+
+### Cyber Wellness Education
+
+MOE has enhanced Character and Citizenship Education (CCE 2021) to significantly incorporate cyber wellness to educate students on the demands of NDLP.
+
+Topics covered in the Cyber Wellness lessons include:
+
+*   Cyber Use
+*   Cyber Identity
+*   Cyber Relationships
+*   Cyber Citizenship
+*   Cyber Ethics
+
+  
+As parents, you can also play a part by
+
+*   modelling good digital habits for your child,
+*   knowing your child well, and have conversations with your child about safe and responsible use of technology,
+*   setting ground rules for internet use,
+*   navigating the internet together with your child to understand their usage.
+
+  
+To support you in keeping your child safe online, you may refer to these resources:
+
+*   [http://go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
+*   [https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/)
+*   [http://go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
+*   [http://sure.nlb.gov.sg/](http://sure.nlb.gov.sg/)
+*   [http://help123.sg/](http://help123.sg/)
+
