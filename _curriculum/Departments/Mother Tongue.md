@@ -15,8 +15,8 @@ Effective Global Communicators rooted in Values with a Love for the Languages an
 Department Mission
 ------------------
 
-To nurture **Active Learners, Proficient Users** anchored in values who embrace their ethnic identities.  
-To develop **Forward Thinkers** with a global outlook and appreciation for unity in diversity
+To nurture&nbsp;**Active Learners, Proficient Users**&nbsp;anchored in values who embrace their ethnic identities.  
+To develop&nbsp;**Forward Thinkers**&nbsp;with a global outlook and appreciation for unity in diversity
 
   
 
@@ -24,9 +24,9 @@ It is important for students to not only learn the Mother Tongue Languages but a
 
 | The Team |
 | --- |
-| **HOD:** Ms Eileen Chew  
-**Lead Teacher:** Mdm Wang Xueping  
-**Level Head:** Mdm Tan Lay Teng |
+| **HOD:**&nbsp;Ms Eileen Chew  
+**Lead Teacher:**&nbsp;Mdm Wang Xueping  
+**Level Head:**&nbsp;Mdm Tan Lay Teng |
 
 | Chinese Unit 	| Malay Unit 	|
 |:---:	|:---:	|
@@ -57,7 +57,7 @@ In keeping with the MF tradition, CNY was celebrated with senior citizens from A
 
 ### ALP Tier 2 Programmes \[Chinese Language\]
 
-This year, Sec 1 & 2 HCL students attended the training for recital skills for a total of 6 sessions. They learnt important skills such as voice projection, using expressive emotions, and body language for text recital. Two of our teams and two students in the Individual category received the Silver Award in the 3rd Text Recital Competition.
+This year, Sec 1 &amp; 2 HCL students attended the training for recital skills for a total of 6 sessions. They learnt important skills such as voice projection, using expressive emotions, and body language for text recital. Two of our teams and two students in the Individual category received the Silver Award in the 3rd Text Recital Competition.
 
 To strengthen students’ critical thinking skills and develop their interest in debate, our students trained to participate in the National Secondary Schools Bilingual Debate Competition 2020. In the process, the learnt to critically craft their own arguments detect loopholes in their opponents’ arguments.
 
@@ -68,7 +68,9 @@ In July and August 2020, Sec 3 Express and NA Malay students took part in a 7 we
 National Writing Competition
 ----------------------------
 
-<img src="/images/mt1.jpg" style="width:183px;height:240px;margin-left:1px;" align = "left">
+<img align="left" style="width:183px;height:240px;margin-left:1px;" src="/images/mt1.jpg">
 
 2020, Our Story of Battling the Pandemic" National Writing Competition for Primary and Secondary schools - We are proud to showcase the published works of our student Fu Yongjia, who has obtained 优胜奖 with her article 《与病毒的一场恶战》。 Our Lead Teacher, Mdm Wang Xueping also wrote an article 《习惯成自然》 which is published in the book too. Her passion for teaching is inspirational as she wrote about how she and her students cope and thrive with Home-based Learning.   
 [Read their essay...](https://mayflowersec.moe.edu.sg/curriculum/departments/mother-tongue/2020-national-writing-competition)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8ErjBjqSHq8QbToucwt7JsPwCxvUDKXpSKzSpIERSgchRacI-azzhdz8xlXkj4RJNskDiJi65Ww9e/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
