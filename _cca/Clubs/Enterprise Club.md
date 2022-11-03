@@ -79,3 +79,11 @@ Students learn to manage funds wisely through events or selling of their own pro
 | Vice Chairperson 	| Lai Ying Xuan (3E) 	|
 | Manager 	| Edlyn Sng (3A)<br>Joylee Tan (3D)<br>Shermaine Soon (3D) 	|
 
+### Training Schedule
+
+| Day 	| Time 	| Venue 	| Purpose 	|
+|:---:	|:---:	|:---:	|:---:	|
+| Mondays 	| 1400 - 1700 	| Enterprise Café<br>(Canteen) 	| Weekly sales<br>(Depending on teams) 	|
+| Tuesdays 	| 1400 - 1700  	| Enterprise Café<br>(Canteen)  	| Weekly sales<br>(Depending on teams)  	|
+| Thursdays 	| 1500 - 1800 	| Computer Lab 3 	| Events / Workshops (All) 	|
+|  Fridays 	| 1300 - 1600  	| Enterprise Café<br>(Canteen) 	|  Weekly sales<br>(Depending on teams) 	|
