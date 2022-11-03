@@ -4,16 +4,5 @@ links:
     collection: about-us
   - title: student development
     collection: student-development
-  - title: cca
-    url: /permalink
-    sublinks:
-      - title: "LLP: Aesthetics"
-        url: /permalink
-      - title: Performing Arts
-        url: /permalink
-      - title: Sports
-        url: /permalink
-      - title: Uniformed Groups
-        url: /permalink
-      - title: Sports
-        url: /permalink
+  - title: "CCA "
+    collection: cca
