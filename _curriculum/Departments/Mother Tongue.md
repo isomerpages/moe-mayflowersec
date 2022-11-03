@@ -73,3 +73,4 @@ National Writing Competition
 2020, Our Story of Battling the Pandemic" National Writing Competition for Primary and Secondary schools - We are proud to showcase the published works of our student Fu Yongjia, who has obtained 优胜奖 with her article 《与病毒的一场恶战》。 Our Lead Teacher, Mdm Wang Xueping also wrote an article 《习惯成自然》 which is published in the book too. Her passion for teaching is inspirational as she wrote about how she and her students cope and thrive with Home-based Learning.
 
 [Read their essay...](https://mayflowersec.moe.edu.sg/curriculum/departments/mother-tongue/2020-national-writing-competition)
+
