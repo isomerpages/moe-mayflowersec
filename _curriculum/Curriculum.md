@@ -54,3 +54,10 @@ National Digitalisation Literacy Programme – \[NDLP\]
 The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with digital literacies to be future-ready. As part of NDLP, MOE announced in 2020 that every secondary school student will own a school-prescribed personal learning device (PLD) by the end-2021. Other than to support the development of digital literacies, the NDLP also aims to enhance teaching and learning while supporting self-directed and collaborative learning.
 
 Click [here] to find out more about NDLP.
+
+Dedicated and capable staff of teachers
+---------------------------------------
+
+All of these changes being made would not be possible without our dedicated team of teachers and staff. As the role of teachers is to be a guide now instead of an expert spewing knowledge, teachers at Mayflower has been investing a lot of time and effort on learning how to maximise learning in a totally different setting. The goal is to turn classes where students are learning how to learn and discover knowledge with a teacher's coaching guidance. Find out how this is done by the different departments by clicking on the different departments highlighted below.
+
+Click on the departments below to find out more about how the various subjects are taught at Mayflower.
