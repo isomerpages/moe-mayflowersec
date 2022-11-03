@@ -21,12 +21,17 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 
 ### Events and Achievements
 
-| Year 	| Event Name 	| Award / Position 	|
-|:---:	|:---:	|:---:	|
-| 2021 	| NCC Unit Recognition 	| Distinction 	|
-| 2019  	| NCC Unit Recognition<br><br>NCC Leadership Camps<br><br>Overseas Inter-UG VIA at Pattaya, Thailand<br><br>Army-NCC Badge Test<br><br>UG SG Secure Programme  	| Distinction<br><br>Certificate of Participation<br><br>Certificate of Participation  	|
-|  2018 	| NCC Unit Recognition<br>NCC Leadership Camps<br>Overseas Inter-UG VIA at Pattaya, Thailand<br>Army - NCC Badge Test 	| Distinction<br><br><br>Certificate of Participation  	|
-|  2017 	| NCC Best Unit Competition<br>NCC Leadership Camps<br>Overseas Inter-UG VIA at Pattaya, Thailand  <br>Army - NCC Badge Test 	| Gold<br><br>Certificate of Participation  	|
+| Teachers-in-Charge 	| Mr Tham Wen Xi (i/c)<br>Mr Naguib Ngadnan<br><br>Mr Timothy Chen<br>Mr Tan Kok Meng 	|
+|:---:	|:---:	|
+| Unit Sergeant Major (USM) 	| Chua Yi Xian (4F) 	|
+| Assistant Sergeant Major (ASM) 	| Yeo Ze Khai (4E) 	|
 
-### Staff and Committee Members
+### Training Schedule
 
+| Day | Time | Venue |
+| --- | --- | --- |
+| Tuesdays | 3 pm - 6 pm | Between Block D and Block F |
+
+Photos
+------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIGTgeo_DpQGzoCcvpQgxkmrU_DS_AcUlhz90vWp0le4H3Kq3d9-StOPDYWk17p24D-5p-4VkTU7t5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
