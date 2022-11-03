@@ -27,8 +27,24 @@ The MFSS Table Tennis Team, however, is united by each individual’s love for t
 
 ### CCA In-charge
 
-| Teachers-in-charge 	| CCA Leaders 	|
-|:---:	|:---:	|
-| Mdm Su Xiaoling<br>Ms Alethea Goei<br>Mr Fam Tong Siang 	| Yeo Yao Hao (3J) - Captain (Boys)<br>Wong Chiau Yee (3A) - Captain (Girls)<br>Ryan Wu (2D) / Sean Qian Ting (3E) - Vice-Captain<br>Ivan Sow (3A) / Jasmine Liong (2F) - Secretary<br>Ethan Ng (3B) / Tryphena Chng (3E) - Physical Training<br>Remus (2F) / Joby Ang (3J) - Logistic 	|
-| Coaches / Instructors 	|  	|
-| Mr Lim Wee Tiong<br>Mr Ten Siong 	|  	|
+<table>
+<thead>
+  <tr>
+    <th>Teachers-in-charge</th>
+    <th>CCA Leaders</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mdm Su Xiaoling<br>Ms Alethea Goei<br>Mr Fam Tong Siang</td>
+    <td rowspan="3">Yeo Yao Hao (3J) - Captain (Boys)<br>Wong Chiau Yee (3A) - Captain (Girls)<br>Ryan Wu (2D) / Sean Qian Ting (3E) - Vice-Captain<br>Ivan Sow (3A) / Jasmine Liong (2F) - Secretary<br>Ethan Ng (3B) / Tryphena Chng (3E) - Physical Training<br>Remus (2F) / Joby Ang (3J) - Logistic</td>
+  </tr>
+  <tr>
+    <td>Coaches / Instructors</td>
+  </tr>
+  <tr>
+    <td>Mr Lim Wee Tiong<br>Mr Ten Siong</td>
+  </tr>
+</tbody>
+</table>
+
