@@ -4,13 +4,13 @@ permalink: /curriculum/Departments/pe-and-music/permalink/
 description: ""
 third_nav_title: Departments
 ---
-Physical Education & Music
+Physical Education &amp; Music
 ==========================
-**Physical Education & Music Department**
+**Physical Education &amp; Music Department**
 
 ### The PE Team
 
-Mr Eric Wong Yih Chon (HOD PE & CCA)  
+Mr Eric Wong Yih Chon (HOD PE &amp; CCA)  
 Mrs Lucinda Leong (Subject Head CCA)  
 Mr Alvin Yap Chien Shen  
 Mr Edwin Goh Keng Lim  
@@ -44,3 +44,8 @@ Through performance experiences with musical instruments such as the ukulele, ke
 
 Photo
 -----
+
+**Music**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDEjhstz2Pme16cb7J3P92wsbRmqIOTBDseUs857bdajUN49BxkvndFECgHafjcX2O0egzOPW0INXZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+
