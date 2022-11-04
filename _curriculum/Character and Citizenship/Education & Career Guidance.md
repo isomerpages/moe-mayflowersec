@@ -17,3 +17,7 @@ Level Programmes
 | Sec 2 	| Career Fair on STEM<br>Elective Modules @ ITE Colleges 	|
 | Sec 3 	| Advanced Elective Modules @ Polytechnics<br>World Skills Learning Journey and Exhibition<br>Elective Modules @ ITE Colleges<br>Work attachments 	|
 | Sec 4/5 	| Learning Journeys to Post-Secondary Institutions<br>Portfolio Preparation Workshop for Direct Admission to Post Secondary Institutions<br>Work Attachments 	|
+
+Education & Career Guidance Info!
+---------------------------------
+![](/images/ecg1.png)
