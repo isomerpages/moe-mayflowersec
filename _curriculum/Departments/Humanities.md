@@ -54,10 +54,13 @@ Put on your VR Goggles and scan the QR code below to experience it yourself.**
 Photo
 -----
 **Active Learners**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyXMfG5juOyJlOxRPoaEsSHQw4KMsU_mLV2bRgAgCoXqmGZ54f5K9XFfmCbky5T2R3XmURvZKvSLSw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyXMfG5juOyJlOxRPoaEsSHQw4KMsU_mLV2bRgAgCoXqmGZ54f5K9XFfmCbky5T2R3XmURvZKvSLSw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **External competitions have been challenging and particularly**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9IvgGucY7kY0p6UUCf9ZDeL1-5hrwSigSoeJlLTieCWudJwLx_R_OeV6ujqjQdb6nKuQahGqXQymQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9IvgGucY7kY0p6UUCf9ZDeL1-5hrwSigSoeJlLTieCWudJwLx_R_OeV6ujqjQdb6nKuQahGqXQymQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **Learning Outdoors with fieldwork**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjba9ag3LPaJWw4QigvLuV9TNU5yW2G_LvaWswFiWTsNgPmiVIXTWDWQeYZ688Ee0GGnndn0daUfkN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjba9ag3LPaJWw4QigvLuV9TNU5yW2G_LvaWswFiWTsNgPmiVIXTWDWQeYZ688Ee0GGnndn0daUfkN/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+**Opportunities to learn from the Experts!**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxNhAaYg56u-Yprhiny3lpkfHcH9jNbgxJsKBV4F49XGhAaLW2orCgVojCW9JDFMhsfoejtvsYYGy7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
