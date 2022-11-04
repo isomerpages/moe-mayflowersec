@@ -16,3 +16,17 @@ The Science Department aims to provide students with a holistic understanding of
 The focus of the curriculum is to inculcate the spirit of scientific inquiry and nurturing our students to be the inquirer through the 5E Instructional model – Engage, Explore, Explain, Elaborate and Evaluate.
 
 The department hopes to inspire every Mayflowerian to develop a learning experience of the Sciences beyond the classroom and enhance their depth of learning in the various domains of Science.
+
+| THE SCIENCE TEAM |
+| --- |
+| **HOD (Science):**  Mdm Krishnan Malathi  
+**School Staff Developer:** Mr Ng Kok Wing  
+**Year Head (Upper Secondary):** Mr B Prem Anand |
+
+| BIOLOGY | CHEMISTRY | PHYSICS |
+| --- | --- | --- |
+| **Subject Head:** Mrs Marie Huang  
+**Senior Teacher:** Mr Ng Tze How | 
+  
+
+
