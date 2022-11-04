@@ -50,3 +50,22 @@ Components in Cyber Wellness
 | School-based CCE 	| Assembly programmes related to Cyber Wellness e.g. Cyber Wellness talks, “internet-free” day, etc. 	|
 | Counselling Programme 	| Provide intervention and support to students identified to have Cyber Wellness-related issues, and to work with parents of these students to help their children. 	|
 | Working with Parents, in collaboration with the community 	| Involve them in reinforcing Cyber Wellness principles at home, for example, advising them to set limits on usage time, set boundaries, and set a good example for their children.<br><br><br>Build up their knowledge by conducting workshops for parents or referring them to newly updated educational news, parenting features and tips on Schoolbag website to better support their child’s education<br><br><br>Leverage on School Family Education (SFE) to conduct workshops for parents on awareness of new media platforms (such as Twitter, blogs, Facebook) and the issues that impact youths in the digital age.<br><br><br>Share resources or refer parents to external professional agencies (such as Child Guidance Clinic, Institute of Mental Health, Health Promotion Board, REACH) and other helplines (such as professional counsellors, psychiatrists, psychologists) to help their children who may need additional intervention for cyber wellness issues such as addiction to online gaming. 	|
+
+Cyber Wellness Ressources for Parents
+-------------------------------------
+
+Please click the following links to access a list of guides & tips, resources and useful links to help you to reinforce Cyber Wellness education at home:
+
+*   [Tips for Parents](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
+*   [Practising Cyber Wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
+
+More Useful Tips for Parents
+----------------------------
+
+*   [Suicide Games and Online media: What should parents do?](https://www.schoolbag.edu.sg/story/suicide-games-and-online-media-what-should-parents-do)
+*   [Parents, here's the truth about online predators](https://edition.cnn.com/2017/08/03/health/online-predators-parents-partner/index.html)
+*   [Livestreaming - top tips from young people](https://saferinternet.org.uk/blog/livestreaming-top-tips-from-young-people)
+*   [Managing Digital Incidents](https://www.netsafe.org.nz/online-incidents/?fbclid=I)
+*   [Teens Talk: What Works to Stop Cyberbullying - Cyberbullying Research Center](https://cyberbullying.org/teens-talk-works-stop-cyberbullying)
+*   [Pornographic malware found in Android apps for kids](https://money.cnn.com/2018/01/12/technology/porn-ads-apps-google-android/index.html)
+*   [How to Raise a Kid with a Conscience | Common Sense Med](https://www.commonsensemedia.org/blog/how-to-raise-a-kid-with-a-conscience)
