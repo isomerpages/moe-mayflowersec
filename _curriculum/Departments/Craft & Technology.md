@@ -82,3 +82,10 @@ Mayflowerians can check out the publicity posters embedded with QR code linked t
 In  addition, our teachers shared what each elective can offer. To complement these efforts, parents will be engaged in a web conference to find out more about the electives.
 
 In doing so, we hope to empower and arouse our learners' intrinsic motivation to seek out additional information so as to make an informed decision regarding their subject options. 🎈
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WrHxpWA_S58" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(youtube link is broken)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HjUX48Rrvq8" title="2NT Mobile Robotics Subj Sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LSVtgxwJ1oY" title="NT Art Slides for PTM 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
