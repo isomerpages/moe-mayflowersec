@@ -64,3 +64,20 @@ Photo
 
 **Opportunities to learn from the Experts!**
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxNhAaYg56u-Yprhiny3lpkfHcH9jNbgxJsKBV4F49XGhAaLW2orCgVojCW9JDFMhsfoejtvsYYGy7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+Video
+-----
+
+### Geography
+
+*   Take a flight over a Volcano! - [youtu.be/o3a1fkLsNS4](https://youtu.be/o3a1fkLsNS4)
+*   Hike through the Rainforest - [https://youtu.be/ELQh3z4KrXk](https://youtu.be/ELQh3z4KrXk)
+*   Stroll along the slums - [youtu.be/PFqv\_QKO574](https://youtu.be/PFqv_QKO574)
+
+### History
+
+*   Trench Warfare - [youtu.be/m7h4XuvLrmg](https://youtu.be/m7h4XuvLrmg)
+*   Air Raid Tunnels WW2 - [youtu.be/5xKaXPrfAMs](https://youtu.be/5xKaXPrfAMs)
+*   Atomic Bombing - [youtu.be/Hgp6ZH-by-E](https://youtu.be/Hgp6ZH-by-E)
+
+YouTube
+-------
