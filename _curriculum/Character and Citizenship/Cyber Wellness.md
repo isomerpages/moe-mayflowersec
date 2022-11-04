@@ -38,3 +38,9 @@ MOE's Cyber Wellness Framework
 MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others', ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.
 
 The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: Sense, Think and Act.
+
+![](/images/cyber1.jpg)
+**MOE's Cyber Wellness Framework**
+
+Components in Cyber Wellness
+----------------------------
