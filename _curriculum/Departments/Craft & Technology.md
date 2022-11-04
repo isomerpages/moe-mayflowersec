@@ -44,23 +44,23 @@ Discerning &amp; resourceful consumers
 Our Learning Domains
 --------------------
 **Learn for Life Programme**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5b1B6_qu2haVUhL1L43KHYd4kKeCcpPWw3ISLABJlceDPZBfMoPNnFL-hQZSajgnoxUUX9av1wLPv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5b1B6_qu2haVUhL1L43KHYd4kKeCcpPWw3ISLABJlceDPZBfMoPNnFL-hQZSajgnoxUUX9av1wLPv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **Learning Journey**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsZq1oYi4tCiqWP-xcFf5jrb0B7V9HIR70Kx_O4aQzPFsY1iHmIIJtyEo58dcuqwpLZyGufobiLr2z/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRsZq1oYi4tCiqWP-xcFf5jrb0B7V9HIR70Kx_O4aQzPFsY1iHmIIJtyEo58dcuqwpLZyGufobiLr2z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Student-curated Exhibitions**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSH6b8qydmI6FOGtL1hQk8VIQCAg7R2mCF6a_mxzISAtRzbbNtfyLZPJll0C7qAC1sJatkvKwq_mGQu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSH6b8qydmI6FOGtL1hQk8VIQCAg7R2mCF6a_mxzISAtRzbbNtfyLZPJll0C7qAC1sJatkvKwq_mGQu/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### Learn for Life Programme
 
-The yearly LFL-C&T programme for the Secondary one cohort was designed to meet explorative learning needs in the 21st century world of Art, Design and Food cultures. The immersion programme is planned, designed and implemented by the C&T teachers for immersing the students in meaningful and joyful learning.
+The yearly LFL-C&amp;T programme for the Secondary one cohort was designed to meet explorative learning needs in the 21st century world of Art, Design and Food cultures. The immersion programme is planned, designed and implemented by the C&amp;T teachers for immersing the students in meaningful and joyful learning.
 
-To deepen the sense-making of Art, Design and Food Science learning, emerging technological learning tools are purposefully integrated into the LfL-C&T programme so as to prepare them for the real world as well as nurture in them the disposition necessary to be lifelong learners.
+To deepen the sense-making of Art, Design and Food Science learning, emerging technological learning tools are purposefully integrated into the LfL-C&amp;T programme so as to prepare them for the real world as well as nurture in them the disposition necessary to be lifelong learners.
 
 ### Learning Journeys
 
-The C&T department advocates place-based pedagogy to support in-classroom approaches towards teaching and learning. So as to contextualise what is taught in the classroom to real world applications and experiences, students are regularly invited to partake in learning activities in museums, artists’ studios and other industry affiliations. Students gain a deeper understanding of how the knowledge gleaned in the classroom is applicable and has positively impacted their community in the real world. Through their interaction with industry practitioners, students will also identify with specific dispositions, skills and attitudes that they need to emulate in order to further their endeavour in the different craft and technological disciplines.
+The C&amp;T department advocates place-based pedagogy to support in-classroom approaches towards teaching and learning. So as to contextualise what is taught in the classroom to real world applications and experiences, students are regularly invited to partake in learning activities in museums, artists’ studios and other industry affiliations. Students gain a deeper understanding of how the knowledge gleaned in the classroom is applicable and has positively impacted their community in the real world. Through their interaction with industry practitioners, students will also identify with specific dispositions, skills and attitudes that they need to emulate in order to further their endeavour in the different craft and technological disciplines.
 
 ### Student-curated Exhibitions
 
@@ -75,17 +75,21 @@ Happening in 2020
 
 Nothing beats hearing from the voices of ex and current learners! 🤸‍
 
-Our department took a new approach to equip students and parents with a better understanding of our electives (Art🎨, Design & Technology🛠, Nutrition and Food Science🥪 and Mobile Robotics 🤖) offered to our Secondary 2 students.
+Our department took a new approach to equip students and parents with a better understanding of our electives (Art🎨, Design &amp; Technology🛠, Nutrition and Food Science🥪 and Mobile Robotics 🤖) offered to our Secondary 2 students.
 
 Mayflowerians can check out the publicity posters embedded with QR code linked to videos of current and ex-students sharing passionately about what they have enjoyed and learned from the subjects.  
 
-In  addition, our teachers shared what each elective can offer. To complement these efforts, parents will be engaged in a web conference to find out more about the electives.
+In &nbsp;addition, our teachers shared what each elective can offer. To complement these efforts, parents will be engaged in a web conference to find out more about the electives.
 
 In doing so, we hope to empower and arouse our learners' intrinsic motivation to seek out additional information so as to make an informed decision regarding their subject options. 🎈
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WrHxpWA_S58" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="" src="https://www.youtube.com/embed/WrHxpWA_S58" height="315" width="560"></iframe>
 (youtube link is broken)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HjUX48Rrvq8" title="2NT Mobile Robotics Subj Sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2NT Mobile Robotics Subj Sharing" src="https://www.youtube.com/embed/HjUX48Rrvq8" height="315" width="560"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LSVtgxwJ1oY" title="NT Art Slides for PTM 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="NT Art Slides for PTM 2020" src="https://www.youtube.com/embed/LSVtgxwJ1oY" height="315" width="560"></iframe>
+
+Posters
+-------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIG1SbmYTUI-rWtB7zey8cFfoB3XFfYFWF0owRbA601eQJTMgbR7HXu1uc_CI0AmH2KFPzRoMnm2xN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
