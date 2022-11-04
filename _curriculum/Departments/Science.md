@@ -27,3 +27,8 @@ The department hopes to inspire every Mayflowerian to develop a learning experie
 | --- | --- | --- |
 | **Subject Head:** Mrs Marie Huang  
 **Senior Teacher:** Mr Ng Tze How |
+
+| BIOLOGY 	| CHEMISTRY 	| PHYSICS 	|
+|:---:	|:---:	|:---:	|
+| Subject Head: Mrs Marie Huang<br>Senior Teacher: Mr Ng Tze How 	|  	| Subject Head: Mr Tay Jang Shen Johnson 	|
+| Mr Ng Jiesheng Timothy<br>Mr Tay Junliang 	| Mr Mohamad Gaddafi Annuar (SH CCE/AYH)<br>Mdm Jarina Banu (AYH)<br>Mr Chen Yanhui Timothy (AYH)<br>Mr Pang Suo Kang David<br>Ms Jeevana Rani<br>Ms Lim Wei Li<br>Mdm Teh Swee Choo 	| Ms Mok Pei Jiun<br>Mrs Neo Peck Hoon 	|
