@@ -21,3 +21,13 @@ Level Programmes
 Education & Career Guidance Info!
 ---------------------------------
 ![](/images/ecg1.png)
+
+Latest ECG Events
+-----------------
+
+Visit: [All About ECG](https://sites.google.com/moe.edu.sg/mayflower-secondary-school-ecg/home) (Requires iCON account login)
+
+Referral form for educators/parents
+-----------------------------------
+
+Visit: [Referral form for educators/parents](https://go.gov.sg/ecgreferralform)
