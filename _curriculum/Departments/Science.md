@@ -70,4 +70,11 @@ Notable Programmes and Events
 Achievements
 ------------
 
+| Upper Secondary 	| 8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine. 	| Gold<br>Lim Jia En 4J<br>Merit<br>Nazra Shahnaz Zafar 4I<br>Erika Fam Minli 4J<br>Honourable Mention<br>Darren Teo Junli 4I 	|
+|:---:	|:---:	|:---:	|
+| Upper Secondary 	| Chemistry • Communication Challenge 2018<br>NUS Chemistry Department<br>Chemistry Solutions for a Sustainable Future 	| Certificate of Participation<br>Alex Xavier Karto 3A<br>Samuel Tan Eng Kiat 3A<br>Wong Yi Chang Cara 3E 	|
+| Lower Secondary 	| University of New South Wales Global International Competitions and Assessments for Schools 2019 (Science) 	| 1 Exemplary<br>5 Outstanding<br>13 Commendable<br>4 Good Effort<br>15 Participation 	|
+
+Photo
+-----
 
