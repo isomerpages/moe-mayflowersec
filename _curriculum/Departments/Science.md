@@ -26,7 +26,4 @@ The department hopes to inspire every Mayflowerian to develop a learning experie
 | BIOLOGY | CHEMISTRY | PHYSICS |
 | --- | --- | --- |
 | **Subject Head:** Mrs Marie Huang  
-**Senior Teacher:** Mr Ng Tze How | 
-  
-
-
+**Senior Teacher:** Mr Ng Tze How |
