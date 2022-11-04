@@ -18,3 +18,6 @@ About CCE
 | Sec 4 & 5 	| Zest for life focusing on setting a vision and end goal in mind and study skills<br>VIA focusing on Service to Others @ Community<br>Sharings by Alumni<br>Visits to post-secondary institutions to JCs, Polytechnics and ITEs<br>Talks by post-secondary institutions 	|
 
 In building the strength of character of our students, we recognise students who demonstrated exemplary behaviour and good character in their daily lives through the Mayflower Character Award twice a year.
+
+Gallery
+-------
