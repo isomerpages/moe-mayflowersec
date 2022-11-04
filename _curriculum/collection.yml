@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/Craft & Technology.md
       - Departments/Humanities.md
       - Departments/Science.md
       - Departments/Mathematics.md
