@@ -23,3 +23,7 @@ NE in Mayflower aims to be empowering and aspirational, allowing for individual 
 *   Values in Action (VIA): Through VIAs, our students are encouraged to identify and understand community issues, initiate action among their peers to make a difference, and improve the lives of others.
 *   Co-curricular activities (CCAs): Our students’ participation in CCAs promotes friendships among peers from diverse backgrounds as they learn, play and grow together. Through this, CCAs fosters social belonging, commitment and a sense of responsibility to school, community and nation.
 *   Cohort Experiences which include level camps, Sec 3 MOE-OBS Challenge Programme.
+
+Photo
+-----
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbRH1p_MKW181w0rLC6eaYgdiqoTxJuhjv-A1c_RjLfMB3ThPNydZITzchaLW6odf3O_AV2j38B4oT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
