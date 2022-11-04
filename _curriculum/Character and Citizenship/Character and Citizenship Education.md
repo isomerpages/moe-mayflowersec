@@ -16,3 +16,5 @@ About CCE
 | Sec 2 	| Zest for life focusing on social skills<br>Strengthening my study skills<br>VIA focusing on Appreciating Others @ Community<br>Applied learning modules on Rail Systems<br>Understanding more about subject allocation and possible post-secondary courses through ECG Counselling 	|
 | Sec 3 	| Zest for life focusing on thriving in the outdoors with a special focus on navigation and culinary skills<br>VIA focusing on Embracing Inclusivity @ Community<br>Work Attachments for exposure to different industries<br>Applied learning modules on Forensic Science 	|
 | Sec 4 & 5 	| Zest for life focusing on setting a vision and end goal in mind and study skills<br>VIA focusing on Service to Others @ Community<br>Sharings by Alumni<br>Visits to post-secondary institutions to JCs, Polytechnics and ITEs<br>Talks by post-secondary institutions 	|
+
+In building the strength of character of our students, we recognise students who demonstrated exemplary behaviour and good character in their daily lives through the Mayflower Character Award twice a year.
