@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Character and Citizenship/Education & Career Guidance.md
-      - Character and Citizenship/National Education.md
-      - Character and Citizenship/Cyber Wellness.md
-      - Character and Citizenship/Character and Citizenship Education.md
       - Character and Citizenship/.keep
+      - Character and Citizenship/Character and Citizenship Education.md
+      - Character and Citizenship/Cyber Wellness.md
+      - Character and Citizenship/National Education.md
+      - Character and Citizenship/Education & Career Guidance.md
       - Departments/.keep
       - Departments/Departments.md
       - Departments/English & Literature.md
