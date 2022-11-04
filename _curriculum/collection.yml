@@ -2,16 +2,16 @@ collections:
   curriculum:
     output: true
     order:
-      - Departments/Physical Education & Music.md
-      - Departments/Craft & Technology.md
-      - Departments/Humanities.md
-      - Departments/Science.md
-      - Departments/Mathematics.md
-      - Departments/2020 National Writing Competition.md
-      - Departments/Mother Tongue.md
-      - Departments/English & Literature.md
-      - Departments/Departments.md
       - Departments/.keep
+      - Departments/Departments.md
+      - Departments/English & Literature.md
+      - Departments/Mother Tongue.md
+      - Departments/2020 National Writing Competition.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Humanities.md
+      - Departments/Craft & Technology.md
+      - Departments/Physical Education & Music.md
       - National Digital Literacy Programme.md
       - Applied Learning Programme.md
       - Full SBB.md
