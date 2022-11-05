@@ -54,3 +54,12 @@ Partnerships Committee
 | Staff members 	| Mr Mohamed Naguib Bin Ngadnan<br>Ms Su Haiyin<br>Mr Lee Joen Yen<br>Mr Chan Jiahui Matthew<br>Mr Tan Jian Xun<br>Ms Wong Yin Sung 	|
 | Corporate Support Officer 	| Mdm Sylvian Tan<br>Mr Leow Leong Chuan 	|
 
+ 2022 Parent Support Group Executive Committee
+----------------------------------------------
+
+| School Advisors 	| Mr Prashant Jayapragas (Vice Principal)<br>Mrs Eugenia Tan (SH History) 	|
+|:---:	|:---:	|
+| Chairperson 	| Mdm Luo Ying Ying 	|
+| Vice-Chairpersons 	| Mdm Mok Pei Hong<br>Mr Raymond Tan 	|
+| Secretary 	| Mdm Tan Hing Lan 	|
+| Treasurer 	| Mdm Koh Yi Hua 	|
