@@ -47,3 +47,10 @@ Partnerships Committee
 ----------------------
 
 **Objective:** To forge meaningful partnerships with stakeholders for the advancement of the Mayflower's Promise
+
+| Advisor 	| Mr Prashant Jayapragas (Vice Principal) 	|
+|:---:	|:---:	|
+| I/C Partnership Committee 	| Mdm Santhi A. (HOD EL)<br>Mrs Marie Huang (SH Biology)<br>Mrs Eugenia Tan (SH History) 	|
+| Staff members 	| Mr Mohamed Naguib Bin Ngadnan<br>Ms Su Haiyin<br>Mr Lee Joen Yen<br>Mr Chan Jiahui Matthew<br>Mr Tan Jian Xun<br>Ms Wong Yin Sung 	|
+| Corporate Support Officer 	| Mdm Sylvian Tan<br>Mr Leow Leong Chuan 	|
+
