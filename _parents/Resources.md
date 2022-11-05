@@ -28,7 +28,7 @@ Run by the Ministry of Education, Singapore.
 Journeying with your Child in the 21st Century!
 -----------------------------------------------
 
-**[Click here to view more info on Journeying with your Child in the 21st Century](https://mayflowersec.moe.edu.sg/qql/slot/u313/2018/Journeying%20with%20your%20child%20in%20the%2021st%20Century%20(Final).pdf)**
+[Click here to view more info on Journeying with your Child in the 21st Century](/files/Journey.pdf)
 
   
   
@@ -36,4 +36,4 @@ Journeying with your Child in the 21st Century!
 Building Resilience in Your Children
 ------------------------------------
 
-**[Building Resilience in your children and resilience resources](https://mayflowersec.moe.edu.sg/qql/slot/u313/Links/Building%20Resilience%20Resouces%20in%20Your%20Children_24_May_2018.pdf)**
+[Building Resilience in your children and resilience resources](/files/resilience.pdf)
