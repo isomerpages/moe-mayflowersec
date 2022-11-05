@@ -15,7 +15,7 @@ Retired Principal, Mrs Jenny Yeo, shares how problems at home can affect a child
 
 Recently, one of my friends said, “More and more of my pupils are acting up and not doing well in school because of family problems. Are parents aware of this? Do they know that their relationship as a couple affects their child?”
 
-Researchers at the Center on the Developing Child, Harvard University shared  that “when (the) home is not stable…executive function skills may be impaired, or may not develop at all, limiting a child’s success in elementary school and later life.”
+Researchers at the Center on the Developing Child, Harvard University shared &nbsp;that “when (the) home is not stable…executive function skills may be impaired, or may not develop at all, limiting a child’s success in elementary school and later life.”
 
 [Please click here to read more...](https://schoolbag.sg/story/when-family-problems-affect-children-in-school#.VZM-OtKqqkp)
 
@@ -36,7 +36,7 @@ Thank you for partnering with us.
 
 Warm regards,  
 Eric Wong  
-HOD/PE&CCA  
+HOD/PE&amp;CCA  
 Mayflower Sec Sch
 
   
@@ -46,7 +46,7 @@ Mayflower Sec Sch
 Partnerships Committee
 ----------------------
 
-**Objective:** To forge meaningful partnerships with stakeholders for the advancement of the Mayflower's Promise
+**Objective:**&nbsp;To forge meaningful partnerships with stakeholders for the advancement of the Mayflower's Promise
 
 | Advisor 	| Mr Prashant Jayapragas (Vice Principal) 	|
 |:---:	|:---:	|
@@ -54,7 +54,7 @@ Partnerships Committee
 | Staff members 	| Mr Mohamed Naguib Bin Ngadnan<br>Ms Su Haiyin<br>Mr Lee Joen Yen<br>Mr Chan Jiahui Matthew<br>Mr Tan Jian Xun<br>Ms Wong Yin Sung 	|
 | Corporate Support Officer 	| Mdm Sylvian Tan<br>Mr Leow Leong Chuan 	|
 
- 2022 Parent Support Group Executive Committee
+&nbsp;2022 Parent Support Group Executive Committee
 ----------------------------------------------
 
 | School Advisors 	| Mr Prashant Jayapragas (Vice Principal)<br>Mrs Eugenia Tan (SH History) 	|
@@ -71,3 +71,7 @@ Article on "Raising your child for Success"
 
 PSG Photo Album
 ---------------
+
+**Parent Teacher Conference 2019**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsayhUAry_cDn09PjK3yiAroLT1Kth8GakKrp8v7d5FkA4j2mGNEtfOnLG05oD_lrXzCI_Pbd2fk3F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
