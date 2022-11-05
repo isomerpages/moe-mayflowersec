@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Sexuality Education.md
       - Resources.md
       - Leave of Absence (LOA).md
       - Parent Support Group.md
