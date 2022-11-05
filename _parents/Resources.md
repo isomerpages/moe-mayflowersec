@@ -9,8 +9,7 @@ Resources
 TOUCH Parenting
 ---------------
 
-[TOUCH Parenting Handout - I Cant Live Without IT.pdf](/files/IT.pdf)
-
+[TOUCH Parenting Handout - I Cant Live Without IT.pdf](/files/IT.pdf)   
 [TOUCH Parenting Handout - Nurturing Digital Natives.pdf](/files/TOUCH.pdf)
 
 Parenting with MOE
