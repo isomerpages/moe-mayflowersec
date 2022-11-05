@@ -91,3 +91,14 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |:---:	|:---:	|:---:	|
 | Mass Talk by HPB appointed vendor 	| Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV 	| Term 3 Week 8 	|
 | Classroom-based Lesson 	| Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making 	| Term 3 Week 9 	|
+
+### INFORMATION FOR PARENTS:
+
+10.  Parents may opt their children out of Growing Years, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.  
+    
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/Annex%20A_Parents%20Opt%20Out%20Form%202022Sec.pdf)**. The completed form is to be submitted by 28/02/2002.  
+    
+12.  Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/Annex%20B_HPB%20eTeens%20Opt%20out%20Form%202022.pdf)**. The completed form is to be submitted by 28/02/2022
+13.  Parents can contact HOD/CCE Mrs Tricia Lim Sze Ling at 65940112 or email [lim\_sze\_ling\_tricia@moe.edu.sg](mailto:lim_sze_ling_tricia@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
+    
+14.  Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangements.
