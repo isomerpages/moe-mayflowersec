@@ -70,3 +70,8 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |  	| 3<br>(60 mins) 	| Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage. 	| Term 2 Week 3 	|
 |  	| 4<br>(60 mins) 	| Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. 	| Term 2 Week 4 	|
 
+### SECONDARY 5
+
+| UNIT 	| LESSONS / DURATION 	| LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: 	| TIME PERIOD 	|
+|:---:	|:---:	|:---:	|:---:	|
+| Respectful Relationships & Safety 	| 1<br>(60 mins) 	| Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. 	| Term 2 Week 1 	|
