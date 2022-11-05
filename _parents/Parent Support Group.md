@@ -73,5 +73,7 @@ PSG Photo Album
 ---------------
 
 **Parent Teacher Conference 2019**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsayhUAry_cDn09PjK3yiAroLT1Kth8GakKrp8v7d5FkA4j2mGNEtfOnLG05oD_lrXzCI_Pbd2fk3F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTsayhUAry_cDn09PjK3yiAroLT1Kth8GakKrp8v7d5FkA4j2mGNEtfOnLG05oD_lrXzCI_Pbd2fk3F/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
+**Partners Appreciation Dinner**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOlP93kKpQz7KAwcMkmU-ff440Qstzxv42-tyteYFBDucrt6YKORsu-GdGPlXHPCeq40AG8GjvoouB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
