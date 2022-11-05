@@ -63,3 +63,11 @@ Partnerships Committee
 | Vice-Chairpersons 	| Mdm Mok Pei Hong<br>Mr Raymond Tan 	|
 | Secretary 	| Mdm Tan Hing Lan 	|
 | Treasurer 	| Mdm Koh Yi Hua 	|
+
+Article on "Raising your child for Success"
+-------------------------------------------
+
+[https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF\_0qnO](https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO)
+
+PSG Photo Album
+---------------
