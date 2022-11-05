@@ -47,4 +47,3 @@ Partnerships Committee
 ----------------------
 
 **Objective:** To forge meaningful partnerships with stakeholders for the advancement of the Mayflower's Promise
-
