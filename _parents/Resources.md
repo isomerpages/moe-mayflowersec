@@ -15,7 +15,10 @@ TOUCH Parenting
 Parenting with MOE
 ------------------
 
- [![](https://mayflowersec.moe.edu.sg/qql/slot/u313/CCA/Choir/logo-IG.png) Parenting with MOE](https://www.instagram.com/parentingwith.moesg/)  
+ <img src="/images/ig.png" style="width:20px;height:20px;margin-left:1px;" align = "left">
+ 
+[Parenting with MOE](https://www.instagram.com/parentingwith.moesg/)
+ 
 Parenting With You  
 Connecting, sharing, celebrating, and growing together.  
 Run by the Ministry of Education, Singapore.  
