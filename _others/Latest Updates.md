@@ -105,3 +105,15 @@ Closing Date: **30 Nov 2022, 5:00 pm**
 For enquiries, please contact the General office at 6457 7783 for any clarifications.
 
 Please forward the completed form to the school by the closing date.
+
+End of Year Exam Timetable & Subject Info
+-----------------------------------------
+
+### **Updated as of 08/09/22**
+
+![](/images/eoy.jpg)
+
+Dear Students,
+
+Please refer to the following schedule for the September Holiday Academic Programme for Sec 3 - 5.
+
