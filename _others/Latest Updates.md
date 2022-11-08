@@ -245,3 +245,12 @@ Timetable for 2022 Semester 2
 ![](/images/sub.png)
 
 [2023 First Subject Allocation Briefing 25 May 2022_PG.pdf](/files/2023%20First%20Subject%20Allocation%20Briefing%2025%20May%202022_PG.pdf)
+
+Mid-year Exam Timetable 2022
+----------------------------
+
+### **Updated as of 18/04/22**
+
+![](/images/mye.jpg)
+
+[Sec 4  5 Mid-Year Exam Timetable.pdf](/files/Sec%204%20%205%20Mid-Year%20Exam%20Timetable.pdf)
