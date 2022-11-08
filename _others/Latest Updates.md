@@ -117,3 +117,11 @@ Dear Students,
 
 Please refer to the following schedule for the September Holiday Academic Programme for Sec 3 - 5.
 
+[2022 EOY Exam Subject Information _Sec 1_final.pdf](/files/2022%20EOY%20Exam%20Subject%20Information%20_Sec%201_final.pdf)   
+[2022 EOY Exam Subject Information _Sec 2_final.pdf](/files/2022%20EOY%20Exam%20Subject%20Information%20_Sec%202_final.pdf)   
+[2022 EOY Exam Subject Information _Sec 3EX_final.pdf](/files/2022%20EOY%20Exam%20Subject%20Information%20_Sec%203EX_final.pdf)   
+[2022 EOY Exam Subject Information _Sec 3NA_final.pdf](/files/2022%20EOY%20Exam%20Subject%20Information%20_Sec%203NA_final.pdf)   
+[2022 EOY Exam Subject Information _Sec 3NT_final.pdf](/files/2022%20EOY%20Exam%20Subject%20Information%20_Sec%203NT_final.pdf)   
+[2022 EOY Exam Timetable_Sec1s.pdf](/files/2022%20EOY%20Exam%20Timetable_Sec1s.pdf)   
+[2022 EOY Exam Timetable_Sec2s.pdf](/files/2022%20EOY%20Exam%20Timetable_Sec2s.pdf)   
+[2022 EOY Exam Timetable_Sec3s.pdf](/files/2022%20EOY%20Exam%20Timetable_Sec3s.pdf)
