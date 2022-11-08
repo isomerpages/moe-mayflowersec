@@ -139,3 +139,38 @@ Please refer to the following schedule for the September Holiday Academic Progra
 
 [Sec 3EXNA Sept Hols Acad Prog 2022.pdf](/files/Sec%203EXNA%20Sept%20Hols%20Acad%20Prog%202022.pdf)   
 [Sec 45 Sept Hols Acad Prog 2022_updated 1 Sep.pdf](/files/Sec%2045%20Sept%20Hols%20Acad%20Prog%202022_updated%201%20Sep.pdf)
+
+Sec 3 Subject Allocation for 2023
+---------------------------------
+
+### **Updated as of 19/08/22**
+
+![](/images/allocation.png)
+
+### \[EX\] Pure vs Comb Science Subject Talk
+
+[upload PDF file here - exceeds 5mb]
+
+### \[EX NA\]POA subject talk ('O' and 'N' Level)
+
+[https://youtu.be/c4L4bbjG\_Ic](https://youtu.be/c4L4bbjG_Ic)  
+  
+
+### \[EX NA\] Craft & Tech Subject Talk for D&T F&N Art
+
+[https://youtu.be/XqVYn84wEvg](https://youtu.be/XqVYn84wEvg)  
+  
+
+### \[NT\] Element of Business Studies for Normal Technical stream
+
+[https://youtu.be/JXktyQY2FJE](https://youtu.be/JXktyQY2FJE)  
+  
+
+### \[NT\] Mobile Robotics Subject Talk
+
+[https://youtu.be/zzI8\_WPTRmw](https://youtu.be/zzI8_WPTRmw)  
+  
+
+### \[NT\]NT Art Subject Talk
+
+[https://youtu.be/vaumPHusx\_c](https://youtu.be/vaumPHusx_c)
