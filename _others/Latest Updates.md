@@ -225,5 +225,8 @@ Timetable for 2022 Semester 2
 
 ### HBL Week Timetable
 
-
+[2022Timetable Sem2 Sec1s wef 4July HBL.pdf](/files/2022Timetable%20Sem2%20Sec1s%20wef%204July%20HBL.pdf)   
+[2022Timetable Sem2 Sec2s wef 4July HBL.pdf](/files/2022Timetable%20Sem2%20Sec2s%20wef%204July%20HBL.pdf)   
+[2022Timetable Sem2 Sec3s wef 4July HBL.pdf](/files/2022Timetable%20Sem2%20Sec3s%20wef%204July%20HBL.pdf)   
+[2022Timetable Sem2 Sec4_5s wef 4July HBL.pdf](/files/2022Timetable%20Sem2%20Sec4_5s%20wef%204July%20HBL.pdf)
 
