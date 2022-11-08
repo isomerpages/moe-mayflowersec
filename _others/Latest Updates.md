@@ -84,3 +84,24 @@ Please take note:
 4.  In view of the ongoing National Exams, do help to ensure your students keep their levels down during their break time.   
 
 [2022 Sec 3 Prep Prog_5 Days TT_upated18Oct_classes.pdf](/files/2022%20Sec%203%20Prep%20Prog_5%20Days%20TT_upated18Oct_classes.pdf)
+
+Canteen Advertisement
+---------------------
+
+### **Updated as of 06/10/22**
+
+![](/images/food.jpg)
+
+We are advertising for **Chinese Rice Stall**
+
+Interested applicant may obtain the application form from the school's General Office. The form can also be downloaded from the MOE homepage [https://schadmsvc.moe.gov.sg/moescas/Index.aspx](https://schadmsvc.moe.gov.sg/moescas/Index.aspx).
+
+Applicant must be a **Singapore Citizen** or **Singapore Permanent Resident**.
+
+Successful applicant to be able to commence operation of the stall with immediate effect.
+
+Closing Date: **30 Nov 2022, 5:00 pm**
+
+For enquiries, please contact the General office at 6457 7783 for any clarifications.
+
+Please forward the completed form to the school by the closing date.
