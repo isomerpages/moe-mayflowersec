@@ -174,3 +174,26 @@ Sec 3 Subject Allocation for 2023
 ### \[NT\]NT Art Subject Talk
 
 [https://youtu.be/vaumPHusx\_c](https://youtu.be/vaumPHusx_c)
+
+2022 O-Level Prelim Exam Timetable 5NA, 4EX, 4NA
+------------------------------------------------
+
+### **Updated as of 22/07/22**
+
+![](/images/prelim.jpeg)
+
+[2022 O PrelimTT 4EX 5NA 4NASBB.pdf](/files/2022%20O%20PrelimTT%204EX%205NA%204NASBB.pdf)
+
+2022 N-Level Prelim Exam Timetable 4NA, 4NT, 3NT
+------------------------------------------------
+
+### **Updated as of 19/07/22**
+
+![](/images/prelim1.jpg)
+
+[2022 N Prelim Timetable 4NA 4NT 3NT 1Jul22.pdf](/files/2022%20N%20Prelim%20Timetable%204NA%204NT%203NT%201Jul22.pdf)
+
+TERM 3 Remedial / Supplementary Schedule
+----------------------------------------
+
+### **Updated as of 1/07/22**
