@@ -254,3 +254,10 @@ Mid-year Exam Timetable 2022
 ![](/images/mye.jpg)
 
 [Sec 4  5 Mid-Year Exam Timetable.pdf](/files/Sec%204%20%205%20Mid-Year%20Exam%20Timetable.pdf)
+
+Sec 4 & 5 March Holiday Academic Programme 2022
+-----------------------------------------------
+
+### **Updated as of 10/03/22**
+
+![](/images/holiday.jpg)
