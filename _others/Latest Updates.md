@@ -208,3 +208,22 @@ Please be informed that there are no changes to Sec 1 & 2 schedules from Semeste
 [2022 Sec 2 T3 Remedial Supp Schedule .docx.pdf](/files/2022%20Sec%202%20T3%20Remedial%20%20Supp%20Schedule%20.pdf)   
 [2022 Sec 3 T3 Remedial Supp Schedule.docx.pdf](/files/2022%20Sec%203%20T3%20Remedial%20%20Supp%20Schedule.pdf)   
 [2022 Sec 4_5 T3 Remedial and Supp Schedule .pdf](/files/2022%20Sec%204_5%20T3%20Remedial%20and%20Supp%20Schedule%20.pdf)
+
+Timetable for 2022 Semester 2
+-----------------------------
+
+### **Updated as of 24/06/22**
+
+![](/images/timetable.jpg)
+
+### Normal Week Timetable
+
+[2022Timetable Sem2 Sec1s wef 27June main.pdf](/files/2022Timetable%20Sem2%20Sec1s%20wef%2027June%20main.pdf)   
+[2022Timetable Sem2 Sec2s wef 27June main.pdf](/files/2022Timetable%20Sem2%20Sec2s%20wef%2027June%20main.pdf)   
+[2022Timetable Sem2 Sec3s wef 27June main.pdf](/files/2022Timetable%20Sem2%20Sec3s%20wef%2027June%20main.pdf)   
+[2022Timetable Sem2 Sec4_5s wef 27June main.pdf](/files/2022Timetable%20Sem2%20Sec4_5s%20wef%2027June%20main.pdf)
+
+### HBL Week Timetable
+
+
+
