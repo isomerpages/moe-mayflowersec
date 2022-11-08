@@ -203,3 +203,4 @@ TERM 3 Remedial / Supplementary Schedule
 Dear Students,
 
 Please be informed that there are no changes to Sec 1 & 2 schedules from Semester 1. As for Sec 3 & 4, changes are highlighted in light blue. The remedial programme will commence in Week 2 (5 July 2022).
+
