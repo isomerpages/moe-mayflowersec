@@ -25,3 +25,7 @@ Booklist & Uniform Sales for 2023 \[Sec 2-5\]
 [MFSS-Sec 3Exp-Textbook.pdf](/files/MFSS-Sec%203Exp-Textbook.pdf)   
 [MFSS-Sec 3NA-Stat.pdf](/files/MFSS-Sec%203NA-Stat.pdf)   
 [MFSS-Sec 3NA-Textbook.pdf](/files/MFSS-Sec%203NA-Textbook.pdf)   
+[MFSS-Sec 3NT-Stat.pdf](/files/MFSS-Sec%203NT-Stat.pdf)   
+[MFSS-Sec 3NT-Textbook.pdf](/files/MFSS-Sec%203NT-Textbook.pdf)   
+[MFSS-Sec 4Exp-Stat.pdf](/files/MFSS-Sec%204Exp-Stat.pdf)   
+[MFSS-Sec 4Exp-Textbook.pdf](/files/MFSS-Sec%204Exp-Textbook.pdf)   
