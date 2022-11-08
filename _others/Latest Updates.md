@@ -285,3 +285,12 @@ Please be informed that the TERM 1 remedial/ supplementary will start on Week 6 
 [2022 Sec 2 T1 Remedial  Supp Schedule.pdf](/files/2022%20Sec%202%20T1%20Remedial%20%20Supp%20Schedule.pdf)  
 [2022 Sec 3 T1 Remedial  Supp Schedule.pdf](/files/2022%20Sec%203%20T1%20Remedial%20%20Supp%20Schedule.pdf)   
 [2022 Sec 4_5 T1 Remedial  Supp Schedule.pdf](/files/2022%20Sec%204_5%20T1%20Remedial%20%20Supp%20Schedule.pdf)
+
+2022 Sec 1 Orientation
+----------------------
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xaZfPzrMVFs" title="2022 Sec 1 Orientation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This year, with the theme, “Welcome to Mayflowerland” our Sec 1 Orientation not only served to welcome our Sec 1 students to Mayflower Family but also to equip students with life skills as they transit to a secondary school environment. Through activities such as “Hopeful Hat”, students were given the opportunity to deepen their self-awareness and learn ways to interact and work well with their classmates. Our “Mad Math Escape Room” activity was also designed to inculcate the skills on how to agree and disagree appropriately to forge negotiation skills & teamwork.
+
+The end of the Sec 1 Orientation signified the beginning of our students’ journey in Mayflower and what could be more apt to symbolize our “hope” than to plant the seeds in our very own Mayflower garden and celebrate the success the Mayflower Way!
