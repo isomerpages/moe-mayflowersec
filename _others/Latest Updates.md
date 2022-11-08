@@ -230,3 +230,18 @@ Timetable for 2022 Semester 2
 [2022Timetable Sem2 Sec3s wef 4July HBL.pdf](/files/2022Timetable%20Sem2%20Sec3s%20wef%204July%20HBL.pdf)   
 [2022Timetable Sem2 Sec4_5s wef 4July HBL.pdf](/files/2022Timetable%20Sem2%20Sec4_5s%20wef%204July%20HBL.pdf)
 
+4 HBL weeks are as follows:
+
+*   4 Jul - 8 Jul 2022
+*   18 Jul - 22 Jul 2022
+*   1 Aug - 5 Aug 2022
+*   15 Aug - 19 Aug 2022
+
+2023 Secondary 3 Subject Combination
+------------------------------------
+
+### **Updated as of 26/05/22**
+
+![](/images/sub.png)
+
+[2023 First Subject Allocation Briefing 25 May 2022_PG.pdf](/files/2023%20First%20Subject%20Allocation%20Briefing%2025%20May%202022_PG.pdf)
