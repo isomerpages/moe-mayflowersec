@@ -125,3 +125,17 @@ Please refer to the following schedule for the September Holiday Academic Progra
 [2022 EOY Exam Timetable_Sec1s.pdf](/files/2022%20EOY%20Exam%20Timetable_Sec1s.pdf)   
 [2022 EOY Exam Timetable_Sec2s.pdf](/files/2022%20EOY%20Exam%20Timetable_Sec2s.pdf)   
 [2022 EOY Exam Timetable_Sec3s.pdf](/files/2022%20EOY%20Exam%20Timetable_Sec3s.pdf)
+
+Sept Holiday Academic Programme 2022 for Sec 3-5
+------------------------------------------------
+
+### **Updated as of 29/08/22**
+
+![](/images/sept.jpg)
+
+Dear Students,
+
+Please refer to the following schedule for the September Holiday Academic Programme for Sec 3 - 5.
+
+[Sec 3EXNA Sept Hols Acad Prog 2022.pdf](/files/Sec%203EXNA%20Sept%20Hols%20Acad%20Prog%202022.pdf)   
+[Sec 45 Sept Hols Acad Prog 2022_updated 1 Sep.pdf](/files/Sec%2045%20Sept%20Hols%20Acad%20Prog%202022_updated%201%20Sep.pdf)
