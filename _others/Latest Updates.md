@@ -204,3 +204,7 @@ Dear Students,
 
 Please be informed that there are no changes to Sec 1 & 2 schedules from Semester 1. As for Sec 3 & 4, changes are highlighted in light blue. The remedial programme will commence in Week 2 (5 July 2022).
 
+[2022 Sec 1 T3 Remedial Supp Schedule .docx.pdf](/files/2022%20Sec%201%20T3%20Remedial%20%20Supp%20Schedule%20.pdf)   
+[2022 Sec 2 T3 Remedial Supp Schedule .docx.pdf](/files/2022%20Sec%202%20T3%20Remedial%20%20Supp%20Schedule%20.pdf)   
+[2022 Sec 3 T3 Remedial Supp Schedule.docx.pdf](/files/2022%20Sec%203%20T3%20Remedial%20%20Supp%20Schedule.pdf)   
+[2022 Sec 4_5 T3 Remedial and Supp Schedule .pdf](/files/2022%20Sec%204_5%20T3%20Remedial%20and%20Supp%20Schedule%20.pdf)
