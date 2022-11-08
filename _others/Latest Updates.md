@@ -68,3 +68,19 @@ For made-to-measure orders: Please visit 213 Henderson Road, #01-12, Singapore 1
 **Shop:** 545 Orchard Road #02-28 Far East Shopping Centre Singapore 238882  
 **Business Hours:** Mon-Sat, 10am - 7.30pm   Sun, 10am-6pm  
 **☎****:** +65 6732 7022
+
+Sec 3 Prep Programme
+--------------------
+
+### **Updated as of 18/10/22**
+
+![](/images/prep.jpg)
+
+Please take note:
+
+1.  The lesson starts at 0740 on all days (except for 3F on Friday) and the ending time is different for different classes and days.
+2.  Attendance is compulsory unless students have valid reasons. 
+3.  The canteen will be in operation on all 5 days. 
+4.  In view of the ongoing National Exams, do help to ensure your students keep their levels down during their break time.   
+
+[2022 Sec 3 Prep Prog_5 Days TT_upated18Oct_classes.pdf](/files/2022%20Sec%203%20Prep%20Prog_5%20Days%20TT_upated18Oct_classes.pdf)
