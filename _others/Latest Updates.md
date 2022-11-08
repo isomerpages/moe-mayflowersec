@@ -261,3 +261,27 @@ Sec 4 & 5 March Holiday Academic Programme 2022
 ### **Updated as of 10/03/22**
 
 ![](/images/holiday.jpg)
+
+Dear Students,
+
+Please refer to the following document for your March Holiday Academic Programme.
+
+The canteen will be in operation on Monday and Tuesday until noon. You are strongly encouraged to purchase food items from the school canteen as your breaks between lessons are pretty short.
+
+[March Holidays Acad Programme 2022_final.pdf](/files/March%20Holidays%20Acad%20Programme%202022_final.pdf)
+
+TERM 1 Remedial / Supplementary Schedule
+----------------------------------------
+
+### **Updated as of 02/02/22**
+
+![](/images/supp.jpg)
+
+Dear Students,
+
+Please be informed that the TERM 1 remedial/ supplementary will start on Week 6 (7 Feb 2022).
+
+[2022 Sec 1 T1 Remedial  Supp Schedule.pdf](/files/2022%20Sec%201%20T1%20Remedial%20%20Supp%20Schedule.pdf)   
+[2022 Sec 2 T1 Remedial  Supp Schedule.pdf](/files/2022%20Sec%202%20T1%20Remedial%20%20Supp%20Schedule.pdf)  
+[2022 Sec 3 T1 Remedial  Supp Schedule.pdf](/files/2022%20Sec%203%20T1%20Remedial%20%20Supp%20Schedule.pdf)   
+[2022 Sec 4_5 T1 Remedial  Supp Schedule.pdf](/files/2022%20Sec%204_5%20T1%20Remedial%20%20Supp%20Schedule.pdf)
