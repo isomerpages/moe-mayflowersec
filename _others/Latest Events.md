@@ -79,3 +79,28 @@ Those in improper attire / or poor grooming will be **turned away** and **may
 School candidates who are unable to collect their results in person should inform their school, and can appoint a proxy to collect a physical copy of their results on their behalf. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. School candidates may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
 
 Please see MOE Press Release at [https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise](https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise)[](https://www.moe.gov.sg/news/press-releases/release-of-2020-singapore-cambridge-gce-o-level-examination-results-and-2021-joint-admissions-exercise) for more information.
+
+Release of 2021 GCE N-Level Examination Results
+-----------------------------------------------
+
+### **Updated as of 13/12/21**
+
+<img src="/images/nlevel.jpg" style="width:380px;height:240px;margin-left:0px;" align = "left"> Dear students,
+
+The results of the 2021 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on **Friday, 17 December 2021, 2.30 pm.**
+
+Arrangements have been made for school candidates to receive their results from their secondary schools in the computer laboratories from 2.30pm on 17 December 2021. Only school candidates collecting their results will be allowed entry into the school premises, and they will be expected to observe the Safe Management Measures (SMMs) in place. 
+
+School candidates issued the Ministry of Health's Health Risk Warning will be allowed to collect their results in person if they test negative using the Antigen Rapid Test (ART) on the day of the results release before going to school. School candidates who are unwell or are required to self-isolate due to a positive COVID-19 test result should not return to school to collect their results. These students may check their results online via Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at www.seab.gov.sg from 3.15pm on 17 December 2021. School candidates who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from 14 December 2021. SEAB’s Candidates Portal will be accessible from 17 December 2021 to 31 December 2021.  
+
+Please note the following;
+
+1.  Reporting centre is the **School Canteen**.
+2.  You need to be in **SCHOOL ATTIRE & BE PROPERLY GROOMED**.
+3.  Your hair must **NOT** be highlighted or dyed. Boys must **NOT** have long hair.
+
+Those in improper attire / or poor grooming will be **turned away** and **may not be allowed** to collect their results. They may collect their result slips the following day.
+
+School candidates who are unable to collect their results in person should inform their school and can appoint a proxy to collect a physical copy of their results on their behalf. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. School candidates may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
+
+Please see MOE [Press Release](https://www.moe.gov.sg/news/press-releases/release-of-the-2020-singapore-cambridge-gce-na--and-nt-level-examination-results-on-17-december-2020) for more information.
