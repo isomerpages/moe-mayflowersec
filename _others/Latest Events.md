@@ -62,7 +62,8 @@ Release of 2021 GCE O-Level Examination Results and 2022 JAE
 
 ### **Updated as of 07/01/22**
 
-<img src="/images/olevel.jpg" style="width:380px;height:240px;margin-left:0px;" align = "left"> The results of the 2021 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on **Wednesday, 12 January 2021**.
+![](/images/olevel.jpg)
+The results of the 2021 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on **Wednesday, 12 January 2021**.
 
 Arrangements have been made for school candidates to receive their results from their secondary schools in their respective classrooms from 2.00 pm on 12 January 2022. Only school candidates collecting their results will be allowed entry into the school premises, and they will be expected to observe the Safe Management Measures (SMMs) in place. 
 
@@ -85,7 +86,8 @@ Release of 2021 GCE N-Level Examination Results
 
 ### **Updated as of 13/12/21**
 
-<img src="/images/nlevel.jpg" style="width:380px;height:240px;margin-left:0px;" align = "left"> Dear students,
+![](/images/nlevel.jpg)
+Dear students,
 
 The results of the 2021 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on **Friday, 17 December 2021, 2.30 pm.**
 
@@ -104,3 +106,16 @@ Those in improper attire / or poor grooming will be **turned away** and **may
 School candidates who are unable to collect their results in person should inform their school and can appoint a proxy to collect a physical copy of their results on their behalf. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. School candidates may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
 
 Please see MOE [Press Release](https://www.moe.gov.sg/news/press-releases/release-of-the-2020-singapore-cambridge-gce-na--and-nt-level-examination-results-on-17-december-2020) for more information.
+
+Opening of the Thomson-East Coast Line (TEL) Mayflower station
+--------------------------------------------------------------
+
+### **Updated as of 08/07/21**
+
+The Land Transport Authority (LTA) is pleased to share that Stage 2 of TEL – which comprises 6 stations (Springleaf, Lentor, Mayflower, Bright Hill, Upper Thomson and Caldecott) – will open for passenger service on 28 August 2021.
+
+With this opening, a total of 9 stations on the TEL will be in operation, of which Woodlands and Caldecott are interchange stations that link to the North-South Line and Circle Line respectively.
+
+In the lead-up to the opening of the stations, LTA would like to extend a digital copy of their TEL2 brochure to help users familiarise themselves with the station entrances and nearby community landmarks. Please visit [https://go.gov.sg/tel2](https://go.gov.sg/tel2) or scan the QR code below to view this brochure:
+
+![](/images/tel.png)
