@@ -4,14 +4,10 @@ title: Home
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: test test staging site mayflower sec
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/homepage.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
