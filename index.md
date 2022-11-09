@@ -18,6 +18,9 @@ sections:
         - title: latest events
           description: ""
           url: ""
+        - title: DSA
+          description: ""
+          url: ""
   - infobar:
       title: PHYSICAL OPEN HOUSE 2022
       button: FIND OUT MORE
