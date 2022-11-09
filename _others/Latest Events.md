@@ -119,3 +119,24 @@ With this opening, a total of 9 stations on the TEL will be in operation, of whi
 In the lead-up to the opening of the stations, LTA would like to extend a digital copy of their TEL2 brochure to help users familiarise themselves with the station entrances and nearby community landmarks. Please visit [https://go.gov.sg/tel2](https://go.gov.sg/tel2) or scan the QR code below to view this brochure:
 
 ![](/images/tel.png)
+
+Parent-Teacher Meeting 2021
+---------------------------
+
+### **Updated as of 24/05/21**
+
+![](/images/ptm.jpg)
+
+The school’s Parent - Teacher Meeting 2021 for all Secondary 1 to 5 students scheduled on 28th May 2021 (Friday) will be conducted online via Zoom, as part of the school’s Safe Management Measures.
+
+The Parent - Teacher Meeting aims to provide a platform for engagement between school, parents/guardians and teachers to:
+
+*   share feedback on your child’s learning disposition
+*   discuss the academic progress of your child
+*   help parents to make informed decisions about your child’s secondary school journey
+
+Date: 28th May 2021 (Friday)  
+Time: 8.00 a.m. – 2.00 p.m.  
+Mode of meeting: Online via Zoom video conferencing
+
+You may select your preferred time by booking an appointment via ASKnLearn from 18 May to 25 May 2021. More information is available on Parents Gateway. We look forward to meeting and working with you in the holistic growth and development of your child/ward.
