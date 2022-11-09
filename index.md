@@ -9,19 +9,22 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Achievements
+          description: ""
+          url: ""
+        - title: latest updates
+          description: ""
+          url: ""
+        - title: latest events
+          description: ""
+          url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: PHYSICAL OPEN HOUSE 2022
+      button: FIND OUT MORE
+      url: IN
+  - infopic:
+      title: '"An Enchanted Evening"'
+      button: Watch our very own production
+      url: https://www.youtube.com/watch?v=sfOjhtIcCmU
+      image: /images/Enchanted.png
 ---
