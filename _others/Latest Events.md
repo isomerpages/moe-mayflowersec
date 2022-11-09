@@ -56,3 +56,26 @@ Thank you and we look forward to your participation.
 
 ![](/images/sem1.png)
 ![](/images/sem2.png)
+
+Release of 2021 GCE O-Level Examination Results and 2022 JAE
+------------------------------------------------------------
+
+### **Updated as of 07/01/22**
+
+<img src="/images/olevel.jpg" style="width:380px;height:240px;margin-left:0px;" align = "left"> The results of the 2021 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on **Wednesday, 12 January 2021**.
+
+Arrangements have been made for school candidates to receive their results from their secondary schools in their respective classrooms from 2.00 pm on 12 January 2022. Only school candidates collecting their results will be allowed entry into the school premises, and they will be expected to observe the Safe Management Measures (SMMs) in place. 
+
+School candidates issued the Ministry of Health's Health Risk Warning will be allowed to collect their results in person if they test negative using the Antigen Rapid Test (ART) on the day of the release of the results before going to school. School candidates who are unwell or are required to self-isolate due to a positive COVID-19 test result should not return to school to collect their results. These students may check their results online via Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at [www.seab.gov.sg](https://www.seab.gov.sg/) from 2.45 pm on 12 January 2022. School candidates who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from 7 January 2022. SEAB’s Candidates Portal will be accessible from 12 January 2022 to 26 January 2022. 
+
+Please note the following;
+
+1.  Reporting centre is at the school **HALL**.
+2.  You need to be in **SCHOOL ATTIRE & BE PROPERLY GROOMED**.
+3.  Your hair must **NOT** be highlighted or dyed. Boys must **NOT** have long hair.
+
+Those in improper attire / or poor grooming will be **turned away** and **may not be allowed** to collect their results. They may collect their result slips the following day.
+
+School candidates who are unable to collect their results in person should inform their school, and can appoint a proxy to collect a physical copy of their results on their behalf. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. School candidates may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
+
+Please see MOE Press Release at [https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise](https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise)[](https://www.moe.gov.sg/news/press-releases/release-of-2020-singapore-cambridge-gce-o-level-examination-results-and-2021-joint-admissions-exercise) for more information.
