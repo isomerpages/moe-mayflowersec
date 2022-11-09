@@ -140,3 +140,14 @@ Time: 8.00 a.m. – 2.00 p.m.
 Mode of meeting: Online via Zoom video conferencing
 
 You may select your preferred time by booking an appointment via ASKnLearn from 18 May to 25 May 2021. More information is available on Parents Gateway. We look forward to meeting and working with you in the holistic growth and development of your child/ward.
+
+Chinese New Year 2021 Celebration
+---------------------------------
+
+### **Updated as of 09/02/21**
+
+<iframe width="1140" height="450" src="https://www.youtube.com/embed/lCX6AmTDgTo" title="Mayflower Sec - Chinese New Year 2021 Celebration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Mayflower Sec is celebrating the Chinese New Year with an e-concert featuring our very own MFSS talents and CCA groups - Chinese Ensemble and Chinese Dance! Not to forget the well-wishes to the MFSS family and AWWA seniors who could not join us this year from our School Leaders and staff.
+
+Happy Chinese New Year to everyone!
