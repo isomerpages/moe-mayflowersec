@@ -27,4 +27,7 @@ sections:
       button: Watch our very own production
       url: https://www.youtube.com/watch?v=sfOjhtIcCmU
       image: /images/Enchanted.png
+  - infopic:
+      title: MAYFLOWER SECONDARY SCHOOL
+      description: Google maps to be inserted here
 ---
