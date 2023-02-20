@@ -2,19 +2,19 @@ title: Mayflower Secondary School
 url: https://www.open.gov.sg
 favicon: /images/favicon.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#a71616"
+  secondary-color: "#6b9224"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ff0000"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#22a114"
     - title: media-color-three
-      color: "#00838f"
+      color: "#fd7e00"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#674ea7"
 description: "MAYFLOWER. SECONDARY SCHOOL. 2 Ang Mo Kio St 21 Singapore 569384
   Tel: +65 6457 7783 Fax: +65 6458 3284 Email: mayflower_ss@moe.edu.sg."
 permalink: none
