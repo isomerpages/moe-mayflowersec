@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Home
-description: An Isomer site of the Singapore Government
+title: Mayflower Secondary School
+description: "MAYFLOWER. SECONDARY SCHOOL. 2 Ang Mo Kio St 21 Singapore 569384
+  Tel: +65 6457 7783 Fax: +65 6458 3284 Email: mayflower_ss@moe.edu.sg."
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -34,3 +35,4 @@ sections:
       title: MAYFLOWER SECONDARY SCHOOL
       description: Google maps to be inserted here
 ---
+
