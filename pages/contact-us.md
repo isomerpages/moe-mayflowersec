@@ -16,10 +16,5 @@ contacts:
       - phone: +65 6457 7783
       - email: mayflower_ss@moe.edu.sg
       - other: ""
-    title: General Office
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+    title: Telephone
 ---
