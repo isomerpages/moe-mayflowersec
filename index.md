@@ -35,4 +35,3 @@ sections:
       title: MAYFLOWER SECONDARY SCHOOL
       description: Google maps to be inserted here
 ---
-
