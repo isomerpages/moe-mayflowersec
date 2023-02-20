@@ -6,9 +6,9 @@ description: ""
 Release of 2022 GCE O-Level Examination Results and 2022 JAE
 ------------------------------------------------------------
 
-### **Updated as of 09/01/23**
+#### **Updated as of 09/01/23**
 
-![](/images/olevel.jpg)
+![](/images/Release%20of%202022%20O%20Level.jpg)
 The results of the 2022 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on **Thursday, 12 January 2023, 2.00 pm**.
 
 Arrangements have been made for school candidates to receive the results from their secondary schools from 2.00 pm on 12 January 2023.
@@ -30,9 +30,9 @@ Please see MOE Press Release at [https://www.seab.gov.sg/home/news/press-releas
 Release of 2022 GCE N-Level Examination Results
 -----------------------------------------------
 
-### **Updated as of 15/12/22**
+#### **Updated as of 15/12/22**
 
-![](/images/nlevel.jpg)
+![](/images/Release%20of%202022%20GCE%20N-Level%20Exam.jpg)
 Dear students,
 
 The results of the 2022 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on **Monday, 19 December 2022, 2.00 pm.**
@@ -58,7 +58,7 @@ Read more:
 Positive Parenting Programme (Triple P) Level 2 Teen Webinar Series - Mandarin
 ------------------------------------------------------------------------------
 
-### **Updated as of 09/05/22**
+#### **Updated as of 09/05/22**
 
 Dear parents,
 
@@ -108,4 +108,3 @@ Thank you and we look forward to your participation.
 
 ![](/images/sem1.png)
 ![](/images/sem2.png)
-
