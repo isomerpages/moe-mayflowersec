@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6457 7783
       - email: mayflower_ss@moe.edu.sg
-      - other: ""
+      - other: "Fax: +65 6458 3284"
     title: Telephone
 ---
