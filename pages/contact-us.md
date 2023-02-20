@@ -13,10 +13,10 @@ locations:
     title: School Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6457 7783
+      - email: mayflower_ss@moe.edu.sg
+      - other: ""
+    title: General Office
   - content:
       - phone: ""
       - email: careers@abc.gov.sg
