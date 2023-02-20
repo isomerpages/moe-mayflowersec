@@ -3,6 +3,58 @@ title: Latest Events
 permalink: /others/latest-events/permalink/
 description: ""
 ---
+Release of 2022 GCE O-Level Examination Results and 2022 JAE
+------------------------------------------------------------
+
+### **Updated as of 09/01/23**
+
+![](/images/olevel.jpg)
+The results of the 2022 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on **Thursday, 12 January 2023, 2.00 pm**.
+
+Arrangements have been made for school candidates to receive the results from their secondary schools from 2.00 pm on 12 January 2023.
+
+School candidates who are unwell or self-isolating due to a positive COVID-19 test result should not return to school to collect their results. They should access their results online via Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at [www.seab.gov.sg](https://www.seab.gov.sg/) from 2.45 pm on 12 January 2023 to 11.59 pm on 26 January 2023. School candidates who are eligible for SingPass can use their SingPass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from 9 January 2023.
+
+Please note the following;
+
+1.  Reporting centre is at the school **HALL**.
+2.  You need to be in **SCHOOL ATTIRE & BE PROPERLY GROOMED**.
+3.  Your hair must **NOT** be highlighted or dyed. Boys must **NOT** have long hair.
+
+Those in improper attire / or poor grooming will be **turned away** and **may not be allowed** to collect their results. They may collect their result slips the following day.
+
+School candidates who are unable to collect their results in person should inform their school and can appoint a proxy to collect a physical copy of their results on their behalf. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. School candidates may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
+
+Please see MOE Press Release at [https://www.seab.gov.sg/home/news/press-releases/release-of-2022-singapore-cambridge-gce-o-level-examination-results-and-2023-joint-admissions-exercise](https://www.seab.gov.sg/home/news/press-releases/release-of-2022-singapore-cambridge-gce-o-level-examination-results-and-2023-joint-admissions-exercise)[](https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise)[](https://www.moe.gov.sg/news/press-releases/release-of-2020-singapore-cambridge-gce-o-level-examination-results-and-2021-joint-admissions-exercise) for more information.
+
+Release of 2022 GCE N-Level Examination Results
+-----------------------------------------------
+
+### **Updated as of 15/12/22**
+
+![](/images/nlevel.jpg)
+Dear students,
+
+The results of the 2022 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on **Monday, 19 December 2022, 2.00 pm.**
+
+Arrangements have been made for school candidates to receive their results from their secondary schools in the computer laboratory from 2.00 pm on 19 December 2022.
+
+School candidates who are unwell or self-isolating due to a positive COVID-19 test result should not return to school to collect their results. These students may check their results online via Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at www.seab.gov.sg from 2.45 pm on 19 December 2022. School candidates who are eligible for SingPass can use their SingPass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from 14 December 2022. SEAB’s Candidates Portal will be accessible from 19 December 2022 to 30 December 2022.
+
+Please note the following;
+
+1.  Reporting centre is the **School Canteen**.
+2.  You need to be in **SCHOOL ATTIRE & BE PROPERLY GROOMED**.
+3.  Your hair must **NOT** be highlighted or dyed. Boys must **NOT** have long hair.
+
+Those in improper attire / or poor grooming will be **turned away** and **may not be allowed** to collect their results. They may collect their result slips the following day.
+
+School candidates who are unable to collect their results in person should inform their school, and can appoint a proxy to collect a physical copy of their results on their behalf. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. School candidates may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal. 
+
+Read more:  
+[https://www.moe.gov.sg/news/press-releases/20221212-release-of-the-2022-singapore-cambridge-gce-na-nt-level-examination-results-on-19-december-2022](https://www.moe.gov.sg/news/press-releases/20221212-release-of-the-2022-singapore-cambridge-gce-na-nt-level-examination-results-on-19-december-2022)
+
+
 Positive Parenting Programme (Triple P) Level 2 Teen Webinar Series - Mandarin
 ------------------------------------------------------------------------------
 
@@ -57,97 +109,3 @@ Thank you and we look forward to your participation.
 ![](/images/sem1.png)
 ![](/images/sem2.png)
 
-Release of 2021 GCE O-Level Examination Results and 2022 JAE
-------------------------------------------------------------
-
-### **Updated as of 07/01/22**
-
-![](/images/olevel.jpg)
-The results of the 2021 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on **Wednesday, 12 January 2021**.
-
-Arrangements have been made for school candidates to receive their results from their secondary schools in their respective classrooms from 2.00 pm on 12 January 2022. Only school candidates collecting their results will be allowed entry into the school premises, and they will be expected to observe the Safe Management Measures (SMMs) in place. 
-
-School candidates issued the Ministry of Health's Health Risk Warning will be allowed to collect their results in person if they test negative using the Antigen Rapid Test (ART) on the day of the release of the results before going to school. School candidates who are unwell or are required to self-isolate due to a positive COVID-19 test result should not return to school to collect their results. These students may check their results online via Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at [www.seab.gov.sg](https://www.seab.gov.sg/) from 2.45 pm on 12 January 2022. School candidates who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from 7 January 2022. SEAB’s Candidates Portal will be accessible from 12 January 2022 to 26 January 2022. 
-
-Please note the following;
-
-1.  Reporting centre is at the school **HALL**.
-2.  You need to be in **SCHOOL ATTIRE & BE PROPERLY GROOMED**.
-3.  Your hair must **NOT** be highlighted or dyed. Boys must **NOT** have long hair.
-
-Those in improper attire / or poor grooming will be **turned away** and **may not be allowed** to collect their results. They may collect their result slips the following day.
-
-School candidates who are unable to collect their results in person should inform their school, and can appoint a proxy to collect a physical copy of their results on their behalf. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. School candidates may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
-
-Please see MOE Press Release at [https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise](https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise)[](https://www.moe.gov.sg/news/press-releases/release-of-2020-singapore-cambridge-gce-o-level-examination-results-and-2021-joint-admissions-exercise) for more information.
-
-Release of 2021 GCE N-Level Examination Results
------------------------------------------------
-
-### **Updated as of 13/12/21**
-
-![](/images/nlevel.jpg)
-Dear students,
-
-The results of the 2021 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on **Friday, 17 December 2021, 2.30 pm.**
-
-Arrangements have been made for school candidates to receive their results from their secondary schools in the computer laboratories from 2.30pm on 17 December 2021. Only school candidates collecting their results will be allowed entry into the school premises, and they will be expected to observe the Safe Management Measures (SMMs) in place. 
-
-School candidates issued the Ministry of Health's Health Risk Warning will be allowed to collect their results in person if they test negative using the Antigen Rapid Test (ART) on the day of the results release before going to school. School candidates who are unwell or are required to self-isolate due to a positive COVID-19 test result should not return to school to collect their results. These students may check their results online via Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at www.seab.gov.sg from 3.15pm on 17 December 2021. School candidates who are eligible for Singpass can use their Singpass account to access SEAB’s Candidates Portal. School candidates who are International Students will receive their system-generated username via email from 14 December 2021. SEAB’s Candidates Portal will be accessible from 17 December 2021 to 31 December 2021.  
-
-Please note the following;
-
-1.  Reporting centre is the **School Canteen**.
-2.  You need to be in **SCHOOL ATTIRE & BE PROPERLY GROOMED**.
-3.  Your hair must **NOT** be highlighted or dyed. Boys must **NOT** have long hair.
-
-Those in improper attire / or poor grooming will be **turned away** and **may not be allowed** to collect their results. They may collect their result slips the following day.
-
-School candidates who are unable to collect their results in person should inform their school and can appoint a proxy to collect a physical copy of their results on their behalf. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. School candidates may contact their schools for assistance if they are unable to appoint a proxy, or if they have not received their system-generated username for SEAB’s Candidates Portal.
-
-Please see MOE [Press Release](https://www.moe.gov.sg/news/press-releases/release-of-the-2020-singapore-cambridge-gce-na--and-nt-level-examination-results-on-17-december-2020) for more information.
-
-Opening of the Thomson-East Coast Line (TEL) Mayflower station
---------------------------------------------------------------
-
-### **Updated as of 08/07/21**
-
-The Land Transport Authority (LTA) is pleased to share that Stage 2 of TEL – which comprises 6 stations (Springleaf, Lentor, Mayflower, Bright Hill, Upper Thomson and Caldecott) – will open for passenger service on 28 August 2021.
-
-With this opening, a total of 9 stations on the TEL will be in operation, of which Woodlands and Caldecott are interchange stations that link to the North-South Line and Circle Line respectively.
-
-In the lead-up to the opening of the stations, LTA would like to extend a digital copy of their TEL2 brochure to help users familiarise themselves with the station entrances and nearby community landmarks. Please visit [https://go.gov.sg/tel2](https://go.gov.sg/tel2) or scan the QR code below to view this brochure:
-
-![](/images/tel.png)
-
-Parent-Teacher Meeting 2021
----------------------------
-
-### **Updated as of 24/05/21**
-
-![](/images/ptm.jpg)
-
-The school’s Parent - Teacher Meeting 2021 for all Secondary 1 to 5 students scheduled on 28th May 2021 (Friday) will be conducted online via Zoom, as part of the school’s Safe Management Measures.
-
-The Parent - Teacher Meeting aims to provide a platform for engagement between school, parents/guardians and teachers to:
-
-*   share feedback on your child’s learning disposition
-*   discuss the academic progress of your child
-*   help parents to make informed decisions about your child’s secondary school journey
-
-Date: 28th May 2021 (Friday)  
-Time: 8.00 a.m. – 2.00 p.m.  
-Mode of meeting: Online via Zoom video conferencing
-
-You may select your preferred time by booking an appointment via ASKnLearn from 18 May to 25 May 2021. More information is available on Parents Gateway. We look forward to meeting and working with you in the holistic growth and development of your child/ward.
-
-Chinese New Year 2021 Celebration
----------------------------------
-
-### **Updated as of 09/02/21**
-
-<iframe width="1140" height="450" src="https://www.youtube.com/embed/lCX6AmTDgTo" title="Mayflower Sec - Chinese New Year 2021 Celebration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Mayflower Sec is celebrating the Chinese New Year with an e-concert featuring our very own MFSS talents and CCA groups - Chinese Ensemble and Chinese Dance! Not to forget the well-wishes to the MFSS family and AWWA seniors who could not join us this year from our School Leaders and staff.
-
-Happy Chinese New Year to everyone!
