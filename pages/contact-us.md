@@ -17,4 +17,10 @@ contacts:
       - email: mayflower_ss@moe.edu.sg
       - other: "Fax: +65 6458 3284"
     title: Telephone
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <h5>Bus services</h5>71, 76, 132, 165, 166, 169, 262, 265, 268, 269
+          <h5>MRT Stations</h5>Ang Mo Kio MRT, Mayflower MRT
+    title: Getting there
 ---
