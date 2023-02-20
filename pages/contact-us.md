@@ -12,12 +12,12 @@ locations:
     maps_link: ""
     title: School Address
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
+      - ""
+      - ""
       - ""
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    maps_link: ""
+    title: test
 contacts:
   - content:
       - phone: +65 6123 4567
