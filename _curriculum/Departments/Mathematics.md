@@ -53,10 +53,6 @@ Moving towards self-directed learning, the Mathematics department greatly harnes
 
 ![](/images/math4.jpg)
 
-You may wish to interact with the GeoGebra applet below.
-
-[insert geogebra extension here] 
-
-To view the whole GeoGebra lesson, go to [https://www.geogebra.org/m/xmwc2j68](https://www.geogebra.org/m/xmwc2j68)
+To view the GeoGebra applet, go to [https://www.geogebra.org/m/xmwc2j68](https://www.geogebra.org/m/xmwc2j68)
 
 May the beginnings of being a Mayflower Mathematician become the seed of your child’s success beyond Secondary Years!
