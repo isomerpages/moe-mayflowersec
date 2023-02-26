@@ -4,9 +4,6 @@ permalink: /curriculum/Character-and-Citizenship/permalink/
 description: ""
 third_nav_title: Character and Citizenship
 ---
-Character and Citizenship Education
-===================================
-
 About CCE
 ---------
 
