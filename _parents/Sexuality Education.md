@@ -3,8 +3,6 @@ title: Sexuality Education
 permalink: /parents/sexuality-education/permalink/
 description: ""
 ---
-Sexuality Education
-===================
 
 ### MOE Sexuality Education in Schools
 
