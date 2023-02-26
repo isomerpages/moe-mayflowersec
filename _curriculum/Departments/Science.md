@@ -7,7 +7,7 @@ third_nav_title: Departments
 Science
 =======
 
-**_Excitement. Exploration. Experience. Excellence._**  
+> Excitement. Exploration. Experience. Excellence. 
 
 ---------------------------------------------------------
 
@@ -17,27 +17,27 @@ The focus of the curriculum is to inculcate the spirit of scientific inquiry and
 
 The department hopes to inspire every Mayflowerian to develop a learning experience of the Sciences beyond the classroom and enhance their depth of learning in the various domains of Science.
 
-| THE SCIENCE TEAM |
-| --- |
-| **HOD (Science):**&nbsp; Mdm Krishnan Malathi  
-**School Staff Developer:**&nbsp;Mr Ng Kok Wing  
-**Year Head (Upper Secondary):**&nbsp;Mr B Prem Anand |
+|Staff | Designation | Unit |
+|---|---|---|
+| Mr Tay Jang Shen Johnson | HOD Science | Physics |
+| Mr Ng Kok Wing | School Staff Developer | Physics |
+| Mr B Prem Anand | Year Head (Upper Secondary) | Physics |
+| Mdm Krishnan Malathi | HOD Special Projects | Biology |
+| Mrs Marie Huang | SH Biology | Biology | 
+| Mohamad Gaddafi Annuar | SH CCE / Asst Year Head | Chemistry |
+| Mr Timothy Chen | SH Educational Support | Chemistry |
+| Mr Ng Tze How | Senior Teacher | Biology |
+| Mr Ng Jiesheng Timothy | Teacher | Biology |
+| Ms Jeevana Rani | Asst Year Head | Chemistry |
+| Ms Lim Wei Li | Teacher | Chemistry | 
+| Mr Pang Suo Kang David | Teacher | Chemistry |
+| Ms Mok Pei Jiun | Teacher | Physics |
+| Mrs Neo Peck Hoon | Teacher | Physics |
+| Mdm Wong Juat Ngiom | Technical Support Officer |
+| Mdm Jenny Ong | Technical Support Officer |
+| Mdm Nancy Yeo |  Operations Support Officer |
 
-| BIOLOGY | CHEMISTRY | PHYSICS |
-| --- | --- | --- |
-| **Subject Head:**&nbsp;Mrs Marie Huang  
-**Senior Teacher:**&nbsp;Mr Ng Tze How |
 
-| BIOLOGY 	| CHEMISTRY 	| PHYSICS 	|
-|:---:	|:---:	|:---:	|
-| Subject Head: Mrs Marie Huang<br>Senior Teacher: Mr Ng Tze How 	|  	| Subject Head: Mr Tay Jang Shen Johnson 	|
-| Mr Ng Jiesheng Timothy<br>Mr Tay Junliang 	| Mr Mohamad Gaddafi Annuar (SH CCE/AYH)<br>Mdm Jarina Banu (AYH)<br>Mr Chen Yanhui Timothy (AYH)<br>Mr Pang Suo Kang David<br>Ms Jeevana Rani<br>Ms Lim Wei Li<br>Mdm Teh Swee Choo 	| Ms Mok Pei Jiun<br>Mrs Neo Peck Hoon 	|
-
-| SUPPORT OFFICERS |
-| --- |
-| **Technical Support Officer:**&nbsp;Mdm Wong Juat Ngiom  
-**Technical Support Officer:**&nbsp;Mdm Jenny Ong  
-**Operations Support Officer:**&nbsp;Mdm Nancy Yeo |
 
 2020 Teaching and Learning Strategies
 -------------------------------------
@@ -60,8 +60,9 @@ Our department’s teachers are also encouraged to share how Assessment for Lear
 
 Notable Programmes and Events
 -----------------------------
-| 1st Gear:<br>Science of Motor Vehicles 	| EduTorque conducted an exciting enrichment programme on The Science of Motor Vehicles for our Secondary 4 Normal Technical students. This course is designed to create a stimulating and life-long learning experience for students. Beyond the theory, students had an opportunity to take the hot seat in a Motorsports GP Car simulator.<br>Furthermore, students also had the opportunity to tour an electric kart circuit (The Karting Arena) and enjoy exciting karting sessions! 	|
-|:---:	|---	|
+|Programme Name | Description |
+|:---	|---	|
+| 1st Gear:<br>Science of Motor Vehicles 	| EduTorque conducted an exciting enrichment programme on The Science of Motor Vehicles for our Secondary 4 Normal Technical students. This course is designed to create a stimulating and life-long learning experience for students. Beyond the theory, students had an opportunity to take the hot seat in a Motorsports GP Car simulator. Furthermore, students also had the opportunity to tour an electric kart circuit (The Karting Arena) and enjoy exciting karting sessions! 	|
 | LEGO Workshop 	| The workshop for Secondary 2s provides a “hands on, minds on” environment that supports and enriches the students’ learning and understanding of the science concepts from the Interactions &amp; Energy themes of the Lower Secondary Science syllabus. 	|
 | Biodiversity Programme 	| Secondary 1 Express and Normal (Academic) students are given the chance to learn beyond the curriculum and understand Biodiversity in Singapore and beyond Singapore. Through activities like a learning journey to Sungei Buloh Wetland Reserve, pond water sampling and a scavenger hunt, the classroom experience truly embodies the spirit of Joy of Learning where the learning takes an alternative form and nature offers knowledge outside of the textbook. 	|
 | Enrich @ Health Sciences programmes conducted by Ngee Ann Polytechnic 	| The Secondary 2 and 3 Normal Technical students took part various workshops conducted by Ngee Ann Polytechnic. These workshops, Oh Baby Baby and Respiratory Rhythm are highly interactive miniature workshops for the students to experience the world of healthcare and also understand how to better care for their own bodies. 	|
@@ -69,12 +70,12 @@ Notable Programmes and Events
 
 Achievements
 ------------
-
-| Upper Secondary 	| 8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine. 	| Gold<br>Lim Jia En 4J<br>Merit<br>Nazra Shahnaz Zafar 4I<br>Erika Fam Minli 4J<br>Honourable Mention<br>Darren Teo Junli 4I 	|
-|:---:	|:---:	|:---:	|
-| Upper Secondary 	| Chemistry • Communication Challenge 2018<br>NUS Chemistry Department<br>Chemistry Solutions for a Sustainable Future 	| Certificate of Participation<br>Alex Xavier Karto 3A<br>Samuel Tan Eng Kiat 3A<br>Wong Yi Chang Cara 3E 	|
+|Level | Competition | Achievement|
+|---	|---	|---	|
+| Upper Secondary 	| 8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine. 	| 1 Gold<br>2 Merit<br>1 Honourable Mention<br>	|
+| Upper Secondary 	| Chemistry • Communication Challenge 2018<br>NUS Chemistry Department<br>Chemistry Solutions for a Sustainable Future 	| 3 Certificates  of Participation	|
 | Lower Secondary 	| University of New South Wales Global International Competitions and Assessments for Schools 2019 (Science) 	| 1 Exemplary<br>5 Outstanding<br>13 Commendable<br>4 Good Effort<br>15 Participation 	|
 
 Photo
 -----
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ094Pij22laSkpstPIM7ZSV0_luNhq2AhvWX-_cOybnT0_Es9_K4YjLIxN93Wvp-vCj6_2XfoEMo2F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ094Pij22laSkpstPIM7ZSV0_luNhq2AhvWX-_cOybnT0_Es9_K4YjLIxN93Wvp-vCj6_2XfoEMo2F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
