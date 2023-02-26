@@ -46,7 +46,7 @@ Mayflower is one of the schools that have embarked on FSBB. Starting this year, 
 
 Click here to find out more about FSBB.
 
-National Digitalisation Literacy Programme – \[NDLP\]
+National Digitalisation Literacy Programme \[NDLP\]
 -----------------------------------------------------
 
 <img src="/images/ndlp.png" style="width:280px;height:180px;margin-left:1px;" align = "left">
@@ -55,7 +55,7 @@ The National Digital Literacy Programme (NDLP) was launched in March 2020 to mak
 
 Click [here] to find out more about NDLP.
 
-Dedicated and capable staff of teachers
+Dedicated and Capable Staff of Teachers
 ---------------------------------------
 
 All of these changes being made would not be possible without our dedicated team of teachers and staff. As the role of teachers is to be a guide now instead of an expert spewing knowledge, teachers at Mayflower has been investing a lot of time and effort on learning how to maximise learning in a totally different setting. The goal is to turn classes where students are learning how to learn and discover knowledge with a teacher's coaching guidance. Find out how this is done by the different departments by clicking on the different departments highlighted below.
