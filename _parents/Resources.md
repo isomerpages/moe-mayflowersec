@@ -3,8 +3,6 @@ title: Resources
 permalink: /parents/resources/permalink/
 description: ""
 ---
-Resources
-=========
 
 TOUCH Parenting
 ---------------
