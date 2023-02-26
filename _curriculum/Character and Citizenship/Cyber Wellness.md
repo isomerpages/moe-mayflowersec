@@ -4,8 +4,6 @@ permalink: /curriculum/Character-and-Citizenship/cyber-wellness/permalink/
 description: ""
 third_nav_title: Character and Citizenship
 ---
-Cyber Wellness
-==============
 Understanding Cyber Wellness
 ----------------------------
 
