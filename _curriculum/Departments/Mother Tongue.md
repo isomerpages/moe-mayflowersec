@@ -7,30 +7,40 @@ third_nav_title: Departments
 Mother Tongue
 =============
 
-Department Vision
------------------
+#### Department Vision
 
-Effective Global Communicators rooted in Values with a Love for the Languages and Cultures
 
-Department Mission
-------------------
+> Effective Global Communicators rooted in Values with a Love for the Languages and Cultures
 
-To nurture&nbsp;**Active Learners, Proficient Users**&nbsp;anchored in values who embrace their ethnic identities.  
-To develop&nbsp;**Forward Thinkers**&nbsp;with a global outlook and appreciation for unity in diversity
+#### Department Mission
+
+
+> To nurture **Active Learners, Proficient Users** anchored in values who embrace their ethnic identities.  
+To develop **Forward Thinkers** with a global outlook and appreciation for unity in diversity
 
   
 
 It is important for students to not only learn the Mother Tongue Languages but also learn to appreciate the beauty of the languages and cultures behind them. To engage our learners, our teachers take life-long learning seriously and infuse ICT tools in the process of teaching and learning. MT teachers hope to infuse ICT into Assessment for Learning (AfL) and encourage students to take ownership of their learning.
 
-| The Team |
-| --- |
-| **HOD:**&nbsp;Ms Eileen Chew  
-**Lead Teacher:**&nbsp;Mdm Wang Xueping  
-**Level Head:**&nbsp;Mdm Tan Lay Teng |
-
-| Chinese Unit 	| Malay Unit 	|
-|:---:	|:---:	|
-| Mr Kim Kin Seng<br>Mdm Whong Tung Geok<br>Mdm Wong Mui Lin<br>Mdm Su Xiaoling<br>Mr Tham Wen Xi<br>Mr Yang Peiqiang<br>Mr Qiao Cheng Yan (Flexi-adjunct)<br>Mdm Lee Low Eng (Flexi-adjunct)<br>Mdm Jiang Yuwei (Flexi-adjunct) 	| Mr Mohamed Naguib Ngadnan<br>Mdm Siti Fatimah Muhammad<br>Mdm Norhidayah Mohamed Sis<br>Ms Nadia Sharin<br>Mdm Nur Shahirah Shahir Sha Hir 	|
+| Teacher | Designation | Unit | 
+|---|---|---|
+| Mdm Tan Lay Teng | HOD Mother Tongue | Chinese |
+| Mdm Wang Xueping | Lead Teacher | Chinese |
+| Mrs Tan Woan Chyn | Subject Head | Chinese |
+| Mdm Lai Meei Ju | Teacher | Chinese |
+| Mdm Su Xiaoling | Teacher | Chinese |
+| Mr Tham Wen Xi | Teacher | Chinese |
+| Mdm Whong Tung Geok | Teacher | Chinese |
+| Mdm Wong Mui Lin | Teacher | Chinese |
+| Ms Wong Yin Sung | Teacher | Chinese |
+| Mr Yang Peiqiang | Teacher | Chinese |
+| Mr Mohamed Naguib Ngadnan  | Teacher | Malay |
+| Ms Nadia Sharin  | Asst Year Head | Malay |
+| Mdm Norhidayah Mohamed Sis  | Teacher | Malay |
+| Mdm Nur Shahirah Shahir Sha Hir| Teacher | Malay |
+| Mdm Siti Fatimah Muhammad  | Teacher | Malay |
+| Mr Kim Kin Seng | Flexi-adjunct Teacher | Chinese |
+| Mdm Lee Low Eng | Flexi-adjunct Teacher | Chinese |
 
 Blended Learning
 ----------------
@@ -73,10 +83,10 @@ National Writing Competition
 2020, Our Story of Battling the Pandemic" National Writing Competition for Primary and Secondary schools - We are proud to showcase the published works of our student Fu Yongjia, who has obtained 优胜奖 with her article 《与病毒的一场恶战》。 Our Lead Teacher, Mdm Wang Xueping also wrote an article 《习惯成自然》 which is published in the book too. Her passion for teaching is inspirational as she wrote about how she and her students cope and thrive with Home-based Learning.   
 [Read their essay...]
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8ErjBjqSHq8QbToucwt7JsPwCxvUDKXpSKzSpIERSgchRacI-azzhdz8xlXkj4RJNskDiJi65Ww9e/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8ErjBjqSHq8QbToucwt7JsPwCxvUDKXpSKzSpIERSgchRacI-azzhdz8xlXkj4RJNskDiJi65Ww9e/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Videos
 ------
-<iframe width="835" height="470" src="https://www.youtube.com/embed/zo7eMSentdA" title="Sec 3 MT ALP 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/zo7eMSentdA" title="Sec 3 MT ALP 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="835" height="470" src="https://www.youtube.com/embed/FSulPK8PmOI" title="MFSS MT ALP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/FSulPK8PmOI" title="MFSS MT ALP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
