@@ -19,4 +19,4 @@ At our school, the arts are not solely for personal interest and passion. The st
 In Mayflower Secondary School, we believe in providing a space for the arts because we know that arts education builds individuals with a zest for life.
 
 ### Photos
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkO_8F3A4lg8uLy7VS3-kqeaiPYMUcwnIHPyWpZ9p5kLA9WTLZNPj0cN1yAt_E_gkvpLcoKkzbcoh1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkO_8F3A4lg8uLy7VS3-kqeaiPYMUcwnIHPyWpZ9p5kLA9WTLZNPj0cN1yAt_E_gkvpLcoKkzbcoh1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
