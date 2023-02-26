@@ -8,20 +8,23 @@ locations:
       - 2 Ang Mo Kio St 21
       - Singapore 569384
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: Mon - Fri
+        time: 0730 - 1700
+        description: ""
     maps_link: ""
     title: School Address
 contacts:
   - content:
-      - phone: ""
-      - email: ""
-      - other: <h5>Telephone</h5>+65 6457 7783 <h5>Fax</h5> +65 6458 3284
-    title: Phone line
-  - content:
-      - phone: ""
+      - phone: +65 6457 7783
       - email: mayflower_ss@moe.edu.sg
       - other: ""
-    title: Email
+    title: Land Line and Email
+  - content:
+      - phone: +65 6458 3284
+      - email: ""
+      - other: ""
+    title: Fax
   - content:
       - phone: ""
       - email: ""
