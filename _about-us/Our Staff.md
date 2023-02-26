@@ -3,13 +3,8 @@ title: Our Staff
 permalink: /about-us/our-staff/permalink/
 description: ""
 ---
-Our Staff
-=========
+### School Management Committee
 
-  
-
-School Management Committee
----------------------------
 | Designation | Name | Email |
 | --- | --- | --- |
 | Principal | Mdm Lee Eet Fong | [lee\_eet\_fong@schools.gov.sg](mailto:lee_eet_fong@schools.gov.sg) |
@@ -42,8 +37,8 @@ School Management Committee
 |LT Chinese Language | Mdm Wang Xue Ping | [wang\_xueping@schools.gov.sg](mailto:wang_xueping@schools.gov.sg)
 
 
-Form Teachers
--------------
+### Form Teachers
+
 | Class | Name | Email |
 | --- | --- | --- |
 | 1A | Mdm Tan Peck Hoon | [tan\_peck\_hoon\_a@schools.gov.sg](mailto:tan_peck_hoon_a@schools.gov.sg) |
@@ -100,8 +95,8 @@ Form Teachers
 | 4J | Ms Lim Wei Li | [lim\_wei\_li\_a@schools.gov.gov.sg](mailto:lim_wei_li_a@schools.gov.gov.sg) |
 | 5F | Ms Ng Xue Lai, Sherrie | [ng\_xue\_lei\_sherrie@schools.gov.sg](mailto:ng_xue_lei_sherrie@schools.gov.sg) |
 
-Non-Form Teachers
------------------
+### Non-Form Teachers
+
   
 | Designation | Name | Email |
 | --- | --- | --- |
@@ -119,8 +114,8 @@ Non-Form Teachers
 | Student Welfare Officer | Ms Amirah Binte Ariffin | [amirah\_ariffin@schools.gov.sg](mailto:amirah_ariffin@schools.gov.sg) |
 | Edu. & Career Guidance Counsellor (ECG) | Ms Camilla Teo | [teo\_hsia\_poh@schools.gov.sg](mailto:teo_hsia_poh@schools.gov.sg) |
 
-Executive and Administration Staff
-----------------------------------
+### Executive and Administration Staff
+
 | Designation | Name | Email |
 | --- | --- | --- |
 | Administration Manager | Mdm Tan Gie Chun | [tan\_gie\_chun@schools.gov.sg](mailto:tan_gie_chun@schools.gov.sg) |
@@ -148,8 +143,8 @@ Executive and Administration Staff
 | Operation Support Officer | Mr Mahmood Bin Suhaimi | NIL |
 | Operation Support Officer (Assit. Home Econ) | Mdm Chuo Chung Mee Amy | NIL |
 
-Adjunct Relief Teachers
------------------------
+### Adjunct Relief Teachers
+
 |Designation|Name|Email|
 |----|-----|-----|
 |Flexi Adj (Art)|Ms Teo Wan Ping (Serene)|[teo\_wan\_ping@schools.gov.sg](mailto:teo_wan_ping@schools.gov.sg)|
