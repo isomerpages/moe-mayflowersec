@@ -3,9 +3,6 @@ title: Our Identity
 permalink: /about-us/our-identity/permalink/
 description: ""
 ---
-Our Identity
-============
-
 ### Our School Crest
 ![](/images/crest.svg)
 The school crest is composed of the letters, MF, encompassed by the name of the school.
@@ -18,25 +15,24 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 ### School Motto
 
-_**Mighty in Thought and Deed**_  
+> Mighty in Thought and Deed
 
------------------------------------
-
+----
   
 
 ###   
 
 ### Mayflower Promise
 
-_Future Ready Mayflowerians with_ _a **zest for life**,_ _a **curious mind** and a **generous spirit**_  
+> Future Ready Mayflowerians with a zest for life, a curious mind and a generous spirit 
 
-----------------------------------------------------------------------------------------------------------
+------
 
   
 
 ### Mayflower Mission
 
-_**Every Mayflowerian - Mighty in Thought and Deed**_
+> Every Mayflowerian - Mighty in Thought and Deed
 
 ### Mayflower Values
 
