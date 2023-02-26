@@ -4,9 +4,6 @@ permalink: /curriculum/Departments/mother-tongue/permalink/
 description: ""
 third_nav_title: Departments
 ---
-Mother Tongue
-=============
-
 #### Department Vision
 
 
