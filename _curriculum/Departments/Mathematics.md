@@ -4,9 +4,6 @@ permalink: /curriculum/Departments/mathematics/permalink/
 description: ""
 third_nav_title: Departments
 ---
-Mathematics
-===========
-
 ### Vision
 
 > Every Mayflowerian a Future-ready Mathematical Thinker
