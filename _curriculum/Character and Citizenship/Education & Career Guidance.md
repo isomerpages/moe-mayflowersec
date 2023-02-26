@@ -4,9 +4,6 @@ permalink: /curriculum/Character-and-Citizenship/education-and-career-guidance/p
 description: ""
 third_nav_title: Character and Citizenship
 ---
-Education & Career Guidance
-===========================
-
 Mayflower’s ECG programme aims to equip Mayflowerians with the necessary knowledge, skills and values to make decisions at each key education stage for successful transition from school to further education or work, and hence to plan and manage their career pathways and learning throughout their lives. ECG is important to prepare our Mayflowerians for the working world, equip them with the skills to remain competitive in the global economy and above all, to lead meaningful and productive lives.
 
 ### Level Programmes
