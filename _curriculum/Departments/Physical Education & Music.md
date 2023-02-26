@@ -4,8 +4,6 @@ permalink: /curriculum/Departments/pe-and-music/permalink/
 description: ""
 third_nav_title: Departments
 ---
-
-Physical Education &amp; Music Department
 | Teacher | Designation | Unit |
 |---|---|---|
 | Mr Eric Wong Yih Chon  |HOD PE &amp; CCA | Physical Education |  
