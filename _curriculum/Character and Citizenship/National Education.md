@@ -18,12 +18,11 @@ NE in Mayflower aims to be empowering and aspirational, allowing for individual 
     *   During the Flag-Raising Ceremony, our students sing the National Anthem and recite the National Pledge to reinforce the values we stand for as a Nation.
     *   Through their Everyday Responsibilities, students cultivate good habits of life, such as classroom cleaning and class duties.
 3.  NE in Co-curricular Experiences
-
-*   NE Learning Journeys (LJs) are authentic, out-of-school learning experiences of both core NE LJs and subject-based LJs. These enable students to explore their personal and collective identity by engaging with the people, perspectives and places of Singapore.
-*   Values in Action (VIA): Through VIAs, our students are encouraged to identify and understand community issues, initiate action among their peers to make a difference, and improve the lives of others.
-*   Co-curricular activities (CCAs): Our students’ participation in CCAs promotes friendships among peers from diverse backgrounds as they learn, play and grow together. Through this, CCAs fosters social belonging, commitment and a sense of responsibility to school, community and nation.
-*   Cohort Experiences which include level camps, Sec 3 MOE-OBS Challenge Programme.
+    *   NE Learning Journeys (LJs) are authentic, out-of-school learning experiences of both core NE LJs and subject-based LJs. These enable students to explore their personal and collective identity by engaging with the people, perspectives and places of Singapore.
+    *   Values in Action (VIA): Through VIAs, our students are encouraged to identify and understand community issues, initiate action among their peers to make a difference, and improve the lives of others.
+    *   Co-curricular activities (CCAs): Our students’ participation in CCAs promotes friendships among peers from diverse backgrounds as they learn, play and grow together. Through this, CCAs fosters social belonging, commitment and a sense of responsibility to school, community and nation.
+    *   Cohort Experiences which include level camps, Sec 3 MOE-OBS Challenge Programme.
 
 Photo
 -----
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbRH1p_MKW181w0rLC6eaYgdiqoTxJuhjv-A1c_RjLfMB3ThPNydZITzchaLW6odf3O_AV2j38B4oT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbRH1p_MKW181w0rLC6eaYgdiqoTxJuhjv-A1c_RjLfMB3ThPNydZITzchaLW6odf3O_AV2j38B4oT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
