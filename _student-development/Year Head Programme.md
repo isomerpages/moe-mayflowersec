@@ -3,9 +3,6 @@ title: Year Head Programme
 permalink: /student-development/year-head-programme/permalink/
 description: ""
 ---
-Year Head Programme
-===================
-
 The Year Head Programme is helmed by a team committed to providing level programmes and customised support programmes to create a school environment where students are happy, engaged in learning and motivated to give their best.
 
 Level Programmes
