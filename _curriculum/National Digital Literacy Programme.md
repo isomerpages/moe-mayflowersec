@@ -21,8 +21,10 @@ Watch the video to have a better understanding of how NDLP strengthens Digital L
 
 Watch the videos to hear the students' and teachers' voices about NDLP.
 
-| <iframe width="398" height="224" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 	| <iframe width="398" height="224" src="https://www.youtube.com/embed/-TCnHCORdYc" title="Digital Learning - Teachers' Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 	|
-|---	|---	|
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/-TCnHCORdYc" title="Digital Learning - Teachers' Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 
 #### How Will Your Child Be Using Their PLDs?
 
@@ -30,23 +32,36 @@ They will use their PLDs to access platforms such as the Student Learning Space 
 
 **\[In school\]**  
 * To support their learning experiences
-*   To review their learning and close learning gaps
-*   To collaborate with their peers and teachers
+* To review their learning and close learning gaps
+* To collaborate with their peers and teachers
 
 **\[Beyond school\]**  
 * To continue to learn during home-based learning (HBL)
-*   To explore topics of their personal interests and preferences
-*   To learn and make use of digital tools such as calendaring and note-taking applications to enhance personal productivity and develop life skills
+* To explore topics of their personal interests and preferences
+* To learn and make use of digital tools such as calendaring and note-taking applications to enhance personal productivity and develop life skills
 
 #### Digital Applications for Students
 
 As part of the NDLP, schools will progressively roll out ICT applications that are vital to students’ educational journey. These applications will form an integral part of the applications installed in the PLDs:
  |Student iCON| Microsoft Pro Plus | Zoom |
  |----|----|----|
-| Every secondary school student will be given an iCON account that provides access to email and Google productivity tools.| Every secondary school student will be able to access and use Microsoft Office tools that include Word, PowerPoint and Excel on their PLD.|
+| Every secondary school student will be given an iCON account that provides access to email and Google productivity tools.| Every secondary school student will be able to access and use Microsoft Office tools that include Word, PowerPoint and Excel on their PLD.| Every secondary school student will be given a Zoom free account \[with a 40 mins time limit\] using the Student iCON for the students’ video conferencing needs.|
  
 ### Device Information
-![Acer Chromebook]()
+> ![Acer Chromebook](/images/Acer%20Chromebook.png) **Acer Chromebook Spin R753TN**
+
+|Type | Specifications |
+| ---- | -------- |
+| **OS** | ChromeOS |
+| **Processor** | Intel N4500 |
+| **RAM and Storage** | 8GB, 64GB |
+| **Battery** | Up to 12 hours |
+| **Weight** | 1.31kg |
+| **Screen** | 11.6" IPS, HD 1366 x 768, Multi-Touch |
+| **Accessories** | Active Pen, wired mouse |
+| **Convertible** | Yes (back-flip) |
+| **Shock Resistant** | Yes |
+
 
 ### Supporting Students in the Safe and Effective Use of PLDs
 
