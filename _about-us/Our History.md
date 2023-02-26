@@ -3,12 +3,19 @@ title: Our History
 permalink: /about-us/our-history/permalink/
 description: ""
 ---
-Our History
-===========
-
 Principals
 ----------
-![](/images/principals.png)
+|Year|Principal|
+|---|---|
+|1981|Mr Wan Hussin Zoohri|
+|1982 - 1984| Mr Ibrahim Bin Othman|
+|1985 - 1994| Mr Tang Swee Chay |
+|1994 - 1998| Mrs Yap Hong Eng |
+| 1999 - 2005 | Ms Lo Sheu Ming |
+| 2006 - 2012	| Mrs Doris Lim |
+| 2013 - 2017 | Mr Loo Ming Yaw |
+| 2018 - | Mdm Lee Eet Fong | 
+
 ![](/images/history.jpg)
 
 The original Mayflower Secondary School building was built at a cost of $5.46 million on a 2.7 hectares plot of land along Ang Mo Kio Avenue 3 in the then new Ang Mo Kio Satellite Town. The school started in 1981 with 408 students and became one of the more popular neighbourhood schools in this area.
