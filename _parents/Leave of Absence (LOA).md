@@ -18,22 +18,20 @@ Eligibility
 
 1.  The Leave of Absence (LOA) scheme applies to all Singapore Citizen (SC) and Permanent Resident (PR) children studying in primary schools, secondary schools, junior colleges and Millennia Institute.
 2.  To be granted LOA, your child must fulfil the following criteria:
-
-*   Singapore Citizen or Permanent Resident
-*   Presently studying in a Singapore school
-*   Accompanying you on an overseas posting with the intention of re-joining the school after returning to Singapore  
+    *   Singapore Citizen or Permanent Resident
+    *   Presently studying in a Singapore school
+    *   Accompanying you on an overseas posting with the intention of re-joining the school after returning to Singapore  
     Or:
-*   Child is already registered for Secondary 1 but will be overseas at the start of the year
+    *   Child is already registered for Secondary 1 but will be overseas at the start of the year
 
 Steps
 -----
 
 1.  Please prepare the following information before you proceed with the LOA application, such as:
-
-*   Student information ie Full Name, NRIC/BC Number
-*   Parent information ie Full Name, NRIC/FIN/Passport Number
-*   LOA period and reason
-*   Softcopy of supporting document(s) for the LOA application
+    *   Student information ie Full Name, NRIC/BC Number
+    *   Parent information ie Full Name, NRIC/FIN/Passport Number
+    *   LOA period and reason
+    *   Softcopy of supporting document(s) for the LOA application
 
 3.  The school may contact you for additional clarification and/or documents (if required). Please note that the LOA application is subject to the Principal's approval, and the school will notify you of the outcome.
 4.  Schools will charge an annual nominal fee for a child on LOA. For LOA periods of less than a year, the annual LOA fee will be pro-rated accordingly. Upon successful application, the school will advise on the payment procedure for LOA fee.
