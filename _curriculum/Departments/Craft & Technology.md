@@ -4,8 +4,6 @@ permalink: /curriculum/Departments/craft-and-technology/permalink/
 description: ""
 third_nav_title: Departments
 ---
-Craft &amp; Technology
-==================
 ![](/images/ct1.jpg)
 
 The Mayflower Secondary Craft and Technology (C&amp;T) Department vision was crafted in 2019 to provide our C&amp;T educators with a focal point and a vision of the Mayflowerians that they will nurture through the C&amp;T subjects. In conjunction with MOE’s drive to develop 21st century citizens, this vision helps the department to align teaching and learning approaches to ensure that the desired outcomes of the C&amp;T syllabi are achieved. This vision also provides the foundation for our teachers’ continual reflection and professional development, so as to strengthen the learning experiences for our students.
