@@ -49,7 +49,7 @@ Partnerships Committee
 **Objective:**&nbsp;To forge meaningful partnerships with stakeholders for the advancement of the Mayflower's Promise
 
 | Advisor 	| Mr Prashant Jayapragas (Vice Principal) 	|
-|:---:	|:---:	|
+|:---	|:---	|
 | I/C Partnership Committee 	| Mdm Santhi A. (HOD EL)<br>Mrs Marie Huang (SH Biology)<br>Mrs Eugenia Tan (SH History) 	|
 | Staff members 	| Mr Mohamed Naguib Bin Ngadnan<br>Ms Su Haiyin<br>Mr Lee Joen Yen<br>Mr Chan Jiahui Matthew<br>Mr Tan Jian Xun<br>Ms Wong Yin Sung 	|
 | Corporate Support Officer 	| Mdm Sylvian Tan<br>Mr Leow Leong Chuan 	|
@@ -58,7 +58,7 @@ Partnerships Committee
 ----------------------------------------------
 
 | School Advisors 	| Mr Prashant Jayapragas (Vice Principal)<br>Mrs Eugenia Tan (SH History) 	|
-|:---:	|:---:	|
+|:---	|:---	|
 | Chairperson 	| Mdm Luo Ying Ying 	|
 | Vice-Chairpersons 	| Mdm Mok Pei Hong<br>Mr Raymond Tan 	|
 | Secretary 	| Mdm Tan Hing Lan 	|
@@ -73,14 +73,14 @@ PSG Photo Album
 ---------------
 
 **Parent Teacher Conference 2019**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsayhUAry_cDn09PjK3yiAroLT1Kth8GakKrp8v7d5FkA4j2mGNEtfOnLG05oD_lrXzCI_Pbd2fk3F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsayhUAry_cDn09PjK3yiAroLT1Kth8GakKrp8v7d5FkA4j2mGNEtfOnLG05oD_lrXzCI_Pbd2fk3F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Partners Appreciation Dinner**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOlP93kKpQz7KAwcMkmU-ff440Qstzxv42-tyteYFBDucrt6YKORsu-GdGPlXHPCeq40AG8GjvoouB/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOlP93kKpQz7KAwcMkmU-ff440Qstzxv42-tyteYFBDucrt6YKORsu-GdGPlXHPCeq40AG8GjvoouB/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="400" width="100%" allowfullscreen="true"></iframe>
 
 **Sec 1 Meet-Parents-Session, CCA Exhibition**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl0L_tIkzPUlUISVafxW-32GSQ8GNpwAqmmEdy7YN2ei7qqL-T3WY4SqX8IOCySVAujza_3sj7KWpV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl0L_tIkzPUlUISVafxW-32GSQ8GNpwAqmmEdy7YN2ei7qqL-T3WY4SqX8IOCySVAujza_3sj7KWpV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Video
 -----
-<iframe width="835" height="450" src="https://www.youtube.com/embed/K_DNl6rtOBg" title="Mayflower Sec - Parent Support Group 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="400" width="100%" src="https://www.youtube.com/embed/K_DNl6rtOBg" title="Mayflower Sec - Parent Support Group 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
