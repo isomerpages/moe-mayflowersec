@@ -17,14 +17,14 @@ Watch the video to have a better understanding of how NDLP strengthens Digital L
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/3FKftVAU4eI" title="Strengthening digital literacy of students | Committee of Supply 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Student And Teacher Experiences
+#### Student And Teacher Experiences
 
 Watch the videos to hear the students' and teachers' voices about NDLP.
 
 | <iframe width="398" height="224" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 	| <iframe width="398" height="224" src="https://www.youtube.com/embed/-TCnHCORdYc" title="Digital Learning - Teachers' Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 	|
 |---	|---	|
 
-### How Will Your Child Be Using Their PLDs?
+#### How Will Your Child Be Using Their PLDs?
 
 They will use their PLDs to access platforms such as the Student Learning Space (SLS), Google Workspace, Slido, Mentimeter, Kahoot, Nearpod, Padlet, to:
 
@@ -38,13 +38,16 @@ They will use their PLDs to access platforms such as the Student Learning Space 
 *   To explore topics of their personal interests and preferences
 *   To learn and make use of digital tools such as calendaring and note-taking applications to enhance personal productivity and develop life skills
 
-### Digital Applications for Students
+#### Digital Applications for Students
 
 As part of the NDLP, schools will progressively roll out ICT applications that are vital to students’ educational journey. These applications will form an integral part of the applications installed in the PLDs:
-![](/images/ndlp1.png)
+ |Student iCON| Microsoft Pro Plus | Zoom |
+ |----|----|----|
+| Every secondary school student will be given an iCON account that provides access to email and Google productivity tools.| Every secondary school student will be able to access and use Microsoft Office tools that include Word, PowerPoint and Excel on their PLD.|
+ 
 
-Supporting Students in the Safe and Effective Use of PLDs
----------------------------------------------------------
+
+### Supporting Students in the Safe and Effective Use of PLDs
 
 The school has put measures in place to enable a safe and conducive learning environment for students to use PLDs for teaching and learning as follows:
 
@@ -52,11 +55,11 @@ The school has put measures in place to enable a safe and conducive learning env
 2.  Cyber Wellness Education
 3.  Device Management Application (DMA)
 
-### Classroom Management and Routines
+#### Classroom Management and Routines
 
 ![](/images/ndlp2.png)
 
-### Cyber Wellness Education
+#### Cyber Wellness Education
 
 MOE has enhanced Character and Citizenship Education (CCE 2021) to significantly incorporate cyber wellness to educate students on the demands of NDLP.
 
@@ -88,7 +91,7 @@ To support you in keeping your child safe online, you may refer to these resourc
 
 [Parent Handbook I on 1_1 Learning.pdf](/files/ndlp3.pdf)
 
-### Device Management Application (DMA) - Mobile Guardian
+#### Device Management Application (DMA) - Mobile Guardian
 
 Device management application (DMA) software will be installed on your child’s device to provide a safe learning experience for your child, and prevent misuse of the device.
 
