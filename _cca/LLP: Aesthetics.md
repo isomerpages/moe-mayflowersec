@@ -3,10 +3,8 @@ title: "LLP: Aesthetics"
 permalink: /cca/llp-aesthetics/permalink/
 description: ""
 ---
-LLP: Aesthetics
-===============
 
-### Developing A Zest For Life Through Music, Performing And Visual Arts
+> Developing A Zest For Life Through Music, Performing And Visual Arts
 
 We believe arts education is a powerful tool that helps students to become positive thinkers and spirited citizens. Positive thinking and perseverance are especially important during times of rapid change. As such, we design our aesthetics program to develop students' heads, hearts, and hands.
 
