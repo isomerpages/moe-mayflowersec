@@ -4,25 +4,19 @@ permalink: /curriculum/Departments/pe-and-music/permalink/
 description: ""
 third_nav_title: Departments
 ---
-Physical Education &amp; Music
-==========================
-**Physical Education &amp; Music Department**
 
-### The PE Team
-
-Mr Eric Wong Yih Chon (HOD PE &amp; CCA)  
-Mrs Lucinda Leong (Subject Head CCA)  
-Mr Alvin Yap Chien Shen  
-Mr Edwin Goh Keng Lim  
-Mr Matthew Chan Jiahui  
-Mr Tan Jian Xun  
-Mr Lee Joen Yen  
-Mr Vicknesh Thiagarajah
-
-### The Music Team
-
-Subject Head: Dr Tang Suyun (Aesthetics)  
-Ms Bridget Ooi Ming Min  
+Physical Education &amp; Music Department
+| Teacher | Designation | Unit |
+|---|---|---|
+| Mr Eric Wong Yih Chon  |HOD PE &amp; CCA | Physical Education |  
+| Mrs Lucinda Leong |Subject Head CCA |Physical Education |   
+| Mr Alvin Yap Chien Shen | Teacher | Physical Education |  
+| Mr Edwin Goh Keng Lim   | Teacher | Physical Education |  
+| Mr Matthew Chan Jiahui   | Teacher | Physical Education |  
+| Mr Tan Jian Xun   | Teacher | Physical Education |  
+| Dr Tang Suyun  | Teacher | Music |  
+|Ms Bridget Ooi Ming Min   | Teacher | Music | 
+| Mr Lee Joen Yen   | Adjunct Teacher | Physical Education |  
 
 ### PE Department
 
@@ -46,7 +40,7 @@ Photo
 -----
 
 **Music**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDEjhstz2Pme16cb7J3P92wsbRmqIOTBDseUs857bdajUN49BxkvndFECgHafjcX2O0egzOPW0INXZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDEjhstz2Pme16cb7J3P92wsbRmqIOTBDseUs857bdajUN49BxkvndFECgHafjcX2O0egzOPW0INXZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
 
 **Physical Education**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTRP28uBzd20cRkL0biA9OxNUeRU70CekMglXSvg4ZaWnA5_JrY1xPEjtzAHqAm7yT2a_UEQP3nkn3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="100%" height="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTRP28uBzd20cRkL0biA9OxNUeRU70CekMglXSvg4ZaWnA5_JrY1xPEjtzAHqAm7yT2a_UEQP3nkn3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
