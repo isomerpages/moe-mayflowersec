@@ -3,8 +3,7 @@ title: Leave of Absence (LOA)
 permalink: /parents/loa/permalink/
 description: ""
 ---
-Leave of Absence (LOA)
-======================
+
 
 General Information
 -------------------
