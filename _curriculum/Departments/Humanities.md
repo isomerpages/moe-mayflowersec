@@ -4,27 +4,24 @@ permalink: /curriculum/Departments/humanities/permalink/
 description: ""
 third_nav_title: Departments
 ---
-Humanities
-==========
+> Our VISION: Humanities students and staff are life-long learners with a global perspective.
 
-### Our VISION: Humanities students and staff are life-long learners with a global perspective.
+#### The Humanities Team
 
-**The Humanities Team:**
-
-**HOD:**&nbsp;Mdm S Santhi (Humanities)  
-**Subject Head:**&nbsp;Mrs Eugenia Tan (History)  
-**Senior Teacher:**&nbsp;Mrs Frances Ess (Geography)
-
-**HOD:**&nbsp;Mrs Tricia Lim Sze Ling (CCE)  
-**HOD:**&nbsp;Mr Raj Kanna Velayutham (Discipline)
-
-Mdm Iswarya (Geography / Social Studies)  
-Ms Charissa Qiu (Social Studies)  
-Mr Jeremy Ong Zhen Wei (Geography)  
-Ms Alethea Goei (Geography / Social Studies)  
-Ms Su Haiyin (History / Social Studies)  
-Mr Chen Zhen (Geography / History)  
-Ms Sherrie Ng (Geography / Social Studies)
+| Teacher | Designation | Subject |
+| --- | --- | --- |
+| Mdm S Santhi | HOD Humanities | Social Studies / Geography |
+| Mrs Tricia Lim Sze Ling | HOD CCE | Geography |
+| Mr Raj Kanna Velayutham | HOD Discipline| History |
+| Ms Fateha Binte Abdullah | SH Humanities | History |
+| Mrs Frances Ess | Senior Teacher | Geography |
+| Ms Charissa Qiu | Teacher | Social Studies |
+| Mr Jeremy Ong Zhen Wei | Teacher | Geography |
+| Ms Alethea Goei | Teacher | Geography / Social Studies |
+| Ms Su Haiyin |Teacher  | History / Social Studies |
+| Mr Chen Zhen | Teacher | Geography / History |
+| Ms Sherrie Ng | Teacher | Geography / Social Studies |
+| Mrs Eugenia Tan | Adjunct Teacher  | History |
 
 Unprecedented times has called for unprecedented changes. Our education landscape is undergoing a massive transformation accelerated by the Covid pandemic. The new normal is anything but normal as we strive to prepare our students for a global, digital, information economy. The skills and knowledge that our students need as they compete for jobs with peers from around the world, have risen to the highest levels in history.
 
@@ -40,12 +37,16 @@ Special emphasis has always been placed on the professional development of our t
 
 Notable Programmes &amp; Events
 ---------------------------
+#### Geographical (GI) / Historical (HI) / Social Studies Issue Investigations (II)
+Inquiry based learning as the cornerstone, students of all levels embark on GI involving fieldwork at various places in Singapore. [Covid year being an exception though] Lower Secondary students also worked on historical sources to make sense and form conclusions relating to Singapore history. Our Secondary 3 students and all NT students, embarked on various projects to better understand current societal issues.
 
-| Geographical (GI) / Historical (HI) / Social Studies Issue Investigations (II) 	| Inquiry based learning as the cornerstone, students of all levels embark on GI involving fieldwork at various places in Singapore. [Covid year being an exception though] Lower Secondary students also worked on historical sources to make sense and form conclusions relating to Singapore history. Our Secondary 3 students and all NT students, embarked on various projects to better understand current societal issues. 	|
-|:---:	|:---:	|
-| Inter-School Philosophy Dialogue at Raffles Institution 	| A group of students take part in this dialogue every year.  The small-group discussions allow for our students a chance to deploy their critical thinking skills, analytical prowess and verbal presentation skills as they share their thoughts and opinions with their peers. 	|
-| PROVE IT! Competition 	| Selected lower secondary students take part in this inter-school challenge that examines their ability to test for reliable information, an important life skill in these times.  	|
-| MOE History Challenge 	| Every year a select group of upper secondary students take part in the MOE History Challenge, where they are tested on their historical knowledge.  	|
+#### Inter-School Philosophy Dialogue at Raffles Institution
+A group of students take part in this dialogue every year.  The small-group discussions allow for our students a chance to deploy their critical thinking skills, analytical prowess and verbal presentation skills as they share their thoughts and opinions with their peers. 
+
+#### PROVE IT! Competition 	
+Selected lower secondary students take part in this inter-school challenge that examines their ability to test for reliable information, an important life skill in these times.  
+####  MOE History Challenge 	
+Every year a select group of upper secondary students take part in the MOE History Challenge, where they are tested on their historical knowledge.  	|
 
 ![](/images/science1.jpg)
 **Let’s NOT get left behind as we travel the virtual world!  
@@ -54,31 +55,24 @@ Put on your VR Goggles and scan the QR code below to experience it yourself.**
 Photo
 -----
 **Active Learners**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyXMfG5juOyJlOxRPoaEsSHQw4KMsU_mLV2bRgAgCoXqmGZ54f5K9XFfmCbky5T2R3XmURvZKvSLSw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyXMfG5juOyJlOxRPoaEsSHQw4KMsU_mLV2bRgAgCoXqmGZ54f5K9XFfmCbky5T2R3XmURvZKvSLSw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
 
 **External competitions have been challenging and particularly**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9IvgGucY7kY0p6UUCf9ZDeL1-5hrwSigSoeJlLTieCWudJwLx_R_OeV6ujqjQdb6nKuQahGqXQymQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9IvgGucY7kY0p6UUCf9ZDeL1-5hrwSigSoeJlLTieCWudJwLx_R_OeV6ujqjQdb6nKuQahGqXQymQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
 
 **Learning Outdoors with fieldwork**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjba9ag3LPaJWw4QigvLuV9TNU5yW2G_LvaWswFiWTsNgPmiVIXTWDWQeYZ688Ee0GGnndn0daUfkN/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjba9ag3LPaJWw4QigvLuV9TNU5yW2G_LvaWswFiWTsNgPmiVIXTWDWQeYZ688Ee0GGnndn0daUfkN/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
 
 **Opportunities to learn from the Experts!**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxNhAaYg56u-Yprhiny3lpkfHcH9jNbgxJsKBV4F49XGhAaLW2orCgVojCW9JDFMhsfoejtvsYYGy7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-Video
+<iframe allowfullscreen="true" width="100%" height="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxNhAaYg56u-Yprhiny3lpkfHcH9jNbgxJsKBV4F49XGhAaLW2orCgVojCW9JDFMhsfoejtvsYYGy7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+Videos
 -----
 
-### Geography
+| Geography | History |
+|---|---|
+| [Take a flight over a Volcano!](https://youtu.be/o3a1fkLsNS4) <br> [Hike through the Rainforest](https://youtu.be/ELQh3z4KrXk) <br> [Stroll along the slums](https://youtu.be/PFqv_QKO574)|[Trench Warfare](https://youtu.be/m7h4XuvLrmg) <br>[Air Raid Tunnels WW2](https://youtu.be/5xKaXPrfAMs) <br> [Atomic Bombing](https://youtu.be/Hgp6ZH-by-E) |
 
-*   Take a flight over a Volcano! - [youtu.be/o3a1fkLsNS4](https://youtu.be/o3a1fkLsNS4)
-*   Hike through the Rainforest - [https://youtu.be/ELQh3z4KrXk](https://youtu.be/ELQh3z4KrXk)
-*   Stroll along the slums - [youtu.be/PFqv\_QKO574](https://youtu.be/PFqv_QKO574)
+#### YouTube
 
-### History
-
-*   Trench Warfare - [youtu.be/m7h4XuvLrmg](https://youtu.be/m7h4XuvLrmg)
-*   Air Raid Tunnels WW2 - [youtu.be/5xKaXPrfAMs](https://youtu.be/5xKaXPrfAMs)
-*   Atomic Bombing - [youtu.be/Hgp6ZH-by-E](https://youtu.be/Hgp6ZH-by-E)
-
-YouTube
--------
-<iframe width="835" height="450" src="https://www.youtube.com/embed/Mln87VqWOTQ" title="Mayflower Secondary School Humanities Dept - Prove It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Mln87VqWOTQ" title="Mayflower Secondary School Humanities Dept - Prove It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
