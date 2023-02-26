@@ -5,18 +5,17 @@ description: ""
 ---
 Mayflower Secondary is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020 onwards.
 
-Purpose of Full SBB
-----
+### Purpose of Full SBB
 
 With Full SBB, we are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs, without labels. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life in them.
 
-Full SBB Pilot in Mayflower Secondary School
---------------------------------------------
+### Full SBB Pilot in Mayflower Secondary School
+
 
 As part of the pilot, our school has implemented the following:  
   
 
-**1\. OFFERING OF HUMANITIES SUBJECTS AT A MORE DEMANDING LEVEL FROM 2020**
+#### 1\. Offering of Humanities subjects at a more demanding level from 2020
 
 **This is applicable to students who are in Secondary 2 Normal from 2020.**
 
@@ -26,7 +25,7 @@ As part of the pilot, our school has implemented the following:
 
   
 
-**2\. ORGANISING SECONDARY 1 FORM CLASSES IN NEW WAYS FROM 2021**
+#### 2\. Organising Secondary 1 form classes in new ways from 2021
 
 **This is applicable to Secondary 1 students entering our school from 2021.**
 
@@ -39,13 +38,13 @@ As part of the pilot, our school has implemented the following:
 For more information on how our school would implement Full SBB, you can contact us at [**mayflower\_ss@moe.edu.sg**](https://mayflowersec.moe.edu.sg/curriculum/mayflower_ss@moe.edu.sg)  
   
 
-Useful Videos for Reference
----------------------------
+### Useful Videos for Reference
+
 *   [**“Talk show” with Min Ong.**](https://www.facebook.com/moesingapore/videos/2725818744113611/?sfns=mo) This video shares the rationale behind Full SBB through an interview with Minister Ong.
 *   [**Explaining full SBB.**](https://www.youtube.com/watch?v=JMc_GispPmk&feature=youtu.be) This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
 
-Infographics on Full SBB
-------------------------
+### Infographics on Full SBB
+
 
 ![](/images/sbb1.png)
 ![](/images/sbb2.jpg)
