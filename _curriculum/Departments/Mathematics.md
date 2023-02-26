@@ -9,42 +9,44 @@ Mathematics
 
 ### Vision
 
-Every Mayflowerian a Future-ready Mathematical Thinker
+> Every Mayflowerian a Future-ready Mathematical Thinker
 
-*   Our team aspires to influence your child with a passion for mathematics.
-*   Our teaching strategies focus on nurturing your child to be an avid problem solver.
-*   As your child matures, they become keen to take on challenges and persevere for life.
-*   We aim to mould your child to see Mathematics beyond secondary education, as a tool of logic that guides them for their future.
-*   We believe that your child matters and will always seek ways to engage them in teaching and learning.
+Our team aspires to influence your child with a passion for mathematics.
+Our teaching strategies focus on nurturing your child to be an avid problem solver.
+As your child matures, they become keen to take on challenges and persevere for life.
+We aim to mould your child to see Mathematics beyond secondary education, as a tool of logic that guides them for their future.
+We believe that your child matters and will always seek ways to engage them in teaching and learning.
 
 ### The Team
 
-Mr Narayanan Namasivayam (HOD Mathematics)  
-Mr Shankar Nair (HOD ICT)  
-Mdm Rohayati Binte Ismail (Year Head – Lower Secondary)  
-Mr Chio Kah Leong (SH Mathematics)  
-Mrs Quek Ai Jee (Senior Teacher Mathematics)  
-Mdm Suhaila Bakar (SH Student Leadership)  
-Mr Cheow Chee Siang Gabriel (Subject Head ICT (Internal))
 
-Mdm Goh Poh Ling  
-Mr Fam Tong Siang  
-Mdm Kalpana Balakrishnan  
-Mr Matthew Chan  
-Mr Nicholas Quek  
-Ms Shen Sirui  
-Mr Tan Boon Yong  
-Mdm Yam Chaur Shin  
-Ms Yeo Lynn  
-Mr Ku Seow Wee
+| Name | Designation | 
+| -------- | -------- | 
+| Mr Narayanan Namasivayam     | HOD Mathematics |
+| Mr Shankar Nair | HOD ICT |
+| Mr B Prem Anand | Year Head – Upper Secondary |
+| Mdm Rohayati Binte Ismail |Year Head – Lower Secondary|
+| Mr Cheow Chee Siang Gabriel| SH ICT |
+| Mr Chio Kah Leong | SH Mathematics |
+| Mdm Suhaila Bakar |SH Student Leadership |
+| Mr Fam Tong Siang  | Teacher |
+| Mdm Goh Poh Ling | Teacher |   
+| Mr Matthew Chan | Teacher | 
+| Mr Nicholas Quek  | Teacher |
+| Mrs Quek Ai Jee | Teacher |
+| Ms Shen Sirui | Teacher |
+| Mr Tan Boon Yong | Teacher |
+| Mdm Yam Chaur Shin | Teacher |
+| Ms Yeo Lynn | Teacher |
+| Mr Ku Seow Wee | Teacher (POA) |
 
-Learning goes beyond the classroom
+Learning Beyond the Classroom
 ----------------------------------
 
 ### Self-Directed Learning
 ![](/images/math2.png)
 
-### In-house competition
+### In-house Competitions
 ![](/images/math3.png)
 
 ### Demo App: GeoGebra
