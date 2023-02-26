@@ -50,8 +50,8 @@ All of this would not have been possible without a team of dedicated teachers wh
 
 Photo
 -----
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBlySj-ySU7vvmRYo6cjuk7cJ12tmnE2WgD1pCgDNrtorca_Wiwy_fZQ8GjtHzIeIKUPbbdJkd7B7y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBlySj-ySU7vvmRYo6cjuk7cJ12tmnE2WgD1pCgDNrtorca_Wiwy_fZQ8GjtHzIeIKUPbbdJkd7B7y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Generous Spirit Through Student Leadership Programme" src="https://www.youtube.com/embed/f85hkwNLC-Y" height="450" width="835"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Generous Spirit Through Student Leadership Programme" src="https://www.youtube.com/embed/f85hkwNLC-Y" height="400" width="100%"></iframe>
