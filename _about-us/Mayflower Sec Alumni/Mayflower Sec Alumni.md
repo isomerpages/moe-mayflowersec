@@ -4,18 +4,9 @@ permalink: /about-us/Mayflower-Sec-Alumni/permalink/
 description: ""
 third_nav_title: Mayflower Sec Alumni
 ---
-Mayflower Sec Alumni
-====================
-
 About our Alumni
 ----------------
 <img style="width:40%" src="/images/alumni.jpg">
-
-### Mission
-
-To continue to stay connected with the school, continue supporting her development and well being, as well as inspiring the next generation of Mayflowerians.
-
-### Connect with us
 
 ### Mission
 
@@ -37,4 +28,4 @@ Video
 
 Hall of Fame
 -----
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyrhvqBaiOClp2UDeIDwIqol0VR0b8_A66HugkycrYhdoELtIHo4LHG1Hnc-XcPJ-G6rkrnbCV9EwN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyrhvqBaiOClp2UDeIDwIqol0VR0b8_A66HugkycrYhdoELtIHo4LHG1Hnc-XcPJ-G6rkrnbCV9EwN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
