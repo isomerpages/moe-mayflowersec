@@ -4,9 +4,6 @@ permalink: /curriculum/Character-and-Citizenship/national-education/permalink/
 description: ""
 third_nav_title: Character and Citizenship
 ---
-National Education
-==================
-
 National Education (NE) comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation, and foster a sense of hope and belonging to Singapore.
 
 A strong sense of belonging, reality and hope motivates our students to be active citizens. While they seek to achieve their personal life goals, they also see themselves as playing a contributory role in their immediate communities and in the nation.
