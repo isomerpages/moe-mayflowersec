@@ -4,11 +4,10 @@ permalink: /cca/Performing-Arts/choir/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-Choir
-=====
+
 <img src="/images/Choir logo.png" style="width:30%">
 
-**A Family That Sings Together, Firm yet Fun.**
+> A Family That Sings Together, Firm yet Fun.
 
 The MFSS Choir aims to
 
@@ -27,10 +26,12 @@ Beyond Singapore, the Choir embarked on an overseas choral trip to Hong Kong in 
 
 Singing a wide variety of choral music, the MFSS Choir aspires to have more opportunities to engage the community through singing, to grow in the pursuit of choral excellence, and to deepen the bonds shared through music-making. The Choir is under the choral leadership of Conductor Advisor Mr Toh Ban Sheng and Conductor Mr Xie Zhizhong.
 
-| <a href=https://mfsschoir.wordpress.com/><img style="width:25%" src="/images/wordpress.png"></a> **[Access our WordPress site for more information](https://mfsschoir.wordpress.com/)** 	| <a href="https://www.instagram.com/mfsschoir/"><img style="width:25%" src="/images/ig.png"></a> **[Follow us on Instagram @mfsschoir](https://www.instagram.com/mfsschoir/)**	| <a href="https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg"><img style="width:25%" src="/images/youtube.svg"></a> **[Check out our videos on YouTube @mfsschoir](https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg)**	|
+| <a href=https://mfsschoir.wordpress.com/><img style="width:25%" src="/images/wordpress.png"></a> **[Access our WordPress site for more information](https://mfsschoir.wordpress.com/)** 	| <a href="https://www.instagram.com/mfsschoir/"><img style="width:25%" src="/images/ig.png"></a> **[Follow us on Instagram @mfsschoir](https://www.instagram.com/mfsschoir/)**	| <a href="https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg"><img style="width:50%" src="/images/youtube.svg"></a> **[Check out our videos on YouTube @mfsschoir](https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg)**	|
 |---	|---	|---	|
 
 ### Achievements and Events
+
+
 
 <table>
 <thead>
@@ -77,65 +78,23 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
 
 ### Teachers and Instructors
 
-| Teachers 	| Ms Bridget Ooi (IC)<br>Mrs Frances Ess<br>Ms Shen Sirui 	|
-|:---:	|:---:	|
-| Conductor Advisor 	| Mr Toh Ban Sheng 	|
-| Conductor 	| Mr Xie Zhizhong 	|
+| Teachers 	| Conductors 	|
+|---	|---	|
+| Ms Bridget Ooi (IC)<br>Mrs Frances Ess<br>Ms Shen Sirui	| Mr Toh Ban Sheng<br> Ms Ethel Poh 	|
 
-### Executive Committee 2021
+### Executive Committee 2022
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Choir Committee</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>President</td>
-    <td>Sow Yu Yan</td>
-  </tr>
-  <tr>
-    <td>Vice-President</td>
-    <td>Kimberley Heng</td>
-  </tr>
-  <tr>
-    <td>Head Secretary</td>
-    <td>Ong Ming Li</td>
-  </tr>
-  <tr>
-    <td>Head Publicity</td>
-    <td>Jeanne Lai</td>
-  </tr>
-  <tr>
-    <td>Head Logistics</td>
-    <td>Wayne Wong</td>
-  </tr>
-  <tr>
-    <td colspan="2">Music Committee</td>
-  </tr>
-  <tr>
-    <td>Student Conductor</td>
-    <td>Koh Hong Ming</td>
-  </tr>
-  <tr>
-    <td>Soprano Section Leader</td>
-    <td>Zofia Montanez<br>Celene Ng</td>
-  </tr>
-  <tr>
-    <td>Alto Section Leader</td>
-    <td>Janelle Tan<br>Joanne Wong</td>
-  </tr>
-  <tr>
-    <td>Tenor Section Leader</td>
-    <td>Chong Xin Rong</td>
-  </tr>
-  <tr>
-    <td>Bass Section Leader</td>
-    <td>Koh Hong Ming</td>
-  </tr>
-</tbody>
-</table>
+| Position |Name|
+| --- |---|
+| President | Wong Chin Yan, Joanne |
+| Vice-President | Muhammad Aqil Arfa Bin Mohd Yazid |
+| Head Secretary | Ng Li Wen Celene |
+| Head Publicity | Zhang Zixuan Rachel |
+| Student Conductor | Montanez Zofia Magen Diaz |
+| Soprano Section Leader | Heidi Lim Kai Xin <br> Ng Li Wen Celene
+| Alto Section Leader | Charlene Tan Sze Shuen  <br> Mikaela Abigail Chng|
+| Tenor Section Leader | Joshua Sotarduga Situmeang |
+| Bass Section Leader | Muhammad Aqil Arfa Bin Mohd Yazid |
 
 ### Training Schedule
 
@@ -152,13 +111,13 @@ Photo & Videos
 **A family that sings together, firm yet fun**   
 The highlights of the choir's journey through these years.
 
-<iframe width="835" height="470" src="https://www.youtube.com/embed/fIqlJYOw5TE" title="A family that sings together, firm yet fun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/fIqlJYOw5TE" title="A family that sings together, firm yet fun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Why MF Choir?**
 
 Wishing to join the choir family, don't hesitate anymore. Come down for an audition on the 11th, 13th and 18th of Jan from 3:30 pm to 5:00 pm.
 
-<iframe width="835" height="470" src="https://www.youtube.com/embed/2-YwRpcStiI" title="Why MF Choir?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/2-YwRpcStiI" title="Why MF Choir?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Our choir's music to the world in light of COVID-19**
 
@@ -166,19 +125,19 @@ In light of COVID-19, livelihoods of many are affected, be it as patients and fa
 
 In these turbulent times, we’d like to let you know, in our own little way, we are all in this together – you do not walk alone.
 
-<iframe width="835" height="470" src="https://www.youtube.com/embed/aCQngpKFGjE" title="You Do Not Walk Alone - Elaine Hagenberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300"src="https://www.youtube.com/embed/aCQngpKFGjE" title="You Do Not Walk Alone - Elaine Hagenberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Interviewing Our Alumni**
 
 Hear the stories from some of our recently graduated choristers from the class of 2019, who are studying in Eunoia Junior College, Raffles Institution (Junior College), and Saint Andrew's Junior College as JC1 students in 2020. Whilst their paths now diverge, what they have gone through in the 4 years together has shaped them into who they are today.
 
-<iframe width="835" height="470" src="https://www.youtube.com/embed/04yX8TmsEMI" title="Interviewing Our Alumni - Class of 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/04yX8TmsEMI" title="Interviewing Our Alumni - Class of 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Interviews and Highlights Playlist**
 
 Want to hear more about our Choir? Check out this playlist and hear it straight from our members from past to present!
 
-<iframe width="835" height="470" src="https://www.youtube.com/embed/VG1wPOfA0RU?list=PL-0txKiPyr5v6V3vAAp_wicIK3pzV2ff2" title="MFSS Choir: Experience Choir Redefined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300"src="https://www.youtube.com/embed/VG1wPOfA0RU?list=PL-0txKiPyr5v6V3vAAp_wicIK3pzV2ff2" title="MFSS Choir: Experience Choir Redefined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Photo Gallery
 
