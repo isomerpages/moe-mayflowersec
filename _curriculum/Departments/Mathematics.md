@@ -30,7 +30,8 @@ We believe that your child matters and will always seek ways to engage them in t
 | Mr Chio Kah Leong | SH Mathematics |
 | Mdm Suhaila Bakar |SH Student Leadership |
 | Mr Fam Tong Siang  | Teacher |
-| Mdm Goh Poh Ling | Teacher |   
+| Mdm Goh Poh Ling | Teacher |  
+| Mrs Jasmine Chan | Teacher |
 | Mr Matthew Chan | Teacher | 
 | Mr Nicholas Quek  | Teacher |
 | Mrs Quek Ai Jee | Teacher |
