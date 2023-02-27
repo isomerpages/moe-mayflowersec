@@ -3,10 +3,9 @@ title: Resources
 permalink: /parents/resources/permalink/
 description: ""
 ---
-
 TOUCH Parenting
 ---------------
-
+[📄 TOUCH Parenting Handout - I Cant Live Without IT.pdf](/files/TOUCH%20Parenting%20Handout%20-%20I%20Cant%20Live%20Without%20IT.pdf)
 [TOUCH Parenting Handout - I Cant Live Without IT.pdf](/files/IT.pdf)   
 [TOUCH Parenting Handout - Nurturing Digital Natives.pdf](/files/TOUCH.pdf)
 
