@@ -5,9 +5,8 @@ description: ""
 ---
 TOUCH Parenting
 ---------------
-[📄 TOUCH Parenting Handout - I Cant Live Without IT.pdf](/files/TOUCH%20Parenting%20Handout%20-%20I%20Cant%20Live%20Without%20IT.pdf)
-[TOUCH Parenting Handout - I Cant Live Without IT.pdf](/files/IT.pdf)   
-[TOUCH Parenting Handout - Nurturing Digital Natives.pdf](/files/TOUCH.pdf)
+[📄 TOUCH Parenting Handout - I Cant Live Without IT.pdf](/files/IT.pdf)   
+[📄 TOUCH Parenting Handout - Nurturing Digital Natives.pdf](/files/TOUCH.pdf)
 
 Parenting with MOE
 ------------------
@@ -25,7 +24,7 @@ Run by the Ministry of Education, Singapore.
 Journeying with your Child in the 21st Century!
 -----------------------------------------------
 
-[Click here to view more info on Journeying with your Child in the 21st Century](/files/Journey.pdf)
+[📄 Click here to view more info on Journeying with your Child in the 21st Century](/files/Journey.pdf)
 
   
   
@@ -33,4 +32,4 @@ Journeying with your Child in the 21st Century!
 Building Resilience in Your Children
 ------------------------------------
 
-[Building Resilience in your children and resilience resources](/files/resilience.pdf)
+[📄 Building Resilience in your children and resilience resources](/files/resilience.pdf)
