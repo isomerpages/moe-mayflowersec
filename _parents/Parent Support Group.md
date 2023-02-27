@@ -20,6 +20,10 @@ _**Summary**_
 
 The article was written by retired Principal Mrs Jenny Yeo about how problems at home can affect a child's learning in school. It examines how the unstable home environment and the poor relationship of parents at home may limit a child's success in school and later life.
 
+Prepare and Enrich Marriage Programme
+-------------------------------------
+![](/images/PEMEP%20Infographics%20for%20School.png)
+
 Healthy Meals in Schools and at Home
 ------------------------------------
 
@@ -47,11 +51,13 @@ Partnerships Committee
 
 | Advisor 	| Mr Prashant Jayapragas (Vice Principal) 	|
 |:---	|:---	|
-| I/C Partnership Committee 	| Mdm Santhi A. (HOD EL)<br>Mrs Marie Huang (SH Biology)<br>Mrs Eugenia Tan (SH History) 	|
-| Staff members 	| Mr Mohamed Naguib Bin Ngadnan<br>Ms Su Haiyin<br>Mr Lee Joen Yen<br>Mr Chan Jiahui Matthew<br>Mr Tan Jian Xun<br>Ms Wong Yin Sung 	|
-| Corporate Support Officer 	| Mdm Sylvian Tan<br>Mr Leow Leong Chuan 	|
+| I/C Partnership Committee 	| Mdm Santhi A. (HOD EL)<br>Mrs Marie Huang (SH Biology)<br>Ms Fateha (SH Humanities) 	|
+| Staff members 	| Mr Mohamed Naguib Bin Ngadnan<br>Ms Su Haiyin<br>Mr Lee Joen Yen<br>Mr Chan Jiahui Matthew<br>Mr Tan Jian Xun<br>Ms Wong Yin Sung <br>Mdm Wong Mui Lin	|
+| Corporate Support Officer 	| Ms Lim Shun Ting<br>Mr Leow Leong Chuan <br>Mr Abdul Rashid	|
 
-&nbsp;2022 Parent Support Group Executive Committee
+![](/images/Partnership%20team%202023.png)
+
+2022 Parent Support Group Executive Committee
 ----------------------------------------------
 
 | School Advisors 	| Mr Prashant Jayapragas (Vice Principal)<br>Mrs Eugenia Tan (SH History) 	|
@@ -60,6 +66,8 @@ Partnerships Committee
 | Vice-Chairpersons 	| Mdm Mok Pei Hong<br>Mr Raymond Tan 	|
 | Secretary 	| Mdm Tan Hing Lan 	|
 | Treasurer 	| Mdm Koh Yi Hua 	|
+
+![](/images/PSG%20Exco%202023.png)
 
 Article on "Raising your child for Success"
 -------------------------------------------
