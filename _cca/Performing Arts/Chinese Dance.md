@@ -4,10 +4,7 @@ permalink: /cca/Performing-Arts/chinese-dance/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-Chinese Dance
-=============
-
-**Practice like you have never won. Dance like you have never lost**
+> Practice like you have never won. Dance like you have never lost
 
 The Chinese Dance Club aims to:
 
@@ -46,34 +43,40 @@ In 2020, we took part in performances such as our annual CCA Showcase, Chinese N
 ### Events and Achievements
 
 | Year 	| Event Name 	| Award / Position 	|
-|:---:	|:---:	|:---:	|
+|---	|---	|---	|
+| 2022 | CCA Exploration Performance |- |
+|2022 | Annual Chinese New Year Performance |- |
+|2022| Lunch Time Concert Performance| -|
+|2022 |Speech Day Performance |-|
+|2022| MF Got Talent Competition |1st runner up|
+|2022|National Day Concert Performance |-|
+|2022|MF Open House Performance |-|
 | 2021 	| SYF Arts Presentation 	| Certificate of Accomplishment 	|
-|  	| Mayflower Aesthetics Projector 	| - 	|
+| 2021 	| Mayflower Aesthetics Projector 	| - 	|
 | 2020 	| CCA exhibition performance 	| - 	|
-|  	| Annual Chinese New Year Performance 	| - 	|
-|  	| Chingay 	| - 	|
+| 2020 	| Annual Chinese New Year Performance 	| - 	|
+|  2020	| Chingay 	| - 	|
 | 2019 	| SYF Arts Presentation 	| Certificate of Accomplishment 	|
-|  	| KBCC National Day Celebration 	| Certificate of Participation 	|
-|  	| Annual Chinese New Year performance 	| - 	|
-|  	| Dance exchange programme with Nan Hua High Secondary School 	| - 	|
-|  	| VIA programme - Ang Mo Kio Methodist Church Kindergarten 	| - 	|
-|  	| Roller blading - school enrichment programme (SEP) 	| - 	|
-|  	| School Exchange Trip to Bangkok 	| - 	|
+|  2019	| KBCC National Day Celebration 	| Certificate of Participation 	|
+|  2019	| Annual Chinese New Year performance 	| - 	|
+| 2019 	| Dance exchange programme with Nan Hua High Secondary School 	| - 	|
+|  2019	| VIA programme - Ang Mo Kio Methodist Church Kindergarten 	| - 	|
+| 2019 	| Roller blading - school enrichment programme (SEP) 	| - 	|
+|  2019	| School Exchange Trip to Bangkok 	| - 	|
 | 2018 	| SYF Dance Extravaganza at Bukit Panjang Plaza 	| Certificate of Participation 	|
-|  	| Annual Chinese New Year performance 	| - 	|
-|  	| Bowling - School Enrichment Programme (SEP) 	| - 	|
-|  	| Mayflower Sec Aesthetics production - Lion King 	| - 	|
+| 2019 	| Annual Chinese New Year performance 	| - 	|
+| 2019 	| Bowling - School Enrichment Programme (SEP) 	| - 	|
+| 2019 	| Mayflower Sec Aesthetics production - Lion King 	| - 	|
 
 ### Staff and Committee Members
 
-| Teachers-in-Charge 	| Mrs Neo Peck Hoon<br>Mdm Liu Xuefang 	|
-|:---:	|:---:	|
+| Teachers-in-Charge 	| Mrs Neo Peck Hoon<br>Mdm Liu Xuefang<br>Mdm Sharon Goh 	|
+|---	|---	|
 | Coaches / Instructors 	| Ms Shen Xiao 	|
-| President 	| Ler Yining (3I) 	|
-| Vice President (Development) 	| Denise Lim (3A) 	|
-| Vice President (Discipline) 	| Chia Zi Ying Genevie (3A) 	|
-| Vice President (Operations) 	| Cleopatra Yong Feng Jun (3D) 	|
-| Publicity 	| Tjong Jia Xin (3E) 	|
+| President 	|  Soh Shan Ee	|
+| Vice President (Development) 	| Cherlyn Wong	|
+| Vice President (Discipline) 	| Isabel Tam 	|
+| Vice President (Operations) 	| Isabel Tam 	|
 
 ### Training Schedule
 
@@ -84,8 +87,8 @@ In 2020, we took part in performances such as our annual CCA Showcase, Chinese N
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0fCTBQNPn928ZMBhtpM9rhkkr0MkBviKz1s4ZIGO21xIQSURGHCF1oLd3nqPZVB6jfDQGT51cRts9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0fCTBQNPn928ZMBhtpM9rhkkr0MkBviKz1s4ZIGO21xIQSURGHCF1oLd3nqPZVB6jfDQGT51cRts9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Chinese Dance Direct School Admission 2020" src="https://www.youtube.com/embed/DCb_Q1c6ewo" height="500" width="835"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Chinese Dance Direct School Admission 2020" src="https://www.youtube.com/embed/DCb_Q1c6ewo" height="400" width="100%"></iframe>
