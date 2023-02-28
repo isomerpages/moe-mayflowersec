@@ -4,10 +4,7 @@ permalink: /cca/Performing-Arts/concert-band/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-Concert Band
-============
-
-**Friendship and Excellence through Music**
+> Friendship and Excellence through Music
 
   
 
@@ -34,7 +31,7 @@ We take pride in developing potential young musicians. Many of our members have 
 ### Highlights
 
 | Year 	| Event 	|
-|:---:	|:---:	|
+|---	|---	|
 | 2019 	| Combined Public Concert with NIEWinds and Huayi Secondary School Band 	|
 | 2018 	| Combined Public Concert with Hua Yi Secondary School Band and Hua Yi Alumni Band 	|
 | 2017 	| Chingay 2017 - Soundwaves 	|
@@ -55,7 +52,7 @@ We take pride in developing potential young musicians. Many of our members have 
 ### Achievements
 
 | Year 	| Event Name 	| Award/Position 	|
-|:---:	|:---:	|:---:	|
+|---	|---	|---	|
 | 2011-2021 	| Singapore Youth Festival Arts Presentation (Band) 	| Certificate of Accomplishment 	|
 | 1981-2011 	| Singapore Youth Festival Central Judging (Band) 	| Silver Award 	|
 
@@ -95,4 +92,4 @@ Video
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjj7y1sH2P7UbyVKI5MmERShE7lmJBEGb5J2-YsXLeFU_dLzt9F8U-zImvYO_eKR4x9iupIfZ9G83_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjj7y1sH2P7UbyVKI5MmERShE7lmJBEGb5J2-YsXLeFU_dLzt9F8U-zImvYO_eKR4x9iupIfZ9G83_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
