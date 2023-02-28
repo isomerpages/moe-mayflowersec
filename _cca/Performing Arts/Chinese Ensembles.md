@@ -4,12 +4,11 @@ permalink: /cca/Performing-Arts/chinese-ensembles/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-Chinese Ensembles
-=================
 
-**To Nuture Students with a Love for Chinese Music**
 
-  
+> To Nuture Students with a Love for Chinese Music
+
+ 
 
 The Chinese Ensembles aims to instil an appreciation and enduring passion for music in all our members. We seek to develop our members holistically by equipping them with music skills and developing their ability to manage their time, plan and organise activities. The leadership abilities of students are also developed through a mentoring programme where seniors mentor juniors in organising activities. Most importantly, we seek to instil in our students a sense of care and compassion for their peers and the community around us.
 
@@ -34,22 +33,22 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 
 ### Staff and Committee Members 2021
 
-| Teachers-in-Charge 	| Mrs Jasmine Chan<br>Mr David Pang<br>Mr Tan Wee Tiong<br>Mrs Evelyn Ng 	|
-|:---:	|:---:	|
+| Teachers-in-Charge 	| Mrs Jasmine Chan<br>Mr David Pang<br>Mrs Evelyn Ng <br> Mdm Wong Mui Lin	|
+|---	|---	|
 | Conductor 	| Mr Mike Chiang 	|
 | Instructors 	| Ms Jessica Lu<br>Mdm Helen Chen<br>Mr Wu Xiang Yang 	|
-| President 	| Tan Yi Xin Cynthia (4A) 	|
-| Vice President 1 	| Wong Wen Hui, Megan (4E) 	|
-| Vice President 2 	| Lim Jing Yue (3E) 	|
+| President 	| Lim Jing Yue 	|
+| Vice President 1 	| Denise Chua Wei Xin 	|
+| Vice President 2 	| Tey Shi Yun 	|
 
 ### Training Schedule
 
 | Day 	| Time 	| Venue 	|
-|:---:	|:---:	|:---:	|
+|:---	|---	|---	|
 | Tuesdays 	| 3 pm - 6 pm 	| CO Room 	|
 | Thursdays 	| 3 pm - 6 pm 	| CO Room 	|
 
 Photos
 ------
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIzJlll1fwp77WGLDpkEt_-f16SqR2a_82CEJUukQSQ9n5eo4GQxtyxEuOFbudxOSagAAcaRx39ubL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIzJlll1fwp77WGLDpkEt_-f16SqR2a_82CEJUukQSQ9n5eo4GQxtyxEuOFbudxOSagAAcaRx39ubL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
