@@ -4,8 +4,6 @@ permalink: /cca/Performing-Arts/drama/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 > Let one of your many parts you play in life be the time you shine in Drama Club.
 
 Mayflower Drama Club aims to:
@@ -21,6 +19,7 @@ Mayflower Drama Club aims to:
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
+|2022|School Performance – Speech Day & Aesthetics Performance (Self-written Play “Nothing”) - April||
 | 2021 | SYF Presentation | Certificate of Distinction |
 | 2019 | SYF Presentation | Certificate of Accomplishment |
 | 2019 | Aesthetic Outing - Emily of Emerald Hill - Sept | \- |
