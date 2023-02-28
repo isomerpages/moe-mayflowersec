@@ -4,10 +4,9 @@ permalink: /cca/Performing-Arts/modern-dance/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-Modern Dance
-============
 
-**Dance to Express**
+
+>Dance to Express
 
   
 
@@ -22,6 +21,8 @@ The Modern Dance Club specialises in contemporary dance which incorporates eleme
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
+|2022|Super 24 Public Showcase Exhibition| |
+|2022|Mayflower Aesthetics Production||
 | 2021 | SYF Arts Presentation | Certificate of Distinction |
 | 2019 | Overseas Cultural and Immersion Programme to Thailand | \- |
 | 2019 | 38th&nbsp;Speech Day | Participation |
@@ -36,8 +37,9 @@ The Modern Dance Club specialises in contemporary dance which incorporates eleme
 
 ### CCA Teachers in Charge
 
-Mdm Goh Poh Ling  
-Mrs Quek Ai Jee
+Mdm Goh Poh Ling  <br>
+Mrs Quek Ai Jee<br>
+Ms Azmira Binte Zailan
 
 ### Coaches/Instructors
 
@@ -45,31 +47,31 @@ Ms Serene Tung
 
 ### CCA Leaders and Executive Committee Members
 
-| Chairperson 	| Gabrielle Lee Shan En (4A) 	|
-|:---:	|:---:	|
-| Vice Chairperson - Discipline 	| Carmen Loo Wen Yin (4D) 	|
-| Vice Chairperson - Operations 	| Koh Jing Xuan, Glyn (4E) 	|
-| Vice Chairperson - Development 	| Divyata Rai (4D) 	|
-| Secretary 	| Daphne Danne Ocampo De Quiroz (4F) 	|
-| Admin Manager 	| Chloe Goh En Qi (34E) 	|
-| Quartermaster 	| Huang Lingsi (4D) 	|
-| IT Manager 	| Peng Min (4D) 	|
-| Operations Manager 	| Lee Jing Tong (4J) 	|
-| Publicity Manager 	| Yau Zi Yu (4A) 	|
-| Head of Welfare 	| Tan Chloe (4F) 	|
-| Dance Coordinator 	| Charlene Teoh (4E) 	|
+| Chairperson 	| Lim Xiao Tong 	|
+|---	|---	|
+| Vice Chairperson - Discipline 	| Lin Jia Yun 	|
+| Vice Chairperson - Operations 	| Zhu Xi En 	|
+| Vice Chairperson - Development 	| Latheesh Shreya|
+| Secretary 	| Jessica Ng Xin Yi|
+| Admin Manager 	| Lau Zi Le  	|
+| Quartermaster 	| Pedamadula Tanisha|
+| IT Manager 	| Wong Ling Yue Shana|
+| Operations Manager 	| Chloe Lee Rui Xi 	|
+| Publicity Manager 	| Riya Bhagat D/O Ajit Kumar |
+| Head of Welfare 	| Lee Si Lin 	|
+| Dance Coordinator 	| Chong Yating 	|
 
 ### Training Schedule
 
 | Day | Time | Venue |
 | --- | --- | --- |
 | Tuesdays | 1500 - 1800 | Dance Studio |
-| &nbsp; &nbsp; Thursdays | 1500 - 1800 | Hall |
+| Thursdays | 1500 - 1800 | Hall |
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Modern Dance 2021" src="https://www.youtube.com/embed/6dVqB4-_WdQ" height="480" width="835"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Modern Dance 2021" src="https://www.youtube.com/embed/6dVqB4-_WdQ" height="400" width="100%"></iframe>
