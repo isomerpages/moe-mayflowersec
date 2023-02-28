@@ -4,10 +4,9 @@ permalink: /cca/Performing-Arts/drama/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-Drama
-=====
 
-**Let one of your many parts you play in life be the time you shine in Drama Club.**
+
+> Let one of your many parts you play in life be the time you shine in Drama Club.
 
 Mayflower Drama Club aims to:
 
@@ -34,12 +33,13 @@ Mayflower Drama Club aims to:
 
 ### Staff and Committee Members 2021
 
-| Teachers-in-Charge 	| Ms Stella Sim<br>Ms Jamie Chng<br>Mdm Jarina Banu D/O Jagaffar 	|
-|:---:	|:---:	|
+| Teachers-in-Charge 	| Ms Stella Sim<br>Ms Jamie Chng<br>Mdm Ezan 	|
+|---	|---	|
 | Instructor 	| Ms Eleanor Tan 	|
-| President 	| Naamsi Jeslani 	|
-| Vice President 	| Amanda Fang Ning 	|
-| Events / Welfare Officer 	| Xavier Saw You En 	|
+| President 	| Jaden Phuah 	|
+| Vice President 	| Jordon Chua 	|
+| Events / Welfare Officer 	| Hannah Tan 	|
+|E-Resource / Media Head|Raymond Li|
 
 ### Training Schedule
 
@@ -50,5 +50,4 @@ Mayflower Drama Club aims to:
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDtlpCHePWw4UaTB7E0s1Wzl6Zo_IFBifHZJWgm-f3P5MqR6RH1CTKk8qlK212ltapWkNtEOYMKBgo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDtlpCHePWw4UaTB7E0s1Wzl6Zo_IFBifHZJWgm-f3P5MqR6RH1CTKk8qlK212ltapWkNtEOYMKBgo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
