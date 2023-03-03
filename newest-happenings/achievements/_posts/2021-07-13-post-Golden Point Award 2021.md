@@ -22,5 +22,5 @@ Photo: Berita Harian
 Photo: Berita Harian  
 DALAM PASARAN: Tiga buku dari siri Goresan Tinta Guru terbitan Unggun Creative kini dalam pasaran: 'Saudagar Pagar' oleh Mohamed Naguib Ngadnan; 'Intai Kami Antara Nampak' oleh Guru-Guru Penerima Anugerah Arif Budiman; dan 'Interlud' oleh Djohan Abdul Rahman.
 
-Read more:  
+#### Read more  
 ['Saudagar Pagar' sarat dengan isu berat dan kisah anak muda](https://www.beritaharian.sg/rencana/saudagar-pagar-sarat-dengan-isu-berat-dan-kisah-anak-muda)
