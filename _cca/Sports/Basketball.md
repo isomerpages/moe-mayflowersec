@@ -4,10 +4,9 @@ permalink: /cca/Sports/basketball/permalink/
 description: ""
 third_nav_title: Sports
 ---
-Basketball
-==========
 
-**Heart and Sweat Wins Championships**
+
+> Heart and Sweat Wins Championships
 
   
 
@@ -25,12 +24,6 @@ At Mayflower Basketball, our primary objective is to inculcate values to develop
 
 ### Events and Achievements
 
-**Girls**  
-
-| Year | Event | Award/Position |
-| --- | --- | --- |
-| 2016 | South Zone Inter-school Basketball Championships (B Division) | 4th Place |
-| 2010 | South Zone Inter-school Basketball Championships (B Division) | 4th Place |
 
 **Boys**
 
@@ -44,22 +37,10 @@ At Mayflower Basketball, our primary objective is to inculcate values to develop
 | 2017 | South Zone Inter-school Basketball Championships (C Division) | 3rd Place |
 
 | Teachers-in-charge 	| CCA Leaders 	|
-|:---:	|:---:	|
-| Mr Tan Boon Yong<br>Mr Alvin Yap<br>Mr Ku Seow Wee 	| Elizabeth Michelle (4A) - Girls' Captain<br>Nur Syuhadah Bte Yahaya (4D) - Girls' Vice-Captain<br>Or Ming Zhe (4F) - Boys' Captain<br>Muhammad Haris Bin Ramthan (4D) - Boys' Vice-Captain 	|
+|---	|---	|
+| Mr Tan Boon Yong<br>Mr Alvin Yap<br>Mr Ku Seow Wee 	| Goh Zhi Yi (4J) - Boys' Captain <br>Low Yit Hean (4I) - Boys' Vice-Captain 	|
 
 ### Training Schedule
-
-**Girls**
-
-| Day | Time | Venue |
-| --- | --- | --- |
-| Tuesdays | 3pm - 6pm | Open Basketball Court |
-| Thursdays | 3pm - 6pm | Open Basketball Court |
-
-
-
-  
-
 **Boys**
 
 | Day | Time | Venue |
@@ -70,8 +51,8 @@ At Mayflower Basketball, our primary objective is to inculcate values to develop
 
 Photo
 -----
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRia3AyO2q93iBkVh5W4FvwQtYEYcimhMKtrkZvaKLgjxX_SMm6PstWhImHEgDqW-f96_LE0OdPqieO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRia3AyO2q93iBkVh5W4FvwQtYEYcimhMKtrkZvaKLgjxX_SMm6PstWhImHEgDqW-f96_LE0OdPqieO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MFSS vs RI B Boys Basket Match" src="https://www.youtube.com/embed/bteb6rzxBRo" height="450" width="835"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MFSS vs RI B Boys Basket Match" src="https://www.youtube.com/embed/bteb6rzxBRo" height="400" width="100%"></iframe>
