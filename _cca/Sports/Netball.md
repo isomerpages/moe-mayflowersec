@@ -4,10 +4,7 @@ permalink: /cca/Sports/netball/permalink/
 description: ""
 third_nav_title: Sports
 ---
-Netball
-=======
-
-### Never let good enough be enough.
+>Never let good enough be enough.
 
 In our CCA, Netball, we want every individual to achieve their fullest potential in their physical, mental and social skills. Our guiding principles of perseverance and hard work and our emphasis on team effort, team building and team bonding make up the dynamics of our team. Our CCA leaders have always taken on the role as organisers, planning our Secondary 4 graduation party, day-camp and CCA Open house as part of their leadership training. This also helps to strengthen the bonds amongst our CCA members. Even though we did not have a chance to experience these programmes in 2020, we have full faith that our leaders will emerge stronger in 2021!
 
@@ -17,13 +14,13 @@ We also want to take this opportunity to show our appreciation to our celebrity 
 
 **Training sessions:**&nbsp;Tuesdays and Thursdays, 3pm to 5pm
 
-### Staff and Executive Members 2020
+### Staff and Executive Members 2023
 
 | Teachers-in-charge 	| CCA Leaders 	|
-|:---:	|:---:	|
-| Mr Edwin Goh<br>Ms Germain Ng<br>Mdm Gina Ng 	| Captain: Leong Yin Zee Sharlene (3A)<br>Vice-Captain: Tan Jing Ting Lynelle (3F) 	|
+|---	|---	|
+| Mr Matthew Chan<br>Ms Germain Ng<br>Mdm Gina Ng 	| Cherlynn Tan<br>Yvette Lim Miao Qian|
 
 Photos
 ------
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgScGYYokNV-IssRAfDySRnXYB7U13x0jM3W4NsQ4HpjeqyaLUgrVA9n331FKma1M09ftTKYdkOla9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgScGYYokNV-IssRAfDySRnXYB7U13x0jM3W4NsQ4HpjeqyaLUgrVA9n331FKma1M09ftTKYdkOla9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
