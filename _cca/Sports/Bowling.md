@@ -28,6 +28,23 @@ Mayflower Bowling aims to develop each bowler to be a leader equipped with the r
   </tr>
 </thead>
 <tbody>
+	<tr>
+		<td rowspan="4">2022</td>
+		<td>National School Games National B Division Boys</td>
+		<td>12th</td>
+	</tr>
+	<tr>
+		<td>National School Games National B Division Girls</td>
+		<td>11th</td>
+	</tr>
+	<tr>
+		<td>National School Games National C Division Boys </td>
+		<td>8th</td>
+	</tr>
+		<tr>
+		<td>National School Games National C Division Girls </td>
+		<td>6th</td>
+	</tr>
   <tr>
     <td rowspan="2">2021</td>
     <td>National School Games National B Division Boys</td>
@@ -103,24 +120,23 @@ Mayflower Bowling aims to develop each bowler to be a leader equipped with the r
 </tbody>
 </table>
 
-| Teachers-in-Charge 	| CCA Leaders &amp; Executive Committee Members 2020 	|
+| Teachers-in-Charge 	| CCA Leaders &amp; Executive Committee Members 2022 	|
 |:---:	|:---:	|
-| Mr Jeremy Ong Zhen Wei<br><br>Ms Allycia Teo Wan Ngee<br><br>Ms Nadia Binte Sharin<br>Dr Tang Suyun 	| Captain: Tan Kai Shen<br>Vice-Captain: Naomi Ho Ai Hui 	|
+| Mr Jeremy Ong Zhen Wei<br>Ms Allycia Teo Wan Ngee<br>Ms Nadia Binte Sharin<br>Dr Tang Suyun 	| Captain: Kylie See, Max Leo<br>Upper Secondary Executive Committee: Evelle Goh, Darren Yam<br>Lower Secondary Executive Committee: Cheok Anting, Lim Kai Rong 	|
 
 ### Training Schedule
 
 | Day | Assemble Time | Training Time | Dismissal Time from school | Venue |
 | --- | --- | --- | --- | --- |
-| Tuesdays | 3 pm | 3.30 - 5.30 pm | 6 pm | Orchid Country Club |
-| Thursdays | 3 pm | 3.30 - 5.30 pm | 6 pm | Orchid Country Club |
+| Tuesdays | 3 pm | 4 - 6 pm | 6.30 pm | Superbowl@HometeamNS Khatib |
+| Thursdays | 3 pm | 4 - 6 pm | 6.30 pm | Superbowl@HometeamNS Khatib |
 
 \*Transport will be provided
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR36-axABrWyO6b3BmHVZcybbbrrs02eN5JH_bmxkBCXILR6NJ349PIsV7J-XaWpodi-YhVh-IE3YmL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR36-axABrWyO6b3BmHVZcybbbrrs02eN5JH_bmxkBCXILR6NJ349PIsV7J-XaWpodi-YhVh-IE3YmL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Mayflower Secondary - Bowling 2021" src="https://www.youtube.com/embed/clB-PYUhO20" height="480" width="835"></iframe>
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Mayflower Secondary - Bowling 2021" src="https://www.youtube.com/embed/clB-PYUhO20" height="400" width="100%"></iframe>
