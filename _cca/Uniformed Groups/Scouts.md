@@ -4,10 +4,8 @@ permalink: /cca/Uniformed-Groups/scouts/permalink/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-Scouts
-======
-Be Prepared
------------
+> Be Prepared
+
 
 Scouts aims to develop the full physical, intellectual, emotional, social and spiritual capacities of our scouts so as to allow them to contribute to the development of a better world. We continuously challenge our scouts to attain the various proficiency badges so as to have the capability to ‘Be Prepared’ in all situations.
 
@@ -25,70 +23,30 @@ Better Scouting for more young People
 
 ### Events and Key Achievements
 
-<table>
-<thead>
-  <tr>
-    <th>Year</th>
-    <th>Event Name</th>
-    <th>Award / Position</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>2021</td>
-    <td>National Mind Quiz 2021</td>
-    <td>National 2nd Place</td>
-  </tr>
-  <tr>
-    <td rowspan="2">2020</td>
-    <td>Chief Commissioner's Award</td>
-    <td>Award to Ng Kian Yan, Harold Hong Jiankai, Gan Jing Jie, Pang Min Tze Benedict and Soon Ee Hern, Ethan</td>
-  </tr>
-  <tr>
-    <td>President Scout Award</td>
-    <td>Awarded to Chia Kang Xu</td>
-  </tr>
-  <tr>
-    <td rowspan="2">2019</td>
-    <td>Frank Cooper Sands</td>
-    <td>Gold</td>
-  </tr>
-  <tr>
-    <td>Chief Commissioner's Award</td>
-    <td>Awarded to Joshua Lee</td>
-  </tr>
-  <tr>
-    <td rowspan="2">2018</td>
-    <td>National Patrol Camp</td>
-    <td>Silver<br></td>
-  </tr>
-  <tr>
-    <td>Frank Cooper Sands</td>
-    <td>Gold<br></td>
-  </tr>
-  <tr>
-    <td rowspan="3">2017</td>
-    <td>Frank Cooper Sands</td>
-    <td>Gold Award (With Pennant)</td>
-  </tr>
-  <tr>
-    <td>Istana Hospitality Award</td>
-    <td>Awarded to Foo Yang De and Chia Kang Xu for their services</td>
-  </tr>
-  <tr>
-    <td>Chief Commissioner’s Award</td>
-    <td>Awarded to Chia Kang Xu, Foo Yang De, Si Thu Soe, Tan Hang Sheng and Yee Jun Hyeok Brian</td>
-  </tr>
-</tbody>
-</table>
+| Year | Event Name | Award / Position |
+| --- | --- | --- |
+| 2022 | South Area Orienteering Competition | 1st Place |
+| 2022 | Chief Commissioner's Award | Awarded to Avis Chan Siew Ying, Koh Jing-Wei, Nabil Latifah Sumamar, Finn Tan, Nancy Liau and Foo Kok Yeow |
+| 2021 | National Mind Quiz 2021 | National 2nd Place |
+| 2021 | Chief Commissioner's Award | Awarded to Avis Chan Siew Ying, Koh Jing-Wei, Nabil Latifah Sumamar, Finn Tan, Nancy Liau and Foo Kok Yeow |
+| 2020 | Chief Commissioner's Award | Awarded to Ng Kian Yan, Harold Hong Jiankai, Gan Jing Jie, Pang Min Tze Benedict and Soon Ee Hern, Ethan |
+| 2020 | President Scout Award | Awarded to Chia Kang Xu |
+| 2019 | Frank Cooper Sands | Gold |
+| 2019 | Chief Commissioner's Award | Awarded to Joshua Lee |
+| 2018 | National Patrol Camp | Silver |
+| 2018 | Frank Cooper Sands | Gold |
+| 2017 | Frank Cooper Sands | Gold Award (With Pennant) |
+| 2017 | Istana Hospitality Award | Awarded to Foo Yang De and Chia Kang Xu for their services |
+| 2017 | Chief Commissioner’s Award | Awarded to Chia Kang Xu, Foo Yang De, Si Thu Soe, Tan Hang Sheng and Yee Jun Hyeok Brian |
 
-### Staff and Committee Members 2021
+### Staff and Committee Members 2022
 
+|Designation | Name |
+|---|---|
 | Teachers-in-Charge 	| Mr Timothy Ng<br>Ms Su Haiyin<br>Mr Chen Zhen 	|
-|:---:	|:---:	|
-| Scout Leaders 	| Ng Ying Jie<br>Jabez Wong<br>Hazel Cai 	|
-| Senior Patrol Leader 	| Avis Chan<br>Koh Jing-wei 	|
-| Patrol Leaders 	| Foo Kok Yeow<br>Nabil Latifah Sumamar<br>Finn Tan<br>Nancy Liau 	|
+| Scout Leaders 	| Ng Ying Jie<br>Jabez Wong<br>Hazel Cai<br>Bernard Sng<br>Adam Tong 	|
+| Assistant Senior Patrol Leader 	| Chan Xin Ying<br>Dylan Lai Shing Chun 	|
+| Patrol Leaders 	| Lee Xin Yu  <br>Ong Chong Seng Gino  <br>Wong Hao Yin  <br>Zekiel Elijah Rey Biona|
 
 ### Training Schedule
 
@@ -98,4 +56,4 @@ Better Scouting for more young People
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSv49z2FqGOBJxBeuCX052Mpgs59HvKdNLrTCVcyLh0YdjAvpMHAqoSKcvFMaINJwJRmf52Uy5Iko2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSv49z2FqGOBJxBeuCX052Mpgs59HvKdNLrTCVcyLh0YdjAvpMHAqoSKcvFMaINJwJRmf52Uy5Iko2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
