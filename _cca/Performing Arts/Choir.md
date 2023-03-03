@@ -4,7 +4,6 @@ permalink: /cca/Performing-Arts/choir/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <img src="/images/Choir logo.png" style="width:30%">
 
 > A Family That Sings Together, Firm yet Fun.
@@ -47,7 +46,7 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
   </tr>
   <tr>
     <td>2020</td>
-    <td><a href="https://www.youtube.com/watch?v=aCQngpKFGjE" target="_blank" rel="noopener noreferrer">Recording in light of COVID-19: You Do Not Walk Alone</a><br><a href="https://www.mewatch.sg/series" target="_blank" rel="noopener noreferrer">Lion Mums: Crash Landing on Schools Episode 7</a><br><a href="https://www.youtube.com/watch?v=TSTLcNfVOPo" target="_blank" rel="noopener noreferrer">Everything I Am (Teacher's Day 2020 Remake)</a></td>
+    <td><a href="https://www.youtube.com/watch?v=aCQngpKFGjE" target="_blank" rel="noopener noreferrer">Recording in light of COVID-19: You Do Not Walk Alone</a><br><a href="https://www.mewatch.sg/watch/Lion-Mums-Crash-Landing-on-Schools-E7-Choir-Choir-You-re-on-Fire-161758" target="_blank" rel="noopener noreferrer">Lion Mums: Crash Landing on Schools Episode 7</a><br><a href="https://www.youtube.com/watch?v=TSTLcNfVOPo" target="_blank" rel="noopener noreferrer">Everything I Am (Teacher's Day 2020 Remake)</a></td>
   </tr>
   <tr>
     <td>2019</td>
