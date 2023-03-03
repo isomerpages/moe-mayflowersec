@@ -4,10 +4,7 @@ permalink: /cca/Clubs/infocomm-club/permalink/
 description: ""
 third_nav_title: Clubs
 ---
-Infocomm Club
-=============
-
-**Empowering Youth in Technology**
+> Empowering Youth in Technology
 
 The Infocomm Club aims to
 
@@ -20,121 +17,44 @@ In Infocomm Club, we equip students with IT skills and knowledge and broaden the
 
 ### Events and Achievements
 
-<table>
-<thead>
-  <tr>
-    <th>Year</th>
-    <th>Competition / Event</th>
-    <th>Award / Position</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>2021</td>
-    <td>Campus Legends : Mobile Legends Bang Bang Interschool Competition</td>
-    <td>Champion<br></td>
-  </tr>
-  <tr>
-    <td rowspan="3">2018</td>
-    <td>Game Developer Jr (Intermediate) using Scratch 2.0 by Ripple Create</td>
-    <td>Certificate of Participation<br></td>
-  </tr>
-  <tr>
-    <td>Our Schools, Our Stories Photo Contest</td>
-    <td>Certificate of Participation </td>
-  </tr>
-  <tr>
-    <td>Bishan Photography Competition</td>
-    <td>Certificate of Participation </td>
-  </tr>
-  <tr>
-    <td rowspan="6">2017</td>
-    <td>The Media Challenge 2017</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Schools Digital Media Awards (SDMA) 2017  </td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Game Developer Jr (Beginner) using Scratch 2.0 by Ripple create</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Learning Journey @ iExperience</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Sports Enrichment Programme (Laser Tag)</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Values-in-Action (Chinese New Year with AWWA Elderly)</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td rowspan="4">2016</td>
-    <td>Alpha Classical Programme by Animagine</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Google Sites Beginner Training by ACP</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Ace of Coders 2016</td>
-    <td>Qualified to finals</td>
-  </tr>
-  <tr>
-    <td>Serious Games Competition – Creating Games to Help People</td>
-    <td>1st prize</td>
-  </tr>
-  <tr>
-    <td rowspan="7">2015</td>
-    <td>Schools Digital Media Awards (SDMA) 2015</td>
-    <td>Merit Award</td>
-  </tr>
-  <tr>
-    <td>The Media Challenge 2015</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Mobile Application Development Course by ACP</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>Ace of Coders 2015</td>
-    <td>Participation</td>
-  </tr>
-  <tr>
-    <td>SG Moments Video-making Competition (Retro Singapore category)</td>
-    <td>1st prize</td>
-  </tr>
-  <tr>
-    <td>SG Moments Video-making Competition (Learning the Singapore Way category)</td>
-    <td>1st prize</td>
-  </tr>
-  <tr>
-    <td>Best Picture Award</td>
-    <td>2nd prize</td>
-  </tr>
-</tbody>
-</table>
+| Year | Competition / Event | Award / Position |
+| --- | --- | --- |
+| 2022 | Infocomm Club Youth Awards | Accomplishment |
+| 2022 | DJI Online Robomaster Challenge | Participation |
+| 2022 | Discover Learning Journey | Participation |
+| 2022 | Mobile App Development training Programme | Participation |
+|  2022| Data Analytics Training Programme | Participation |
+| 2022| Apple New Media Training Programme | Participation |
+| 2022 | Values in action with AWWA | Participation |
+| 2021 | Campus Legends : Mobile Legends Bang Bang Interschool Competition | Champion |
+| 2018 | Game Developer Jr (Intermediate) using Scratch 2.0 by Ripple Create | Certificate of Participation |
+| 2018 | Our Schools, Our Stories Photo Contest | Certificate of Participation |
+| 2018 | Bishan Photography Competition | Certificate of Participation |
+| 2017 | The Media Challenge 2017 | Participation |
+| 2017 | Schools Digital Media Awards (SDMA) 2017 | Participation |
+| 2017 | Game Developer Jr (Beginner) using Scratch 2.0 by Ripple create | Participation |
+|2017  | Learning Journey @ iExperience | Participation |
+| 2017 | Sports Enrichment Programme (Laser Tag) | Participation |
+|  2017| Values-in-Action (Chinese New Year with AWWA Elderly) | Participation |
+| 2016 | Alpha Classical Programme by Animagine | Participation |
+| 2016 | Google Sites Beginner Training by ACP | Participation |
+|  2016| Ace of Coders 2016 | Qualified to finals |
+| 2016 | Serious Games Competition – Creating Games to Help People | 1st prize |
 
-### Staff In-charge and Executive Committee Members 2020
+### Staff In-charge and Executive Committee Members 2022
 
-| Teachers in-charge 	| CCA Leaders 2021 	|
-|:---:	|:---:	|
-| Mdm Chelsea Yam (IC)<br>Mdm Noor Ezan Bte Khatib<br>Ms Wong Yin Sung 	| Chairperson<br>Felix Chua Zheng Yong (3F)<br><br>Vice - Chairperson<br>Lee Jia Le (3E) 	|
+| Teachers in-charge 	| CCA Leaders  	|
+|---	|---	|
+| Mdm Chelsea Yam (IC)<br>Ms Wong Yin Sung <br> Mdm Lai Meei Ju	| Chairperson: Lucas Chan Jun Xiang<br>Vice - Chairperson: Lim Li Xuan, Lervonne 	|
 
 ### Training Schedule
 
 | Day | Time | Venue |
 | --- | --- | --- |
-| Tuesdays | 3.30 pm – 5.30 pm | Comp Lab 2 |
-| Thursdays | 3.30 pm – 5.30 pm | Comp Lab 2 |
+| Tuesdays | 3.15 pm – 5.15 pm | Comp Lab 2 |
+| Thursdays | 3.15 pm – 5.15 pm | Comp Lab 2 |
 
 Photos
 ------
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZRE7LFVPpwUk8kAGXGvflp0_tq6kzQR616KXgdYYdByVgYsYan5_wczwI6_94QQE9WKURjDiiXCFi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZRE7LFVPpwUk8kAGXGvflp0_tq6kzQR616KXgdYYdByVgYsYan5_wczwI6_94QQE9WKURjDiiXCFi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
