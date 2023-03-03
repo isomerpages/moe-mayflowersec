@@ -26,18 +26,18 @@ Words are powerful--they influence thoughts, feelings, and action. By reading an
 
 
 #### Staff and Committee Members
-
-| Teachers-in-Charge 	| <br>Mdm Shagun (i/c)<br>Mdm Siti Fatimah Bte Muhammad 	|
-|:---:	|:---:	|
-| Chairperson 	| Ethan Phuah Yik Han – Sec 3 	|
-| Vice Chairperson 	| Wu Jiayi – Sec 3 	|
+|Designation|Name|
+|---	|---	|
+| Teachers-in-Charge 	|Mdm Shagun (i/c)<br>Mdm Siti Fatimah Bte Muhammad 	|
+| Chairperson 	| Lee Yue Ying 	|
+| Vice Chairperson 	| Chester Choo Kae Jye 	|
 
 #### Training Schedule
 
 | Day | Time | Venue | Teacher I/C |
 | --- | --- | --- | --- |
-| Tuesdays | 3 pm - 6 pm | Library | Ms Nadia Binte Sharin |
-| Thursdays | 3 pm - 6 pm | Library | Mdm Shagun |
+| Tuesdays | 3 pm - 6 pm | Library | Mdm Shagun |
+| Thursdays | 3 pm - 6 pm | Library | Mdm Siti Fatimah |
 
 Photos
 ------
