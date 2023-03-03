@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+We are pleased to share that our former student, Neo Hong Rui, Kieron has excelled academically at Temasek Polytechnic (TP) and recently graduated this year.![](/images/tp.jpg)
