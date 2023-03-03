@@ -4,11 +4,10 @@ permalink: /cca/Sports/bowling/permalink/
 description: ""
 third_nav_title: Sports
 ---
-Bowling
-=======
 
-Keeping P.A.C.E to win the game
--------------------------------
+
+>Keeping P.A.C.E to win the game
+
 
 **Passion**: Have positive enthusiasm &amp; energy for bowling  
 **Accuracy**: Have controlled direction, throwing &amp; prolonged focus  
@@ -17,7 +16,7 @@ Keeping P.A.C.E to win the game
 
 Mayflower Bowling aims to develop each bowler to be a leader equipped with the right knowledge, skills and attitude. We also aim to cultivate the value of respect, responsibility, integrity, team spirit, sportsmanship and perseverance.
 
-### Key events and Achievement
+### Key Events and Achievements
 
 <table>
 <thead>
@@ -121,7 +120,7 @@ Mayflower Bowling aims to develop each bowler to be a leader equipped with the r
 </table>
 
 | Teachers-in-Charge 	| CCA Leaders &amp; Executive Committee Members 2022 	|
-|:---:	|:---:	|
+|---	|---	|
 | Mr Jeremy Ong Zhen Wei<br>Ms Allycia Teo Wan Ngee<br>Ms Nadia Binte Sharin<br>Dr Tang Suyun 	| Captain: Kylie See, Max Leo<br>Upper Secondary Executive Committee: Evelle Goh, Darren Yam<br>Lower Secondary Executive Committee: Cheok Anting, Lim Kai Rong 	|
 
 ### Training Schedule
