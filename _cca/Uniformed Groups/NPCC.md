@@ -4,16 +4,12 @@ permalink: /cca/Uniformed-Groups/npcc/permalink/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-NPCC
-====
+> D.A.R.E. (Discipline, Achieve, Resilience, Excellence)
 
-**D.A.R.E. (Discipline, Achieve, Resilience, Excellence)**
+The NPCC aims to
 
-The NPCC aims to&nbsp;
-
-• Develop our members into active citizens and community leaders
-
-• Work in partnership with the Singapore Police Force to fight crime and keep Singapore safe
+* Develop our members into active citizens and community leaders
+* Work in partnership with the Singapore Police Force to fight crime and keep Singapore safe
 
   
 
@@ -25,20 +21,16 @@ In 1959, during the explosive period of Singapore's history, our society was fra
 | --- | --- | --- |
 | 2019 | Unit Overall Proficiency Award | Gold |
 | 2018 | Unit Overall Proficiency Award | Gold |
-| 2017&nbsp; | &nbsp;Unit Overall Proficiency Award | &nbsp;Gold&nbsp; |
-| 2016&nbsp; | Unit Overall Proficiency Award&nbsp; | &nbsp;Gold&nbsp; |
+| 2017 | Unit Overall Proficiency Award | Gold |
+| 2016 | Unit Overall Proficiency Award | Gold |
 
 **Staff, Volunteers and Student Leaders 2018**
-
+|Designation|Name|
+|---|---|
 | Teachers-in-Charge 	| Mr Ng Tze How (OC Unit)<br>Mdm Whong Tung Geok<br>Mr Nicholas Quek<br>Ms Lim Wei Li<br>Ms Sherrie Ng 	|
-|:---:	|:---:	|
-| Volunteers 	| SCI (NPCC) Tong Ho Leong       <br>CI (NPCC) Lim Hai Jie, Felicia <br><br>CI (NPCC) Xavier Lee Hong Ming <br>CI (NPCC) Amos Tan Gan Theng 	|
+| Volunteers 	| SCI (NPCC) Tong Ho Leong       <br>CI (NPCC) Lim Hai Jie, Felicia <br>CI (NPCC) Xavier Lee Hong Ming <br>CI (NPCC) Amos Tan Gan Theng 	|
 | Cadet Leaders: Leadership Group 	| Lim Qing Ying (Chairperson)<br>Pariyavalappil Anil Abhishek (Head Training)<br>Oh Yi Boon, Travis (Asst. Head Training) 	|
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFIt3gfGiGkizi93ixbtm0hVrfpqPfawQT-6jUI0cTYD8MYHDZ5tfKXbuhGO83FflGyRswFVr3X4mu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-
-
- 
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFIt3gfGiGkizi93ixbtm0hVrfpqPfawQT-6jUI0cTYD8MYHDZ5tfKXbuhGO83FflGyRswFVr3X4mu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
