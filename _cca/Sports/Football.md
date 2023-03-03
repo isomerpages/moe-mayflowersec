@@ -4,13 +4,7 @@ permalink: /cca/Sports/football/permalink/
 description: ""
 third_nav_title: Sports
 ---
-Football
-========
-
-Hard Work Beats Talent
-----------------------
-
-  
+> Hard Work Beats Talent
 
 The Football CCA aims to
 
@@ -30,9 +24,9 @@ Following the layering of astroturf for the school field, Mayflower Secondary is
 
 ### CCA Teachers in Charge
 
-| Teachers IC 	| CCA Leaders 	|
-|:---:	|:---:	|
-| Mr Matthew Chan<br>Ms Nurulhuda Binte Mustafa<br>Ms Charissa Qiu<br><br>Coaches/Instructors<br>Mr Emmeric Ong 	| Ali Bin Noh Alkaff (3F)<br>Lennon Chua Ming Lun (4D) 	|
+|Coaches/Instructors| Teachers IC 	| CCA Leaders 	|
+|---	|---	|---|
+|Mr Emmeric Ong| Mr Tan Jian Xun<br>Ms Nurulhuda Binte Mustafa<br>Ms Charissa Qiu	| Ali Bin Noh Alkaff (3F)<br>Lennon Chua Ming Lun (4D) 	|
 
 ### Training Schedule
 
@@ -43,5 +37,4 @@ Following the layering of astroturf for the school field, Mayflower Secondary is
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXPlQ92ctCTTW5J-PXBxQXRSVQ9F24baISOIBowjtbP9FRm07T6rC69xGHuvXLbSo66dXVre5fUsSf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXPlQ92ctCTTW5J-PXBxQXRSVQ9F24baISOIBowjtbP9FRm07T6rC69xGHuvXLbSo66dXVre5fUsSf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
