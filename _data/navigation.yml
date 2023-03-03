@@ -12,3 +12,5 @@ links:
     collection: parents
   - title: Links
     collection: links
+  - title: Latest Happenings
+    resource_room: true
