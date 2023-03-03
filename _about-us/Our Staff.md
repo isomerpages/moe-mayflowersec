@@ -93,7 +93,7 @@ description: ""
 | 4I | Mr Quek Wee Hee Nicholas | [quek\_wee\_hee\_nicholas@schools.gov.sg](mailto:quek_wee_hee_nicholas@schools.gov.sg) |
 | 4J | Mr Jeremy Ong Zhen Wei | [ong\_zhen\_wei\_jeremy@schools.gov.sg](mailto:ong_zhen_wei_jeremy@schools.gov.sg) |
 | 4J | Ms Lim Wei Li | [lim\_wei\_li\_a@schools.gov.gov.sg](mailto:lim_wei_li_a@schools.gov.gov.sg) |
-| 5F | Ms Ng Xue Lai, Sherrie | [ng\_xue\_lei\_sherrie@schools.gov.sg](mailto:ng_xue_lei_sherrie@schools.gov.sg) |
+| 5F | Ms Ng Xue Lei, Sherrie | [ng\_xue\_lei\_sherrie@schools.gov.sg](mailto:ng_xue_lei_sherrie@schools.gov.sg) |
 
 ### Non-Form Teachers
 
