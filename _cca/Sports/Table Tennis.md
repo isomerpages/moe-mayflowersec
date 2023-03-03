@@ -4,10 +4,7 @@ permalink: /cca/Sports/table-tennis/permalink/
 description: ""
 third_nav_title: Sports
 ---
-Table Tennis
-============
-
-### Championships are won at practice.
+> Championships are won at practice.
 
 The Table Tennis CCA aims to:
 
@@ -27,31 +24,16 @@ The MFSS Table Tennis Team, however, is united by each individual’s love for t
 
 ### CCA In-charge
 
-<table>
-<thead>
-  <tr>
-    <th>Teachers-in-charge</th>
-    <th>CCA Leaders</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Mdm Su Xiaoling<br>Ms Alethea Goei<br>Mr Fam Tong Siang</td>
-    <td rowspan="3">Yeo Yao Hao (3J) - Captain (Boys)<br>Wong Chiau Yee (3A) - Captain (Girls)<br>Ryan Wu (2D) / Sean Qian Ting (3E) - Vice-Captain<br>Ivan Sow (3A) / Jasmine Liong (2F) - Secretary<br>Ethan Ng (3B) / Tryphena Chng (3E) - Physical Training<br>Remus (2F) / Joby Ang (3J) - Logistic</td>
-  </tr>
-  <tr>
-    <td>Coaches / Instructors</td>
-  </tr>
-  <tr>
-    <td>Mr Lim Wee Tiong<br>Mr Ten Siong</td>
-  </tr>
-</tbody>
-</table>
+|Coaches / Instructors|Teachers-in-charge|CCA Leaders|
+|---|---|---|
+|Mr Lim Wee Tiong<br>Mr Ten Siong|Mdm Su Xiaoling<br>Ms Alethea Goei<br>Mr Fam Tong Siang |Yeo Yao Hao <br>Wong Chiau Yee<br>Ryan Wu , Sean Qian Ting <br>Ivan Sow, Jasmine Liong  <br>Ethan Ng, Tryphena Chng<br>Remus , Joby Ang |
+
+
 
 Photos
 ------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOAJkoJPiqaehmsSwk7cdJOVqKks3_qfYpSZbpUyJZK4IaDktiMLl49OKk0Y7iMSEKATLPPQgkmBz6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOAJkoJPiqaehmsSwk7cdJOVqKks3_qfYpSZbpUyJZK4IaDktiMLl49OKk0Y7iMSEKATLPPQgkmBz6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Mayflower Sec - Table Tennis 2020" src="https://www.youtube.com/embed/ww_pyv832JE" height="450" width="835"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Mayflower Sec - Table Tennis 2020" src="https://www.youtube.com/embed/ww_pyv832JE" height="400" width="100%"></iframe>
