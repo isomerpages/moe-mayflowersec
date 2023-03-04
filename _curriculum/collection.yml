@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Timetable.md
       - Curriculum.md
       - Character and Citizenship/.keep
       - Character and Citizenship/Character and Citizenship Education.md
