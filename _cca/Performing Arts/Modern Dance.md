@@ -68,8 +68,9 @@ Ms Serene Tung
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=true&loop=true&delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=true&loop=true&delayms=3000"></iframe></div>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Modern Dance 2021" src="https://www.youtube.com/embed/6dVqB4-_WdQ" height="400" width="100%"></iframe>
+
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allow="accelerometer; autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture" frameborder="0" title="Modern Dance 2021" src="https://www.youtube.com/embed/6dVqB4-_WdQ"></iframe></div>
