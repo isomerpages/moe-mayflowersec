@@ -91,4 +91,4 @@ Video
 
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vTjj7y1sH2P7UbyVKI5MmERShE7lmJBEGb5J2-YsXLeFU_dLzt9F8U-zImvYO_eKR4x9iupIfZ9G83_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vTjj7y1sH2P7UbyVKI5MmERShE7lmJBEGb5J2-YsXLeFU_dLzt9F8U-zImvYO_eKR4x9iupIfZ9G83_/embed?start=true&loop=true&delayms=3000"></iframe></div>
