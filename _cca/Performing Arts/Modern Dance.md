@@ -45,8 +45,9 @@ Ms Serene Tung
 
 ### CCA Leaders and Executive Committee Members
 
-| Chairperson 	| Lim Xiao Tong 	|
+| Position | Name |
 |---	|---	|
+| Chairperson 	| Lim Xiao Tong 	|
 | Vice Chairperson - Discipline 	| Lin Jia Yun 	|
 | Vice Chairperson - Operations 	| Zhu Xi En 	|
 | Vice Chairperson - Development 	| Latheesh Shreya|
