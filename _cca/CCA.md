@@ -3,9 +3,6 @@ title: CCA
 permalink: /cca/permalink/
 description: ""
 ---
-CCA
-===
-
 The Co-Curricular Activities (CCA) in Mayflower Secondary School form an integral part of a student’s life.
 
 Under the 4 domains – Performing Arts, Sports, Uniformed Groups, and Clubs, we focus on 2 main areas as part of our CCA programme in MF – character development and student leadership.
@@ -14,5 +11,8 @@ In character development we look at how we can instil values in our students thr
 
 For student leadership, we provide opportunities and platforms to train our CCA leaders as they apply the skills learned. The students hone their leadership qualities through their CCAs.
 
-Performing Arts
----------------
+[LEAPS 2.0](/files/LEAPS%202-0.pdf)
+
+-----------------
+### Performing Arts
+
