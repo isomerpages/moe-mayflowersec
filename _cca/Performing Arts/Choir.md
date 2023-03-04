@@ -124,19 +124,19 @@ In light of COVID-19, livelihoods of many are affected, be it as patients and fa
 
 In these turbulent times, we’d like to let you know, in our own little way, we are all in this together – you do not walk alone.
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"src="https://www.youtube.com/embed/aCQngpKFGjE" title="You Do Not Walk Alone - Elaine Hagenberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/aCQngpKFGjE" title="You Do Not Walk Alone by Elaine Hagenberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Interviewing Our Alumni**
 
 Hear the stories from some of our recently graduated choristers from the class of 2019, who are studying in Eunoia Junior College, Raffles Institution (Junior College), and Saint Andrew's Junior College as JC1 students in 2020. Whilst their paths now diverge, what they have gone through in the 4 years together has shaped them into who they are today.
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"src="https://www.youtube.com/embed/04yX8TmsEMI" title="Interviewing Our Alumni - Class of 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/04yX8TmsEMI" title="Interviewing Our Alumni Class of 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Interviews and Highlights Playlist**
 
 Want to hear more about our Choir? Check out this playlist and hear it straight from our members from past to present!
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"src="https://www.youtube.com/embed/VG1wPOfA0RU?list=PL-0txKiPyr5v6V3vAAp_wicIK3pzV2ff2" title="MFSS Choir: Experience Choir Redefined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/VG1wPOfA0RU?list=PL-0txKiPyr5v6V3vAAp_wicIK3pzV2ff2" title="MFSS Choir Experience Choir Redefined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Photo Gallery
 
