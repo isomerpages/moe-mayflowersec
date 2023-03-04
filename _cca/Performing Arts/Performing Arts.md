@@ -4,7 +4,7 @@ permalink: /cca/Performing-Arts/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/bGvnP8zjQ8Q" title="MFSS Performing Arts CCAs: Interview with Our Students" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/bGvnP8zjQ8Q" title="MFSS Performing Arts CCAs: Interview with Our Students" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Congratulations to our Performing Arts groups for their achievements at the Singapore Youth Festival 2021!**
 
