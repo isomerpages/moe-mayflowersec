@@ -63,3 +63,5 @@ The National Digital Literacy Programme (NDLP) was launched in March 2020 to mak
 All of these changes being made would not be possible without our dedicated team of teachers and staff. As the role of teachers is to be a guide now instead of an expert spewing knowledge, teachers at Mayflower has been investing a lot of time and effort on learning how to maximise learning in a totally different setting. The goal is to turn classes where students are learning how to learn and discover knowledge with a teacher's coaching guidance. Find out how this is done by the different departments by clicking on the different departments highlighted below.
 
 Click on the departments below to find out more about how the various subjects are taught at Mayflower.
+### Craft & Technology
+![Craft & Technology](/images/Departments/craft%20and%20technology%20department%202.jpg)
