@@ -25,7 +25,7 @@ Beyond Singapore, the Choir embarked on an overseas choral trip to Hong Kong in 
 
 Singing a wide variety of choral music, the MFSS Choir aspires to have more opportunities to engage the community through singing, to grow in the pursuit of choral excellence, and to deepen the bonds shared through music-making. The Choir is under the choral leadership of Conductor Advisor Mr Toh Ban Sheng and Conductor Mr Xie Zhizhong.
 
-| <a href=https://mfsschoir.wordpress.com/><img style="width:25%" src="/images/wordpress.png"></a> **[Access our WordPress site for more information](https://mfsschoir.wordpress.com/)** 	| <a href="https://www.instagram.com/mfsschoir/"><img style="width:25%" src="/images/ig.png"></a> **[Follow us on Instagram @mfsschoir](https://www.instagram.com/mfsschoir/)**	| <a href="https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg"><img style="width:50%" src="/images/youtube.svg"></a> **[Check out our videos on YouTube @mfsschoir](https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg)**	|
+| <a href="https://mfsschoir.wordpress.com/"><img style="width:25%" src="/images/wordpress.png"></a> **[Access our WordPress site for more information](https://mfsschoir.wordpress.com/)** 	| <a href="https://www.instagram.com/mfsschoir/"><img style="width:25%" src="/images/ig.png"></a> **[Follow us on Instagram @mfsschoir](https://www.instagram.com/mfsschoir/)**	| <a href="https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg"><img style="width:50%" src="/images/youtube.svg"></a> **[Check out our videos on YouTube @mfsschoir](https://www.youtube.com/channel/UCdbJf1B8BCQD-DOESklnIzg)**	|
 |---	|---	|---	|
 
 ### Achievements and Events
