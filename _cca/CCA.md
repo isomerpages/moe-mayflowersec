@@ -16,6 +16,43 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 -----------------
 ### Performing Arts
 
+[![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)Concert Band](/cca/Performing-Arts/concert-band/permalink/)
 
-[![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)](/cca/Performing-Arts/concert-band/permalink/)
+[![Chinese Dance](/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg)Chinese Dance](/cca/Performing-Arts/chinese-dance/permalink/)
 
+[![Chinese Ensemble](/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg)Chinese Ensemble](/cca/Performing-Arts/chinese-ensemble/permalink/)
+
+[![Choir](/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg)Choir](/cca/Performing-Arts/choir/permalink/)
+
+[![Drama](/images/CCA%20thumbnails/thumbnail_drama.jpg)Drama](/cca/Performing-Arts/drama/permalink/)
+
+[![Modern Dance](/images/CCA%20thumbnails/thumbnail_moderndance.jpg)Modern Dance](/cca/Performing-Arts/modern-dance/permalink/)
+
+_________
+#### Sports
+[![Basketball](/images/CCA%20thumbnails/thumbnail_basketball.jpg)Basketball](/cca/Sports/basketball/permalink/)
+
+[![Bowling](/images/CCA%20thumbnails/thumbnail_bowling.jpg)Bowling](/cca/Sports/bowling/permalink/)
+
+[![Football](/images/CCA%20thumbnails/thumbnail_football.jpg)Football](/cca/Sports/football/permalink/)
+
+[![Netball](/images/CCA%20thumbnails/thumbnail_netball.jpg)Netball](/cca/Sports/netball/permalink/)
+
+[![Table Tennis](/images/CCA%20thumbnails/thumbnail_tabletennis.jpg)Table Tennis](/cca/Sports/table-tennis/permalink/)
+
+[![Taekwondo](/images/CCA%20thumbnails/thumbnail_taekwondo.jpg)Taekwondo](/cca/Sports/taekwondo/permalink/)
+
+_________
+#### Uniformed Groups
+[![NCC (Land)](/images/CCA%20thumbnails/thumbnail_ncc.jpg)NCC (Land)](/cca/Uniformed-Groups/ncc-land/permalink/)
+
+[![NPCC](/images/CCA%20thumbnails/thumbnail_npcc.jpg)NPCC](/cca/Uniformed-Groups/npcc/permalink/)
+
+[![Scouts](/images/CCA%20thumbnails/thumbnail_scouts.jpg)Scouts](/cca/Uniformed-Groups/scouts/permalink/)
+
+#### Clubs & Societies
+[![Enterprise Club](/images/CCA%20thumbnails/thumbnail_enterprise.jpg)Enterprise Club](/cca/clubs/enterprise-club/permalink/)
+
+[![InfoComm Club](/images/CCA%20thumbnails/thumbnail_info_comm.jpg)InfoComm Club](/cca/clubs/enterprise-club/permalink/)
+
+[![Literary & Orators Club](/images/CCA%20thumbnails/thumbnail_lno.jpg)Literary & Orators  Club](/cca/clubs/literary-and-orators-club/permalink/)
