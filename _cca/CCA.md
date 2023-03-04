@@ -17,5 +17,5 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 ### Performing Arts
 
 
- ![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)
-
+[![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)](/cca/Performing-Arts/concert-band/permalink/)
+ 
