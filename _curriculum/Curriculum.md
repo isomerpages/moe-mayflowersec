@@ -63,9 +63,24 @@ The National Digital Literacy Programme (NDLP) was launched in March 2020 to mak
 All of these changes being made would not be possible without our dedicated team of teachers and staff. As the role of teachers is to be a guide now instead of an expert spewing knowledge, teachers at Mayflower has been investing a lot of time and effort on learning how to maximise learning in a totally different setting. The goal is to turn classes where students are learning how to learn and discover knowledge with a teacher's coaching guidance. Find out how this is done by the different departments by clicking on the different departments highlighted below.
 
 Click on the departments below to find out more about how the various subjects are taught at Mayflower.
-### Craft & Technology
-<a href="/curriculum/Departments/craft-and-technology/permalink/"><img src="/images/Departments/craft%20and%20technology%20department%202.jpg"></a>
 
-### English & Literature
+#### English & Literature
 <a href="/curriculum/Departments/english-and-literature/permalink/"><img src="/images/Departments/english language department 2.jpg"></a>
 
+#### Mother Tongue
+[![](/images/Departments/mother%20tongue%20language%20department%202.jpg)](/curriculum/Departments/mother-tongue/permalink/)
+
+#### Mathematics
+[![Mathematics Dept](/images/Departments/mathematics%20department%202.jpg)](/curriculum/Departments/mathematics/permalink/)
+
+#### Science
+[![Science Dept](/images/Departments/science%20department%202.jpg)](/curriculum/Departments/science/permalink/)
+
+#### Humanities
+[![Humanities Dept](/images/Departments/humanites%20department%202.jpg)](/curriculum/Departments/humanities/permalink/)
+
+#### Craft & Technology
+<a href="/curriculum/Departments/craft-and-technology/permalink/"><img src="/images/Departments/craft%20and%20technology%20department%202.jpg"></a>
+
+#### Physical Education and Music
+[![PE & Music Dept](/images/Departments/physical%20education%20department%202.jpg)](/curriculum/Departments/pe-and-music/permalink/)
