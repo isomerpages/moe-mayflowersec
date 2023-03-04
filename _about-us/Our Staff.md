@@ -155,6 +155,7 @@ description: ""
 |Flexi Adj (English Language)|Mdm Wan Chue Wah|[wan\_chue\_wah@schools.gov.gov.sg](mailto:wan_chue_wah@schools.gov.gov.sg)|
 |Flexi Adj (Humanities)|Ms Lee Yeen Yoong Eugenia|[lee\_yeen\_yoong\_eugenia@schools.gov.sg](mailto:lee_yeen_yoong_eugenia@schools.gov.sg)|
 |Flexi Adj (Math)|Ms Wong Chun Lai (Joy)|[wong\_chun\_lai@schools.gov.sg](mailto:wong_chun_lai@schools.gov.sg)|
+|Flexi Adj (Math)|Ms Goh Yan Qin Katherine|[goh\_yan\_qin\_katherine@schools.gov.sg](mailto:goh_yan_qin_katharine@schools.gov.sg) |
 |Flexi Adj (Physical Education)|Mr Lee Joen Yen|[lee\_joen\_yen@schools.gov.sg](mailto:lee_joen_yen@schools.gov.sg)|
 |Flexi Adj|Ms Beryl Leong Yoke Mooi|
 |Flexi Adj|Mr Gananedran S Eagamparam|[gananedran\_s\_eagamparam@moe.edu.sg](mailto:gananedran_s_eagamparam@moe.edu.sg)|
