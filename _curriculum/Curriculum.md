@@ -64,4 +64,7 @@ All of these changes being made would not be possible without our dedicated team
 
 Click on the departments below to find out more about how the various subjects are taught at Mayflower.
 ### Craft & Technology
-![Craft & Technology](/images/Departments/craft%20and%20technology%20department%202.jpg)
+![Craft & Technology](/images/Departments/craft%20and%20technology%20department%202.jpg)(/curriculum/Departments/craft-and-technology/permalink/)
+```
+<img src="/images/Departments/craft%20and%20technology%20department%202.jpg">
+```
