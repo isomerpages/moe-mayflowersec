@@ -59,8 +59,7 @@ We take pride in developing potential young musicians. Many of our members have 
 ### Teachers in Charge
 
 Ms Mok Pei Jiun  
-Mr Yang Pei Qiang  
-Ms Azmira Binte Zailan  
+Mr Yang Pei Qiang   
 Mdm Dzarina Bte Tarih
 
 ### Instructors / Conductors / Section Tutors
