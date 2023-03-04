@@ -49,4 +49,4 @@ Mayflower Drama Club aims to:
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDtlpCHePWw4UaTB7E0s1Wzl6Zo_IFBifHZJWgm-f3P5MqR6RH1CTKk8qlK212ltapWkNtEOYMKBgo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDtlpCHePWw4UaTB7E0s1Wzl6Zo_IFBifHZJWgm-f3P5MqR6RH1CTKk8qlK212ltapWkNtEOYMKBgo/embed?start=true&loop=true&delayms=3000"></iframe>
