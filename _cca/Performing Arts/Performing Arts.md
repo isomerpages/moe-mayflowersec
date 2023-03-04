@@ -13,10 +13,22 @@ Performing Arts
 
 | Performing Arts Groups | Achievements |
 | --- | --- |
-| Chinese Dance | Certificate of Accomplishment |
-| Chinese Ensemble (Percussion) | Certificate of Distinction |
-| Chinese Ensemble (Plucking) | Certificate of Distinction |
-| Choir | Certificate of Distinction (2019) |
+| [Chinese Dance](/cca/Performing-Arts/chinese-dance/permalink/) | Certificate of Accomplishment |
+| [Chinese Ensemble (Percussion)](/cca/Performing-Arts/chinese-ensemble/permalink/) | Certificate of Distinction |
+| [Chinese Ensemble (Plucking)](/cca/Performing-Arts/chinese-ensemble/permalink/) | Certificate of Distinction |
+| [Choir](/cca/Performing-Arts/choir/permalink/) | Certificate of Distinction (2019) |
 | [Concert Band](/cca/Performing-Arts/concert-band/permalink/) | Certificate of Accomplishment |
-| Drama | Certificate of Distinction |
-| Modern Dance | Certificate of Distinction |
+| [Drama](/cca/Performing-Arts/drama/permalink/) | Certificate of Distinction |
+| [Modern Dance](/cca/Performing-Arts/modern-dance/permalink/) | Certificate of Distinction |
+
+[![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)Concert Band](/cca/Performing-Arts/concert-band/permalink/)
+
+[![Chinese Dance](/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg)Chinese Dance](/cca/Performing-Arts/chinese-dance/permalink/)
+
+[![Chinese Ensemble](/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg)Chinese Ensemble](/cca/Performing-Arts/chinese-ensemble/permalink/)
+
+[![Choir](/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg)Choir](/cca/Performing-Arts/choir/permalink/)
+
+[![Drama](/images/CCA%20thumbnails/thumbnail_drama.jpg)Drama](/cca/Performing-Arts/drama/permalink/)
+
+[![Modern Dance](/images/CCA%20thumbnails/thumbnail_moderndance.jpg)Modern Dance](/cca/Performing-Arts/modern-dance/permalink/)
