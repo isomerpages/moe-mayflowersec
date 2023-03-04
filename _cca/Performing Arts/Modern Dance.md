@@ -4,8 +4,6 @@ permalink: /cca/Performing-Arts/modern-dance/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 >Dance to Express
 
   
@@ -70,7 +68,7 @@ Ms Serene Tung
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=true&loop=true&delayms=3000"></iframe>
 
 Video
 -----
