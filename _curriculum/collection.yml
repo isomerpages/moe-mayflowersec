@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Timetable.md
+      - Applied Learning Programme.md
       - Curriculum.md
       - Character and Citizenship/.keep
       - Character and Citizenship/Character and Citizenship Education.md
@@ -19,6 +19,6 @@ collections:
       - Departments/Humanities.md
       - Departments/Craft & Technology.md
       - Departments/Physical Education & Music.md
-      - National Digital Literacy Programme.md
-      - Applied Learning Programme.md
       - Full SBB.md
+      - National Digital Literacy Programme.md
+      - Timetable.md
