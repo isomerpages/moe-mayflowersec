@@ -38,7 +38,7 @@ Photo
 -----
 
 **Music**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDEjhstz2Pme16cb7J3P92wsbRmqIOTBDseUs857bdajUN49BxkvndFECgHafjcX2O0egzOPW0INXZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vRDEjhstz2Pme16cb7J3P92wsbRmqIOTBDseUs857bdajUN49BxkvndFECgHafjcX2O0egzOPW0INXZ/embed?start=1&amp;loop=1&amp;delayms=3000" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Physical Education**
-<iframe allowfullscreen="true" width="100%" height="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTRP28uBzd20cRkL0biA9OxNUeRU70CekMglXSvg4ZaWnA5_JrY1xPEjtzAHqAm7yT2a_UEQP3nkn3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTRP28uBzd20cRkL0biA9OxNUeRU70CekMglXSvg4ZaWnA5_JrY1xPEjtzAHqAm7yT2a_UEQP3nkn3/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
