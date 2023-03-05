@@ -62,6 +62,14 @@ Notable Programmes and Events
 
 Achievements
 ------------
+
+
+| Level | Competition | Achievement |
+| -------- | -------- | -------- |
+| Upper Secondary     | 8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine.     | 1 Gold<br>2 Merit<br>1 Honourable Mention<br>     |
+
+
+Next table
 | Level | Competition | Achievement |
 | -------- | -------- | -------- |
 | Upper Secondary 	| 8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine. 	| 1 Gold<br>2 Merit<br>1 Honourable Mention<br>	|
