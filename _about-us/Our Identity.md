@@ -4,7 +4,8 @@ permalink: /about-us/our-identity/permalink/
 description: ""
 ---
 ### Our School Crest
-<img src="/images/crest.svg" style="width:25%"></img>
+<img src="/images/crest.svg" style="width:25%">
+
 The school crest is composed of the letters, MF, encompassed by the name of the school.
 
 MF, the initials of the school, are depicted as a stalk of flower. The letter, M, is shaped artistically as a flower, while the letter, F, is designed as a stem with a blade of leaf on either side. This stalk of flower conveys the essence of message that "**Every Mayflowerian will bloom**".
