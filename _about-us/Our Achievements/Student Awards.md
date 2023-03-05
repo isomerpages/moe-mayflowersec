@@ -19,6 +19,7 @@ Colin Soon wins third gold at Asian Youth Para Games \[Updated\]
 #### **Updated as of 06/12/21**
 
 Mayflower Secondary School is proud that our students Colin Soon had won his first two gold medals at the Asian Youth Para Games 2021 in Bahrain on Saturday, 4 December 2021. He claimed two bronze medals in the S11-13 100m backstroke and freestyle events previously in Dubai 2017.
+![](/images/straits%20times%20-%20colin.jpg)
 
 https://www.straitstimes.com/sport/para-sports-colin-soon-wins-two-golds-in-swimming-at-asian-youth-para-games   
 (Straits Times Link)
