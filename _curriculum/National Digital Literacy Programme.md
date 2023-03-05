@@ -15,15 +15,15 @@ The aims of NDLP are to:
 
 Watch the video to have a better understanding of how NDLP strengthens Digital Literacy.
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/3FKftVAU4eI" title="Strengthening digital literacy of students | Committee of Supply 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/3FKftVAU4eI" title="Strengthening digital literacy of students | Committee of Supply 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 #### Student And Teacher Experiences
 
 Watch the videos to hear the students' and teachers' voices about NDLP.
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/-TCnHCORdYc" title="Digital Learning - Teachers' Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-TCnHCORdYc" title="Digital Learning - Teachers' Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 #### How Will Your Child Be Using Their PLDs?
@@ -43,9 +43,9 @@ They will use their PLDs to access platforms such as the Student Learning Space 
 #### Digital Applications for Students
 
 As part of the NDLP, schools will progressively roll out ICT applications that are vital to students’ educational journey. These applications will form an integral part of the applications installed in the PLDs:
-| Student iCON | Microsoft Pro Plus | Zoom |
-|----|----|----|
-| Every secondary school student will be given an iCON account that provides access to email and Google productivity tools.| Every secondary school student will be able to access and use Microsoft Office tools that include Word, PowerPoint and Excel on their PLD.| Every secondary school student will be given a Zoom free account \[with a 40 mins time limit\] using the Student iCON for the students’ video conferencing needs.|
+| Student iCON | Microsoft 365 | Zoom |
+| ---- | ---- | ---- |
+| Every secondary school student will be given an iCON account that provides access to email and Google productivity tools. | Every secondary school student will be able to access and use Microsoft Office tools that include Word, PowerPoint and Excel on their PLD. | Every secondary school student will be given a Zoom free account \[with a 40 mins time limit\] using the Student iCON for the students’ video conferencing needs. |
  
 ### Device Information
 > ![Acer Chromebook](/images/Acer%20Chromebook.png) **Acer Chromebook Spin R753TN**
