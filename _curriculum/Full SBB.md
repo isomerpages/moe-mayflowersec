@@ -35,13 +35,13 @@ As part of the pilot, our school has implemented the following:
 *   For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. Express, N(A) or N(T).
 
   
-For more information on how our school would implement Full SBB, you can contact us at [**mayflower\_ss@moe.edu.sg**](https://mayflowersec.moe.edu.sg/curriculum/mayflower_ss@moe.edu.sg)  
+For more information on how our school would implement Full SBB, you can contact us at [mayflower\_ss@moe.edu.sg](mailto:mayflower_ss@moe.edu.sg)  
   
 
 ### Useful Videos for Reference
 
-*   [**“Talk show” with Min Ong.**](https://www.facebook.com/moesingapore/videos/2725818744113611/?sfns=mo) This video shares the rationale behind Full SBB through an interview with Minister Ong.
-*   [**Explaining full SBB.**](https://www.youtube.com/watch?v=JMc_GispPmk&feature=youtu.be) This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
+*   [“Talk show” with Min Ong.](https://www.facebook.com/moesingapore/videos/2725818744113611/?sfns=mo) This video shares the rationale behind Full SBB through an interview with Minister Ong.
+*   [Explaining full SBB.](https://www.youtube.com/watch?v=JMc_GispPmk&feature=youtu.be) This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
 
 ### Infographics on Full SBB
 
