@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Achievements
           description: ""
-          url: ""
+          url: /about-us/achievements/
         - title: latest updates
           description: ""
           url: ""
@@ -36,7 +36,6 @@ sections:
       title: MAYFLOWER SECONDARY SCHOOL
       description: Google maps to be inserted here
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Latest Happenings
+      button: See all Latest Happenings
 ---
