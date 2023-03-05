@@ -50,6 +50,15 @@ Our department’s teachers are also encouraged to share how Assessment for Lear
 
 Notable Programmes and Events
 -----------------------------
+
+
+| Programme Name | Description |
+| -------- | -------- |
+| 1st Gear:  Science of Motor Vehicles     | EduTorque conducted an exciting enrichment programme on The Science of Motor Vehicles for our Secondary 4 Normal Technical students. This course is designed to create a stimulating and life-long learning experience for students. Beyond the theory, students had an opportunity to take the hot seat in a Motorsports GP Car simulator.<br>Furthermore, students also had the opportunity to tour an electric kart circuit (The Karting Arena) and enjoy exciting karting sessions!     |
+| EGO Workshop | The workshop for Secondary 2s provides a “hands on, minds on” environment that supports and enriches the students’ learning and understanding of the science concepts from the Interactions & Energy themes of the Lower Secondary Science syllabus. |
+
+
+
 | Programme Name | Description |
 | -------- | -------- |
 | 1st Gear Science of Motor Vehicles | EduTorque conducted an exciting enrichment programme on The Science of Motor Vehicles for our Secondary 4 Normal Technical students. This course is designed to create a stimulating and life-long learning experience for students. Beyond the theory, students had an opportunity to take the hot seat in a Motorsports GP Car simulator. Furthermore, students also had the opportunity to tour an electric kart circuit (The Karting Arena) and enjoy exciting karting sessions! |
