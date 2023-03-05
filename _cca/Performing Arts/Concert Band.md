@@ -60,7 +60,8 @@ We take pride in developing potential young musicians. Many of our members have 
 
 Ms Mok Pei Jiun  
 Mr Yang Pei Qiang   
-Mdm Dzarina Bte Tarih
+Mdm Dzarina Bte Tarih  
+Ms Lim Wei Li
 
 ### Instructors / Conductors / Section Tutors
 
