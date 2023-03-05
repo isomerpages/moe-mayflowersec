@@ -15,6 +15,7 @@ The NCC CCA aims to
 Singapore citizens and permanent residents typically join the NCC as a Co-Curricular Activity (CCA) around the same time they enrol in Secondary School at the age of 13. They then stay for a term of 4 to 5 years. Cadets who wish to stay on in the Corps after completing their secondary education may apply to undergo a 2-week Cadet Officer Course (COC). Cadets who graduate from the Course are then appointed as Cadet Officers (C/Offr).
 
 ### Events and Achievements
+
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
 | 2021 | NCC Unit Recognition | Distinction |
@@ -34,7 +35,8 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 
 
 ### Staff and Committe Members
-|Designation | Name|
+
+| Designation | Name|
 |---|---|
 | Teachers-in-Charge 	| Mr Tham Wen Xi (i/c)<br>Mr Naguib Ngadnan<br>Mr Tan Kok Meng 	|
 | Unit Sergeant Major (USM) 	| Chua Yi Xian (4F) 	|
@@ -48,8 +50,8 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIGTgeo_DpQGzoCcvpQgxkmrU_DS_AcUlhz90vWp0le4H3Kq3d9-StOPDYWk17p24D-5p-4VkTU7t5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIGTgeo_DpQGzoCcvpQgxkmrU_DS_AcUlhz90vWp0le4H3Kq3d9-StOPDYWk17p24D-5p-4VkTU7t5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
 Video
 -----
-<iframe width="400" height="100%" src="https://www.youtube.com/embed/W7IowZGW0DI" title="Mayflower Secondary School - NCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/W7IowZGW0DI" title="Mayflower Secondary School - NCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
