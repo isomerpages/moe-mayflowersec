@@ -22,4 +22,4 @@ NE in Mayflower aims to be empowering and aspirational, allowing for individual 
 
 Photo
 -----
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbRH1p_MKW181w0rLC6eaYgdiqoTxJuhjv-A1c_RjLfMB3ThPNydZITzchaLW6odf3O_AV2j38B4oT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbRH1p_MKW181w0rLC6eaYgdiqoTxJuhjv-A1c_RjLfMB3ThPNydZITzchaLW6odf3O_AV2j38B4oT/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
