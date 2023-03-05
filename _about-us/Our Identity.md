@@ -77,3 +77,8 @@ And that is our motto for a better tomorrow.
 </div>
 
 **"Insert school song audio clips here"**
+<div align="center"><audio controls="" class="">
+  <source src="https://cdn.glitch.global/6d9daef8-c4d6-4fa8-a80c-36129213ce64/MFSS%20School%20Song%20w%20Vocal.mp3?v=1678030174437" type="audio/mpeg">
+Your browser does not support the audio element.
+  </audio>
+</div>
