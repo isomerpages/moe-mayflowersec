@@ -69,4 +69,4 @@ More Useful Tips for Parents
 *   [Managing Digital Incidents](https://www.netsafe.org.nz/online-incidents/?fbclid=I)
 *   [Teens Talk: What Works to Stop Cyberbullying - Cyberbullying Research Center](https://cyberbullying.org/teens-talk-works-stop-cyberbullying)
 *   [Pornographic malware found in Android apps for kids](https://money.cnn.com/2018/01/12/technology/porn-ads-apps-google-android/index.html)
-*   [How to Raise a Kid with a Conscience | Common Sense Med](https://www.commonsensemedia.org/blog/how-to-raise-a-kid-with-a-conscience)
+*   [How to Raise a Kid with a Conscience \| Common Sense Med](https://www.commonsensemedia.org/blog/how-to-raise-a-kid-with-a-conscience)
