@@ -18,6 +18,7 @@ Every student will be given an opportunity to experience a planning process. Thi
 Students learn to manage funds wisely through events or selling of their own products during CCA duty. In Enterprise Club, we believe that our students will demonstrate creativity and initiative in every aspect and without fear to seize opportunities in future.
 
 ### Key events and Achievements
+
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
 | 2022 | Young Trail Blazer Competition by Prudential | Finalist  |
@@ -38,6 +39,7 @@ Students learn to manage funds wisely through events or selling of their own pro
 *   Ms Nur Shahirah
 
 ### CCA Leaders and Executive Committee Members
+
 |Position|Name|
 |---|---|
 | Chairperson 	| Renei Raven Orquiola Esteban 	|
@@ -55,8 +57,8 @@ Students learn to manage funds wisely through events or selling of their own pro
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-bf2Wxmb0qFsSptykFQgh6KELA2LTR3aiahE9MPj08qqMpgMhMPBXCnvfTeeiYMJ7NOLHv2x01TCJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-bf2Wxmb0qFsSptykFQgh6KELA2LTR3aiahE9MPj08qqMpgMhMPBXCnvfTeeiYMJ7NOLHv2x01TCJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Enterprise open house video" src="https://www.youtube.com/embed/HtMZBYV2DeM" height="400" width="100%"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Enterprise open house video" src="https://www.youtube.com/embed/HtMZBYV2DeM"></iframe></div>
