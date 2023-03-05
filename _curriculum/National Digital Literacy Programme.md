@@ -49,10 +49,10 @@ As part of the NDLP, schools will progressively roll out ICT applications that a
 | Every secondary school student will be given an iCON account that provides access to email and Google productivity tools. | Every secondary school student will be able to access and use Microsoft Office tools that include Word, PowerPoint and Excel on their PLD. | Every secondary school student will be given a Zoom free account \[with a 40 mins time limit\] using the Student iCON for the students’ video conferencing needs. |
  
 ### Device Information
-> ![Acer Chromebook](/images/Acer%20Chromebook.png) **Acer Chromebook Spin R753TN**
+>  <img src="/images/Acer%20Chromebook.png" style="width:50%"> **Acer Chromebook Spin R753TN**
 
-|Type | Specifications |
-| ---- | -------- |
+| |  |
+| ----: | -------- |
 | **OS** | ChromeOS |
 | **Processor** | Intel N4500 |
 | **RAM and Storage** | 8GB, 64GB |
