@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Applied Learning Programme.md
       - Curriculum.md
+      - Applied Learning Programme.md
       - Character and Citizenship/.keep
       - Character and Citizenship/Character and Citizenship Education.md
       - Character and Citizenship/Cyber Wellness.md
