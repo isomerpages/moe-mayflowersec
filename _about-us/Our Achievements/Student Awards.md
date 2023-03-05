@@ -143,7 +143,7 @@ Congratulations to Neo Zhi Sheng of Sec 4 Integrity (2018)
 The GCE 'O' Level results were released on 14 January. The school would like to congratulate our students and wish them all the best in their future endeavours. We’d also like to thank all our partners who have journeyed with us and assisted us in developing our students one way or another. 
 
 We’re also pleased to add the video clip of our student, Neo Zhi Sheng of Sec 4 Integrity (2018), who was featured on Channel 8 news.
-![(/images/Neo%20Zhi%20Sheng%204I.jpg)](https://www.facebook.com/mayflowersecofficial/videos/785517298465541/) 
+[![](/images/Neo%20Zhi%20Sheng%204I.jpg)](https://www.facebook.com/mayflowersecofficial/videos/785517298465541/) 
 (Facebook Link)
 
 Congratulations on our former student, Ong Yi Quan
