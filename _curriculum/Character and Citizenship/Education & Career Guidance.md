@@ -8,30 +8,29 @@ Mayflower’s ECG programme aims to equip Mayflowerians with the necessary knowl
 
 ### Level Programmes
 
-| Level 	| Programmes 	|
-|---	|---|
-| Sec 1 	| Learning about different Careers<br>Getting to know Post-Secondary Institutions @ Parents’ Learning Festival 	|
-| Sec 2 	| Career Fair on STEM<br>Elective Modules @ ITE Colleges 	|
-| Sec 3 	| Advanced Elective Modules @ Polytechnics<br>World Skills Learning Journey and Exhibition<br>Elective Modules @ ITE Colleges<br>Work attachments 	|
-| Sec 4/5 	| Learning Journeys to Post-Secondary Institutions<br>Portfolio Preparation Workshop for Direct Admission to Post Secondary Institutions<br>Work Attachments 	|
+| Level | Programmes |
+| --- | --- |
+| Sec 1 | Learning about different Careers<br>Getting to know Post-Secondary Institutions @ Parents’ Learning Festival 	|
+| Sec 2 | Career Fair on STEM<br>Elective Modules @ ITE Colleges |
+| Sec 3 | Advanced Elective Modules @ Polytechnics<br>World Skills Learning Journey and Exhibition<br>Elective Modules @ ITE Colleges<br>Work attachments |
+| Sec 4/5 | Learning Journeys to Post-Secondary Institutions<br>Portfolio Preparation Workshop for Direct Admission to Post Secondary Institutions<br>Work Attachments |
 
 ### Education & Career Guidance Info!
----------------------------------
+
 ![](/images/ecg1.png)
 
 ### Latest ECG Events
------------------
+
 
 Visit: [All About ECG](https://sites.google.com/moe.edu.sg/mayflower-secondary-school-ecg/home) (Requires iCON account login)
 
 ### Referral form for educators/parents
------------------------------------
+
 
 Visit: [Referral form for educators/parents](https://go.gov.sg/ecgreferralform)
 
 ### Useful Links
-------------
------------------------------------
+
 
 *   [MOE School Finder](https://www.moe.gov.sg/schoolfinder): Information on Junior Colleges, Millennia Institute, Polytechnics, and ITE
 *   [Post-Secondary Admissions Exercises and Programmes](https://www.moe.gov.sg/post-secondary/admissions) (DSA-JC, Poly EAE, ITE EAE, JAE, JIE, and DAE)
