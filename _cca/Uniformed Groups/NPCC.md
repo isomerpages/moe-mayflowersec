@@ -25,6 +25,7 @@ In 1959, during the explosive period of Singapore's history, our society was fra
 | 2016 | Unit Overall Proficiency Award | Gold |
 
 **Staff, Volunteers and Student Leaders 2018**
+
 |Designation|Name|
 |---|---|
 | Teachers-in-Charge 	| Mr Ng Tze How (OC Unit)<br>Mdm Whong Tung Geok<br>Mr Nicholas Quek<br>Ms Lim Wei Li<br>Ms Sherrie Ng 	|
@@ -33,4 +34,4 @@ In 1959, during the explosive period of Singapore's history, our society was fra
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFIt3gfGiGkizi93ixbtm0hVrfpqPfawQT-6jUI0cTYD8MYHDZ5tfKXbuhGO83FflGyRswFVr3X4mu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFIt3gfGiGkizi93ixbtm0hVrfpqPfawQT-6jUI0cTYD8MYHDZ5tfKXbuhGO83FflGyRswFVr3X4mu/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe><div>
