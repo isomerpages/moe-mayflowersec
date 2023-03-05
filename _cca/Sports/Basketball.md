@@ -4,8 +4,6 @@ permalink: /cca/Sports/basketball/permalink/
 description: ""
 third_nav_title: Sports
 ---
-
-
 > Heart and Sweat Wins Championships
 
   
@@ -51,8 +49,8 @@ At Mayflower Basketball, our primary objective is to inculcate values to develop
 
 Photo
 -----
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRia3AyO2q93iBkVh5W4FvwQtYEYcimhMKtrkZvaKLgjxX_SMm6PstWhImHEgDqW-f96_LE0OdPqieO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRia3AyO2q93iBkVh5W4FvwQtYEYcimhMKtrkZvaKLgjxX_SMm6PstWhImHEgDqW-f96_LE0OdPqieO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MFSS vs RI B Boys Basket Match" src="https://www.youtube.com/embed/bteb6rzxBRo" height="400" width="100%"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MFSS vs RI B Boys Basket Match" src="https://www.youtube.com/embed/bteb6rzxBRo"></iframe></div>
