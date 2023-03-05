@@ -16,18 +16,16 @@ Mayflower’s ECG programme aims to equip Mayflowerians with the necessary knowl
 | Sec 4/5 | Learning Journeys to Post-Secondary Institutions<br>Portfolio Preparation Workshop for Direct Admission to Post Secondary Institutions<br>Work Attachments |
 
 ### Education & Career Guidance Info!
+![](/images/MFS_ECGC_2023.png)
 
-![](/images/ecg1.png)
+### Higher Institutions Open House 2023
+Dear students and parents,
 
-### Latest ECG Events
+Please click on the attached slides for the 2023 Schedule of Open Houses for the different Post-Secondary Institutions.  
+[](/files/Open%20House%202023_4Jan23%20002.pdf)
 
+Thank you so much!
 
-Visit: [All About ECG](https://sites.google.com/moe.edu.sg/mayflower-secondary-school-ecg/home) (Requires iCON account login)
-
-### Referral form for educators/parents
-
-
-Visit: [Referral form for educators/parents](https://go.gov.sg/ecgreferralform)
 
 ### Useful Links
 
