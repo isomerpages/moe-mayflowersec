@@ -55,16 +55,16 @@ Put on your VR Goggles and scan the QR code below to experience it yourself.**
 Photo
 -----
 **Active Learners**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyXMfG5juOyJlOxRPoaEsSHQw4KMsU_mLV2bRgAgCoXqmGZ54f5K9XFfmCbky5T2R3XmURvZKvSLSw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vQyXMfG5juOyJlOxRPoaEsSHQw4KMsU_mLV2bRgAgCoXqmGZ54f5K9XFfmCbky5T2R3XmURvZKvSLSw/embed?start=1&amp;loop=1&amp;delayms=3000" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **External competitions have been challenging and particularly**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9IvgGucY7kY0p6UUCf9ZDeL1-5hrwSigSoeJlLTieCWudJwLx_R_OeV6ujqjQdb6nKuQahGqXQymQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vT9IvgGucY7kY0p6UUCf9ZDeL1-5hrwSigSoeJlLTieCWudJwLx_R_OeV6ujqjQdb6nKuQahGqXQymQ/embed?start=1&amp;loop=1&amp;delayms=3000" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Learning Outdoors with fieldwork**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjba9ag3LPaJWw4QigvLuV9TNU5yW2G_LvaWswFiWTsNgPmiVIXTWDWQeYZ688Ee0GGnndn0daUfkN/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vSjba9ag3LPaJWw4QigvLuV9TNU5yW2G_LvaWswFiWTsNgPmiVIXTWDWQeYZ688Ee0GGnndn0daUfkN/embed?start=1&amp;loop=1&amp;delayms=3000" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Opportunities to learn from the Experts!**
-<iframe allowfullscreen="true" width="100%" height="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxNhAaYg56u-Yprhiny3lpkfHcH9jNbgxJsKBV4F49XGhAaLW2orCgVojCW9JDFMhsfoejtvsYYGy7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxNhAaYg56u-Yprhiny3lpkfHcH9jNbgxJsKBV4F49XGhAaLW2orCgVojCW9JDFMhsfoejtvsYYGy7/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
 
 Videos
 -----
@@ -75,4 +75,4 @@ Videos
 
 #### YouTube
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Mln87VqWOTQ" title="Mayflower Secondary School Humanities Dept - Prove It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Mln87VqWOTQ" title="Mayflower Secondary School Humanities Dept - Prove It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
