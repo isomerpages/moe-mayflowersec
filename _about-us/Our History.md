@@ -5,12 +5,12 @@ description: ""
 ---
 Principals
 ----------
-|Year|Principal|
-|---|---|
-|1981|Mr Wan Hussin Zoohri|
-|1982 - 1984| Mr Ibrahim Bin Othman|
-|1985 - 1994| Mr Tang Swee Chay |
-|1994 - 1998| Mrs Yap Hong Eng |
+| Year | Principal |
+| --- | --- |
+| 1981 | Mr Wan Hussin Zoohri |
+| 1982 - 1984 | Mr Ibrahim Bin Othman |
+| 1985 - 1994 | Mr Tang Swee Chay |
+| 1994 - 1998 | Mrs Yap Hong Eng |
 | 1999 - 2005 | Ms Lo Sheu Ming |
 | 2006 - 2012	| Mrs Doris Lim |
 | 2013 - 2017 | Mr Loo Ming Yaw |
@@ -54,7 +54,7 @@ The new campus, complete with a 200-seat theatrette and dance studio, was comple
 
 ![](/images/school5.png)
 
-The “[Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni)” Facebook page was launched in 2010 and now has more than 1800 members.
+The [Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni) Facebook page was launched in 2010 and now has more than 1800 members.
 
 President S R Nathan was the Guest of Honour at our 30th Anniversary Dinner cum Opening Ceremony of the Indoor Sports Hall, on 27 May 2011.
 
