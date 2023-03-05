@@ -42,12 +42,15 @@ The school adopts MOE’s Cyber Wellness Framework in educating our students on 
 
 Components in Cyber Wellness
 ----------------------------
-| Components 	| What it refers to 	|
-|---	|---	|
-| Cyber Wellness Lessons 	| Teaching of Knowledge, Skills, Values and Attitudes for Cyber Wellness 	|
-| School-based CCE 	| Assembly programmes related to Cyber Wellness e.g. Cyber Wellness talks, “internet-free” day, etc. 	|
-| Counselling Programme 	| Provide intervention and support to students identified to have Cyber Wellness-related issues, and to work with parents of these students to help their children. 	|
-| Working with Parents, in collaboration with the community 	| Involve them in reinforcing Cyber Wellness principles at home, for example, advising them to set limits on usage time, set boundaries, and set a good example for their children.<br><br>Build up their knowledge by conducting workshops for parents or referring them to newly updated educational news, parenting features and tips on [Schoolbag website](https://www.schoolbag.edu.sg/) to better support their child’s education<br><br>Leverage on School Family Education (SFE) to conduct workshops for parents on awareness of new media platforms (such as Twitter, blogs, Facebook) and the issues that impact youths in the digital age.<br><br>Share resources or refer parents to external professional agencies (such as Child Guidance Clinic, Institute of Mental Health, Health Promotion Board, REACH) and other helplines (such as professional counsellors, psychiatrists, psychologists) to help their children who may need additional intervention for cyber wellness issues such as addiction to online gaming. 	|
+
+
+
+| Components | What it refers to |
+| --- |--- |
+| Cyber Wellness Lessons | Teaching of Knowledge, Skills, Values and Attitudes for Cyber Wellness |
+| School-based CCE | Assembly programmes related to Cyber Wellness e.g. Cyber Wellness talks, “internet-free” day, etc.|
+| Counselling Programme | Provide intervention and support to students identified to have Cyber Wellness-related issues, and to work with parents of these students to help their children. |
+| Working with Parents, in collaboration with the community | Involve them in reinforcing Cyber Wellness principles at home, for example, advising them to set limits on usage time, set boundaries, and set a good example for their children.<br><br>Build up their knowledge by conducting workshops for parents or referring them to newly updated educational news, parenting features and tips on [Schoolbag website](https://www.schoolbag.edu.sg/) to better support their child’s education<br><br>Leverage on School Family Education (SFE) to conduct workshops for parents on awareness of new media platforms (such as Twitter, blogs, Facebook) and the issues that impact youths in the digital age.<br><br>Share resources or refer parents to external professional agencies (such as Child Guidance Clinic, Institute of Mental Health, Health Promotion Board, REACH) and other helplines (such as professional counsellors, psychiatrists, psychologists) to help their children who may need additional intervention for cyber wellness issues such as addiction to online gaming. |
 
 Cyber Wellness Ressources for Parents
 -------------------------------------
