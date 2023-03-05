@@ -140,7 +140,7 @@ Congratulations to Neo Zhi Sheng of Sec 4 Integrity (2018)
 ----------------------------------------------------------
 
 #### **Updated as of 15/01/19**
-
+![](/images/Neo%20Zhi%20Sheng%204I.jpg)
 https://www.facebook.com/mayflowersecofficial/videos/785517298465541/?t=6  
 (Facebook Link)
 
