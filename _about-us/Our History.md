@@ -5,6 +5,7 @@ description: ""
 ---
 Principals
 ----------
+
 | Year | Principal |
 | --- | --- |
 | 1981 | Mr Wan Hussin Zoohri |
@@ -12,9 +13,9 @@ Principals
 | 1985 - 1994 | Mr Tang Swee Chay |
 | 1994 - 1998 | Mrs Yap Hong Eng |
 | 1999 - 2005 | Ms Lo Sheu Ming |
-| 2006 - 2012	| Mrs Doris Lim |
+| 2006 - 2012 | Mrs Doris Lim |
 | 2013 - 2017 | Mr Loo Ming Yaw |
-| 2018 - | Mdm Lee Eet Fong | 
+| From 2018 | Mdm Lee Eet Fong | 
 
 ![](/images/history.jpg)
 
