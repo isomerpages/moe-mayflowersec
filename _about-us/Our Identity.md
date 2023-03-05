@@ -85,7 +85,7 @@ Your browser does not support the audio element.
 
 #### **School Song Instrumental**
 <div align="center"><audio controls="" class="">
-  <source src="https://cdn.glitch.global/cf832576-a930-40f0-a8e7-15a47ed954de/MFSS%20School%20Song%20Instrumental.mp3?v=1678030725154" type="audio/mpeg">
+  <source src="https://cdn.glitch.global/cf832576-a930-40f0-a8e7-15a47ed954de/MFSS%20School%20Song%20Instrumental.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
   </audio>
 </div>
