@@ -47,6 +47,7 @@ As a department initiative, Secondary 1 students are introduced to specially cra
 
 Our department’s teachers are also encouraged to share how Assessment for Learning strategies are incorporated in their lessons, especially during Home-based learning. This is to provide timely feedback for our students to address learning gaps and to allow them to “feed forward”. Using the Assessment for Learning Framework by Dylan Williams, teachers are equipped with the knowledge to put into practice throughout the year.
 
+
 Notable Programmes and Events
 -----------------------------
 | Programme Name | Description |
