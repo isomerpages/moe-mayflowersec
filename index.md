@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Achievements
           description: ""
-          url: /about-us/achievements/
+          url: /about-us/Our-Achievements/
         - title: latest updates
           description: ""
           url: /newest-happenings/latest-updates/
