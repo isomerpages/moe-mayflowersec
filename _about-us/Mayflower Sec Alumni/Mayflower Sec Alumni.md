@@ -4,8 +4,6 @@ permalink: /about-us/Mayflower-Sec-Alumni/permalink/
 description: ""
 third_nav_title: Mayflower Sec Alumni
 ---
-About our Alumni
-----------------
 <img style="width:40%" src="/images/alumni.jpg">
 
 ### Mission
@@ -14,18 +12,18 @@ To continue to stay connected with the school, continue supporting her developme
 
 ### Connect with us
 
-<img align="left" style="width:30px;height:30px;margin-left:15px;" src="/images/icon_fb.svg"> [Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni/)
+<img align="left" style="width:30px;height:30px;margin-left:15px; margin-right:5px" src="/images/icon_fb.svg"> [Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni/)
 
-<img align="left" style="width:30px;height:30px;margin-left:15px;" src="/images/icon_instagram.svg"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
+<img align="left" style="width:30px;height:30px;margin-left:15px;margin-right:5px" src="/images/icon_instagram.svg"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
 
-<img align="left" style="width:30px;height:30px;margin-left:15px;" src="/images/gmail.png"> [alumni@mf.edu.sg](mailto:mfss.alumni@gmail.com)
+<img align="left" style="width:30px;height:30px;margin-left:15px;margin-right:5px" src="/images/gmail.png"> [alumni@mf.edu.sg](mailto:mfss.alumni@gmail.com)
 
-[Join Us]()
+[Join Us](/about-us/Mayflower-Sec-Alumni/Alumni-Registration/)
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Alumni Interview - MFSS Publicity Video 2016" src="https://www.youtube.com/embed/cCEgjRt-zSc" height="470" width="835"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Alumni Interview - MFSS Publicity Video 2016" src="https://www.youtube.com/embed/cCEgjRt-zSc"></iframe></div>
 
 Hall of Fame
 -----
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyrhvqBaiOClp2UDeIDwIqol0VR0b8_A66HugkycrYhdoELtIHo4LHG1Hnc-XcPJ-G6rkrnbCV9EwN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyrhvqBaiOClp2UDeIDwIqol0VR0b8_A66HugkycrYhdoELtIHo4LHG1Hnc-XcPJ-G6rkrnbCV9EwN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
