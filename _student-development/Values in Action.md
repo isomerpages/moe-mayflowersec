@@ -12,4 +12,4 @@ Mayflower Satellite Partnership started in 2018 with our friends from Pathlight 
 
 Video
 -----
-<iframe height="400" width="100%"src="https://www.youtube.com/embed/iLRJHFhYi98" title="Mayflower Sec: Value In Action 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/iLRJHFhYi98" title="Mayflower Sec: Value In Action 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
