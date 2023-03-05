@@ -56,4 +56,5 @@ Better Scouting for more young People
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSv49z2FqGOBJxBeuCX052Mpgs59HvKdNLrTCVcyLh0YdjAvpMHAqoSKcvFMaINJwJRmf52Uy5Iko2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSv49z2FqGOBJxBeuCX052Mpgs59HvKdNLrTCVcyLh0YdjAvpMHAqoSKcvFMaINJwJRmf52Uy5Iko2/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
