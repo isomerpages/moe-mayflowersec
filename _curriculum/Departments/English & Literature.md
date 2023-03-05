@@ -47,7 +47,7 @@ This is the 5th year of a four-year progressive ALP in Effective Communication 
 
 The Secondary 1 students explore drama and stage presentations in Semester 1. During the course of the programme, students tap on their creativity to craft and flesh out scripts in lessons, and learn stage directions and masterful use of voice to produce an entertaining skit. The EL teachers parallel the ALP sessions by encouraging students to turn an inward eye and reflect on their own progress and learning during the Reading lessons. The winning teams staging their skits during assembly programmes or the ALP Showcase session.
 
- #### Journalism and Broadcast Programme
+#### Journalism and Broadcast Programme
 
 The Secondary 2 students participate in Journalism and Broadcast programme in Semester 2. With the objective to develop students to be confident communicators, especially in the context of Journalism and Broadcast, the training sessions are truly proof of what teamwork, effort and training can do to help students to become confident presenters. The trainings would culminate to learning journeys to related organisations which further stimulate the students in their learning. Such ALP programmes are definitely welcomed by the Lower Secondary students as they find many exciting moments to collaborate with each other to complete their projects. The group presentations that feature students’ news reporting, photo journalism and feature articles, best capture their journey of discovery in a vibrant manner. Such rich ALP opportunities, more importantly, help the school spot our talent.
 
