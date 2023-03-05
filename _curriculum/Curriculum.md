@@ -3,8 +3,6 @@ title: Curriculum
 permalink: /curriculum/permalink/
 description: ""
 ---
-
-
 ![](/images/whynot.png)
 
 The Mayflower Academic Programme
@@ -37,7 +35,7 @@ To help students who are struggling with subjects, the school also conducts targ
 
 In line with preparing our students for the future, we have a comprehensive programme to develop Mayflowerians into effective communicators. Broad based programmes [Tier 1] targeted at the entire school population are planned and run by the English Language and Mother Tongue departments throughout the year. Specialised programmes are spiralled to Tier 2 level whereby selected students with talents and who show interest are trained and coached for greater exposure such as competitions.
 
-[Find out more about our ALP](curriculum/applied-learning-programme/permalink/)
+[Find out more about our ALP](/curriculum/applied-learning-programme/permalink/)
 
 -----------------------------------
 ### Full Subject Based Banding \[FSBB\]
@@ -46,7 +44,7 @@ In line with preparing our students for the future, we have a comprehensive prog
 
 Mayflower is one of the schools that have embarked on FSBB. Starting this year, our Secondary One students were placed in mixed classrooms; students taking subjects at the various streams \[Express/NA/NT\] shared the same form class. These students were taught common curriculum subjects together \[PE, Art, Design & Technology, Food & Nutrition and Citizenship and Character Education\] while they were still banded into different classes for other subjects like English, Mother Tongue, Math, Science and the Humanities depending on the level at which they were offering these subjects. This has allowed for better integration among the students and a higher level of motivation as students were not labelled according to a stream but instead were recognized for their strengths in the different subjects. Having gone through the FSBB for one year, our school is better equipped to handle the changes that will come with assessment in the near future as streams are phased out completely.
 
-[Find out more about FSBB](curriculum/full-sbb/permalink/)
+[Find out more about FSBB](/curriculum/full-sbb/permalink/)
 
 -------------------------------------------------------------
 ### National Digitalisation Literacy Programme \[NDLP\]
@@ -56,7 +54,7 @@ Mayflower is one of the schools that have embarked on FSBB. Starting this year, 
 
 The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with digital literacies to be future-ready. As part of NDLP, MOE announced in 2020 that every secondary school student will own a school-prescribed personal learning device (PLD) by the end-2021. Other than to support the development of digital literacies, the NDLP also aims to enhance teaching and learning while supporting self-directed and collaborative learning.
 
-[Find out more about NDLP](curriculum/ndlp/permalink/)
+[Find out more about NDLP](/curriculum/ndlp/permalink/)
 
 ---------------------------------------
 ### Dedicated and Capable Staff of Teachers
