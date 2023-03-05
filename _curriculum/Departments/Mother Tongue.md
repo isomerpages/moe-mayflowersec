@@ -80,10 +80,10 @@ National Writing Competition
 2020, Our Story of Battling the Pandemic" National Writing Competition for Primary and Secondary schools - We are proud to showcase the published works of our student Fu Yongjia, who has obtained 优胜奖 with her article 《与病毒的一场恶战》。 Our Lead Teacher, Mdm Wang Xueping also wrote an article 《习惯成自然》 which is published in the book too. Her passion for teaching is inspirational as she wrote about how she and her students cope and thrive with Home-based Learning.   
 [Read their essay...]
 
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8ErjBjqSHq8QbToucwt7JsPwCxvUDKXpSKzSpIERSgchRacI-azzhdz8xlXkj4RJNskDiJi65Ww9e/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8ErjBjqSHq8QbToucwt7JsPwCxvUDKXpSKzSpIERSgchRacI-azzhdz8xlXkj4RJNskDiJi65Ww9e/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
 
 Videos
 ------
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/zo7eMSentdA" title="Sec 3 MT ALP 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zo7eMSentdA" title="Sec 3 MT ALP 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/FSulPK8PmOI" title="MFSS MT ALP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/FSulPK8PmOI" title="MFSS MT ALP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
