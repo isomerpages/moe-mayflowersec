@@ -23,6 +23,7 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 | 2017 | National Inter-school Taekwondo Championships - C Division Girls Poomsae | 4th Overall Placing |
 | 2017 | National Inter-school Taekwondo Championships - B Division Girls Kyorugi | 4th Overall Placing |
 | 2017 | National Inter-school Taekwondo Championships - B Division Boys Kyorugi | 3rd Overall Placing |
+
 ### CCA Teachers in Charge
 
 
@@ -41,8 +42,8 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Taekwondo Direct School Admission 2020" src="https://www.youtube.com/embed/SQlv797ilog" height="400" width="100%"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Taekwondo Direct School Admission 2020" src="https://www.youtube.com/embed/SQlv797ilog"></iframe></div>
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvlIuD0QQlfTBm_sbkzn3qp9ofgvkStQqx6W2TyyqMdVAbL_N7Y2n1jJQM6nNWj_bRgECR15X6pEvt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvlIuD0QQlfTBm_sbkzn3qp9ofgvkStQqx6W2TyyqMdVAbL_N7Y2n1jJQM6nNWj_bRgECR15X6pEvt/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
