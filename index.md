@@ -15,10 +15,10 @@ sections:
           url: /about-us/achievements/
         - title: latest updates
           description: ""
-          url: ""
+          url: /newest-happenings/latest-updates/
         - title: latest events
           description: ""
-          url: ""
+          url: /newest-happenings/latest-events/
         - title: DSA
           description: ""
           url: ""
