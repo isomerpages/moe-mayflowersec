@@ -28,7 +28,7 @@ In 1959, during the explosive period of Singapore's history, our society was fra
 
 |Designation|Name|
 |---|---|
-| Teachers-in-Charge 	| Mr Ng Tze How (OC Unit)<br>Mdm Whong Tung Geok<br>Mr Nicholas Quek<br>Ms Lim Wei Li<br>Ms Sherrie Ng 	|
+| Teachers-in-Charge 	| Mr Ng Tze How (OC Unit)<br>Mdm Whong Tung Geok<br>Mr Nicholas Quek<br>Ms Sherrie Ng 	|
 | Volunteers 	| SCI (NPCC) Tong Ho Leong       <br>CI (NPCC) Lim Hai Jie, Felicia <br>CI (NPCC) Xavier Lee Hong Ming <br>CI (NPCC) Amos Tan Gan Theng 	|
 | Cadet Leaders: Leadership Group 	| Lim Qing Ying (Chairperson)<br>Pariyavalappil Anil Abhishek (Head Training)<br>Oh Yi Boon, Travis (Asst. Head Training) 	|
 
