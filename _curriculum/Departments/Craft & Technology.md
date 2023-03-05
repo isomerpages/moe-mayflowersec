@@ -4,7 +4,7 @@ permalink: /curriculum/Departments/craft-and-technology/permalink/
 description: ""
 third_nav_title: Departments
 ---
-![](/images/ct1.jpg)
+<img src="/images/ct1.jpg" style="width:50%">
 
 The Mayflower Secondary Craft and Technology (C&amp;T) Department vision was crafted in 2019 to provide our C&amp;T educators with a focal point and a vision of the Mayflowerians that they will nurture through the C&amp;T subjects. In conjunction with MOE’s drive to develop 21st century citizens, this vision helps the department to align teaching and learning approaches to ensure that the desired outcomes of the C&amp;T syllabi are achieved. This vision also provides the foundation for our teachers’ continual reflection and professional development, so as to strengthen the learning experiences for our students.
 
@@ -34,13 +34,13 @@ The Mayflower Secondary Craft and Technology (C&amp;T) Department vision was cra
 ### Our Learning Domains
 --------------------
 **Learn for Life Programme**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5b1B6_qu2haVUhL1L43KHYd4kKeCcpPWw3ISLABJlceDPZBfMoPNnFL-hQZSajgnoxUUX9av1wLPv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="400" width="100%" allowfullscreen="true"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vS5b1B6_qu2haVUhL1L43KHYd4kKeCcpPWw3ISLABJlceDPZBfMoPNnFL-hQZSajgnoxUUX9av1wLPv/embed?start=1&amp;loop=1&amp;delayms=3000" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Learning Journey**
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRsZq1oYi4tCiqWP-xcFf5jrb0B7V9HIR70Kx_O4aQzPFsY1iHmIIJtyEo58dcuqwpLZyGufobiLr2z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRsZq1oYi4tCiqWP-xcFf5jrb0B7V9HIR70Kx_O4aQzPFsY1iHmIIJtyEo58dcuqwpLZyGufobiLr2z/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
 
 **Student-curated Exhibitions**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSH6b8qydmI6FOGtL1hQk8VIQCAg7R2mCF6a_mxzISAtRzbbNtfyLZPJll0C7qAC1sJatkvKwq_mGQu/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="400" width="100%" allowfullscreen="true"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vSH6b8qydmI6FOGtL1hQk8VIQCAg7R2mCF6a_mxzISAtRzbbNtfyLZPJll0C7qAC1sJatkvKwq_mGQu/embed?start=1&amp;loop=1&amp;delayms=3000" frameborder="0" allowfullscreen="true"></iframe></div>
 
 #### Learn for Life Programme
 
@@ -73,13 +73,10 @@ In &nbsp;addition, our teachers shared what each elective can offer. To compleme
 
 In doing so, we hope to empower and arouse our learners' intrinsic motivation to seek out additional information so as to make an informed decision regarding their subject options. 🎈
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="" src="https://www.youtube.com/embed/WrHxpWA_S58" height="315" width="560"></iframe>
-(youtube link is broken)
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2NT Mobile Robotics Subj Sharing" src="https://www.youtube.com/embed/HjUX48Rrvq8"></iframe></div>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2NT Mobile Robotics Subj Sharing" src="https://www.youtube.com/embed/HjUX48Rrvq8" height="315" width="100%"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="NT Art Slides for PTM 2020" src="https://www.youtube.com/embed/LSVtgxwJ1oY" height="315" width="100%"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="NT Art Slides for PTM 2020" src="https://www.youtube.com/embed/LSVtgxwJ1oY"></iframe></div>
 
 Posters
 -------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIG1SbmYTUI-rWtB7zey8cFfoB3XFfYFWF0owRbA601eQJTMgbR7HXu1uc_CI0AmH2KFPzRoMnm2xN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIG1SbmYTUI-rWtB7zey8cFfoB3XFfYFWF0owRbA601eQJTMgbR7HXu1uc_CI0AmH2KFPzRoMnm2xN/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
