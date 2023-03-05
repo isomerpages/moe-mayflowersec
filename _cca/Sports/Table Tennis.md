@@ -26,13 +26,13 @@ The MFSS Table Tennis Team, however, is united by each individual’s love for t
 
 |Coaches / Instructors|Teachers-in-charge|CCA Leaders|
 |---|---|---|
-|Mr Lim Wee Tiong<br>Mr Ten Siong|Mdm Su Xiaoling<br>Ms Alethea Goei<br>Mr Fam Tong Siang |Yeo Yao Hao <br>Wong Chiau Yee<br>Ryan Wu , Sean Qian Ting <br>Ivan Sow, Jasmine Liong  <br>Ethan Ng, Tryphena Chng<br>Remus , Joby Ang |
+|Mr Lim Wee Tiong<br>Mr Ten Siong|Mdm Su Xiaoling<br>Ms Alethea Goei<br>Ms Janet Ting |Yeo Yao Hao <br>Wong Chiau Yee<br>Ryan Wu , Sean Qian Ting <br>Ivan Sow, Jasmine Liong  <br>Ethan Ng, Tryphena Chng<br>Remus , Joby Ang |
 
 
 
 Photos
 ------
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOAJkoJPiqaehmsSwk7cdJOVqKks3_qfYpSZbpUyJZK4IaDktiMLl49OKk0Y7iMSEKATLPPQgkmBz6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOAJkoJPiqaehmsSwk7cdJOVqKks3_qfYpSZbpUyJZK4IaDktiMLl49OKk0Y7iMSEKATLPPQgkmBz6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 Video
 -----
