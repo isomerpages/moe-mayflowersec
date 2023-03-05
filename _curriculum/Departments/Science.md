@@ -49,22 +49,22 @@ Our department’s teachers are also encouraged to share how Assessment for Lear
 
 Notable Programmes and Events
 -----------------------------
-|Programme Name | Description |
-|---	|---	|
-| 1st Gear: Science of Motor Vehicles 	| EduTorque conducted an exciting enrichment programme on The Science of Motor Vehicles for our Secondary 4 Normal Technical students. This course is designed to create a stimulating and life-long learning experience for students. Beyond the theory, students had an opportunity to take the hot seat in a Motorsports GP Car simulator. Furthermore, students also had the opportunity to tour an electric kart circuit (The Karting Arena) and enjoy exciting karting sessions! 	|
-| LEGO Workshop 	| The workshop for Secondary 2s provides a “hands on, minds on” environment that supports and enriches the students’ learning and understanding of the science concepts from the Interactions &amp; Energy themes of the Lower Secondary Science syllabus. 	|
-| Biodiversity Programme 	| Secondary 1 Express and Normal (Academic) students are given the chance to learn beyond the curriculum and understand Biodiversity in Singapore and beyond Singapore. Through activities like a learning journey to Sungei Buloh Wetland Reserve, pond water sampling and a scavenger hunt, the classroom experience truly embodies the spirit of Joy of Learning where the learning takes an alternative form and nature offers knowledge outside of the textbook. 	|
-| Enrich @ Health Sciences programmes conducted by Ngee Ann Polytechnic 	| The Secondary 2 and 3 Normal Technical students took part various workshops conducted by Ngee Ann Polytechnic. These workshops, Oh Baby Baby and Respiratory Rhythm are highly interactive miniature workshops for the students to experience the world of healthcare and also understand how to better care for their own bodies. 	|
-| Crystal Growing Enrichment / Competition 	| The Crystal Growing Enrichment is conducted every year for Lower Secondary students as an introductory workshop for them to learn the art of crystal growing. Through this workshop, the students will be able to experience Chemistry in an authentic manner through the planning of experiments, documentation of their preparatory work and presenting their product. In addition, the department has fielded two teams for the bi-annual Singapore National Crystal Growing Challenge organised by NUS’s Department of Chemistry. 	|
+| Programme Name | Description |
+| --- | --- |
+| 1st Gear: Science of Motor Vehicles | EduTorque conducted an exciting enrichment programme on The Science of Motor Vehicles for our Secondary 4 Normal Technical students. This course is designed to create a stimulating and life-long learning experience for students. Beyond the theory, students had an opportunity to take the hot seat in a Motorsports GP Car simulator. Furthermore, students also had the opportunity to tour an electric kart circuit (The Karting Arena) and enjoy exciting karting sessions! |
+| LEGO Workshop | The workshop for Secondary 2s provides a “hands on, minds on” environment that supports and enriches the students’ learning and understanding of the science concepts from the Interactions &amp; Energy themes of the Lower Secondary Science syllabus. |
+| Biodiversity Programme | Secondary 1 Express and Normal (Academic) students are given the chance to learn beyond the curriculum and understand Biodiversity in Singapore and beyond Singapore. Through activities like a learning journey to Sungei Buloh Wetland Reserve, pond water sampling and a scavenger hunt, the classroom experience truly embodies the spirit of Joy of Learning where the learning takes an alternative form and nature offers knowledge outside of the textbook. |
+| Enrich @ Health Sciences programmes conducted by Ngee Ann Polytechnic | The Secondary 2 and 3 Normal Technical students took part various workshops conducted by Ngee Ann Polytechnic. These workshops, Oh Baby Baby and Respiratory Rhythm are highly interactive miniature workshops for the students to experience the world of healthcare and also understand how to better care for their own bodies. |
+| Crystal Growing Enrichment / Competition | The Crystal Growing Enrichment is conducted every year for Lower Secondary students as an introductory workshop for them to learn the art of crystal growing. Through this workshop, the students will be able to experience Chemistry in an authentic manner through the planning of experiments, documentation of their preparatory work and presenting their product. In addition, the department has fielded two teams for the bi-annual Singapore National Crystal Growing Challenge organised by NUS’s Department of Chemistry.	|
 
 Achievements
 ------------
-|Level | Competition | Achievement|
-|---	|---	|---	|
+| Level | Competition | Achievement |
+| ---	|---	|---	|
 | Upper Secondary 	| 8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine. 	| 1 Gold<br>2 Merit<br>1 Honourable Mention<br>	|
 | Upper Secondary 	| Chemistry • Communication Challenge 2018<br>NUS Chemistry Department<br>Chemistry Solutions for a Sustainable Future 	| 3 Certificates  of Participation	|
 | Lower Secondary 	| University of New South Wales Global International Competitions and Assessments for Schools 2019 (Science) 	| 1 Exemplary<br>5 Outstanding<br>13 Commendable<br>4 Good Effort<br>15 Participation 	|
 
 Photo
 -----
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ094Pij22laSkpstPIM7ZSV0_luNhq2AhvWX-_cOybnT0_Es9_K4YjLIxN93Wvp-vCj6_2XfoEMo2F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ094Pij22laSkpstPIM7ZSV0_luNhq2AhvWX-_cOybnT0_Es9_K4YjLIxN93Wvp-vCj6_2XfoEMo2F/embed?start=1&amp;loop=true&amp;delayms=3000"></iframe></div>
