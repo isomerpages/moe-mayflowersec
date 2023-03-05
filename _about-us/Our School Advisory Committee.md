@@ -14,3 +14,11 @@ description: ""
 |  |  |
 | :---: | :---: |
 | <img src="/images/School%20Advisory%20Committee/mr_tay_swee_yuan.png" style="width:188px">**Mr Tay Swee Yuan**<br>Honorary Treasurer | <img src="/images/School%20Advisory%20Committee/mdm_lee_eet_fong-225x300.jpg" style="width:188px">**Mdm Lee Eet Fong**<br>Honorary Secretary |
+
+|  |  |  |
+| :---: | :---: | :---: |
+| <img src="/images/School%20Advisory%20Committee/mr_daniel_tan-225x300.jpg" style="width:188px">**Mr Tan Yong Nam Daniel**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/mrs_may_olivia_tay-225x300.jpg" style="width:188px">**Mrs May Olivia Tay**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/mr_fang_koh_look-225x300.jpg" style="width:188px">**Mr Fang Koh Look**<br>Committee Member |
+
+|  |  |
+| :---: | :---: |
+| <img src="/images/School%20Advisory%20Committee/mr_philip_chua.png" style="width:188px">**Mr Chua Tin Sien Philip**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/mr_anselm_ng.jpg" style="width:188px">**Mr Anselm Ng**<br>Committee Member |
