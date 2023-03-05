@@ -3,14 +3,12 @@ title: Student Leadership Programme
 permalink: /student-development/student-leadership-programme/permalink/
 description: ""
 ---
-Student Leadership Programme
-============================
-Vision
-------
 
-Caring and Supportive Culture where Peers Strengthen One Another
+### Vision
 
-![](/images/leadership.png)
+> Caring and Supportive Culture where Peers Strengthen One Another
+
+<img src="/images/leadership.png" style="width:50%">
 
 In Mayflower, Student Leadership Programmes are being used as a platform to develop the Generous Spirit among our Mayflowerians. This is done by deepening the inculcation of the value of respect by&nbsp;**celebrating differences and contributing to society with empathy**.
 
@@ -25,7 +23,7 @@ The school-wide leadership programmes – Student Council Presidential Election 
 
 To create a positive student learning experience, Mayflowerians are provided with 7 different choices of Student Leadership experience. Students have a say as to which Student Leadership group they would like to be part of, based on their interest and their preference of how they would like to contribute to the school community. Each group of student leaders has its own area to look into.
 
-![](/images/leadership2.png)
+<img src="/images/leadership2.png" style="width:50%">
 
 Guided by the Student Leadership Vision,&nbsp;**“Caring and Supportive Culture where Peers Strengthen One Another”**, here in Mayflower Secondary School, we adopted the Kouzes and Posner Leadership framework. We focused on not only challenging the students to develop their leadership skills but also to build on the value of empathy in their service as Student Councillors, CCA Leaders, Peer Support Leaders, Class Leaders, Community Champions, Cyber-wellness Ambassadors and Arts Ambassadors. Equipped with the knowledge to use the&nbsp;**Design Thinking Model**, our student leaders are always reminded about the importance to practise empathy in designing the respective projects. These projects serve not only as training platforms but also provide them with opportunities to contribute back to the community.
 
@@ -50,8 +48,8 @@ All of this would not have been possible without a team of dedicated teachers wh
 
 Photo
 -----
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBlySj-ySU7vvmRYo6cjuk7cJ12tmnE2WgD1pCgDNrtorca_Wiwy_fZQ8GjtHzIeIKUPbbdJkd7B7y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBlySj-ySU7vvmRYo6cjuk7cJ12tmnE2WgD1pCgDNrtorca_Wiwy_fZQ8GjtHzIeIKUPbbdJkd7B7y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
 Video
 -----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Generous Spirit Through Student Leadership Programme" src="https://www.youtube.com/embed/f85hkwNLC-Y" height="400" width="100%"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Generous Spirit Through Student Leadership Programme" src="https://www.youtube.com/embed/f85hkwNLC-Y"></iframe></div>
