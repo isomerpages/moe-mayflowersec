@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-
 > Congratulations to our Distinguished Chinese Language Teachers Awards Recipient, Ms Eileen Chew!
 
-![](/images/Eileen.jpg) Photo: LIANHE ZAOBAO
+![](/images/Staff%20Awards/Eileen.jpg) Photo: LIANHE ZAOBAO
 
 We are proud to inform that Ms Eileen Chew, our Head of Department for Mother Tongue, was one of the ten teachers who received the Distinguished Chinese Language Teachers Awards. This award aims to recognise outstanding Chinese language teachers who have been exemplary in the teaching of the language and culture.
 
