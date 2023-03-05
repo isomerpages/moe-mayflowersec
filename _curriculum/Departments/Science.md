@@ -67,9 +67,12 @@ Achievements
 | Level | Competition | Achievement |
 | -------- | -------- | -------- |
 | Upper Secondary     | 8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine.     | 1 Gold<br>2 Merit<br>1 Honourable Mention<br>     |
+| Upper Secondary | Chemistry • Communication Challenge 2018<br>NUS Chemistry Department<br>Chemistry Solutions for a Sustainable Future | 3 Certificates  of Participation |
+| Lower Secondary | University of New South Wales Global International Competitions and Assessments for Schools 2019 (Science) | 1 Exemplary<br>5 Outstanding<br>13 Commendable<br>4 Good Effort<br>15 Participation |
 
 
-Next table
+Next table  
+
 | Level | Competition | Achievement |
 | -------- | -------- | -------- |
 | Upper Secondary 	| 8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine. 	| 1 Gold<br>2 Merit<br>1 Honourable Mention<br>	|
