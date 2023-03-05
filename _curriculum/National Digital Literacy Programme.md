@@ -43,6 +43,7 @@ They will use their PLDs to access platforms such as the Student Learning Space 
 #### Digital Applications for Students
 
 As part of the NDLP, schools will progressively roll out ICT applications that are vital to students’ educational journey. These applications will form an integral part of the applications installed in the PLDs:
+
 | Student iCON | Microsoft 365 | Zoom |
 | ---- | ---- | ---- |
 | Every secondary school student will be given an iCON account that provides access to email and Google productivity tools. | Every secondary school student will be able to access and use Microsoft Office tools that include Word, PowerPoint and Excel on their PLD. | Every secondary school student will be given a Zoom free account \[with a 40 mins time limit\] using the Student iCON for the students’ video conferencing needs. |
