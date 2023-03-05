@@ -47,7 +47,7 @@ All of this would not have been possible without a team of dedicated teachers wh
 
 Photo
 -----
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBlySj-ySU7vvmRYo6cjuk7cJ12tmnE2WgD1pCgDNrtorca_Wiwy_fZQ8GjtHzIeIKUPbbdJkd7B7y/embed?start=true&amp;loop=tru&amp;delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBlySj-ySU7vvmRYo6cjuk7cJ12tmnE2WgD1pCgDNrtorca_Wiwy_fZQ8GjtHzIeIKUPbbdJkd7B7y/embed?start=true&loop=true&delayms=3000"></iframe></div>
 
 Video
 -----
