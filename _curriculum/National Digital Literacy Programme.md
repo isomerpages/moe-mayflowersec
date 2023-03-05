@@ -104,9 +104,7 @@ To support you in keeping your child safe online, you may refer to these resourc
 *   [http://go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
 *   [http://sure.nlb.gov.sg/](http://sure.nlb.gov.sg/)
 *   [http://help123.sg/](http://help123.sg/)
-
-
-[Parent Handbook I on 1_1 Learning.pdf](/files/ndlp3.pdf)
+* [Parent Handbook \| on 1-1 Learning](/files/ndlp3.pdf)
 
 #### Device Management Application (DMA) - Mobile Guardian
 
