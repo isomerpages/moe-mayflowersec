@@ -18,7 +18,7 @@ To continue to stay connected with the school, continue supporting her developme
 
 <img align="left" style="width:30px;height:30px;margin-left:15px;margin-right:5px" src="/images/gmail.png"> [alumni@mf.edu.sg](mailto:mfss.alumni@gmail.com)
 
-[Join Us](/about-us/Mayflower-Sec-Alumni/Alumni-Registration/)
+[Join Us](/about-us/Mayflower-Sec-Alumni/alumni-registration/permalink/)
 
 Video
 -----
@@ -26,4 +26,4 @@ Video
 
 Hall of Fame
 -----
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyrhvqBaiOClp2UDeIDwIqol0VR0b8_A66HugkycrYhdoELtIHo4LHG1Hnc-XcPJ-G6rkrnbCV9EwN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyrhvqBaiOClp2UDeIDwIqol0VR0b8_A66HugkycrYhdoELtIHo4LHG1Hnc-XcPJ-G6rkrnbCV9EwN/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
