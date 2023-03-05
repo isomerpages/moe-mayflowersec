@@ -44,6 +44,4 @@ Ang Mo Kio MRT, Mayflower MRT
 
 ### Application for School Transfer
 
-To apply for a School Transfer into Mayflower Secondary School, click on the button below to fill up the Form SG.
-
-[APPLY FOR SCHOOL TRANSFER REQUEST](https://for.edu.sg/mfss-transfer-request)
+To apply for a School Transfer into Mayflower Secondary School, [go to this link](https://for.edu.sg/mfss-transfer-request) to fill up the FormSG application form.
