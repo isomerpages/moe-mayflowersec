@@ -20,7 +20,6 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 ----
   
 
-###   
 
 ### Mayflower Promise
 
@@ -33,6 +32,8 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 ### Mayflower Mission
 
 > Every Mayflowerian - Mighty in Thought and Deed
+
+-----
 
 ### Mayflower Values
 
@@ -48,21 +49,21 @@ Moral Courage • Responsiblity • Optimism • Commitment • Discerning • O
 
 ![](/images/song.png)
 
-Mayflower our dearest school  
-Together aspire together we strive;   
-From thee we derive  
-The knowledge and the dignity  
-To thee we give our love and loyalty.
-
-Mayflower, Mayflower,  
-To fame and glory, to fame and glory;  
-Mayflower, Mayflower,  
-We serve and honour our school and country.
-
-Be mighty in thought and deed  
-Be modest to all men no matter what creed;  
-Onward we'll march  
-with kindred and spirit aglow  
+<div align=center>
+Mayflower our dearest school <br>
+Together aspire together we strive; <br>  
+From thee we derive  <br>
+The knowledge and the dignity  <br>
+To thee we give our love and loyalty.<br><br>
+Mayflower, Mayflower,  <br>
+To fame and glory, to fame and glory;  <br>
+Mayflower, Mayflower,  <br>
+We serve and honour our school and country.<br><br>
+Be mighty in thought and deed  <br>
+Be modest to all men no matter what creed;  <br>
+Onward we'll march  <br>
+with kindred and spirit aglow  <br>
 And that is our motto for a better tomorrow.
+</div>
 
 **"Insert school song audio clips here"**
