@@ -4,7 +4,7 @@ permalink: /about-us/our-identity/permalink/
 description: ""
 ---
 ### Our School Crest
-![](/images/crest.svg)
+<img src="/images/crest.svg" style="width:25%"></img>
 The school crest is composed of the letters, MF, encompassed by the name of the school.
 
 MF, the initials of the school, are depicted as a stalk of flower. The letter, M, is shaped artistically as a flower, while the letter, F, is designed as a stem with a blade of leaf on either side. This stalk of flower conveys the essence of message that "**Every Mayflowerian will bloom**".
@@ -37,13 +37,22 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 ### Mayflower Values
 
-Moral Courage • Responsiblity • Optimism • Commitment • Discerning • Open-minded • Respect • Empathy • Integrity
+<div align=center style="margin-bottom:18px">Moral Courage • Responsiblity • Optimism • Commitment • Discerning • Open-minded • Respect • Empathy • Integrity</div>
 
-![](/images/values.png)
 
+
+| Zest for Life | Curious Mind | Generous Spirit |
+| --- | --- | --- |
+| Mayflowerians believe in excellence with humility (moral courage, responsibility, optimism and commitment) | Mayflowerians are discerning and open-minded in the pursuit of lifelong learning. | Mayflowerians are responsible citizens who demonstrate respect, empathy and integrity. |
+
+----
 ### Mayflower Outcomes
 
-![](/images/outcomes.png)
+| Zest for Life | Curious Mind | Generous Spirit |
+| --- | --- | --- |
+| • Mayflowerians have a strong sense of purpose, and are committed in seeking knowledge and skills towards pursuing their passion and interests<br> • Mayflowerians are effective communicators with good interpersonal skills and able to work collaboratively with others<br>• Mayflowerians believe in excellence with humility (moral courage, responsibility, optimism and commitment).| • Mayflowerians are digital learners, driven to use technology effectively and responsibly<br> •  Mayflowerians are self-directed learners who apply critical and creative thinking in real-life situations. <br> •  Mayflowerians are future ready leaders who are resilient and confident to face Challenges<br> •   Mayflowerians are discerning and open-minded in the pursuit of lifelong learning. | •   Mayflowerians understand the needs of others and the importance of contributing back to society.<br> • Mayflowerians embrace diversity, respect and celebrate differences in others. <br> •  Mayflowerians are responsible citizens who demonstrate respect, empathy and integrity. |
+
+----
 
 ### Our School Song
 
