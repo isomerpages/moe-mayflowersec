@@ -22,7 +22,7 @@ Mayflower’s ECG programme aims to equip Mayflowerians with the necessary knowl
 Dear students and parents,
 
 Please click on the attached slides for the 2023 Schedule of Open Houses for the different Post-Secondary Institutions.  
-[](/files/Open%20House%202023_4Jan23%20002.pdf)
+[Open House 2023 4Jan2023](/files/Open%20House%202023_4Jan23%20002.pdf)
 
 Thank you so much!
 
