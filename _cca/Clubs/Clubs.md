@@ -11,4 +11,4 @@ third_nav_title: Clubs
 [![InfoComm Club](/images/CCA%20thumbnails/thumbnail_info_comm.jpg)](/cca/clubs/enterprise-club/permalink/)
 
 #### Literary & Orators  Club
-[![Literary & Orators Club](/images/CCA%20thumbnails/thumbnail_lno.jpg)](/cca/clubs/literary-and-orators-club/permalink/)
+[![Literary & Orators Club](/images/CCA%20thumbnails/thumbnail_lno.jpg)](/cca/Clubs/literary-and-orators-club/permalink/)
