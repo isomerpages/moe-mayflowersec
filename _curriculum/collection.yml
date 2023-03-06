@@ -1,0 +1,24 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Curriculum.md
+      - Applied Learning Programme.md
+      - Character and Citizenship/.keep
+      - Character and Citizenship/Character and Citizenship Education.md
+      - Character and Citizenship/Cyber Wellness.md
+      - Character and Citizenship/National Education.md
+      - Character and Citizenship/Education & Career Guidance.md
+      - Departments/.keep
+      - Departments/Departments.md
+      - Departments/Craft & Technology.md
+      - Departments/English & Literature.md
+      - Departments/Humanities.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue.md
+      - Departments/2020 National Writing Competition.md
+      - Departments/Physical Education & Music.md
+      - Departments/Science.md
+      - Full SBB.md
+      - National Digital Literacy Programme.md
+      - Timetable.md

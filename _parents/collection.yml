@@ -1,0 +1,8 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Leave of Absence (LOA).md
+      - Resources.md
+      - Sexuality Education.md

@@ -1,0 +1,7 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Year Head Programme.md
+      - Student Leadership Programme.md
+      - Values in Action.md

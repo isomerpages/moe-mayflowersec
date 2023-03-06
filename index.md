@@ -1,32 +1,41 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Mayflower Secondary School
+description: "MAYFLOWER. SECONDARY SCHOOL. 2 Ang Mo Kio St 21 Singapore 569384
+  Tel: +65 6457 7783 Fax: +65 6458 3284 Email: mayflower_ss@moe.edu.sg."
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/homepage.gif
+      key_highlights:
+        - title: Achievements
+          description: ""
+          url: /about-us/Our-Achievements/
+        - title: latest updates
+          description: ""
+          url: /newest-happenings/latest-updates/
+        - title: latest events
+          description: ""
+          url: /newest-happenings/latest-events/
+        - title: DSA
+          description: ""
+          url: ""
+  - infobar:
+      title: PHYSICAL OPEN HOUSE 2022
+      button: FIND OUT MORE
+      url: IN
+  - infopic:
+      title: '"An Enchanted Evening"'
+      button: Watch our very own production
+      url: https://www.youtube.com/watch?v=sfOjhtIcCmU
+      image: /images/Enchanted.png
+      alt: Enchanted-Evening-Production
+  - infopic:
+      title: MAYFLOWER SECONDARY SCHOOL
+      description: Google maps to be inserted here
+  - resources:
+      title: Latest Happenings
+      button: See all Latest Happenings
 ---
-

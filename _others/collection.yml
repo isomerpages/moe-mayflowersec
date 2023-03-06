@@ -1,0 +1,6 @@
+collections:
+  others:
+    output: true
+    order:
+      - Latest Events.md
+      - Latest Updates.md

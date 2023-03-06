@@ -2,31 +2,37 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Mayflower Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 2 Ang Mo Kio St 21
+      - Singapore 569384
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 0730 - 1700
+        description: ""
+    maps_link: ""
+    title: School Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6457 7783
+      - email: mayflower_ss@moe.edu.sg
+      - other: ""
+    title: Land Line and Email
+  - content:
+      - phone: +65 6458 3284
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: 71, 76, 132, 165, 166, 169, 262, 265, 268, 269
+    title: Bus services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Ang Mo Kio MRT, Mayflower MRT
+    title: MRT Stations
 ---
