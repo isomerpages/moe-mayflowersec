@@ -41,7 +41,7 @@ HOD/PE&amp;CCA
 Mayflower Sec Sch
 
   
-[Parents’ Booklet to Encourage Healthy Eating Habits at Home (click to download)](/files/hpb.pdf)
+[Parents’ Booklet to Encourage Healthy Eating Habits at Home](/files/hpb.pdf)
 
 
 Partnerships Committee
@@ -72,13 +72,13 @@ PSG Photo Album
 ---------------
 
 **Parent Teacher Conference 2019**
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsayhUAry_cDn09PjK3yiAroLT1Kth8GakKrp8v7d5FkA4j2mGNEtfOnLG05oD_lrXzCI_Pbd2fk3F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsayhUAry_cDn09PjK3yiAroLT1Kth8GakKrp8v7d5FkA4j2mGNEtfOnLG05oD_lrXzCI_Pbd2fk3F/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 **Partners Appreciation Dinner**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOlP93kKpQz7KAwcMkmU-ff440Qstzxv42-tyteYFBDucrt6YKORsu-GdGPlXHPCeq40AG8GjvoouB/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="400" width="100%" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOlP93kKpQz7KAwcMkmU-ff440Qstzxv42-tyteYFBDucrt6YKORsu-GdGPlXHPCeq40AG8GjvoouB/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" height="400" width="100%" allowfullscreen="true"></iframe>
 
 **Sec 1 Meet-Parents-Session, CCA Exhibition**
-<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl0L_tIkzPUlUISVafxW-32GSQ8GNpwAqmmEdy7YN2ei7qqL-T3WY4SqX8IOCySVAujza_3sj7KWpV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl0L_tIkzPUlUISVafxW-32GSQ8GNpwAqmmEdy7YN2ei7qqL-T3WY4SqX8IOCySVAujza_3sj7KWpV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 Video
 -----
