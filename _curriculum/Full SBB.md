@@ -40,7 +40,7 @@ For more information on how our school would implement Full SBB, you can contact
 
 ### Useful Videos for Reference
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;">
+<div style="position:relative;width:100%;height: 50%; overflow: hidden;">
 	<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fvideos%2F2725818744113611%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 	</div>
 	
