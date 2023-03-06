@@ -40,8 +40,8 @@ For more information on how our school would implement Full SBB, you can contact
 
 ### Useful Videos for Reference
 
-<div style="position:relative;width:100%;height: 50%; overflow: hidden;">
-	<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fvideos%2F2725818744113611%2F&show_text=false&width=560&t=0" style="border:none;overflow:hidden;position: absolute; top: 0; left: 0; width: 100%; height: 100%;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<div style="position:relative;width:100%;height: 100%; overflow: hidden;">
+	<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fvideos%2F2725818744113611%2F&show_text=false&width=560&t=0" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 	</div>
 	
 ["Talk show" with Min Ong](https://www.facebook.com/moesingapore/videos/2725818744113611/) 
