@@ -28,7 +28,7 @@ third_nav_title: Performing Arts
 [![Chinese Ensemble](/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg)](/cca/Performing-Arts/chinese-ensemble/permalink/)
 
 #### Choir
-[![Choir](/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg)](/cca/Performing-Arts/choir/permalink/)
+[![Choir](/images/sota.jpg)](/cca/Performing-Arts/choir/permalink/)
 
 #### Drama
 [![Drama](/images/CCA%20thumbnails/thumbnail_drama.jpg)](/cca/Performing-Arts/drama/permalink/)
