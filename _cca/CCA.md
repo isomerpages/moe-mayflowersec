@@ -14,7 +14,13 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 [LEAPS 2.0](/files/LEAPS%202-0.pdf)
 
 -----------------
+
+
 ### Performing Arts
+
+|  |  |
+| :---: | :---: |
+| [<img src="/images/CCA%20thumbnails/thumbnail_band.jpg" style="width:188px">**Concert Band**](/cca/Performing-Arts/concert-band/permalink/) | [<img src="/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg" style="width:188px">**Chinese Dance**](/cca/Performing-Arts/chinese-dance/permalink/) |
 
 #### Concert Band
 [![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)](/cca/Performing-Arts/concert-band/permalink/)
