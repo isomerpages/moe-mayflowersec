@@ -20,9 +20,9 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [<img src="/images/CCA%20thumbnails/thumbnail_band.jpg" style="width:188px">**Concert Band**](/cca/Performing-Arts/concert-band/permalink/) | [<img src="/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg" style="width:188px">**Chinese Dance**](/cca/Performing-Arts/chinese-dance/permalink/) |
-| [<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:188px">**Chinese Ensemble**](/cca/Performing-Arts/chinese-ensemble/permalink/) | [<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:188px">**Choir**](/cca/Performing-Arts/choir/permalink/) |
-| [<img src="/images/CCA%20thumbnails/thumbnail_drama.jpg" style="width:188px">**Drame**](/cca/Performing-Arts/drama/permalink/) | [<img src="/images/CCA%20thumbnails/thumbnail_moderndance.jpg" style="width:188px">**Modern Dance**](/cca/Performing-Arts/modern-dance/permalink/) |
+| [**Concert Band**<img src="/images/CCA%20thumbnails/thumbnail_band.jpg" style="width:188px">](/cca/Performing-Arts/concert-band/permalink/) | [**Chinese Dance**<img src="/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg" style="width:188px">](/cca/Performing-Arts/chinese-dance/permalink/) |
+| [**Chinese Ensemble**<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:188px">](/cca/Performing-Arts/chinese-ensemble/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:188px">](/cca/Performing-Arts/choir/permalink/) |
+| [**Drama**<img src="/images/CCA%20thumbnails/thumbnail_drama.jpg" style="width:188px">](/cca/Performing-Arts/drama/permalink/) | [**Modern Dance**<img src="/images/CCA%20thumbnails/thumbnail_moderndance.jpg" style="width:188px">](/cca/Performing-Arts/modern-dance/permalink/) |
 
 #### Concert Band
 [![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)](/cca/Performing-Arts/concert-band/permalink/)
