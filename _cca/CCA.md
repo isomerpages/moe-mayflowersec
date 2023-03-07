@@ -20,15 +20,15 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Concert Band**<img src="/images/CCA%20thumbnails/thumbnail_band.jpg" style="width:100%;">](/cca/Performing-Arts/concert-band/permalink/) | [**Chinese Dance**<img src="/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg" style="width:100%;">](/cca/Performing-Arts/chinese-dance/permalink/) |
+| [**Concert Band**<img src="/images/CCA%20thumbnails/thumbnail_band.jpg" style="width:350px;">](/cca/Performing-Arts/concert-band/permalink/) | [**Chinese Dance**<img src="/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg" style="width:350px;">](/cca/Performing-Arts/chinese-dance/permalink/) |
 
 |  |  |
 | :---: | :---: |
-| [**Chinese Ensemble**<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:100%;">](/cca/Performing-Arts/chinese-ensemble/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:100%;">](/cca/Performing-Arts/choir/permalink/) |
+| [**Chinese Ensemble**<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:350px;">](/cca/Performing-Arts/chinese-ensemble/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:350px;">](/cca/Performing-Arts/choir/permalink/) |
 
 |  |  |
 | :---: | :---: |
-| [**Drama**<img src="/images/CCA%20thumbnails/thumbnail_drama.jpg" style="width:100%;">](/cca/Performing-Arts/drama/permalink/) | [**Modern Dance**<img src="/images/CCA%20thumbnails/thumbnail_moderndance.jpg" style="width:100%;">](/cca/Performing-Arts/modern-dance/permalink/) |
+| [**Drama**<img src="/images/CCA%20thumbnails/thumbnail_drama.jpg" style="width:350px;">](/cca/Performing-Arts/drama/permalink/) | [**Modern Dance**<img src="/images/CCA%20thumbnails/thumbnail_moderndance.jpg" style="width:350px;">](/cca/Performing-Arts/modern-dance/permalink/) |
 
 |  |  |
 | :---: | :---: |
@@ -39,15 +39,15 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Basketball**<img src="/images/CCA%20thumbnails/thumbnail_basketball3.jpg" style="width:100%;">](/cca/Sports/basketball/permalink/) | [**Bowling**<img src="/images/CCA%20thumbnails/thumbnail_bowling.jpg" style="width:100%;">](/cca/Sports/bowling/permalink/) |
+| [**Basketball**<img src="/images/CCA%20thumbnails/thumbnail_basketball3.jpg" style="width:350px;">](/cca/Sports/basketball/permalink/) | [**Bowling**<img src="/images/CCA%20thumbnails/thumbnail_bowling.jpg" style="width:350px;">](/cca/Sports/bowling/permalink/) |
 
 |  |  |
 | :---: | :---: |
-| [**Football**<img src="/images/CCA%20thumbnails/thumbnail_football.jpg" style="width:100%;">](/cca/Sports/football/permalink/) | [**Netball**<img src="/images/CCA%20thumbnails/thumbnail_netball.jpg" style="width:100%;">](/cca/Sports/netball/permalink/) |
+| [**Football**<img src="/images/CCA%20thumbnails/thumbnail_football.jpg" style="width:350px;">](/cca/Sports/football/permalink/) | [**Netball**<img src="/images/CCA%20thumbnails/thumbnail_netball.jpg" style="width:350px;">](/cca/Sports/netball/permalink/) |
 
 |  |  |
 | :---: | :---: |
-| [**Table Tennis**<img src="/images/CCA%20thumbnails/thumbnail_tabletennis.jpg" style="width:100%;">](/cca/Sports/table-tennis/permalink/) | [**Taekwondo**<img src="/images/CCA%20thumbnails/thumbnail_taekwondo.jpg" style="width:100%;">](/cca/Sports/taekwondo/permalink/) |
+| [**Table Tennis**<img src="/images/CCA%20thumbnails/thumbnail_tabletennis.jpg" style="width:350px;">](/cca/Sports/table-tennis/permalink/) | [**Taekwondo**<img src="/images/CCA%20thumbnails/thumbnail_taekwondo.jpg" style="width:350px;">](/cca/Sports/taekwondo/permalink/) |
 
 |  |  |
 | :---: | :---: |
@@ -57,11 +57,11 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**NCC (Land)**<img src="/images/CCA%20thumbnails/thumbnail_ncc.jpg" style="width:100%;">](/cca/Uniformed-Groups/ncc-land/permalink/) | [**NPCC**<img src="/images/CCA%20thumbnails/thumbnail_npcc.jpg" style="width:100%;">](/cca/Uniformed-Groups/npcc/permalink/)|
+| [**NCC (Land)**<img src="/images/CCA%20thumbnails/thumbnail_ncc.jpg" style="width:350px;">](/cca/Uniformed-Groups/ncc-land/permalink/) | [**NPCC**<img src="/images/CCA%20thumbnails/thumbnail_npcc.jpg" style="width:350px;">](/cca/Uniformed-Groups/npcc/permalink/)|
 
 |  |
 | :---: |
-|[**Scouts**<img src="/images/CCA%20thumbnails/thumbnail_scouts.jpg" style="width:50%;">](/cca/Uniformed-Groups/scouts/permalink/) |
+|[**Scouts**<img src="/images/CCA%20thumbnails/thumbnail_scouts.jpg" style="width:350px;">](/cca/Uniformed-Groups/scouts/permalink/) |
 
 |  |
 | :---: |
@@ -71,11 +71,11 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Enterprise Club**<img src="/images/CCA%20thumbnails/thumbnail_enterprise.jpg" style="width:100%;">](/cca/Clubs/enterprise-club/permalink/) | [**InfoComm Club**<img src="/images/CCA%20thumbnails/thumbnail_info_comm.jpg" style="width:100%;">](/cca/Clubs/infocomm-club/permalink/)|
+| [**Enterprise Club**<img src="/images/CCA%20thumbnails/thumbnail_enterprise.jpg" style="width:350px;">](/cca/Clubs/enterprise-club/permalink/) | [**InfoComm Club**<img src="/images/CCA%20thumbnails/thumbnail_info_comm.jpg" style="width:350px;">](/cca/Clubs/infocomm-club/permalink/)|
 
 |  |
 | :---: |
-|[**Literary &amp; Orators Club**<img src="/images/CCA%20thumbnails/thumbnail_lno.jpg" style="width:50%;">](/cca/Clubs/literary-and-orators-club/permalink/) |
+|[**Literary &amp; Orators Club**<img src="/images/CCA%20thumbnails/thumbnail_lno.jpg" style="width:350px;">](/cca/Clubs/literary-and-orators-club/permalink/) |
 
 |  |
 | :---: |
