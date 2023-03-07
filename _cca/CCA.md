@@ -30,6 +30,9 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 |  |  |
 | :---: | :---: |
 | [**Basketball**<img src="/images/CCA%20thumbnails/thumbnail_basketball3.jpg" style="width:100%;">](/cca/Sports/basketball/permalink/) | [**Bowling**<img src="/images/CCA%20thumbnails/thumbnail_bowling.jpg" style="width:100%;">](/cca/Sports/bowling/permalink/) |
+| [**Football**<img src="/images/CCA%20thumbnails/thumbnail_football.jpg" style="width:100%;">](/cca/Sports/football/permalink/) | [**Netball**<img src="/images/CCA%20thumbnails/thumbnail_netball.jpg" style="width:100%;">](/cca/Sports/netball/permalink/) |
+| [**Table Tennis**<img src="/images/CCA%20thumbnails/thumbnail_tabletennis.jpg" style="width:100%;">](/cca/Sports/table-tennis/permalink/) | [**Taekwondo**<img src="/images/CCA%20thumbnails/thumbnail_taekwondo.jpg" style="width:100%;">](/cca/Sports/netball/permalink/) |
+|  |  |
 
 
 #### Concert Band
