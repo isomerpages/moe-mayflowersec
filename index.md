@@ -13,28 +13,21 @@ sections:
         - title: Achievements
           description: ""
           url: /about-us/Our-Achievements/
-        - title: latest updates
+        - title: Latest Happenings
           description: ""
-          url: /newest-happenings/latest-updates/
-        - title: latest events
+          url: /newest-happenings/
+        - title: TimeTable
           description: ""
-          url: /newest-happenings/latest-events/
+          url: /timetable/
         - title: DSA
           description: ""
           url: ""
-  - infobar:
-      title: PHYSICAL OPEN HOUSE 2022
-      button: FIND OUT MORE
-      url: IN
   - infopic:
       title: '"An Enchanted Evening"'
       button: Watch our very own production
       url: https://www.youtube.com/watch?v=sfOjhtIcCmU
       image: /images/Enchanted.png
       alt: Enchanted-Evening-Production
-  - infopic:
-      title: MAYFLOWER SECONDARY SCHOOL
-      description: Google maps to be inserted here
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
