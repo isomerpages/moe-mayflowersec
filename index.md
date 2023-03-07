@@ -21,7 +21,7 @@ sections:
           url: /timetable/
         - title: DSA
           description: ""
-          url: ""
+          url: /dsa/
   - infopic:
       title: '"An Enchanted Evening"'
       button: Watch our very own production
