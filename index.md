@@ -16,7 +16,7 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /newest-happenings/
-        - title: TimeTable
+        - title: Timetable
           description: ""
           url: /timetable/
         - title: DSA
