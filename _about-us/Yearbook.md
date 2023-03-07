@@ -8,8 +8,7 @@ Yearbook
 
 2022
 ----
-[![2022 Yearbook](/images/yearbook%202022.png)]
-(https://issuu.com/mayflowersec/docs/mfss\_eyrbk2022?fr=sNGQ3YzU4NTAzNjI)
+[![2022 Yearbook](/images/yearbook%202022.png)](https://issuu.com/mayflowersec/docs/mfss\_eyrbk2022?fr=sNGQ3YzU4NTAzNjI)
 
 
 2021
