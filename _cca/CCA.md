@@ -35,6 +35,17 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 |  |  |
 
 
+### Uniformed Groups
+
+|  |  |
+| :---: | :---: |
+| [**NCC (Land)**<img src="/images/CCA%20thumbnails/thumbnail_ncc.jpg" style="width:100%;">](/cca/Uniformed-Groups/ncc-land/permalink/) | [**NPCC**<img src="/images/CCA%20thumbnails/thumbnail_npcc.jpg" style="width:100%;">](/cca/Uniformed-Groups/npcc/permalink/)|
+
+|  |
+| :---: |
+|[**Scouts**<img src="/images/CCA%20thumbnails/thumbnail_ncc.jpg" style="width:50%;">](/cca/Uniformed-Groups/ncc-land/permalink/) |
+
+
 #### Concert Band
 [![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)](/cca/Performing-Arts/concert-band/permalink/)
 
@@ -57,7 +68,7 @@ _________
 ### Sports
 
 #### Basketball
-[![Basketball](/images/CCA%20thumbnails/thumbnail_basketball.jpg)](/cca/Sports/basketball/permalink/)
+[![Basketball](/images/CCA%20thumbnails/thumbnail_basketball3.jpg)](/cca/Sports/basketball/permalink/)
 
 #### Bowling
 [![Bowling](/images/CCA%20thumbnails/thumbnail_bowling.jpg)](/cca/Sports/bowling/permalink/)
