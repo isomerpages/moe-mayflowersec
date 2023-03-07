@@ -67,6 +67,20 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 | :---: |
 
 
+### Clubs & Societies
+
+|  |  |
+| :---: | :---: |
+| [**Enterprise Club**<img src="/images/CCA%20thumbnails/thumbnail_enterprise.jpg" style="width:100%;">](/cca/Clubs/enterprise-club/permalink/) | [**InfoComm Club**<img src="/images/CCA%20thumbnails/thumbnail_info_comm.jpg" style="width:100%;">](/cca/Clubs/infocomm-club/permalink/)|
+
+|  |
+| :---: |
+|[**Literary &amp; Orators Club**<img src="/images/CCA%20thumbnails/thumbnail_lno.jpg" style="width:50%;">](/cca/Clubs/literary-and-orators-club/permalink/) |
+
+|  |
+| :---: |
+
+
 #### Concert Band
 [![Concert Band](/images/CCA%20thumbnails/thumbnail_band.jpg)](/cca/Performing-Arts/concert-band/permalink/)
 
