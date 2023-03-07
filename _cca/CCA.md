@@ -29,7 +29,7 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Concert Band**<img src="/images/CCA%20thumbnails/thumbnail_band.jpg" style="width:100%;">](/cca/Performing-Arts/concert-band/permalink/) | [**Chinese Dance**<img src="/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg" style="width:100%;">](/cca/Performing-Arts/chinese-dance/permalink/) |
+| [**Basketball**<img src="/images/CCA%20thumbnails/thumbnail_basketball.jpg" style="width:100%;">](/cca/Sports/basketball/permalink/) | [**Bowling**<img src="/images/CCA%20thumbnails/thumbnail_bowling.jpg" style="width:100%;">](/cca/Sports/bowling/permalink/) |
 
 
 #### Concert Band
