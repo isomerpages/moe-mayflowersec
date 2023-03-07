@@ -17,6 +17,8 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 CCA Awards
 ==============
+
+
 | CCA | Events | Awards |
 | --- | --- | --- |
 | Concert Band | 2021 Singapore Youth Festival Presentation | Accomplishment |
@@ -37,7 +39,7 @@ CCA Awards
 | NCC | 2019 Best Unit Competition | Gold |
 | Enterprise Club | Young Trail Blazer | Best Storyboard |
 | Infocomm Club | Campus Legends: Mobile Legends Bang Bang Interschool Competition | Champion |
-
+|||
 
 
 ### Performing Arts
