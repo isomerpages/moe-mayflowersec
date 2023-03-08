@@ -1,10 +1,12 @@
 ---
 title: Timetable
-permalink: /curriculum/timetable/
+permalink: /timetable/
 description: Timetable for normal and Home-Based Learning week,
   remdial/supplementary Schedule
 image: /images/2023 Sem 1-1.png
 ---
+
+
 Timetable for 2023 Semester 1
 -----------------------------
 

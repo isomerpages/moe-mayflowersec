@@ -33,3 +33,4 @@ School Social Media
 *   [Mayflower YouTube Channel](https://www.youtube.com/channel/UC0pOfx0tcHuj1xG9Tk2RkcQ)
 *   [Mayflower Alumni Facebook Page](https://www.facebook.com/mayfloweralumni)
 *   [Mayflower School Google Photos Page](https://photos.app.goo.gl/z0kHE4KkKwWwFcyO2)
+*   [Mayflower Library Instagram Page](https://www.instagram.com/mayflowerlibrary/)

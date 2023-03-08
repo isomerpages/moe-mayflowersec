@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 ---
 #### Basketball
-[![Basketball](/images/CCA%20thumbnails/thumbnail_basketball.jpg)](/cca/Sports/basketball/permalink/)
+[![Basketball](/images/CCA%20thumbnails/thumbnail_basketball3.jpg)](/cca/Sports/basketball/permalink/)
 
 #### Bowling
 [![Bowling](/images/CCA%20thumbnails/thumbnail_bowling.jpg)](/cca/Sports/bowling/permalink/)

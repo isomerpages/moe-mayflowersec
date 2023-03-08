@@ -3,7 +3,7 @@ layout: homepage
 title: Mayflower Secondary School
 description: "MAYFLOWER. SECONDARY SCHOOL. 2 Ang Mo Kio St 21 Singapore 569384
   Tel: +65 6457 7783 Fax: +65 6458 3284 Email: mayflower_ss@moe.edu.sg."
-image: /images/isomer-logo.svg
+image: /images/crest.svg
 permalink: /
 notification: ""
 sections:
@@ -13,29 +13,23 @@ sections:
         - title: Achievements
           description: ""
           url: /about-us/Our-Achievements/
-        - title: latest updates
+        - title: Latest Happenings
           description: ""
-          url: /newest-happenings/latest-updates/
-        - title: latest events
+          url: /newest-happenings/
+        - title: Timetable
           description: ""
-          url: /newest-happenings/latest-events/
+          url: /timetable/
         - title: DSA
           description: ""
-          url: ""
-  - infobar:
-      title: PHYSICAL OPEN HOUSE 2022
-      button: FIND OUT MORE
-      url: IN
+          url: /dsa/
   - infopic:
       title: '"An Enchanted Evening"'
       button: Watch our very own production
       url: https://www.youtube.com/watch?v=sfOjhtIcCmU
       image: /images/Enchanted.png
       alt: Enchanted-Evening-Production
-  - infopic:
-      title: MAYFLOWER SECONDARY SCHOOL
-      description: Google maps to be inserted here
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
 ---
+

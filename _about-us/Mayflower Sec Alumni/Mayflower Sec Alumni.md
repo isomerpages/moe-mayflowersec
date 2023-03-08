@@ -16,7 +16,7 @@ To continue to stay connected with the school, continue supporting her developme
 
 <img align="left" style="width:30px;height:30px;margin-left:15px;margin-right:5px" src="/images/icon_instagram.svg"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
 
-<img align="left" style="width:30px;height:30px;margin-left:15px;margin-right:5px" src="/images/gmail.png"> [alumni@mf.edu.sg](mailto:mfss.alumni@gmail.com)
+<img align="left" style="width:30px;height:30px;margin-left:15px;margin-right:5px" src="/images/gmail.png"> [alumni@mf.edu.sg](mailto:alumni@mf.edu.sg)
 
 [Join Us](/about-us/Mayflower-Sec-Alumni/alumni-registration/permalink/)
 
