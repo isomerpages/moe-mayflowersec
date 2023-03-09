@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero BG/20230309_122210.jpg
+      background: /images/homepage.gif
       key_highlights:
         - title: Achievements
           description: ""
