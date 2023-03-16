@@ -30,7 +30,7 @@ School Social Media
 
 *   [Mayflower Facebook Page](https://www.facebook.com/mayflowersecofficial)
 *   [Mayflower Instagram Page](https://www.instagram.com/mayflowersec/)
-*   [Mayflower YouTube Channel](https://www.youtube.com/channel/UC0pOfx0tcHuj1xG9Tk2RkcQ)
+*   [Mayflower YouTube Channel](https://www.youtube.com/@MayflowerSecSch)
 *   [Mayflower Alumni Facebook Page](https://www.facebook.com/mayfloweralumni)
 *   [Mayflower School Google Photos Page](https://photos.app.goo.gl/z0kHE4KkKwWwFcyO2)
 *   [Mayflower Library Instagram Page](https://www.instagram.com/mayflowerlibrary/)
