@@ -8,14 +8,14 @@ third_nav_title: Departments
 
 #### The Humanities Team
 
-| Designation | Teacher 
-| --- | --- |
-| HOD (Humanities)| Mdm S Santhi |
-| Subject Head| Ms Fateha Binte Abdullah |
-| Senior Teacher| Mrs Frances Ess |
-| HOD (CCE)| Mrs Tricia Lim Sze Ling |
-| HOD (Discipline)| Mr Raj Kanna Velayutham |
-| Teachers | Ms Charissa Qiu <br>Mr Jeremy Ong Zhen Wei <br>Ms Alethea Goei <br>Ms Su Haiyin <br>Mr Chen Zhen <br>Ms Sherrie Ng <br>Mrs Eugenia Tan |
+|||
+| --- | --- | 
+| **HOD (Humanities)**| Mdm S Santhi |
+| **Subject Head**| Ms Fateha Binte Abdullah |
+| **Senior Teacher**| Mrs Frances Ess |
+| **HOD (CCE)**| Mrs Tricia Lim Sze Ling |
+| **HOD (Discipline)**| Mr Raj Kanna Velayutham |
+| T**eachers** | Ms Charissa Qiu <br>Mr Jeremy Ong Zhen Wei <br>Ms Alethea Goei <br>Ms Su Haiyin <br>Mr Chen Zhen <br>Ms Sherrie Ng <br>Mrs Eugenia Tan |
 
 Welcome to the Mayflower Humanities Department! Our department comprises of a team of qualified and dedicated teachers who are passionate about the study of humanities.
 
@@ -41,10 +41,10 @@ If you have any questions or would like to know more about our curriculum, pleas
 Notable Programmes &amp; Events
 ---------------------------
 #### Investigative Projects
-Inquiry based learning as the cornerstone, students of all levels embark on Geographical Investigations either conducted in school or outside school depending on the nature of the topic. Lower Secondary students also work on historical sources to make sense of the past and form interpretations and conclusions relating to Singapore history. In Social Studies classes, our Secondary 3 students and all NT students, embark on various projects to better understand current societal issues.
+With inquiry-based learning as the cornerstone, students of all levels embark on Geographical Investigations. Lower Secondary students also work on historical sources to make sense of the past and form interpretations and conclusions relating to Singapore's history. In Social Studies classes, our Secondary 3 students and all NT students, embark on various projects to better understand current societal issues.
 
 #### MOE Geography/History Challenge 
-Every year, we send a team of students to participate in the Geography and History MOE Challenges. By doing so, we have given students to learn deep and go beyond the syllabus. These competitions have also been an excellent way to talent spot promising students who are offered to take the Talent Development Programme specifically meant for students keen to pursue these humanities subjects at the A level. 
+Every year, we send a team of students to participate in the Geography and History MOE Challenges. By doing so, our students are given the opportunity to learn deeply and go beyond the syllabus. These competitions have also been an excellent way to talent-spot promising students. These students are offered to join the Talent Development Programme specifically meant for students keen to pursue these humanities subjects at the A level.
 
 #### PROVE IT! Competition
 Selected lower secondary students take part in this inter-school challenge that examines their ability to evaluate for reliable information, an important life skill in these times. 
