@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d349o01ctv66pl.amplifyapp.com
 prod: https://master.d349o01ctv66pl.amplifyapp.com
-shareicon: /images/crest.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
