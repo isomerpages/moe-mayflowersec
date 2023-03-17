@@ -4,28 +4,22 @@ permalink: /curriculum/Departments/humanities/permalink/
 description: ""
 third_nav_title: Departments
 ---
-> Our VISION: Humanities students and staff are life-long learners with a global perspective.
+# Our VISION: Humanities students and staff are life-long learners with a global perspective.
 
 #### The Humanities Team
 
-| Teacher | Designation | Subject |
-| --- | --- | --- |
-| Mdm S Santhi | HOD Humanities | Social Studies / Geography |
-| Mrs Tricia Lim Sze Ling | HOD CCE | Geography |
-| Mr Raj Kanna Velayutham | HOD Discipline| History |
-| Ms Fateha Binte Abdullah | SH Humanities | History |
-| Mrs Frances Ess | Senior Teacher | Geography |
-| Ms Charissa Qiu | Teacher | Social Studies |
-| Mr Jeremy Ong Zhen Wei | Teacher | Geography |
-| Ms Alethea Goei | Teacher | Geography / Social Studies |
-| Ms Su Haiyin |Teacher  | History / Social Studies |
-| Mr Chen Zhen | Teacher | Geography / History |
-| Ms Sherrie Ng | Teacher | Geography / Social Studies |
-| Mrs Eugenia Tan | Adjunct Teacher  | History |
+| Designation | Teacher 
+| --- | --- |
+| HOD (Humanities)| Mdm S Santhi |
+| Subject Head| Ms Fateha Binte Abdullah |
+| Senior Teacher| Mrs Frances Ess |
+| HOD (CCE)| Mrs Tricia Lim Sze Ling |
+| HOD (Discipline)| Mr Raj Kanna Velayutham |
+| Teachers | Ms Charissa Qiu <br>Mr Jeremy Ong Zhen Wei <br>Ms Alethea Goei <br>Ms Su Haiyin <br>Mr Chen Zhen <br>Ms Sherrie Ng <br>Mrs Eugenia Tan |
 
-Unprecedented times has called for unprecedented changes. Our education landscape is undergoing a massive transformation accelerated by the Covid pandemic. The new normal is anything but normal as we strive to prepare our students for a global, digital, information economy. The skills and knowledge that our students need as they compete for jobs with peers from around the world, have risen to the highest levels in history.
+Welcome to the Mayflower Humanities Department! Our department comprises of a team of qualified and dedicated teachers who are passionate about the study of humanities.
 
-So in a nutshell,&nbsp;**the Mayflower Humanities Department is putting the student in the driver’s seat.**
+> So in a nutshell,&nbsp;**the Mayflower Humanities Department is putting the student in the driver’s seat.**
 
 We are constantly trying out new ways to prepare our students for life and not just to excel in the examinations. We aim to promote&nbsp;**DEEPER LEARNING**, the&nbsp;**_buzz phrase_**&nbsp;in our department. This entails not just mastery of core academic content but also, instilling in our students critical thinking &amp; problem solving skills, collaborative and communication skills as well as the right mindset to take on&nbsp;**_self-directed learning._**
 
