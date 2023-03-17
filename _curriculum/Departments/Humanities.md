@@ -4,7 +4,7 @@ permalink: /curriculum/Departments/humanities/permalink/
 description: ""
 third_nav_title: Departments
 ---
-# Our VISION: Humanities students and staff are life-long learners with a global perspective.
+## Our VISION: Humanities students and staff are life-long learners with a global perspective.
 
 #### The Humanities Team
 
