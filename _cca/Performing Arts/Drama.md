@@ -32,7 +32,7 @@ Mayflower Drama Club aims to:
 
 ### Staff and Committee Members 2021
 
-| Teachers-in-Charge 	| Ms Stella Sim<br>Ms Jamie Chng<br>Mdm Ezan 	|
+| Teachers-in-Charge 	| Ms Stella Lim<br>Ms Jaime Ch'ng<br>Mdm Ezan 	|
 |---	|---	|
 | Instructor 	| Ms Eleanor Tan 	|
 | President 	| Jaden Phuah 	|
