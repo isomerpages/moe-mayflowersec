@@ -26,11 +26,8 @@ sections:
       title: '"An Enchanted Evening"'
       button: Watch our very own production
       url: https://www.youtube.com/watch?v=sfOjhtIcCmU
-      image: /images/Enchanted.png
       alt: Enchanted-Evening-Production
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
 ---
-
-
