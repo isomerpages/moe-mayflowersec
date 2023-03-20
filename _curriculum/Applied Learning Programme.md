@@ -37,7 +37,7 @@ There is a swivel effect where the Secondary 1 students learn Speech & Drama ski
 
 
 <div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"
-src="https://docs.google.com/presentation/d/e/2PACX-1vR87yRAvTWND-cMu1dYil-zxi9r7-loOWVsABnxPagKg9W2-O4PY4jQKmTsrZ0D-Q1oQXwcNrRj_5bR/embed?start=true&loop=true&delayms=3000" ></iframe>
+src="https://docs.google.com/presentation/d/e/2PACX-1vR87yRAvTWND-cMu1dYil-zxi9r7-loOWVsABnxPagKg9W2-O4PY4jQKmTsrZ0D-Q1oQXwcNrRj_5bR/embed?start=true&loop=true&delayms=3000" ></iframe></div>
 
 
 For Talent Development, students with interest and aptitude are encouraged to sign up for the different masterclasses organised by the MT department. For students who are interested in levelling up their language skills in translation (Chinese to English, vice-versa) and debate (in Chinese Language and Malay Language), we have the translation and debate training workshops where students learn the basic techniques of translation and debating using their MT languages. Students taking Chinese Language will also be engaged in a series of mind-twisting translation challenges in our annual MTL Fortnight Cultural Camp. Students also participated in translation and debate competitions.
