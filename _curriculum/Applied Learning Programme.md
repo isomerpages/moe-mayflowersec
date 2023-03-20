@@ -35,7 +35,10 @@ The MTL ALP aims to provide authentic learning experiences, riding on the founda
 
 There is a swivel effect where the Secondary 1 students learn Speech & Drama skills for their EL ALP and in Secondary 2 have opportunities to express it in MT in a different context. Similarly, the Secondary 2 students learn basic skills of Journalism & Broadcasting and apply it in the current affairs using MT in Sec 3. The focus for our Secondary 1 students will be on reading skills related to rhetoric and characterization. Customising to the interests and profile of Sec 1 NA & NT students, the programme will focus on students learning storyboarding via hands-on activities. By creating their own story, they learn logical thinking and dialogue writing (different forms of effective communication).
 
-![](/images/alp2.png)
+
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"
+src="https://docs.google.com/presentation/d/e/2PACX-1vR87yRAvTWND-cMu1dYil-zxi9r7-loOWVsABnxPagKg9W2-O4PY4jQKmTsrZ0D-Q1oQXwcNrRj_5bR/embed?start=true&loop=true&delayms=3000" ></iframe>
+
 
 For Talent Development, students with interest and aptitude are encouraged to sign up for the different masterclasses organised by the MT department. For students who are interested in levelling up their language skills in translation (Chinese to English, vice-versa) and debate (in Chinese Language and Malay Language), we have the translation and debate training workshops where students learn the basic techniques of translation and debating using their MT languages. Students taking Chinese Language will also be engaged in a series of mind-twisting translation challenges in our annual MTL Fortnight Cultural Camp. Students also participated in translation and debate competitions.
 
