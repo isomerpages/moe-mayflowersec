@@ -68,6 +68,7 @@ description: ""
 | 3A | Mr Ng Tze How Nigel | [ng\_tze\_how@schools.gov.sg](mailto:ng_tze_how@schools.gov.sg) |
 | 3A | Mrs Quek Ai Jee | [chew\_ai\_jee@schools.gov.sg](mailto:chew_ai_jee@schools.gov.sg) |
 | 3B | Ms Nur Shahirah Bte M Sha Hir | [nur\_shahirah\_sha\_hir@schools.gov.sg](mailto:nur_shahirah_sha_hir@schools.gov.sg) |
+| 3B | Mr Tan Kok Meng | [tan\_kok\_meng@schools.gov.sg](mailto:tan_kok_meng@schools.gov.sg) |
 | 3D | Ms Mok Pei Jiun | [mok\_pei\_jiun@schools.gov.sg](mailto:mok_pei_jiun@schools.gov.sg) |
 | 3D | Mrs Evelyn Ng Lee Mian | [evelyn\_ng\_lee\_mian@schools.gov.sg](mailto:evelyn_ng_lee_mian@schools.gov.sg) |
 | 3E | Mrs Janet Ong | [ting\_siew\_hoon@schools.gov.sg](mailto:ting_siew_hoon@schools.gov.sg) |
