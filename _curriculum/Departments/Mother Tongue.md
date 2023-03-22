@@ -116,7 +116,7 @@ All participants have been awarded the Silver Award.<br>
 5.	Heidi Lim Kai Xin 2D (2022)
 
 ![Award Ceremony - Recital and Bilingual Debate Competition 2022](/images/Departments/MT%20Dept%20Prog/08_Award%20Ceremony.jpeg)
-Award Ceremony_Recital and Bilingual Debate Competition 2022
+Award Ceremony - Recital and Bilingual Debate Competition 2022
 
 To strengthen students’ critical thinking skills and develop their interest in debate, they have trained and participated in the National Secondary Schools Bilingual Debate Competition. They honed their bilingualism through the sharpening of their critical thinking and rebuttal skills.
 
