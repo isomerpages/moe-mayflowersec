@@ -54,7 +54,7 @@ Mayflower students and staff celebrated a special Chinese New Year with our very
 ![Festivity with AWWA](/images/Departments/MT%20Dept%20Prog/02_Festivity%20with%20AWWA.jpeg)
 To spread our love to the community during the festive season, staff and students also rallied together for a donation drive to provide the AWWA elderly with daily necessities.
 
-### Mother tongue Language Fortnight Part 2022
+### Mother tongue Language Fortnight 2022
 
 #### Paper Cutting and Red Packet Making
 ![Paper Cutting](/images/Departments/MT%20Dept%20Prog/03_Paper%20cutting.jpeg)
