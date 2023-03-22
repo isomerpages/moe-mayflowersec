@@ -39,28 +39,20 @@ The Mother Tongue Department believes in the importance of nurturing students to
 | Mr Kim Kin Seng | Flexi-adjunct Teacher | Chinese |
 | Mdm Lee Low Eng | Flexi-adjunct Teacher | Chinese |
 
-Blended Learning
-----------------
 
-We believe in students co-creating learning experiences in class with teachers. Blended learning integrates the use of digital media with classroom activities and gives students more flexibility to customize for themselves more self-regulated and holistic learning experience.
-
-During the alternate weeks of Home-based Learning (HBL), MTL teachers explored the blended learning approach to help students move seamlessly from learning online to face-to-face lessons. In the process, teachers used ICT platforms such as Google Classroom, Classkick and Pear Deck to monitor students’ work, give feedback and promote student engagement online and in class.
-
-For the May/June holidays, the “MFSS Bingo Challenge” was introduced to students as an attempt to infuse fun elements with homework. There were 5 themes for the challenge, namely “Keeping in Touch with MT”, “Saving the Environment”, “Stay Healthy”, “Learn New Skills” and “Family Time”. By completing these challenges, students’ spirits remain positive, and their holidays are a fulfilling one despite not being able to go out.
-
-Professional Development of Teachers
-------------------------------------
-
-Understanding that there is an increasing need to learn about online engagement of students, MTL teachers embarked on a journey to upgrade their ICT and AfL skills. An example will be the S1 Cluster course on “Practical Ideas to Teach CL to the Digital Generation” conducted online by Taiwanese Professor Dr Lien Yujien via Google Meet. Through the course coordinated by Lead Teacher Mdm Wang Xueping, the S1 Cluster Secondary School teachers upgraded their ICT skills by experimenting with different ICT tools together.
-
-Throughout HBL, the teachers familiarised themselves with conducting lessons and attending courses online. The department TTT also shifted online and teachers took turns to share about their HBL journey. Using Google Meet, these sharings were recorded for professional development purposes and teachers could also view the recordings anytime to learn from their colleagues.
 
 Signature Programmes / Enrichment Programmes
 --------------------------------------------
 
-### CNY Concert
+### Chinese New Year Celebration 2022
 
-In keeping with the MF tradition, CNY was celebrated with senior citizens from Asian Women’s Welfare Association (AWWA). They were invited to our annual concert and showered with “Hampers of Love. The school came together to prepare these hampers, filled with food and household items. While they were here, the senior citizens were taken care of by our Enterprise Club and the Girl Guides.
+#### Tiger Dance Competition 2022
+![Tiger Dance](/images/Departments/MT%20Dept%20Prog/01_tiger%20dance.jpeg)
+Mayflower students and staff celebrated a special Chinese New Year with our very own "Tiger Dance Competition" followed by an e-concert in the classrooms. 
+
+#### Sharing the Festivity with AWWA
+![Festivity with AWWA](/images/Departments/MT%20Dept%20Prog/02_Festivity%20with%20AWWA.jpeg)
+To spread our love to the community during the festive season, staff and students also rallied together for a donation drive to provide the AWWA elderly with daily necessities.
 
 ### ALP Tier 2 Programmes \[Chinese Language\]
 
