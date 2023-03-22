@@ -26,10 +26,16 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 
 ### CCA Teachers in Charge
 
+- Mr Edwin Goh (i/c)  
+- Mdm Patricia Kwek  
+- Ms Jeevana Rani
 
-| Teachers-in-charge 	| CCA Leaders &amp; Executive Committee Members 2020 	|
-|---	|---	|
-| Mr Edwin Goh (i/c)<br>Mdm Patricia Kwek<br>Ms Jeevana Rani 	| Won Jee Hee (3I) : Captain<br>Ashley Koh (3B): Vice- Captain 	|
+### Captains
+- AGUSTIN JACOB ALBERT CACAO  (4A)
+- ANG XI ER JONIE   (4I)
+- LEE RUI HENG NATHAN  (3F)
+- CHUA TING YI, ERIN   (3E)
+
 
 ### Training Schedule
 
