@@ -21,16 +21,31 @@ The EL department organises programmes such as Speech and Drama, Journalism and 
 
 The MTL ALP aims to provide authentic learning experiences, riding on the foundation of language skills taught in EL ALP, based on the students’ interests. The learning experiences are customised based on the profile and interests of the students, by providing them different platforms and opportunities to use the MT languages and code switch to apply the skills taught in EL ALP.
 
+
+#### Tier 1 Programme
+-	Secondary 1: Reading Programme
+-	Secondary 2: Speech and Drama
+-	Secondary 3: Journalism and Broadcasting
+
+
+#### Tier 2 Programme
+-	Recital Training
+-	Translation Skills
+-	Debate Skills 
+
 There is a swivel effect where the Secondary 1 students learn Speech & Drama skills for their EL ALP and in Secondary 2 have opportunities to express it in MT in a different context. Similarly, the Secondary 2 students learn basic skills of Journalism & Broadcasting and apply it in the current affairs using MT in Sec 3. The focus for our Secondary 1 students will be on reading skills related to rhetoric and characterization. Customising to the interests and profile of Sec 1 NA & NT students, the programme will focus on students learning storyboarding via hands-on activities. By creating their own story, they learn logical thinking and dialogue writing (different forms of effective communication).
 
-![](/images/alp2.png)
 
-For Talent Development, students with interest and aptitude are encouraged to sign up for the different masterclasses organised by the MT department. For students who are interested in levelling up their language skills in translation (Chinese to English, vice-versa) and emceeing (in Chinese Language and Malay Language), we have the Translation and Emcee Masterclasses where students learn the basic techniques of translation and emceeing using their MT languages. Students taking Chinese Language will also be engaged in a series of mind-twisting translation challenges in our annual MT Cultural Camp.
+<div style="position:relative;width:100%;padding-bottom: 75%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"
+src="https://docs.google.com/presentation/d/e/2PACX-1vR87yRAvTWND-cMu1dYil-zxi9r7-loOWVsABnxPagKg9W2-O4PY4jQKmTsrZ0D-Q1oQXwcNrRj_5bR/embed?start=true&loop=true&delayms=3000" ></iframe></div>
+
+
+For Talent Development, students with interest and aptitude are encouraged to sign up for the different masterclasses organised by the MT department. For students who are interested in levelling up their language skills in translation (Chinese to English, vice-versa) and debate (in Chinese Language and Malay Language), we have the translation and debate training workshops where students learn the basic techniques of translation and debating using their MT languages. Students taking Chinese Language will also be engaged in a series of mind-twisting translation challenges in our annual MTL Fortnight Cultural Camp. Students also participated in translation and debate competitions.
+
+<div style="position:relative;width:100%;padding-bottom: 75%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKeIFEGNv9_YEgJsY7L_KMbUYPIVwprOzlG9P7rp2_6jYedQ43m9HnpTygLdxC1TbbE4wbsyPVzLFZ/embed?start=true&loop=true&delayms=3000"></iframe></div>
 
 Our text recital workshops help Sec 1 & 2 HCL students explore the voice techniques and promote their reading and oral competency. The trainings include different reciting styles, methods and techniques, from learning how to project their voices across a stage to conveying emotion on cue. Selected students will then participate in the National Recital Competition, practising the skills they learnt in class.
+We also appoint 2 Malay Language students as Malay Language Ambassadors for Rakan Bahasa every year. Through this exposure, our Malay Language Ambassadors are able to spread their love for the Malay Language by being role models to their family and peers. They are also able to enrich the lives of others through creative expression and usage of the Malay Language. Our Malay Ambassadors are given opportunities to undergo confidence-building and public speaking skills training. With these, they are given opportunities in school to promote activities related to the Malay Language.
 
-Providing opportunities for students to practise the skills they learnt is something we value a lot. An example is the team of Secondary 3 Malay students for the National Sahibba Challenge, the Piala Cendekia Sahibba 2019. The Sahibba challenge tested the participants’ skills in the Malay Language and vocabulary, and the ability to think quickly and creatively under pressure. Played similarly to Scrabble, letter tiles are placed on game boards in quick successions, marks calculated and team rankings updated. These opportunities allow for wider exposure for students to interact with students from other schools and challenge their potential at the zonal/national level.
-
-We also appoint 2 Malay Language students as Malay Language Ambassadors for Rakan Bahasa every year. Through this exposure, our Malay Language Ambassadors are able to spread their love for the Malay Language by being role models to their family and peers. They are also able to enrich the lives of others through creative expression and usage of the Malay Language. Our Malay Ambassadors are given opportunities to undergo confidence-building and public speaking skills training. With these, they are given opportunities in school to promote activities related to the Malay Language such as Malay Short Stories trailer showcase, Mother Tongue Fortnight activities and many more.
 
 ![](/images/alp3.png)
