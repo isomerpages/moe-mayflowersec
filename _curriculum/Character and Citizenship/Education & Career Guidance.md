@@ -16,7 +16,7 @@ Mayflower’s ECG programme aims to equip Mayflowerians with the necessary knowl
 | Sec 4/5 | Learning Journeys to Post-Secondary Institutions<br>Portfolio Preparation Workshop for Direct Admission to Post Secondary Institutions<br>Work Attachments |
 
 ### Education & Career Guidance Info!  
-![](/images/MFS_ECGC_2023.png)
+[![ECG Counsellor - Eugene Loh](/images/ECGC%20Banner%20(Eugene%20Loh).png)](https://go.gov.sg/mfssecgc)
 
 ### Higher Institutions Open House 2023
 Dear students and parents,
