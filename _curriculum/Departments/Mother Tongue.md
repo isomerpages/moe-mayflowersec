@@ -128,6 +128,9 @@ Our school sent three Sec 3 Express students for 2022 National Inter-Schools Tra
 
 ![2022 National Inter-Schools Translation Competition](/images/Departments/MT%20Dept%20Prog/10_ML%20Translation%20Competition.jpeg)
 
+Photo
+------
+
 <div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8ErjBjqSHq8QbToucwt7JsPwCxvUDKXpSKzSpIERSgchRacI-azzhdz8xlXkj4RJNskDiJi65Ww9e/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
 
 Videos
