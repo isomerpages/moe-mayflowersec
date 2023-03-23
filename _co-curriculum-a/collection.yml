@@ -1,5 +1,5 @@
 collections:
-  cca:
+  co-curriculum-a:
     output: true
     order:
       - Co Curricular Activities.md
