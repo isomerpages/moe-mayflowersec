@@ -152,7 +152,6 @@ description: ""
 |Flexi Adj (Chemistry)|Mdm Teh Swee Choo|[teh\_swee\_choo@schools.gov.sg](mailto:teh_swee_choo@schools.gov.sg)|
 |Flexi Adj (Chinese Language)|Mr Kim Kin Seng|[kim\_kin\_seng@schools.gov.sg](mailto:kim_kin_seng@schools.gov.sg)|
 |Flexi Adj (Chinese Language)|Mdm Lee Low Eng|[foo\_tee\_yam@schools.gov.sg](mailto:foo_tee_yam@schools.gov.sg)|
-|Flexi Adj (English Language)|Mdm Karen Chua Chieu Yin|[karen\_chua\_chieu\_yin@moe.edu.sg](mailto:karen_chua_chieu_yin@moe.edu.sg)|
 |Flexi Adj (English Language)|Mdm Wan Chue Wah|[wan\_chue\_wah@schools.gov.gov.sg](mailto:wan_chue_wah@schools.gov.gov.sg)|
 |Flexi Adj (Humanities)|Ms Lee Yeen Yoong Eugenia|[lee\_yeen\_yoong\_eugenia@schools.gov.sg](mailto:lee_yeen_yoong_eugenia@schools.gov.sg)|
 |Flexi Adj (Math)|Ms Wong Chun Lai (Joy)|[wong\_chun\_lai@schools.gov.sg](mailto:wong_chun_lai@schools.gov.sg)|
