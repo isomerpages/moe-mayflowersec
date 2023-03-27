@@ -128,6 +128,9 @@ Our school sent three Sec 3 Express students for 2022 National Inter-Schools Tra
 
 ![2022 National Inter-Schools Translation Competition](/images/Departments/MT%20Dept%20Prog/10_ML%20Translation%20Competition.jpeg)
 
+#### 
+[![](/images/Departments/MT%20Dept%20Prog/InkRealms%20header.png)](https://sites.google.com/moe.edu.sg/inkrealms/)
+
 Photo
 ------
 
