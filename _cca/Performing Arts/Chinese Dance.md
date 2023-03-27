@@ -72,11 +72,11 @@ In 2020, we took part in performances such as our annual CCA Showcase, Chinese N
 
 | Teachers-in-Charge 	| Mrs Neo Peck Hoon<br>Mdm Liu Xuefang<br>Mdm Sharon Goh 	|
 |---	|---	|
-| Coaches / Instructors 	| Ms Shen Xiao 	|
-| President 	|  Soh Shan Ee	|
-| Vice President (Development) 	| Cherlyn Wong	|
-| Vice President (Discipline) 	| Isabel Tam 	|
-| Vice President (Operations) 	| Isabel Tam 	|
+| **Coaches / Instructors**	| Ms Shen Xiao 	|
+| **President** 	|  Soh Shan Ee	|
+| **Vice President (Development)** 	| Weng Linda	|
+| **Vice President (Discipline)** 	| Cheryln Wong 	|
+| **Vice President (Operations)** 	| Isabel Tam 	|
 
 ### Training Schedule
 
