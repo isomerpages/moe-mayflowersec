@@ -39,7 +39,8 @@ The Mother Tongue Department believes in the importance of nurturing students to
 | Mr Kim Kin Seng | Flexi-adjunct Teacher | Chinese |
 | Mdm Lee Low Eng | Flexi-adjunct Teacher | Chinese |
 
-
+### InkRealms
+[![](/images/Departments/MT%20Dept%20Prog/InkRealms%20header.png)](https://sites.google.com/moe.edu.sg/inkrealms/)
 
 Signature Programmes / Enrichment Programmes
 --------------------------------------------
@@ -127,9 +128,6 @@ To strengthen students’ critical thinking skills and develop their interest in
 Our school sent three Sec 3 Express students for 2022 National Inter-Schools Translation Competition. This annual competition aims to promote bilingualism in our students.
 
 ![2022 National Inter-Schools Translation Competition](/images/Departments/MT%20Dept%20Prog/10_ML%20Translation%20Competition.jpeg)
-
-### InkRealms
-[![](/images/Departments/MT%20Dept%20Prog/InkRealms%20header.png)](https://sites.google.com/moe.edu.sg/inkrealms/)
 
 Photo
 ------
