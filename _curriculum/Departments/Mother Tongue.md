@@ -39,7 +39,8 @@ The Mother Tongue Department believes in the importance of nurturing students to
 | Mr Kim Kin Seng | Flexi-adjunct Teacher | Chinese |
 | Mdm Lee Low Eng | Flexi-adjunct Teacher | Chinese |
 
-
+### InkRealms
+[![](/images/Departments/MT%20Dept%20Prog/InkRealms%20header.png)](https://sites.google.com/moe.edu.sg/inkrealms/)
 
 Signature Programmes / Enrichment Programmes
 --------------------------------------------
