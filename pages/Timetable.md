@@ -27,6 +27,21 @@ Please note that the 5 HBL weeks are as follows:
 *   20 Mar - 24 Mar 2023
 *   10 Apr - 14 Apr 2023
 
+#### Term 2 Remedial / Supplementary Schedule
+Note:
+- CCA has stand down for Sec 4s &amp; 5s, except for Performing Arts and National School Games students.
+- Sec 4s &amp; 5s will have additional slots on Tuesdays and Thursdays.
+
+
+| Remedial / Supplementary |
+|---|
+| [2023 Term 2 Remedial / Supplementary Schedule for Sec 1](/files/2023%20Sem%201%20Timetables/2023%20Sec%201%20T2%20Remedial%20&%20Supp%20Schedule.pdf) |
+| [2023 Term 2 Remedial / Supplementary Schedule for Sec 2](/files/2023%20Sem%201%20Timetables/2023%20Sec%202%20T2%20Remedial%20&%20Supp%20Schedule.pdf) |
+| [2023 Term 2 Remedial / Supplementary Schedule for Sec 3](/files/2023%20Sem%201%20Timetables/2023%20Sec%203%20T2%20Remedial%20and%20Supp%20Schedule.pdf) |
+|[2023 Term 2 Remedial / Supplementary Schedule for Sec 4/5](/files/2023%20Sem%201%20Timetables/2023%20Sec%204_5%20T2%20Remedial%20and%20Supp%20Schedule.pdf)|
+
+
+
 #### Term 1 Remedial / Supplementary Schedule
 Please be informed that the TERM 1 remedial/ supplementary will commence in Week 4 (25 Jan) and end on Week 10 (10 Mar).
 
