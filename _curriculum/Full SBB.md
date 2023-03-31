@@ -55,4 +55,6 @@ This video shares the rationale behind Full SBB through an interview with Minist
 
 ### Secondary school experience and post-secondary pathways under Full SBB (infographic)
 
+![Sec Sch Exp & post sec pathway](/images/sec%20sch%20exp%20and%20post%20sec%20pathway.jpeg)
+
 More information can be found [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
