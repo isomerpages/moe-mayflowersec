@@ -31,7 +31,7 @@ To help students who are struggling with subjects, the school also conducts targ
 ### Applied Learning Programme \[ALP\] : Effective Communication
 
 
-<img src="/images/stage1.jpeg" style="width:280px;height:180px;margin-left:1px;" align = "left">   
+<img src="/images/stage1.jpeg" style="width:280px;height:180px;margin-left:1px;" align="left">   
 
 In line with preparing our students for the future, we have a comprehensive programme to develop Mayflowerians into effective communicators. Broad based programmes [Tier 1] targeted at the entire school population are planned and run by the English Language and Mother Tongue departments throughout the year. Specialised programmes are spiralled to Tier 2 level whereby selected students with talents and who show interest are trained and coached for greater exposure such as competitions.
 
@@ -40,9 +40,7 @@ In line with preparing our students for the future, we have a comprehensive prog
 -----------------------------------
 ### Full Subject Based Banding \[FSBB\]
 
-<img src="/images/pathways.jpg" style="width:100%;margin:1px;"  >
-
-Mayflower is one of the schools that have embarked on FSBB. Starting this year, our Secondary One students were placed in mixed classrooms; students taking subjects at the various streams \[Express/NA/NT\] shared the same form class. These students were taught common curriculum subjects together \[PE, Art, Design & Technology, Food & Nutrition and Citizenship and Character Education\] while they were still banded into different classes for other subjects like English, Mother Tongue, Math, Science and the Humanities depending on the level at which they were offering these subjects. This has allowed for better integration among the students and a higher level of motivation as students were not labelled according to a stream but instead were recognized for their strengths in the different subjects. Having gone through the FSBB for one year, our school is better equipped to handle the changes that will come with assessment in the near future as streams are phased out completely.
+<img src="/images/pathways.jpg" style="width:100%;margin:1px;">
 
 [Find out more about FSBB](/curriculum/full-sbb/permalink/)
 
@@ -64,10 +62,10 @@ All of these changes being made would not be possible without our dedicated team
 
 Click on the departments below to find out more about how the various subjects are taught at Mayflower.
 
-#### Craft & Technology
+#### Craft &amp; Technology
 [![](/images/Departments/craft%20and%20technology%20department%202.jpg)](/curriculum/Departments/craft-and-technology/permalink/)
 
-#### English & Literature
+#### English &amp; Literature
 [![](/images/Departments/english%20language%20department%202.jpg)](/curriculum/Departments/english-and-literature/permalink/)
 
 #### Humanities
@@ -80,7 +78,7 @@ Click on the departments below to find out more about how the various subjects a
 [![](/images/Departments/mother%20tongue%20language%20department%202.jpg)](/curriculum/Departments/mother-tongue/permalink/)
 
 #### Physical Education and Music
-[![PE & Music Dept](/images/Departments/physical%20education%20department%202.jpg)](/curriculum/Departments/pe-and-music/permalink/)
+[![PE &amp; Music Dept](/images/Departments/physical%20education%20department%202.jpg)](/curriculum/Departments/pe-and-music/permalink/)
 
 #### Science
 [![Science Dept](/images/Departments/science%20department%202.jpg)](/curriculum/Departments/science/permalink/)
