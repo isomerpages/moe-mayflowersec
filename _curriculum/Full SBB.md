@@ -52,3 +52,5 @@ This video shares the rationale behind Full SBB through an interview with Minist
 ![](/images/sbb2.jpg)
 ![](/images/sbb3.jpg)
 ![](/images/sbb4.jpg)
+
+### Secondary school experience and post-secondary pathways under Full SBB (infographic)
