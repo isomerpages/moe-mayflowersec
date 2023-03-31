@@ -25,14 +25,13 @@ As part of the pilot, our school has implemented these aspects of FSBB:
 
   
 
-#### 2\. Organising Secondary 1 form classes in new ways from 2021
-
-**This is applicable to Secondary 1 students entering our school from 2021.**
+#### 2\. Organising Lower Secondary classes in new ways
 
 *   Each form classes may comprise students from the Express, Normal (Academic) and Normal (Technical) streams.
 *   This common learning experience creates a valuable setting for students to work together, build meaningful friendships, and appreciate different perspectives with students from diverse background and abilities which will benefit them in life. It can also help reduce the inadvertent labelling associated with streaming.
-*   The students will take a set of subjects at a common level together for lower secondary Art, Character &amp; Citizenship Education, Design &amp; Technology, Food &amp; Consumer Education, Music, and Physical Education.
-*   For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. Express, N(A) or N(T).
+*   The students will take a set of subjects at a common level together for lower secondary Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education.
+
+* For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. Express, N(A) or N(T).
 
   
 For more information on how our school would implement Full SBB, you can contact us at&nbsp;[mayflower\_ss@moe.edu.sg](mailto:mayflower_ss@moe.edu.sg)  
@@ -40,19 +39,11 @@ For more information on how our school would implement Full SBB, you can contact
 
 ### Useful Videos for Reference
 
-<div style="position:relative;width:100%;height: 450px; overflow: hidden;">
 	
-	</div>
-	
-["Talk show" with Min Ong](https://www.facebook.com/moesingapore/videos/2725818744113611/)&nbsp;
-
-
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;">
-	
-	</div>
+["Talk show" with Min Ong](https://www.facebook.com/moesingapore/videos/2725818744113611/)
 
 This video shares the rationale behind Full SBB through an interview with Minister Ong.
-*   [Explaining full SBB.](https://www.youtube.com/watch?v=JMc_GispPmk&amp;feature=youtu.be)&nbsp;This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
+*   [Explaining full SBB.](https://youtu.be/JMc_GispPmk) This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
 
 ### Infographics on Full SBB
 
