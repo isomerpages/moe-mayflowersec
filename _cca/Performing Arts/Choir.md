@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 <img src="/images/Choir logo.png" style="width:30%">
 
-> A Family That Sings Together, Firm yet Fun.
+&gt; A Family That Sings Together, Firm yet Fun.
 
 The MFSS Choir aims to
 
@@ -54,11 +54,11 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
   </tr>
   <tr>
     <td>2019</td>
-    <td>SYF Arts Presentation for Choir, April (Certificate of Distinction)<br>Bloom VIVA Concert, May<br><a href="https://www.youtube.com/watch?v=BcmNUinI35M" target="_blank" rel="noopener noreferrer">Choir Camp 2019</a><br>38th Speech Day, August<br><a href="https://www.youtube.com/watch?v=Gi5AAjCgV0U&list=PL-0txKiPyr5uyEh7l6KOH5Q5t2AfV6REE" target="_blank" rel="noopener noreferrer">Esplanade Presents Limelight, November</a></td>
+    <td>SYF Arts Presentation for Choir, April (Certificate of Distinction)<br>Bloom VIVA Concert, May<br><a href="https://www.youtube.com/watch?v=BcmNUinI35M" target="_blank" rel="noopener noreferrer">Choir Camp 2019</a><br>38th Speech Day, August<br><a href="https://www.youtube.com/watch?v=Gi5AAjCgV0U&amp;list=PL-0txKiPyr5uyEh7l6KOH5Q5t2AfV6REE" target="_blank" rel="noopener noreferrer">Esplanade Presents Limelight, November</a></td>
   </tr>
   <tr>
     <td>2018</td>
-    <td>Chinese New Year Celebration, February<br>37th Speech Day, March<br>Choral Workshop with Dr. Wickham, Course Director of MMus in Choral Studies, University of Cambridge, September<br><a href="https://www.youtube.com/watch?v=h3TY7CyZgXs&list=PL-0txKiPyr5sPSKScS_zy1BZHtXF6_Fx5" target="_blank" rel="noopener noreferrer">Tapestry @ Esplanade Recital Studio, November</a></td>
+    <td>Chinese New Year Celebration, February<br>37th Speech Day, March<br>Choral Workshop with Dr. Wickham, Course Director of MMus in Choral Studies, University of Cambridge, September<br><a href="https://www.youtube.com/watch?v=h3TY7CyZgXs&amp;list=PL-0txKiPyr5sPSKScS_zy1BZHtXF6_Fx5" target="_blank" rel="noopener noreferrer">Tapestry @ Esplanade Recital Studio, November</a></td>
   </tr>
   <tr>
     <td>2017</td>
@@ -66,7 +66,7 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
   </tr>
   <tr>
     <td>2016</td>
-    <td>Chinese New Year Celebration, February<br><a href="https://www.youtube.com/watch?v=wlgoXaNw-Ic&list=PL-0txKiPyr5sNR-6H7Jss2z-6Pl6R5-Po" target="_blank" rel="noopener noreferrer">Esplanade Presents Limelight, November</a><br><a href="https://www.youtube.com/watch?v=GNg8kcEemEM" target="_blank" rel="noopener noreferrer">Hong Kong Cultural Exchange Trip, November</a></td>
+    <td>Chinese New Year Celebration, February<br><a href="https://www.youtube.com/watch?v=wlgoXaNw-Ic&amp;list=PL-0txKiPyr5sNR-6H7Jss2z-6Pl6R5-Po" target="_blank" rel="noopener noreferrer">Esplanade Presents Limelight, November</a><br><a href="https://www.youtube.com/watch?v=GNg8kcEemEM" target="_blank" rel="noopener noreferrer">Hong Kong Cultural Exchange Trip, November</a></td>
   </tr>
   <tr>
     <td>2015</td>
@@ -106,7 +106,7 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
 | Tuesdays | 1500 - 1800 | Theatrette |
 | Thursdays | 1500 - 1800 | Theatrette |
 
-Photo & Videos
+Photo &amp; Videos
 --------------
 
 ### Videos
@@ -114,13 +114,13 @@ Photo & Videos
 **A family that sings together, firm yet fun**   
 The highlights of the choir's journey through these years.
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/fIqlJYOw5TE" title="A family that sings together, firm yet fun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/fIqlJYOw5TE" title="A family that sings together, firm yet fun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 **Why MF Choir?**
 
 Wishing to join the choir family, don't hesitate anymore. Come down for an audition on the 11th, 13th and 18th of Jan from 3:30 pm to 5:00 pm.
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/2-YwRpcStiI" title="Why MF Choir?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/2-YwRpcStiI" title="Why MF Choir?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 **Our choir's music to the world in light of COVID-19**
 
@@ -128,33 +128,33 @@ In light of COVID-19, livelihoods of many are affected, be it as patients and fa
 
 In these turbulent times, we’d like to let you know, in our own little way, we are all in this together – you do not walk alone.
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/aCQngpKFGjE" title="You Do Not Walk Alone by Elaine Hagenberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/aCQngpKFGjE" title="You Do Not Walk Alone by Elaine Hagenberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 **Interviewing Our Alumni**
 
 Hear the stories from some of our recently graduated choristers from the class of 2019, who are studying in Eunoia Junior College, Raffles Institution (Junior College), and Saint Andrew's Junior College as JC1 students in 2020. Whilst their paths now diverge, what they have gone through in the 4 years together has shaped them into who they are today.
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/04yX8TmsEMI" title="Interviewing Our Alumni Class of 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/04yX8TmsEMI" title="Interviewing Our Alumni Class of 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 **Interviews and Highlights Playlist**
 
 Want to hear more about our Choir? Check out this playlist and hear it straight from our members from past to present!
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/VG1wPOfA0RU?list=PL-0txKiPyr5v6V3vAAp_wicIK3pzV2ff2" title="MFSS Choir Experience Choir Redefined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/VG1wPOfA0RU?list=PL-0txKiPyr5v6V3vAAp_wicIK3pzV2ff2" title="MFSS Choir Experience Choir Redefined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ### Photo Gallery
 
 ![](/images/sota.jpg)
-**SYF Arts Presentation 2019** where our Choir was awarded Certificate of Distinction for the 3rd consecutive year.
+**SYF Arts Presentation 2019**&nbsp;where our Choir was awarded Certificate of Distinction for the 3rd consecutive year.
 
 ![](/images/choir1.jpg)
-**Limelight 2019:** The Choir's mandatory photoshoot before the concert begins.
+**Limelight 2019:**&nbsp;The Choir's mandatory photoshoot before the concert begins.
 
 ![](/images/choir2.jpg)
-**Limelight 2019** where the Choir not only fills the hall with music, but also transforms the stage visually with cellophane lanterns to suit the theme of the music.
+**Limelight 2019**&nbsp;where the Choir not only fills the hall with music, but also transforms the stage visually with cellophane lanterns to suit the theme of the music.
 
 ![](/images/choir3.jpg)
-**Lion Mums: Crash Landing on Schools – Episode 7.** COVID-19 has not been friendly to anyone, forcing most activities into Home-Based Learning and eCCAs, but that did not waver the Choir's spirits!
+**Lion Mums: Crash Landing on Schools – Episode 7.**&nbsp;COVID-19 has not been friendly to anyone, forcing most activities into Home-Based Learning and eCCAs, but that did not waver the Choir's spirits!
 
 ![](/images/choir4.jpg)
-**Farewell Seniors 2020.** Despite saying farewell to our seniors, the Choir is always a family that sings together, firm yet fun.
+**Farewell Seniors 2020.**&nbsp;Despite saying farewell to our seniors, the Choir is always a family that sings together, firm yet fun.
