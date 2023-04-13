@@ -3,7 +3,6 @@ title: Co Curricular Activities
 permalink: /cca/permalink/
 description: ""
 ---
-
 The Co-Curricular Activities (CCA) in Mayflower Secondary School form an integral part of a student’s life.
 
 Under the 4 domains – Performing Arts, Sports, Uniformed Groups, and Clubs, we focus on 2 main areas as part of our CCA programme in MF – character development and student leadership.
@@ -27,7 +26,7 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Chinese Ensemble**<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:350px;">](/cca/Performing-Arts/chinese-ensemble/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:350px;">](/cca/Performing-Arts/choir/permalink/) |
+| [**Chinese Ensembles**<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:350px;">](/cca/Performing-Arts/chinese-ensembles/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:350px;">](/cca/Performing-Arts/choir/permalink/) |
 
 |  |  |
 | :---: | :---: |
@@ -63,7 +62,7 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 |[**Scouts**<img src="/images/CCA%20thumbnails/thumbnail_scouts.jpg" style="width:350px;">](/cca/Uniformed-Groups/scouts/permalink/) |
 
 
-### Clubs & Societies
+### Clubs &amp; Societies
 
 |  |  |
 | :---: | :---: |

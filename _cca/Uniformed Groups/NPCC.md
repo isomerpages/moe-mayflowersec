@@ -4,7 +4,7 @@ permalink: /cca/Uniformed-Groups/npcc/permalink/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-> D.A.R.E. (Discipline, Achieve, Resilience, Excellence)
+&gt; D.A.R.E. (Discipline, Achieve, Resilience, Excellence)
 
 The NPCC aims to
 
@@ -19,19 +19,25 @@ In 1959, during the explosive period of Singapore's history, our society was fra
 
 | Day | Event Name | Award / Position |
 | --- | --- | --- |
+| 2022 | Unit Overall Proficiency Award | Distinction |
+| 2021 | Unit Overall Proficiency Award | Distinction |
+| 2020 | Unit Overall Proficiency Award | Gold |
 | 2019 | Unit Overall Proficiency Award | Gold |
 | 2018 | Unit Overall Proficiency Award | Gold |
 | 2017 | Unit Overall Proficiency Award | Gold |
 | 2016 | Unit Overall Proficiency Award | Gold |
 
-**Staff, Volunteers and Student Leaders 2018**
+**Staff, Volunteers and Student Leaders**
 
 |Designation|Name|
 |---|---|
 | Teachers-in-Charge 	| Mr Ng Tze How (OC Unit)<br>Mdm Whong Tung Geok<br>Mr Nicholas Quek<br>Ms Sherrie Ng 	|
-| Volunteers 	| SCI (NPCC) Tong Ho Leong       <br>CI (NPCC) Lim Hai Jie, Felicia <br>CI (NPCC) Xavier Lee Hong Ming <br>CI (NPCC) Amos Tan Gan Theng 	|
-| Cadet Leaders: Leadership Group 	| Lim Qing Ying (Chairperson)<br>Pariyavalappil Anil Abhishek (Head Training)<br>Oh Yi Boon, Travis (Asst. Head Training) 	|
+| Volunteers 	| INSP (NPCC) Lim Hai Jie, Felicia |
+| Cadet Leaders: Leadership Group 	| Wayne Aw Wei En (Chairperson)<br>Thanisha Sarangi (Vice Chairperson)	|
+
+<a href="https://www.instagram.com/mf.npcc/"><img valign="middle" style="width:50px" src="/images/ig.png"> mf-npcc</a>
+
 
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFIt3gfGiGkizi93ixbtm0hVrfpqPfawQT-6jUI0cTYD8MYHDZ5tfKXbuhGO83FflGyRswFVr3X4mu/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe><div>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFIt3gfGiGkizi93ixbtm0hVrfpqPfawQT-6jUI0cTYD8MYHDZ5tfKXbuhGO83FflGyRswFVr3X4mu/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe><div></div></div>
