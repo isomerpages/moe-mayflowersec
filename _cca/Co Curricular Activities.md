@@ -26,7 +26,7 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Chinese Ensemble**<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:350px;">](/cca/Performing-Arts/chinese-ensembles/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:350px;">](/cca/Performing-Arts/choir/permalink/) |
+| [**Chinese Ensembles**<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:350px;">](/cca/Performing-Arts/chinese-ensembles/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:350px;">](/cca/Performing-Arts/choir/permalink/) |
 
 |  |  |
 | :---: | :---: |
