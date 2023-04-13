@@ -35,6 +35,7 @@ In 1959, during the explosive period of Singapore's history, our society was fra
 | Volunteers 	| INSP (NPCC) Lim Hai Jie, Felicia |
 | Cadet Leaders: Leadership Group 	| Wayne Aw Wei En (Chairperson)<br>Thanisha Sarangi (Vice Chairperson)	|
 
+**Our social media account**
 <a href="https://www.instagram.com/mf.npcc/"><img valign="middle" style="width:50px" src="/images/ig.png"><br></a>
 
 
