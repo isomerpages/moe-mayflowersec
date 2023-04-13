@@ -1,5 +1,5 @@
 ---
-title: Craft & Technology
+title: Craft &amp; Technology
 permalink: /curriculum/Departments/craft-and-technology/permalink/
 description: ""
 third_nav_title: Departments
@@ -10,18 +10,18 @@ The Mayflower Secondary Craft and Technology (C&amp;T) Department vision was cra
 
 | Staff | Designation | Unit |
 |---|---|---|
-| Mrs Angie Lee | HOD Craft & Tech | Nutrition & Food Science |
-| Mdm Suhaila Bakar | SH Student Leadership | Design & Technology |
-| Mr Tan Kok Meng | Senior Teacher | Design & Technology |
+| Mrs Angie Lee | HOD Craft &amp; Tech | Nutrition &amp; Food Science |
+| Mdm Suhaila Bakar | SH Student Leadership | Design &amp; Technology |
+| Mr Tan Kok Meng | Senior Teacher | Design &amp; Technology |
 | Mr Marcus Ho | Teacher | Art |
 | Mdm Noor Ezan Bte Khatib  | Teacher | Art |
 | Mdm Nurulhuda Binte Mustafa  | Teacher | Art |
-| Mr Tan Wee Tiong | Asst Year Head | Design & Technology |
-| Mdm Liu Xuefang | Teacher | Design & Technology |
-| Ms Azmira Bte Zailan 	| Teacher | Nutrition & Food Science |
-| Mdm Sharon Goh | Teacher | Nutrition & Food Science |
-| Mr Hussen | Technical Support Officer | Design & Technology |
-| Mdm Chuo Chung Mee (Amy) | Operations Support Officer |Nutrition & Food Science |
+| Mr Tan Wee Tiong | Asst Year Head | Design &amp; Technology |
+| Mdm Liu Xuefang | Teacher | Design &amp; Technology |
+| Ms Azmira Bte Zailan 	| Teacher | Nutrition &amp; Food Science |
+| Mdm Sharon Goh | Teacher | Nutrition &amp; Food Science |
+| Mr Hussen | Technical Support Officer | Design &amp; Technology |
+| Mdm Chuo Chung Mee (Amy) | Operations Support Officer |Nutrition &amp; Food Science |
 
 ### Our Learning Outcomes
 
@@ -56,26 +56,6 @@ The C&amp;T department advocates place-based pedagogy to support in-classroom ap
 
 Student-curated exhibitions have become a department trademark in recent years. We believe that these exhibitions provide opportunities for students to exercise their communication, discernment and organisational skills while they celebrate their learning progression and technical competencies with the school community and invited guests. These exhibitions are a testimony to the positive student outcomes that transpired from the department’s curriculum design and pedagogical approaches.
 
-Happening in 2020
------------------
-
-### Sec 2 Subject Allocation 2020
-
-💡How best can we enhance the understanding of elective subjects at Upper Secondary, bearing in mind the importance of students’ interests and passions? How best to do this especially with constraints of the current safe distancing measures?🧐
-
-Nothing beats hearing from the voices of ex and current learners! 🤸‍
-
-Our department took a new approach to equip students and parents with a better understanding of our electives (Art🎨, Design &amp; Technology🛠, Nutrition and Food Science🥪 and Mobile Robotics 🤖) offered to our Secondary 2 students.
-
-Mayflowerians can check out the publicity posters embedded with QR code linked to videos of current and ex-students sharing passionately about what they have enjoyed and learned from the subjects.  
-
-In &nbsp;addition, our teachers shared what each elective can offer. To complement these efforts, parents will be engaged in a web conference to find out more about the electives.
-
-In doing so, we hope to empower and arouse our learners' intrinsic motivation to seek out additional information so as to make an informed decision regarding their subject options. 🎈
-
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2NT Mobile Robotics Subj Sharing" src="https://www.youtube.com/embed/HjUX48Rrvq8"></iframe></div>
-
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="NT Art Slides for PTM 2020" src="https://www.youtube.com/embed/LSVtgxwJ1oY"></iframe></div>
 
 Posters
 -------
