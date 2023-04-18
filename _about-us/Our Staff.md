@@ -88,6 +88,7 @@ description: ""
 | 4D | Mrs Frances Ess | [frances\_ess@schools.gov.sg](mailto:frances_ess@schools.gov.sg) |
 | 4E | Ms Nurulhuda Binte Mustafa | [nurulhuda\_mustafa@schools.gov.sg](mailto:nurulhuda_mustafa@schools.gov.sg) |
 | 4E | Ms Alethea Goei Min Yi | [alethea\_goei\_min\_yi@schools.gov.sg](mailto:alethea_goei_min_yi@schools.gov.sg) |
+| 4E | Mr Tan Boon Yong | [tan\_boon\_yong@schools.gov.sg](mailto:tan_boon_yong@schools.gov.sg) |
 | 4F | Mr Goh Keng Lim Edwin | [goh\_keng\_lim\_edwin@schools.gov.sg](mailto:goh_keng_lim_edwin@schools.gov.sg) |
 | 4F | Mdm Ng Hsaw Teng Gina | [gina\_ng\_hsaw\_teng@schools.gov.sg](mailto:gina_ng_hsaw_teng@schools.gov.sg) |
 | 4I | Mdm Su Xiaoling | [su\_xiaoling@schools.gov.sg](mailto:su_xiaoling@schools.gov.sg) |
