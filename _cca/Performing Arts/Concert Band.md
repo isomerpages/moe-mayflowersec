@@ -69,7 +69,7 @@ Mr Tan Aik Koon (Conductor/Instructor)
 Mr Png Boon Teck (Assistant Instructor)  
 Mr Chua Leng Heng (Section Tutor – Percussion)
 
-### Band/Drum Majors
+### Band Majors
 
 **2022-2023**<br>
 Lee Qi Qi (Sec 4I)<br>
