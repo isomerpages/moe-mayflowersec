@@ -4,7 +4,7 @@ permalink: /cca/Performing-Arts/modern-dance/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
->Dance to Express
+&gt;Dance to Express
 
   
 
@@ -47,18 +47,17 @@ Ms Serene Tung
 
 | Position | Name |
 |---	|---	|
-| Chairperson 	| Lim Xiao Tong 	|
-| Vice Chairperson - Discipline 	| Lin Jia Yun 	|
-| Vice Chairperson - Operations 	| Zhu Xi En 	|
-| Vice Chairperson - Development 	| Latheesh Shreya|
-| Secretary 	| Jessica Ng Xin Yi|
-| Admin Manager 	| Lau Zi Le  	|
-| Quartermaster 	| Pedamadula Tanisha|
-| IT Manager 	| Wong Ling Yue Shana|
-| Operations Manager 	| Chloe Lee Rui Xi 	|
-| Publicity Manager 	| Riya Bhagat D/O Ajit Kumar |
-| Head of Welfare 	| Lee Si Lin 	|
-| Dance Coordinator 	| Chong Yating 	|
+| Chairperson 	| Kayli-Jane Goh Wen Xuan 	|
+| Vice-Chairperson (Operations) 	| Tay Li Xuan	|
+| Vice-Chairperson (Discipline) 	| Jennifer Metta Tirtha Lim	|
+| Vice-Chairperson (Development) 	| Wong Wing Yiu |
+| Secretary 	| Sia Hui Ting Ashlynn |
+| Admin Manager 	| Tan Rui Min 	|
+| Quartermaster 	| Melissa Tan Marchen |
+| Publicity Manager 	| Ng Shi Ting,<br> Vanessa (Huang Shiting) |
+| IT Manager 	| Goh Yi Xuan |
+| Head of Welfare 	| Nonidh 	|
+| Dance Coordinator 	| Teh Qian Han 	|
 
 ### Training Schedule
 
@@ -69,7 +68,7 @@ Ms Serene Tung
 
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=true&loop=true&delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScuzQI5z8iiPwhrR51XUfBnuSGPPIZrCS3x1EzoGsby7_v9MiquzH-qoDN3K9_F0A_wbA0aPypk3Ol/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
 
 Video
 -----

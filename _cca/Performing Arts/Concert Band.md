@@ -4,7 +4,7 @@ permalink: /cca/Performing-Arts/concert-band/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-> Friendship and Excellence through Music
+&gt; Friendship and Excellence through Music
 
   
 
@@ -69,12 +69,17 @@ Mr Tan Aik Koon (Conductor/Instructor)
 Mr Png Boon Teck (Assistant Instructor)  
 Mr Chua Leng Heng (Section Tutor – Percussion)
 
-### Band/Drum Majors
+### Band Majors
 
-**2021-2022**  
-Clarisse Teo (Sec 4A)  
-Kua Ze Yin (Sec 4J)  
-Kareender Kaur D/O Bhupinder Singh (Sec 4I)
+**2022-2023**<br>
+Lee Qi Qi (Sec 4I)<br>
+Charisse Tay (Sec 4D)<br>
+Koh Weiting (Sec 4E)<br>
+
+**2023-2024**<br>
+Ashton Ching (Sec 3J)<br>
+Chit Myat Noe Maung (Sec 3A)<br>
+David Koe Zhi Zheng (Sec 3J)<br>
 
 ### Training Schedule
 
@@ -92,4 +97,4 @@ Video
 
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vTjj7y1sH2P7UbyVKI5MmERShE7lmJBEGb5J2-YsXLeFU_dLzt9F8U-zImvYO_eKR4x9iupIfZ9G83_/embed?start=true&loop=true&delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://docs.google.com/presentation/d/e/2PACX-1vTjj7y1sH2P7UbyVKI5MmERShE7lmJBEGb5J2-YsXLeFU_dLzt9F8U-zImvYO_eKR4x9iupIfZ9G83_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>

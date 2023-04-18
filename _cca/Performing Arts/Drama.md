@@ -4,7 +4,7 @@ permalink: /cca/Performing-Arts/drama/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-> Let one of your many parts you play in life be the time you shine in Drama Club.
+&gt; Let one of your many parts you play in life be the time you shine in Drama Club.
 
 Mayflower Drama Club aims to:
 
@@ -19,7 +19,7 @@ Mayflower Drama Club aims to:
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
-|2022|School Performance – Speech Day & Aesthetics Performance (Self-written Play “Nothing”) - April||
+|2022|School Performance – Speech Day &amp; Aesthetics Performance (Self-written Play “Nothing”) - April||
 | 2021 | SYF Presentation | Certificate of Distinction |
 | 2019 | SYF Presentation | Certificate of Accomplishment |
 | 2019 | Aesthetic Outing - Emily of Emerald Hill - Sept | \- |
@@ -30,7 +30,7 @@ Mayflower Drama Club aims to:
 | 2015 | SYF Presentation | Certificate of Accomplishment |
 | 2013 | SYF Presentation | Certificate of Distinction&nbsp; |
 
-### Staff and Committee Members 2021
+### Staff and Committee Members 2023
 
 | Teachers-in-Charge 	| Ms Stella Lim<br>Ms Jaime Ch'ng<br>Mdm Ezan 	|
 |---	|---	|
@@ -49,4 +49,4 @@ Mayflower Drama Club aims to:
 
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDtlpCHePWw4UaTB7E0s1Wzl6Zo_IFBifHZJWgm-f3P5MqR6RH1CTKk8qlK212ltapWkNtEOYMKBgo/embed?start=true&loop=true&delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDtlpCHePWw4UaTB7E0s1Wzl6Zo_IFBifHZJWgm-f3P5MqR6RH1CTKk8qlK212ltapWkNtEOYMKBgo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>

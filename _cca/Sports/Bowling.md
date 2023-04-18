@@ -4,9 +4,7 @@ permalink: /cca/Sports/bowling/permalink/
 description: ""
 third_nav_title: Sports
 ---
-
-
->Keeping P.A.C.E to win the game
+&gt;Keeping P.A.C.E to win the game
 
 
 **Passion**: Have positive enthusiasm &amp; energy for bowling  
@@ -27,6 +25,15 @@ Mayflower Bowling aims to develop each bowler to be a leader equipped with the r
   </tr>
 </thead>
 <tbody>
+		<tr>
+		<td rowspan="2">2023</td>
+		<td>National School Games National B Division Boys</td>
+		<td>11th</td>
+	</tr>
+	<tr>
+		<td>National School Games National B Division Girls</td>
+		<td>8th</td>
+	</tr>
 	<tr>
 		<td rowspan="4">2022</td>
 		<td>National School Games National B Division Boys</td>
@@ -119,9 +126,9 @@ Mayflower Bowling aims to develop each bowler to be a leader equipped with the r
 </tbody>
 </table>
 
-| Teachers-in-Charge 	| CCA Leaders &amp; Executive Committee Members 2022 	|
+| Teachers-in-Charge 	| CCA Leaders &amp; Executive Committee Members 2023 	|
 |---	|---	|
-| Mr Jeremy Ong Zhen Wei<br>Ms Allycia Teo Wan Ngee<br>Ms Nadia Binte Sharin<br>Dr Tang Suyun 	| Captain: Kylie See, Max Leo<br>Upper Secondary Executive Committee: Evelle Goh, Darren Yam<br>Lower Secondary Executive Committee: Cheok Anting, Lim Kai Rong 	|
+| Mr Jeremy Ong Zhen Wei<br>Ms Allycia Teo Wan Ngee<br>Ms Nadia Binte Sharin<br>Dr Tang Suyun 	| Captain: Cheok Anting, Lim Kai Rong<br>Upper Secondary Executive Committee: Lim Kai Yee, Danker Kirsten Gabrielle<br>Lower Secondary Executive Committee:  Muhammad Danish Matyn, Pham Yan LIi Alexie	|
 
 ### Training Schedule
 

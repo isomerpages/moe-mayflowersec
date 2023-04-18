@@ -17,7 +17,7 @@ Principals
 | 2013 - 2017 | Mr Loo Ming Yaw |
 | From 2018 | Mdm Lee Eet Fong | 
 
-![](/images/history.jpg)
+![](/images/history_principals.jpg)
 
 The original Mayflower Secondary School building was built at a cost of $5.46 million on a 2.7 hectares plot of land along Ang Mo Kio Avenue 3 in the then new Ang Mo Kio Satellite Town. The school started in 1981 with 408 students and became one of the more popular neighbourhood schools in this area.
 

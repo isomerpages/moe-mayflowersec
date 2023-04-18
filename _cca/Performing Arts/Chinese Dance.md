@@ -4,7 +4,7 @@ permalink: /cca/Performing-Arts/chinese-dance/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-> Practice like you have never won. Dance like you have never lost
+&gt; Practice like you have never won. Dance like you have never lost
 
 The Chinese Dance Club aims to:
 
@@ -73,10 +73,10 @@ In 2020, we took part in performances such as our annual CCA Showcase, Chinese N
 | Teachers-in-Charge 	| Mrs Neo Peck Hoon<br>Mdm Liu Xuefang<br>Mdm Sharon Goh 	|
 |---	|---	|
 | **Coaches / Instructors**	| Ms Shen Xiao 	|
-| **President** 	|  Soh Shan Ee	|
-| **Vice President (Development)** 	| Weng Linda	|
-| **Vice President (Discipline)** 	| Cheryln Wong 	|
-| **Vice President (Operations)** 	| Isabel Tam 	|
+| **President** 	|  Alyssa Low Xuan Rui	|
+| **Vice President (Discipline)** 	| Lin Yutong	|
+| **Vice President (Development)** 	| Koh Ruo Er 	|
+| **Vice President (Operations)** 	| Wong Yu Xuan 	|
 
 ### Training Schedule
 
@@ -87,7 +87,7 @@ In 2020, we took part in performances such as our annual CCA Showcase, Chinese N
 
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0fCTBQNPn928ZMBhtpM9rhkkr0MkBviKz1s4ZIGO21xIQSURGHCF1oLd3nqPZVB6jfDQGT51cRts9/embed?start=true&loop=true&delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0fCTBQNPn928ZMBhtpM9rhkkr0MkBviKz1s4ZIGO21xIQSURGHCF1oLd3nqPZVB6jfDQGT51cRts9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
 
 Video
 -----

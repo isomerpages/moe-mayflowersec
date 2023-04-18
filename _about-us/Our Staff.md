@@ -48,7 +48,7 @@ description: ""
 | 1D | Mdm Goh Kng Joo (Sharon) | [goh\_kng\_joo@schools.gov.sg](mailto:goh_kng_joo@schools.gov.sg) |
 | 1D | Mdm Lai Meei Ju | [lai\_meei\_ju@schools.gov.sg](mailto:lai_meei_ju@schools.gov.sg) |
 | 1E | Mdm Patricia Kwek Kim Tiah | [kwek\_kim\_tiah@schools.gov.sg](mailto:kwek_kim_tiah@schools.gov.sg) |
-| 1E |  |  |
+| 1E | Ms Shen Sirui | [shen\_sirui@schools.gov.sg](mailto:shen_sirui@schools.gov.sg) |
 | 1F | Mr Ho Kien Kok Marcus | [ho\_kien\_kok\_marcus@schools.gov.sg](mailto:ho_kien_kok_marcus@schools.gov.sg) |
 | 1F | Ms Stella Lim Soon Shien | [lim\_soon\_shien\_stella@schools.gov.sg](mailto:lim_soon_shien_stella@schools.gov.sg) |
 | 1I | Mr Yap Chien-Shen Alvin | [yap\_chien-shen\_alvin@schools.gov.sg](mailto:yap_chien-shen_alvin@schools.gov.sg) |
@@ -88,6 +88,7 @@ description: ""
 | 4D | Mrs Frances Ess | [frances\_ess@schools.gov.sg](mailto:frances_ess@schools.gov.sg) |
 | 4E | Ms Nurulhuda Binte Mustafa | [nurulhuda\_mustafa@schools.gov.sg](mailto:nurulhuda_mustafa@schools.gov.sg) |
 | 4E | Ms Alethea Goei Min Yi | [alethea\_goei\_min\_yi@schools.gov.sg](mailto:alethea_goei_min_yi@schools.gov.sg) |
+| 4E | Mr Tan Boon Yong | [tan\_boon\_yong@schools.gov.sg](mailto:tan_boon_yong@schools.gov.sg) |
 | 4F | Mr Goh Keng Lim Edwin | [goh\_keng\_lim\_edwin@schools.gov.sg](mailto:goh_keng_lim_edwin@schools.gov.sg) |
 | 4F | Mdm Ng Hsaw Teng Gina | [gina\_ng\_hsaw\_teng@schools.gov.sg](mailto:gina_ng_hsaw_teng@schools.gov.sg) |
 | 4I | Mdm Su Xiaoling | [su\_xiaoling@schools.gov.sg](mailto:su_xiaoling@schools.gov.sg) |

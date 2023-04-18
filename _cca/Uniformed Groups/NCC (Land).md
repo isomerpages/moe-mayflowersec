@@ -4,7 +4,7 @@ permalink: /cca/Uniformed-Groups/ncc-land/permalink/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-> To Serve with Pride and Dedication
+&gt; To Serve with Pride and Dedication
 
 The NCC CCA aims to  
 
@@ -18,6 +18,7 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
+| 2022 | NCC Unit Recognition | Distinction |
 | 2021 | NCC Unit Recognition | Distinction |
 | 2019 | NCC Unit Recognition | Distinction |
 | 2019 | NCC Leadership Camps | Certificate of Participation |
@@ -54,4 +55,4 @@ Photos
 
 Video
 -----
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/W7IowZGW0DI" title="Mayflower Secondary School - NCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/W7IowZGW0DI" title="Mayflower Secondary School - NCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
