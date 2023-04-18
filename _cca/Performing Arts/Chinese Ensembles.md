@@ -4,7 +4,7 @@ permalink: /cca/Performing-Arts/chinese-ensembles/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-> To Nuture Students with a Love for Chinese Music
+&gt; To Nuture Students with a Love for Chinese Music
 
  
 
@@ -35,9 +35,8 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 |---	|---	|
 | Conductor 	| Mr Mike Chiang 	|
 | Instructors 	| Ms Jessica Lu<br>Mdm Helen Chen<br>Mr Wu Xiang Yang 	|
-| President 	| Lim Jing Yue 	|
-| Vice President 1 	| Denise Chua Wei Xin 	|
-| Vice President 2 	| Tey Shi Yun 	|
+| President 	| Tey Shi Yun 	|
+| Vice President 1 	| Huang Han 	|
 
 ### Training Schedule
 
@@ -49,4 +48,4 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 Photos
 ------
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIzJlll1fwp77WGLDpkEt_-f16SqR2a_82CEJUukQSQ9n5eo4GQxtyxEuOFbudxOSagAAcaRx39ubL/embed?start=true&loop=true&delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIzJlll1fwp77WGLDpkEt_-f16SqR2a_82CEJUukQSQ9n5eo4GQxtyxEuOFbudxOSagAAcaRx39ubL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
