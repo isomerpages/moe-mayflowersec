@@ -48,7 +48,7 @@ description: ""
 | 1D | Mdm Goh Kng Joo (Sharon) | [goh\_kng\_joo@schools.gov.sg](mailto:goh_kng_joo@schools.gov.sg) |
 | 1D | Mdm Lai Meei Ju | [lai\_meei\_ju@schools.gov.sg](mailto:lai_meei_ju@schools.gov.sg) |
 | 1E | Mdm Patricia Kwek Kim Tiah | [kwek\_kim\_tiah@schools.gov.sg](mailto:kwek_kim_tiah@schools.gov.sg) |
-| 1E |  |  |
+| 1E | Ms Shen Sirui | [shen\_sirui@schools.gov.sg](mailto:shen_sirui@schools.gov.sg) |
 | 1F | Mr Ho Kien Kok Marcus | [ho\_kien\_kok\_marcus@schools.gov.sg](mailto:ho_kien_kok_marcus@schools.gov.sg) |
 | 1F | Ms Stella Lim Soon Shien | [lim\_soon\_shien\_stella@schools.gov.sg](mailto:lim_soon_shien_stella@schools.gov.sg) |
 | 1I | Mr Yap Chien-Shen Alvin | [yap\_chien-shen\_alvin@schools.gov.sg](mailto:yap_chien-shen_alvin@schools.gov.sg) |
