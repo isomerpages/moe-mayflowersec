@@ -22,7 +22,7 @@ Following the layering of astroturf for the school field, Mayflower Secondary is
 | 2018 | Yio Chu Kang CSC Tournament | Runners - up and 2nd Runners - up in U-14 Category |
 | 2018 | Singapore Utd Football Fest U-14 | 2nd Runners - up  Fairplay Award |
 
-### CCA Teachers in Charge
+### CCA Teachers &amp; students in Charge
 
 |Coaches/Instructors| Teachers IC 	| CCA Leaders 	|
 |---	|---	|---|
