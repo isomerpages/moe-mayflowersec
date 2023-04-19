@@ -9,6 +9,12 @@ image: /images/tea time concert alumni 2023.png
 ---
 Hey Mayflowerians young and old! Hope to see you back on campus! 👋🏻
 
+Calling alumni to celebrate with us your 2013, 2003 & 1993 Batch Decade Anniversaries.
+
+### Date & Time
+11 May 2023, Thu, 4.00pm-5.00pm  (After Speech Day)
+
+
 Please register at:  
 [bit.ly/mfss-alumni-ttc2023](https://bit.ly/mfss-alumni-ttc2023)
 
