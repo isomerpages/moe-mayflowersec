@@ -4,7 +4,7 @@ permalink: /cca/Sports/football/permalink/
 description: ""
 third_nav_title: Sports
 ---
-> Hard Work Beats Talent
+&gt; Hard Work Beats Talent
 
 The Football CCA aims to
 
@@ -22,11 +22,11 @@ Following the layering of astroturf for the school field, Mayflower Secondary is
 | 2018 | Yio Chu Kang CSC Tournament | Runners - up and 2nd Runners - up in U-14 Category |
 | 2018 | Singapore Utd Football Fest U-14 | 2nd Runners - up  Fairplay Award |
 
-### CCA Teachers in Charge
+### CCA Teachers &amp; students in Charge
 
 |Coaches/Instructors| Teachers IC 	| CCA Leaders 	|
 |---	|---	|---|
-|Mr Emmeric Ong| Mr Tan Jian Xun<br>Ms Nurulhuda Binte Mustafa<br>Ms Charissa Qiu	| Ali Bin Noh Alkaff (3F)<br>Lennon Chua Ming Lun (4D) 	|
+|Mr Emmeric Ong| Mr Tan Jian Xun<br>Ms Nurulhuda Binte Mustafa<br>Ms Charissa Qiu	| Sean Luke Ong (3F)<br>Muhammad Helmi (3E) 	|
 
 ### Training Schedule
 
