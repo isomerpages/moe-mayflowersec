@@ -85,19 +85,17 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
 |---	|---	|
 | Ms Bridget Ooi (IC)<br>Mrs Frances Ess<br>Ms Shen Sirui	| Mr Toh Ban Sheng<br> Ms Ethel Poh 	|
 
-### Executive Committee 2022
+### Executive Committee 2023
 
 | Position |Name|
 | --- |---|
-| President | Wong Chin Yan, Joanne |
-| Vice-President | Muhammad Aqil Arfa Bin Mohd Yazid |
-| Head Secretary | Ng Li Wen Celene |
-| Head Publicity | Zhang Zixuan Rachel |
-| Student Conductor | Montanez Zofia Magen Diaz |
-| Soprano Section Leader | Heidi Lim Kai Xin <br> Ng Li Wen Celene
-| Alto Section Leader | Charlene Tan Sze Shuen  <br> Mikaela Abigail Chng|
-| Tenor Section Leader | Joshua Sotarduga Situmeang |
-| Bass Section Leader | Muhammad Aqil Arfa Bin Mohd Yazid |
+| President | Mikaela Abigail Chng |
+| Vice-President | Samuel Chua |
+| Student Conductor | Heidi Lim |
+| Soprano Section Leader | Arisa Wu<br>Liow Ler Enn |
+| Alto Section Leader | Charlene Tan<br>Tyvia Teo|
+| Bass Section Leader | Shen Hongyi |
+| Publicity/ Logistics - Hanif | Shi Yilai |
 
 ### Training Schedule
 
