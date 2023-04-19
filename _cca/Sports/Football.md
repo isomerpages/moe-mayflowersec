@@ -4,7 +4,7 @@ permalink: /cca/Sports/football/permalink/
 description: ""
 third_nav_title: Sports
 ---
-> Hard Work Beats Talent
+&gt; Hard Work Beats Talent
 
 The Football CCA aims to
 
@@ -26,7 +26,7 @@ Following the layering of astroturf for the school field, Mayflower Secondary is
 
 |Coaches/Instructors| Teachers IC 	| CCA Leaders 	|
 |---	|---	|---|
-|Mr Emmeric Ong| Mr Tan Jian Xun<br>Ms Nurulhuda Binte Mustafa<br>Ms Charissa Qiu	| Ali Bin Noh Alkaff (3F)<br>Lennon Chua Ming Lun (4D) 	|
+|Mr Emmeric Ong| Mr Tan Jian Xun<br>Ms Nurulhuda Binte Mustafa<br>Ms Charissa Qiu	| Sean Luke Ong (3F)<br>Muhammad Helmi (3E) 	|
 
 ### Training Schedule
 
