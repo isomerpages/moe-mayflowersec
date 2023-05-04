@@ -204,6 +204,17 @@ There will be a short interview after the trial. All trials and interviews will 
 				<li>Perform a full poomsae routine at your current belt level.</li>
 				</ul></td>
 		</tr>
+		<tr>
+			<td><i>Table Tennis</i></td>
+			<td>
+				Perform the following tasks on a table tennis table with a partner:
+				<ul>
+					<li>Stroke with a partner both forehand and backhand strokes for 1 minute, demonstrating correct forehand and backhand continuous hit stroking or looping.</li>
+					<li>Serve 10 balls using downspin. Serve another 10 balls using topspin.</li>
+					<li>Game performance in a table tennis game</li>
+				</ul>
+			</td>
+		</tr>
 	</tbody></table>
 
 
