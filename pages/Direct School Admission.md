@@ -118,7 +118,7 @@ For further clarifications, please contact Mr Wong Yih Chon Eric, HOD PE/CCA (DI
 
 -----
 ## Selection Process  
-### Performing Arts Talent Domain
+<h3 id="perf_art_requirement">Performing Arts Talent Domain</h3>
 There will be a short interview after the audition. All auditions and interviews will be carried out in-person at Mayflower Secondary school from 4th July to 31st August. The following are the audition requirements for the different areas:
 
 <table>
@@ -180,7 +180,7 @@ There will be a short interview after the audition. All auditions and interviews
 
 
 
-### Sports Talent Domain
+<h3 id="sports_requirement">Sports Talent Domain</h3>
 There will be a short interview after the trial. All trials and interviews will be carried out in-person at Mayflower Secondary school. The following are the audition requirements for the different areas:
 <table>
 	<tbody><tr>
@@ -231,7 +231,7 @@ There will be a short interview after the trial. All trials and interviews will 
 	</tbody></table>
 
 
-### Academic Talent Domain
+<h3 id="academic_requirement">Academic Talent Domain</h3>
 There will be a short interview after the trial. All trials and interviews will be carried out in-person at Mayflower Secondary school. The following are the audition requirements for the different areas:
 <table>
 	<tbody><tr>
