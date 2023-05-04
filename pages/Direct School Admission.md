@@ -232,3 +232,22 @@ There will be a short interview after the trial. All trials and interviews will 
 
 
 ### Academic Talent Domain
+There will be a short interview after the trial. All trials and interviews will be carried out in-person at Mayflower Secondary school. The following are the audition requirements for the different areas:
+<table>
+	<tbody><tr>
+		<th>Performing Arts  Talent Area</th>
+				<th>Performance Task Requirements </th>
+	</tr>
+		<tr>
+			<td><i>Debating</i></td>
+			<td>
+				<ul>
+					<li>Present a 5-minute argument on a given topic (Preparation time: 10 mins)</li>
+					<li>Be fluent in spoken English Language</li>
+<li>Answer fluently and confidently in the Q&amp;A segment based on the argument presented. 
+</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+	</table>
