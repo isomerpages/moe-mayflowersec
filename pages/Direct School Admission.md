@@ -7,7 +7,7 @@ description: ""
 
 Direct School Admission (DSA) is a MOE initiative designed to give selected schools greater flexibility in student admission so that a more diverse range of student achievements and talents can be recognised.
 
-Mayflower Secondary School is conducting the DSA exercise to admit Secondary One students for **Aesthetics**, **Effective Communication** and **Sports** for the academic year **2023**.
+Mayflower Secondary School is conducting the DSA exercise to admit Secondary One students for **Aesthetics**, **Effective Communication** and **Sports** for the academic year **2023**.
 
 We are looking for students of calibre who possess talent with outstanding achievements in one or more of the following areas.
 
@@ -28,11 +28,11 @@ We are looking for students of calibre who possess talent with outstanding achie
 
 Successful DSA applicants will have the opportunity to represent the school in the Singapore Youth Festival (Aesthetics), National School Games (Sports), Debating and Public Speaking competitions.
 
-The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 ### Centralised DSA-Sec Application Process
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free of charge and will be open from **5 May 2022, 11 am to 1 Jun 2022, 3 pm**. For more details, please refer to the MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free of charge and will be open from **11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023**. For more details, please refer to the MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements and the programmes available to develop the area of talent.
 
@@ -41,7 +41,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 ### Selection Criteria
 
 #### Performing Arts Domain
-> Chinese Ensembles (Bass/ Percussion/ Plucking), Concert band, Choir, Chinese Dance, Modern Dance, Drama (English)
+&gt; Chinese Ensembles (Bass/ Percussion/ Plucking), Concert band, Choir, Chinese Dance, Modern Dance, Drama (English)
 
 **Selection Criteria**:  Applicants should preferably
 
@@ -55,7 +55,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 * should arrange for a loan and/or bring their own instruments where possible.
 
 #### Academic Domain
-> Chinese Language, Malay Language, Debating, Public Speaking
+&gt; Chinese Language, Malay Language, Debating, Public Speaking
 
 **Selection Criteria**:  
 
@@ -71,12 +71,12 @@ For EL applicants, we are looking for:
 
 **Selection Process**: Shortlisted applicants 
 
-*   will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from 5th July to 31st August
+*   will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from 5th&nbsp;July to 31st&nbsp;August
 *   will be notified in advance of the date and time of their trial and interview
 *   should be suitably attired for physical activity and arrange for loan and/or bring their own equipment where possible.
 
 #### Sports Domain
-> Basketball (Boys), Taekwondo, Table Tennis, Football (Boys)
+&gt; Basketball (Boys), Taekwondo, Table Tennis, Football (Boys)
 
 **Selection Criteria**:  Applicants should preferably
 
@@ -85,17 +85,17 @@ For EL applicants, we are looking for:
 
 **Selection Process**: Shortlisted applicants 
 
-*   will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from 5th July to 31st August
+*   will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from 5th&nbsp;July to 31st&nbsp;August
 *   will be notified in advance of the date and time of the trial and interview.
 -----
-<p style="color:red; font-weight:1000">Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</p>
+<p style="color:red; font-weight:1000">Please note that meeting all the criteria&nbsp;does not&nbsp;guarantee the student will be shortlisted/given an offer.</p>
 
 ------
 
-General Academic Ability Tests such as the General Ability Test (GAT) and the Higher Ability Selection Test (HAST) are **not required** in the selection process.
+General Academic Ability Tests such as the General Ability Test (GAT) and the Higher Ability Selection Test (HAST) are&nbsp;**not required**&nbsp;in the selection process.
 
-Only shortlisted applicants that meet our selection criteria will be informed by **15th July 2022** of the exact date and time of the performance audition and an interview. The in-person performance audition and interview will be conducted at **Mayflower Secondary School** for all talent areas. 
+Only shortlisted applicants that meet our selection criteria will be informed by&nbsp;**15th&nbsp;July 2022**&nbsp;of the exact date and time of the performance audition and an interview. The in-person performance audition and interview will be conducted at&nbsp;**Mayflower Secondary School**&nbsp;for all talent areas.&nbsp;
 
-All applicants will be informed of the status of their application (Confirmed, Waiting List or Rejected) by **12th September 2022**.
+All applicants will be informed of the status of their application (Confirmed, Waiting List or Rejected) by&nbsp;**12th&nbsp;September 2022**.
 
-For further clarifications, please contact Mr Wong Yih Chon Eric, HOD PE/CCA (DID: [65940113](tel:+65-6594-0113), Email: [wong\_yih\_chon\_eric@moe.edu.sg](mailto:wong_yih_chon_eric@moe.edu.sg)) and Mrs Lucinda Leong, SH CCA (DID: [65940158](tel:+65-6594-0158), Email: [cheam\_phaik\_tin@moe.edu.sg](mailto:cheam_phaik_tin@moe.edu.sg)).
+For further clarifications, please contact Mr Wong Yih Chon Eric, HOD PE/CCA (DID: [65940113](tel:+65-6594-0113), Email:&nbsp;[wong\_yih\_chon\_eric@moe.edu.sg](mailto:wong_yih_chon_eric@moe.edu.sg)) and Mrs Lucinda Leong, SH CCA (DID: [65940158](tel:+65-6594-0158), Email:&nbsp;[cheam\_phaik\_tin@moe.edu.sg](mailto:cheam_phaik_tin@moe.edu.sg)).
