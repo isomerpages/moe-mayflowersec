@@ -215,6 +215,19 @@ There will be a short interview after the trial. All trials and interviews will 
 				</ul>
 			</td>
 		</tr>
+		<tr>
+			<td><i>Football (Boys)</i></td>
+			<td>
+			<ul>
+				<li>Perform a set of given football drills</li>
+				<ul>
+					<li>Footwork, Dribbling, juggling, shooting </li>
+					<li>For goalkeeper – additional ball handling drills will be given</li>
+				</ul>
+				<li>Game performance in a small-sided football game</li>
+				</ul>
+			</td>
+		</tr>
 	</tbody></table>
 
 
