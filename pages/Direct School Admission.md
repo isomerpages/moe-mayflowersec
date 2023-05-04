@@ -7,7 +7,7 @@ description: ""
 
 Direct School Admission (DSA) is a MOE initiative designed to give selected schools greater flexibility in student admission so that a more diverse range of student achievements and talents can be recognised.
 
-Mayflower Secondary School is conducting the DSA exercise to admit Secondary One students for **Aesthetics**, **Effective Communication** and **Sports** for the academic year **2023**.
+Mayflower Secondary School is conducting the DSA exercise to admit Secondary One students for **Aesthetics**, **Effective Communication** and **Sports** for the academic year **2024**.
 
 We are looking for students of calibre who possess talent with outstanding achievements in one or more of the following areas.
 
@@ -28,31 +28,38 @@ We are looking for students of calibre who possess talent with outstanding achie
 
 Successful DSA applicants will have the opportunity to represent the school in the Singapore Youth Festival (Aesthetics), National School Games (Sports), Debating and Public Speaking competitions.
 
-The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
-
 ### Centralised DSA-Sec Application Process
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free of charge and will be open from **11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023**. For more details, please refer to the MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements and the programmes available to develop the area of talent.
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the selected talent from year 1-4/5.
+**Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the selected talent from year 1-4/5.**
 
 ### Selection Criteria
 
 #### Performing Arts Domain
-&gt; Chinese Ensembles (Bass/ Percussion/ Plucking), Concert band, Choir, Chinese Dance, Modern Dance, Drama (English)
+**Talent Areas** <br>
+* Chinese Orchestra (Bass/ Percussion/ Plucking)
+* Concert Band
+* Choir
+* Chinese Dance
+* Modern Dance
+* Drama (English)
 
-**Selection Criteria**:  Applicants should preferably
+**Selection Criteria**:<br> 
+Applicants should preferably
 
 1.  have represented in SYF Arts Presentation.
 2.  have represented in local/overseas Arts Competition.
 
-**Selection Process**: Shortlisted applicants 
+**Selection Process**: <br>
+Shortlisted applicants 
 
-* will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from 5th July to 31st August
-* will be notified in advance of the date and time of their audition and interview
-* should arrange for a loan and/or bring their own instruments where possible.
+* Will be invited for a performance audition and interview carried out in-person at Mayflower Secondary School from **4th July to 31st August**.
+*	Will be notified in advance of the date and time of the audition and interview
+*	Should arrange for loan and/or bring their own instruments
+
 
 #### Academic Domain
 &gt; Chinese Language, Malay Language, Debating, Public Speaking
