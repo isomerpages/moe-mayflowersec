@@ -198,6 +198,12 @@ There will be a short interview after the trial. All trials and interviews will 
 			</ul>
 		</td>
 	</tr>
+		<tr>
+			<td><i>Taekwondo</i></td>
+			<td><ul>
+				<li>Perform a full poomsae routine at your current belt level.</li>
+				</ul></td>
+		</tr>
 	</tbody></table>
 
 
