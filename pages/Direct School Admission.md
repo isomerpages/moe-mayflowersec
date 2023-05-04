@@ -181,5 +181,24 @@ There will be a short interview after the audition. All auditions and interviews
 
 
 ### Sports Talent Domain
+There will be a short interview after the trial. All trials and interviews will be carried out in-person at Mayflower Secondary school. The following are the audition requirements for the different areas:
+<table>
+	<tbody><tr>
+		<th>Sports Talent Area </th>
+		<th>Performance Task Requirements </th>
+	</tr>
+	<tr>
+		<td><i>Basketball (Boys)</i></td>
+		<td>
+		<ul>
+			<li>Perform simple aerobics to show hands, legs and body coordination.</li>
+<li>Perform technical skills<br> 
+	o	Dribbling, passing, shooting</li>
+			<li>Play a 3v3 half-court game.</li>
+			</ul>
+		</td>
+	</tr>
+	</tbody></table>
+
 
 ### Academic Talent Domain
