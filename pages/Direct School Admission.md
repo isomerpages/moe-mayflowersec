@@ -104,14 +104,14 @@ Shortlisted applicants
 
 
 -----
-<p style="color:red; font-weight:1000">Please note that meeting all the criteria&nbsp;does not&nbsp;guarantee the student will be shortlisted/given an offer.</p>
+<p style="color:red; font-weight:1000">Please note that meeting all the criteria DOES NOT guarantee the student will be shortlisted/given an offer.</p>
 
 ------
 
-General Academic Ability Tests such as the General Ability Test (GAT) and the Higher Ability Selection Test (HAST) are&nbsp;**not required**&nbsp;in the selection process.
+General Academic Ability Tests such as the General Ability Test (GAT) and the Higher Ability Selection Test (HAST) are **not required** in the selection process.
 
-Only shortlisted applicants that meet our selection criteria will be informed by&nbsp;**15th&nbsp;July 2022**&nbsp;of the exact date and time of the performance audition and an interview. The in-person performance audition and interview will be conducted at&nbsp;**Mayflower Secondary School**&nbsp;for all talent areas.&nbsp;
+Only shortlisted applicants that meet our selection criteria will be informed by **14th July 2023** of the exact date and time of the performance audition and an interview. The **in- person** performance audition and interview will be conducted at **Mayflower Secondary School** for all talent areas. Applicants who are not shortlisted will not be informed that they are unsuccessful in their application.
 
-All applicants will be informed of the status of their application (Confirmed, Waiting List or Rejected) by&nbsp;**12th&nbsp;September 2022**.
+All shortlisted applicants will be informed of the status of their application (Confirmed, Waiting List or Rejected) by **14th September 2023**.
 
 For further clarifications, please contact Mr Wong Yih Chon Eric, HOD PE/CCA (DID: [65940113](tel:+65-6594-0113), Email:&nbsp;[wong\_yih\_chon\_eric@moe.edu.sg](mailto:wong_yih_chon_eric@moe.edu.sg)) and Mrs Lucinda Leong, SH CCA (DID: [65940158](tel:+65-6594-0158), Email:&nbsp;[cheam\_phaik\_tin@moe.edu.sg](mailto:cheam_phaik_tin@moe.edu.sg)).
