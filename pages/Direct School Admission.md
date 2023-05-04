@@ -91,19 +91,16 @@ Shortlisted applicants
 **Selection Criteria**:  
 Applicants should preferably
 
-1.  have participated in Oratorical/Public Speaking/Debating competitions at the Zonal or National level.
+1.	have participated in English/Chinese/Malay Language Oratorical/Public Speaking/Debating competitions at the Zonal or National level.
+2.	be a member of the English/Chinese/Malay Language Oratorical/Debate/Speech and Drama/Cultural society within or outside school.
 
-For EL applicants, we are looking for:
 
-1.  avid readers who are passionate about exploring the English Language
-2.  confident communicators of the English language
-3.  students who display a strong interest in interacting with people
+**Selection Process** <br>
+Shortlisted applicants 
 
-**Selection Process**: Shortlisted applicants 
+*	will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from **4th July to 31st August**.
+*	will be notified in advance of the date and time of their trial and interview
 
-*   will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from 5th&nbsp;July to 31st&nbsp;August
-*   will be notified in advance of the date and time of their trial and interview
-*   should be suitably attired for physical activity and arrange for loan and/or bring their own equipment where possible.
 
 
 -----
