@@ -39,7 +39,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 ### Selection Criteria
 
 #### Performing Arts Domain
-**Talent Areas** <br>
+**Talent Areas**
 * Chinese Orchestra (Bass/ Percussion/ Plucking)
 * Concert Band
 * Choir
@@ -60,12 +60,35 @@ Shortlisted applicants
 *	Will be notified in advance of the date and time of the audition and interview
 *	Should arrange for loan and/or bring their own instruments
 
+#### Sports Domain
+**CCA**
+* Basketball (Boys)
+* Taekwondo
+* Table Tennis
+* Football (Boys)
+
+**Selection Criteria** <br>
+Applicants should preferably
+
+1.  have represented in Singapore Primary School Sports Council National School games, Zonal or National competitions.
+2.  be a member of the Junior Sports Academy (JSA) or school team.
+
+**Selection Process** <br>
+Shortlisted applicants 
+
+* Will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from **4th July to 31st August**.
+*	Will be notified in advance of the date and time of the trial and interview
+*	Should be suitably attired for physical activity and arrange for loan and or bring their own equipment where possible. 
+
 
 #### Academic Domain
-&gt; Chinese Language, Malay Language, Debating, Public Speaking
+**CCA**
+* Chinese Language
+* Malay Language
+*  Debating
+*  Public Speaking
 
 **Selection Criteria**:  
-
 Applicants should preferably
 
 1.  have participated in Oratorical/Public Speaking/Debating competitions at the Zonal or National level.
@@ -82,18 +105,7 @@ For EL applicants, we are looking for:
 *   will be notified in advance of the date and time of their trial and interview
 *   should be suitably attired for physical activity and arrange for loan and/or bring their own equipment where possible.
 
-#### Sports Domain
-&gt; Basketball (Boys), Taekwondo, Table Tennis, Football (Boys)
 
-**Selection Criteria**:  Applicants should preferably
-
-1.  have represented in Singapore Primary School Sports Council National School games, Zonal or National competitions.
-2.  be a member of the Junior Sports Academy (JSA) or school team.
-
-**Selection Process**: Shortlisted applicants 
-
-*   will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from 5th&nbsp;July to 31st&nbsp;August
-*   will be notified in advance of the date and time of the trial and interview.
 -----
 <p style="color:red; font-weight:1000">Please note that meeting all the criteria&nbsp;does not&nbsp;guarantee the student will be shortlisted/given an offer.</p>
 
