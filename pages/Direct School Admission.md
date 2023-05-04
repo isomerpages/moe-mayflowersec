@@ -195,9 +195,11 @@ There will be a short interview after the trial. All trials and interviews will 
 		<td>
 		<ul>
 			<li>Perform simple aerobics to show hands, legs and body coordination.</li>
-<li>Perform technical skills<br> 
-	o	Dribbling, passing, shooting</li>
-			<li>Play a 3v3 half-court game.</li>
+<li>Perform technical skills
+	<ul>
+	<li>Dribbling, passing, shooting</li>
+			</ul>
+			</li><li>Play a 3v3 half-court game.</li>
 			</ul>
 		</td>
 	</tr>
