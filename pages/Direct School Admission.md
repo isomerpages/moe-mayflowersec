@@ -137,9 +137,24 @@ There will be a short interview after the audition. All auditions and interviews
 </td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
+		<td><i>Concert Band</i></td>
+		<td>
+			<ul>
+				<li>Perform a musical piece of their choice on their main music instrument.</li>
+<li>Applicant will also be tested on their embouchure, pitching and rhythm during the audition.</li>
+			</ul>
+			NB: Applicant should arrange with their primary school for the use of any required instruments for the audition.  Only the use of Mayflower Secondary School’s  percussion instruments may be arranged.
+		</td>
 	</tr>
+		<tr>
+			<td><i>Choir</i></td>
+			<td>
+			<ul>
+				<li>Sing a 1-2 minute song of their choice.</li>
+				<li>Student will undergo an aural test during the audition.</li>
+				</ul>
+			</td>
+		</tr>
 	</tbody></table>
 
 
