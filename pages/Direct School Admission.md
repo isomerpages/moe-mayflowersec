@@ -155,6 +155,27 @@ There will be a short interview after the audition. All auditions and interviews
 				</ul>
 			</td>
 		</tr>
+		<tr>
+			<td><i>Chinese Dance</i></td>
+			<td><ul>
+				<li>Perform a chosen dance segment lasting at least 1 minute with accompanying music. Applicant should bring along the accompanying music in MP3 format for his/her audition.</li>
+<li>Applicant may be asked to perform a demonstrated brief dance sequence.  Applicant may also be asked to demonstrate his/her technical capacity.</li>
+				</ul></td>
+		</tr>
+		<tr>
+			<td><i>Modern Dance</i></td>
+			<td><ul>
+				<li>Perform a chosen dance segment lasting at least 1 minute with accompanying music. Applicant should bring along the accompanying music in MP3 format for his/her audition.</li> 
+<li>Applicant may be asked to perform a demonstrated brief dance sequence.  Applicant may also be asked to demonstrate his/her technical capacity.</li>
+				</ul></td>
+		</tr>
+		<tr>
+			<td><i>Drama (English)</i></td>
+			<td><ul>
+				<li>Perform a memorized 1.5 minute long monologue of their choice</li>
+					<li>Be fluent in spoken English language.</li>
+				</ul></td>
+		</tr>
 	</tbody></table>
 
 
