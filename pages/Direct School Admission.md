@@ -60,6 +60,8 @@ Shortlisted applicants
 *	Will be notified in advance of the date and time of the audition and interview
 *	Should arrange for loan and/or bring their own instruments
 
+View the Performing Arts Domain Performance Task and Requirements <a href="#perf_art_requirement">below</a>.
+
 #### Sports Domain
 **CCA**
 * Basketball (Boys)
@@ -80,6 +82,7 @@ Shortlisted applicants
 *	Will be notified in advance of the date and time of the trial and interview
 *	Should be suitably attired for physical activity and arrange for loan and or bring their own equipment where possible. 
 
+View the Sports Domain Performance Task and Requirements <a href="#sports_requirement">below</a>.
 
 #### Academic Domain
 **CCA**
@@ -101,7 +104,7 @@ Shortlisted applicants
 *	will be invited for a performance trial and interview carried out in-person at Mayflower Secondary School from **4th July to 31st August**.
 *	will be notified in advance of the date and time of their trial and interview
 
-
+View the Academic Domain Performance Task and Requirements <a href="#academic_requirement">below</a>.
 
 -----
 <p style="color:red; font-weight:1000">Please note that meeting all the criteria DOES NOT guarantee the student will be shortlisted/given an offer.</p>
