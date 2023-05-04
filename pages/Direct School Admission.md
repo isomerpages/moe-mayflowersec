@@ -115,3 +115,35 @@ Only shortlisted applicants that meet our selection criteria will be informed by
 All shortlisted applicants will be informed of the status of their application (Confirmed, Waiting List or Rejected) by **14th September 2023**.
 
 For further clarifications, please contact Mr Wong Yih Chon Eric, HOD PE/CCA (DID: [65940113](tel:+65-6594-0113), Email:&nbsp;[wong\_yih\_chon\_eric@moe.edu.sg](mailto:wong_yih_chon_eric@moe.edu.sg)) and Mrs Lucinda Leong, SH CCA (DID: [65940158](tel:+65-6594-0158), Email:&nbsp;[cheam\_phaik\_tin@moe.edu.sg](mailto:cheam_phaik_tin@moe.edu.sg)).
+
+-----
+## Selection Process  
+### Performing Arts Talent Domain
+There will be a short interview after the audition. All auditions and interviews will be carried out in-person at Mayflower Secondary school from 4th July to 31st August. The following are the audition requirements for the different areas:
+
+<table>
+	<tbody><tr>
+		<th>Performing Arts  Talent Area</th>
+				<th>Performance Task Requirements </th>
+	</tr>
+	<tr>
+		<td><i>Chinese Ensembles (Bass/ Percussion/ Plucking)</i></td>
+		<td>
+			<ul>
+			<li>Perform two contrasting pieces of music on their main instrument.  Each piece of music should be with a minimum 1 minute duration.  Memorization is required for the two music pieces presented at the audition. </li>
+				<li>Aural testing will also be conducted.</li>
+			</ul>
+			NB: Applicant should arrange with their primary school for the use of any required instruments for the audition.  Only the use of Mayflower Secondary School’s  percussion instruments may be arranged.
+</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+	</tbody></table>
+
+
+
+### Sports Talent Domain
+
+### Academic Talent Domain
