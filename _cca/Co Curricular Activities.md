@@ -22,15 +22,15 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Concert Band**<img src="/images/CCA%20thumbnails/thumbnail_band.jpg" style="width:350px;">](/cca/Performing-Arts/concert-band/permalink/) | [**Chinese Dance**<img src="/images/CCA%20thumbnails/thumbnail_ChineseDance.jpg" style="width:350px;">](/cca/Performing-Arts/chinese-dance/permalink/) |
+| [**Concert Band**<img src="/images/CCA%20thumbnails/performing%20art%20page%20-%20concert%20band.jpeg" style="width:350px;">](/cca/Performing-Arts/concert-band/permalink/) | [**Chinese Dance**<img src="/images/CCA%20thumbnails/performing%20art%20page%20-%20chinese%20dance.jpeg" style="width:350px;">](/cca/Performing-Arts/chinese-dance/permalink/) |
 
 |  |  |
 | :---: | :---: |
-| [**Chinese Ensembles**<img src="/images/CCA%20thumbnails/thumbnail_ChineseOrchestra2018.jpg" style="width:350px;">](/cca/Performing-Arts/chinese-ensembles/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/thumbnail_choir_2019-syf.jpg" style="width:350px;">](/cca/Performing-Arts/choir/permalink/) |
+| [**Chinese Ensembles**<img src="/images/CCA%20thumbnails/performing%20art%20page%20-%20chinese%20emsembles.jpeg" style="width:350px;">](/cca/Performing-Arts/chinese-ensembles/permalink/) | [**Choir**<img src="/images/CCA%20thumbnails/performing%20art%20page%20-%20choir.jpeg" style="width:350px;">](/cca/Performing-Arts/choir/permalink/) |
 
 |  |  |
 | :---: | :---: |
-| [**Drama**<img src="/images/CCA%20thumbnails/thumbnail_drama.jpg" style="width:350px;">](/cca/Performing-Arts/drama/permalink/) | [**Modern Dance**<img src="/images/CCA%20thumbnails/thumbnail_moderndance.jpg" style="width:350px;">](/cca/Performing-Arts/modern-dance/permalink/) |
+| [**Drama**<img src="/images/CCA%20thumbnails/performing%20art%20page%20-%20drama.jpeg" style="width:350px;">](/cca/Performing-Arts/drama/permalink/) | [**Modern Dance**<img src="/images/CCA%20thumbnails/performing%20art%20page%20-%20modern%20dance.jpeg" style="width:350px;">](/cca/Performing-Arts/modern-dance/permalink/) |
 
 
 

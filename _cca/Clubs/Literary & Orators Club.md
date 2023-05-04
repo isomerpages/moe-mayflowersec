@@ -4,7 +4,7 @@ permalink: /cca/Clubs/literary-and-orators-club/permalink/
 description: ""
 third_nav_title: Clubs
 ---
-> To be inspired by, and to inspire with...WORDS
+&gt; To be inspired by, and to inspire with...WORDS
 
 The LnO CCA aims to
 
@@ -49,4 +49,10 @@ Video
 
 <div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="LNO - CCA Promotional Video 2023" src="https://www.youtube.com/embed/AHBwHhcckDc"></iframe></div>
 
+<br>
+
 <div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="LNO Open House Video 2023" src="https://www.youtube.com/embed/3vf_1M0FM3s"></iframe></div>
+
+<br>
+
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Literary &amp; Orators Club 2023" src="https://www.youtube.com/embed/qy1w6NWcc88"></iframe></div>
