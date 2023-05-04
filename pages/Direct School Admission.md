@@ -249,5 +249,48 @@ There will be a short interview after the trial. All trials and interviews will 
 				</ul>
 			</td>
 		</tr>
+		<tr>
+			<td><i>Public Speaking</i></td>
+			<td>
+			<ul>
+				<li>Present a 3-minute speech on a given topic (Preparation time: 10 mins)</li>
+				<li>Be fluent in spoken English Language</li>
+				<li>Answer fluently and confidently in the Q&amp;A segment based on the speech.</li>				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><i>Chinese Language</i></td>
+			<td><b>Debating</b> <br>
+				<ul>
+					<li>Present a 5-minute argument on a given topic (Preparation time: 10 mins)</li>
+					<li>Be fluent in spoken Chinese Language</li>
+					<li>Answer fluently and confidently in the Q&amp;A segment based on the argument presented.</li>
+
+				</ul>
+		<b>Public Speaking</b>
+		<ul>
+			<li>Present a 3-minute speech on a given topic (Preparation time: 10 mins)</li>
+			<li>Be fluent in spoken Chinese Language</li>
+			<li>Answer fluently and confidently in the Q&amp;A segment based on the speech.</li>
+		</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><i>Malay Language</i></td>
+			<td><b>Debating</b> <br>
+				<ul>
+					<li>Present a 5-minute argument on a given topic (Preparation time: 10 mins)</li>
+					<li>Be fluent in spoken Malay Language</li>
+					<li>Answer fluently and confidently in the Q&amp;A segment based on the argument presented.</li>
+
+				</ul>
+		<b>Public Speaking</b>
+		<ul>
+			<li>Present a 3-minute speech on a given topic (Preparation time: 10 mins)</li>
+			<li>Be fluent in spoken Malay Language</li>
+			<li>Answer fluently and confidently in the Q&amp;A segment based on the speech.</li>
+		</ul>
+			</td>
+		</tr>
 	</tbody>
 	</table>
