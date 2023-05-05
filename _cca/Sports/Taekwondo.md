@@ -4,7 +4,7 @@ permalink: /cca/Sports/taekwondo/permalink/
 description: ""
 third_nav_title: Sports
 ---
-> Aim High, Kick High
+&gt; Aim High, Kick High
 
 
 Taekwondo is a martial art where the focus is on the execution of kicks. Students learn various techniques in kicking and take grading tests to move up the belt levels. By the time the students reach Secondary 4, they would have achieved a black belt. They also have the chance to take part in annual Inter-school Competition as well as perform Taekwondo Demonstration and aerobics during school events.
@@ -13,6 +13,11 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
+|2023 |National Inter-school Taekwondo Championships - C Division Girls Poomsae| 3rd Overall Placing|
+|2023| National Inter-school Taekwondo Championships - B Division Girls Poomsae |4th Overall Placing|
+|2023| National Inter-school Taekwondo Championships - C Division Boys Kyorugi |3rd Overall Placing|
+|2023 |National Inter-school Taekwondo Championships - B Division Girls Kyorugi |2nd Overall Placing|
+|2023| National Inter-school Taekwondo Championships - B Division Boys Kyorugi |3rd Overall Placing|
 | 2021 | National School Games National B Girls Poomsae | 4th Overall Placing |
 | 2019 | National Inter-school Taekwondo Championships - C Division Girls Kyorugi | 2nd Overall Placing |
 | 2019 | National Inter-school Taekwondo Championships - B Division Girls Kyorugi | 4th Overall Placing |
