@@ -55,6 +55,14 @@ The Choir is under the choral leadership of Conductor Mr. Toh Ban Sheng and Assi
   </tr>
 </thead>
 <tbody>
+	<tr>
+		<td>2023</td>
+		<td>SYF Arts Presentation for Choir, April (Certificate of Distinction)</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>Inaugural Concert 2022: Song of Joy Song of Hope</td>
+	</tr>
   <tr>
     <td>2021</td>
     <td>Virtual Inauguration Concert, April<br>SYF Arts Presentation for Choir, June<br>Musical Cover Competition (Intra-CCA Competition), June<br><a href="https://www.youtube.com/watch?v=mZ45Bt2ACs0" target="_blank" rel="noopener noreferrer">NDP 2021 Theme Song Cover: The Road Ahead</a></td>
