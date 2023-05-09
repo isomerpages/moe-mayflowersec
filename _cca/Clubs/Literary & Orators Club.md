@@ -23,12 +23,12 @@ Words are powerful--they influence thoughts, feelings, and action. By reading an
 | 2023 | Live on festival-Essay competition | Pending result| 
 | 2023 | Resilience workshop by Kevin | |
 | 2023 | Leadership workshop by IMDA | Participation at National Level |
-| 2022 | Folding stars of love for organ donor family | Whole school involvement |
+| 2022 | VIA - Folding stars of love for organ donor family | Whole school involvement |
 | 2022 | Learning journey to META office &amp;   Grandfather’s Story |
 | 2022 | Live on festival-Essay competition | Neo Jia Yu (Sec 4 winner)| 
 | 2021 | National Online Scrabble Competition | Participation |
 | 2021 | NLB "Read for books" programme | Donate books to less privileged |
-|2021 | VIA-GIFs on Social Issues | Shared with all students |
+|2021 | VIA - GIFs on Social Issues | Shared with all students |
 | 2021 | Cyber Safety workshop (IMDA) | Participation |
 | 2020 | Teachers Day Card | Collaboration with Student Leaders |
 | 2020 | "5 or 6 word stories" Competition | | 
