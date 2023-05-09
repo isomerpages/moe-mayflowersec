@@ -19,6 +19,12 @@ Words are powerful--they influence thoughts, feelings, and action. By reading an
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
+| 2023 | HeadRock VR Learning Journey | |
+| 2023 | Live on festival-Essay competition | | 
+| 2023 | Resilience workshop by Kevin | |
+| 2023 | Leadership workshop by IMDA | |
+| 2021 | National Online Scrabble Competition | |
+| 2021 | NLB "Read for books" programme | Donate books to less privileged |
 | 2018 |  Singapore Secondary Schools Debate Championships    | Won 2 out of 3 rounds <br>Round 1 Best Speaker - Le Er  <br>Round 2 Best Speaker - Koushika| 
 |2018|  Scrabble Competition (Jurong Green Community Centre)   | Certification of Participation |
 | 2018|  ACJC Orator’s Trophy| Lim Le Er Annabel (Reached the Quarter final) |
