@@ -6,8 +6,6 @@ third_nav_title: Performing Arts
 ---
 <img src="/images/Choir logo.png" style="width:30%">
 
-![](/images/CCA%20thumbnails/performing%20art%20page%20-%20choir.jpeg)
-
 &gt; A Family That Sings Together, Firm yet Fun.
 
 The MFSS Choir aims to
@@ -161,8 +159,8 @@ Want to hear more about our Choir? Check out this playlist and hear it straight 
 
 ### Photo Gallery
 
-![](/images/sota.jpg)
-**SYF Arts Presentation 2019**&nbsp;where our Choir was awarded Certificate of Distinction for the 3rd consecutive year.
+![](/images/CCA%20thumbnails/performing%20art%20page%20-%20choir.jpeg)
+**SYF Arts Presentation 2023** where our Choir was awarded Certificate of Distinction for the 4th year.
 
 ![](/images/choir1.jpg)
 **Limelight 2019:**&nbsp;The Choir's mandatory photoshoot before the concert begins.
