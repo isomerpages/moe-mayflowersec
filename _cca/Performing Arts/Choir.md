@@ -17,13 +17,22 @@ The MFSS Choir aims to
 
 ### About the Choir
 
-The Mayflower Secondary School Choir is a group of vibrant, young people who share a common love in singing, living by the vision of a family that sings together, firm yet fun. The Choir was awarded Certificates of Distinction in the 2015, 2017 and 2019 SYF Arts Presentation. In 2014 and 2017, the Choir also received Distinctions in the Associated Board of the Royal Schools of Music (ABRSM) Choral Singing (intermediate) examinations.
+The Mayflower Secondary School Choir is a group of vibrant, young people who share a common love in singing, living by the vision of a family that sings together, firm yet fun. 
 
-The Choir performed at the Esplanade Concert Hall in the Limelight Series at the invitation of Esplanade in 2016 and in 2019. The Choir took the opportunity to collaborate with other art forms such as dance and visual art, premiering its first commissioned choral work composed by Professor Bernard Tan. In further collaboration, the choir was invited by Odyssey Dance Theatre in 2017 to be the chorus for their Dance Fiesta opening production, involving many international artists and multi-disciplinary artistry.
+In 2022, after the Covid-19 Pandemic, the choir held it is first public concert entitled Song of Joy Song of Hope.
 
-Beyond Singapore, the Choir embarked on an overseas choral trip to Hong Kong in 2016, having a public performance at Tai Po Civic Centre and school choral exchanges with reputable school choirs of the region. More than just receiving performance opportunities, the choir also believes in giving back to society. In 2019, the choir performed in “Bloom”, a concert by Singapore Chinese Girl’s School, in aid of VIVA Foundation for Children with Cancer. The choir has also volunteered their time in Willing Hearts to prepare meals for the charity’s beneficiaries.
+The Choir was awarded Certificates of Distinction in the 2015, 2017,2019 and 2023 SYF Arts Presentation. 
 
-Singing a wide variety of choral music, the MFSS Choir aspires to have more opportunities to engage the community through singing, to grow in the pursuit of choral excellence, and to deepen the bonds shared through music-making. The Choir is under the choral leadership of Conductor Advisor Mr Toh Ban Sheng and Conductor Mr Xie Zhizhong.
+In 2014 and 2017, the Choir also received Distinctions in the Associated Board of the Royal Schools of Music (ABRSM) Choral Singing (intermediate) examinations.
+
+The Choir performed at the Esplanade Concert Hall in the Limelight Series at the invitation of Esplanade in 2016 and in 2019. The choir was invited by Odyssey Dance Theatre in 2017 to be the chorus for their Dance Fiesta opening production, involving many international artists and multi-disciplinary artistry. 
+
+The choir believes in giving back to society. In 2019, the choir performed in “Bloom”, a concert by Singapore Chinese Girl’s School, in aid of VIVA Foundation for Children with Cancer. The choir has also volunteered their time in Willing Hearts to prepare meals for the charity’s beneficiaries.
+
+Singing a wide variety of choral music, the MFSS Choir aspires to engage the community through singing, to grow in the pursuit of choral excellence, and to deepen the bonds shared through music-making. 
+
+The Choir is under the choral leadership of Conductor Mr. Toh Ban Sheng and Assistant Conductor Ethel Poh.
+
 
 * <a href="https://mfsschoir.wordpress.com/" target="\_blank">**Access our WordPress site for more information**</a> 
 
@@ -44,6 +53,14 @@ Singing a wide variety of choral music, the MFSS Choir aspires to have more oppo
   </tr>
 </thead>
 <tbody>
+	<tr>
+		<td>2023</td>
+		<td>SYF Arts Presentation for Choir, April (Certificate of Distinction)</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>Inaugural Concert 2022: Song of Joy Song of Hope</td>
+	</tr>
   <tr>
     <td>2021</td>
     <td>Virtual Inauguration Concert, April<br>SYF Arts Presentation for Choir, June<br>Musical Cover Competition (Intra-CCA Competition), June<br><a href="https://www.youtube.com/watch?v=mZ45Bt2ACs0" target="_blank" rel="noopener noreferrer">NDP 2021 Theme Song Cover: The Road Ahead</a></td>
@@ -142,17 +159,11 @@ Want to hear more about our Choir? Check out this playlist and hear it straight 
 
 ### Photo Gallery
 
-![](/images/sota.jpg)
-**SYF Arts Presentation 2019**&nbsp;where our Choir was awarded Certificate of Distinction for the 3rd consecutive year.
+![](/images/CCA%20thumbnails/performing%20art%20page%20-%20choir.jpeg)
+**SYF Arts Presentation 2023** where our Choir was awarded Certificate of Distinction for the 4th year.
 
-![](/images/choir1.jpg)
-**Limelight 2019:**&nbsp;The Choir's mandatory photoshoot before the concert begins.
+![](/images/choir%20-%20speech%20day%20aesthetic%20production%202022.png)
+**Speech Day/Aesthetic Production 2022**
 
-![](/images/choir2.jpg)
-**Limelight 2019**&nbsp;where the Choir not only fills the hall with music, but also transforms the stage visually with cellophane lanterns to suit the theme of the music.
-
-![](/images/choir3.jpg)
-**Lion Mums: Crash Landing on Schools – Episode 7.**&nbsp;COVID-19 has not been friendly to anyone, forcing most activities into Home-Based Learning and eCCAs, but that did not waver the Choir's spirits!
-
-![](/images/choir4.jpg)
-**Farewell Seniors 2020.**&nbsp;Despite saying farewell to our seniors, the Choir is always a family that sings together, firm yet fun.
+![](/images/choir%20-%20inaugural%20concert%202022.png)
+**Inaugural Concert 2022: Song of Joy Song of Hope**

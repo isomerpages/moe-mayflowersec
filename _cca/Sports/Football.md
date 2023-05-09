@@ -17,7 +17,8 @@ Following the layering of astroturf for the school field, Mayflower Secondary is
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
-| 2019 | South Zone Inter-School Football Championship | B Division - 1st&nbsp;Runner Up    C Division - Finish 3rd&nbsp;in League 3 Group |
+|2023 | National School Games | B Division - League 3 Quarter Finalist |
+| 2019 | South Zone Inter-School Football Championship | B Division - 1st Runner Up C Division - Finish 3rd&nbsp;in League 3 Group |
 | 2018 | South Zone Inter-School Football Championship | 'B' Div qualified for School Zonal League and finished 3rd in Group |
 | 2018 | Yio Chu Kang CSC Tournament | Runners - up and 2nd Runners - up in U-14 Category |
 | 2018 | Singapore Utd Football Fest U-14 | 2nd Runners - up  Fairplay Award |

@@ -4,7 +4,7 @@ permalink: /cca/Sports/basketball/permalink/
 description: ""
 third_nav_title: Sports
 ---
-> Heart and Sweat Wins Championships
+&gt; Heart and Sweat Wins Championships
 
   
 
@@ -27,6 +27,7 @@ At Mayflower Basketball, our primary objective is to inculcate values to develop
 
 | Year | Event | Award/Position |
 | --- | --- | --- |
+| 2022 | National School Games South Zone B Division| Top 8|
 | 2019 | South Zone Inter-school Basketball Championships (B Division) | 3rd Place |
 | 2019 | South Zone Inter-school Basketball Championships (C Division) | 2nd Place |
 | 2019 | National Round Inter-school Basketball Championships (C Division) | 4th Place |
@@ -36,7 +37,7 @@ At Mayflower Basketball, our primary objective is to inculcate values to develop
 
 | Teachers-in-charge 	| CCA Leaders 	|
 |---	|---	|
-| Mr Tan Boon Yong<br>Mr Alvin Yap<br>Mr Ku Seow Wee 	| Goh Zhi Yi (4J) - Boys' Captain <br>Low Yit Hean (4I) - Boys' Vice-Captain 	|
+| Mr Tan Boon Yong<br>Mr Alvin Yap<br>Mr Ku Seow Wee 	| Goh Zhi Yi&nbsp;(4J) - Boys' Captain <br>Low Yit Hean (4I) - Boys' Vice-Captain 	|
 
 ### Training Schedule
 **Boys**

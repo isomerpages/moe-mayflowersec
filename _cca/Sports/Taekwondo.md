@@ -4,7 +4,7 @@ permalink: /cca/Sports/taekwondo/permalink/
 description: ""
 third_nav_title: Sports
 ---
-> Aim High, Kick High
+&gt; Aim High, Kick High
 
 
 Taekwondo is a martial art where the focus is on the execution of kicks. Students learn various techniques in kicking and take grading tests to move up the belt levels. By the time the students reach Secondary 4, they would have achieved a black belt. They also have the chance to take part in annual Inter-school Competition as well as perform Taekwondo Demonstration and aerobics during school events.
@@ -13,6 +13,11 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
+|2023 |National Inter-school Taekwondo Championships - C Division Girls Poomsae| 3rd Overall Placing|
+|2023| National Inter-school Taekwondo Championships - B Division Girls Poomsae |4th Overall Placing|
+|2023| National Inter-school Taekwondo Championships - C Division Boys Kyorugi |3rd Overall Placing|
+|2023 |National Inter-school Taekwondo Championships - B Division Girls Kyorugi |2nd Overall Placing|
+|2023| National Inter-school Taekwondo Championships - B Division Boys Kyorugi |3rd Overall Placing|
 | 2021 | National School Games National B Girls Poomsae | 4th Overall Placing |
 | 2019 | National Inter-school Taekwondo Championships - C Division Girls Kyorugi | 2nd Overall Placing |
 | 2019 | National Inter-school Taekwondo Championships - B Division Girls Kyorugi | 4th Overall Placing |
@@ -20,9 +25,44 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 | 2019 | National Inter-school Taekwondo Championships - B Division Girls Poomsae | 4th Overall Placing |
 | 2018 | National Inter-school Taekwondo Championships - B Division Girls Kyorugi | 4th Overall Placing |
 | 2018 | National Inter-school Taekwondo Championships - B Division Boys Kyorugi | 3rd Overall Placing |
-| 2017 | National Inter-school Taekwondo Championships - C Division Girls Poomsae | 4th Overall Placing |
-| 2017 | National Inter-school Taekwondo Championships - B Division Girls Kyorugi | 4th Overall Placing |
-| 2017 | National Inter-school Taekwondo Championships - B Division Boys Kyorugi | 3rd Overall Placing |
+
+### National School Games Results 2023
+|Event |Class | Name |Award / Position |
+| --- | ---| ---| ---|
+| C Division Girls Individual Poomsae | 1D | GABRIELLE CHENG JIAQI | 4th |
+| C Division Girls Individual Poomsae | 2B | ONG SHI QI CLARIS | 1st |
+| C Division Girls Individual Poomsae | 1A | RENEE CHANG YUI HEEN | 4th |
+| C Division Girls Individual Poomsae | 2I | MAYA DELILAH WAWNG CHUN YUN | 4th |
+| C Division Girls Team Poomsae | 1D  | GABRIELLE CHENG JIAQI | 2nd |
+| C Division Girls Team Poomsae | 1E | AMANDA ADELIA BINTE YANG RASHIDI | 2nd |
+| C Division Girls Team Poomsae | 1F | JANELLE LEONG ZI YI | 2nd |
+| C Division Girls Team Poomsae | 2B | ONG SHI QI CLARIS  | 1st |
+| C Division Girls Team Poomsae | 2D | TAN YU TONG CAITHLYNN | 1st |
+| C Division Girls Team Poomsae | 1A | RENEE CHANG YUI HEEN | 1st |
+| C Division Girls Team Poomsae | 2I | AMBERINA QURESHI | 1st |
+| C Division Girls Team Poomsae | 1B | ANGELICA LIM EN XIN | 1st |
+| C Division Girls Team Poomsae | 2I | MAYA DELILAH WAWNG CHUN YUN | 1st | 
+| B Division Girls Individual Poomsae | 2D | HUANG YI-QIAO | 2nd |
+| B Division Girls Individual Poomsae | 3J | KOH KAI EN | 1st |
+| B Division Girls Team Poomsae | 3F | JOVIN HO WEEN NEE | 4th |
+| B Division Girls Team Poomsae | 3J | KOH KAI EN | 4th | 
+| B Division Girls Team Poomsae | 3A | LEOW WEN XI | 4th |
+| B Division Girls Team Poomsae | 4I | ANG XI ER JONIE | 1st |
+| B Division Girls Team Poomsae | 4D | CHEN ANG  | 1st |
+| B Division Girls Team Poomsae | 4I | KIMI YEO ZHI QI | 1st |
+| C Division Girls Kyorugi | 2I | AMBERINA QURESHI | 2nd |
+| C Division Boys Kyorugi | 1E | CAPUYAN JUAN TEODORICO BAUTISTA | 2nd |
+| C Division Boys Kyorugi | 2A | ZAC ASHTON TAN YUN JIE | 1st |
+| B Division Girls Kyorugi | 3E | CHUA TING YI, ERIN | 3rd |
+| B Division Girls Kyorugi | 4D | CHEN ANG | 2nd |
+| B Division Girls Kyorugi | 3J | KOH KAI EN | 1st |
+| B Division Girls Kyorugi | 4D | ANG YI XIN, SHERMAINE | 2nd |
+| B Division Girls Kyorugi | 4E | LEVON TAN LE EN | 3rd |
+| B Division Boys Kyorugi | 3F | LEE RUI HENG NATHAN | 2nd |
+| B Division Boys Kyorugi | 4E | DAMIR LEE WEN TAO | 2nd |
+| B Division Boys Kyorugi | 4A | AGUSTIN JACOB ALBERT CACAO | 3rd |
+| B Division Boys Kyorugi | 3I | ZAYNE LEE | 3rd |
+
 
 ### CCA Teachers in Charge
 

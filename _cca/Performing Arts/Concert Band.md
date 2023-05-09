@@ -32,6 +32,7 @@ We take pride in developing potential young musicians. Many of our members have 
 
 | Year 	| Event 	|
 |---	|---	|
+| 2022 | MF Aesthetics Production (AM Show + PM Show)
 | 2019 	| Combined Public Concert with NIEWinds and Huayi Secondary School Band 	|
 | 2018 	| Combined Public Concert with Hua Yi Secondary School Band and Hua Yi Alumni Band 	|
 | 2017 	| Chingay 2017 - Soundwaves 	|
@@ -53,7 +54,7 @@ We take pride in developing potential young musicians. Many of our members have 
 
 | Year 	| Event Name 	| Award/Position 	|
 |---	|---	|---	|
-| 2011-2021 	| Singapore Youth Festival Arts Presentation (Band) 	| Certificate of Accomplishment 	|
+| 2011-2023 	| Singapore Youth Festival Arts Presentation (Band) 	| Certificate of Accomplishment 	|
 | 1981-2011 	| Singapore Youth Festival Central Judging (Band) 	| Silver Award 	|
 
 ### Teachers in Charge
