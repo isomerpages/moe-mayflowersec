@@ -11,8 +11,8 @@ third_nav_title: Performing Arts
 | Performing Arts Groups | Achievements |
 | --- | --- |
 | [Chinese Dance](/cca/Performing-Arts/chinese-dance/permalink/) | Certificate of Distinction |
-| [Chinese Ensemble (Percussion)](/cca/Performing-Arts/chinese-ensemble/permalink/) | Certificate of Distinction |
-| [Chinese Ensemble (Plucking)](/cca/Performing-Arts/chinese-ensemble/permalink/) | Certificate of Distinction |
+| [Chinese Ensemble (Percussion)](/cca/Performing-Arts/chinese-ensembles/permalink/) | Certificate of Distinction |
+| [Chinese Ensemble (Plucking)](/cca/Performing-Arts/chinese-ensembles/permalink/) | Certificate of Distinction |
 | [Choir](/cca/Performing-Arts/choir/permalink/) | Certificate of Distinction |
 | [Concert Band](/cca/Performing-Arts/concert-band/permalink/) | Certificate of Accomplishment |
 | [Drama](/cca/Performing-Arts/drama/permalink/) | Certificate of Distinction |
@@ -25,7 +25,7 @@ third_nav_title: Performing Arts
 [![Chinese Dance](/images/CCA%20thumbnails/performing%20art%20page%20-%20chinese%20dance.jpeg)](/cca/Performing-Arts/chinese-dance/permalink/)
 
 #### Chinese Ensemble
-[![Chinese Ensemble](/images/CCA%20thumbnails/performing%20art%20page%20-%20chinese%20emsembles.jpeg)](/cca/Performing-Arts/chinese-ensemble/permalink/)
+[![Chinese Ensemble](/images/CCA%20thumbnails/performing%20art%20page%20-%20chinese%20emsembles.jpeg)](/cca/Performing-Arts/chinese-ensembles/permalink/)
 
 #### Choir
 [![Choir](/images/CCA%20thumbnails/performing%20art%20page%20-%20choir.jpeg)](/cca/Performing-Arts/choir/permalink/)
