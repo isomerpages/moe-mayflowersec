@@ -20,15 +20,18 @@ Words are powerful--they influence thoughts, feelings, and action. By reading an
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
 | 2023 | HeadRock VR Learning Journey | |
-| 2023 | Live on festival-Essay competition | | 
+| 2023 | Live on festival-Essay competition | Pending result| 
 | 2023 | Resilience workshop by Kevin | |
-| 2023 | Leadership workshop by IMDA | |
-| 2021 | National Online Scrabble Competition | |
+| 2023 | Leadership workshop by IMDA | Participation at National Level |
+| 2022 | Folding stars of love for organ donor family | Whole school involvement |
+| 2022 | Learning journey to META office &amp;   Grandfather’s Story |
+| 2022 | Live on festival-Essay competition | Neo Jia Yu (Sec 4 winner)| 
+| 2021 | National Online Scrabble Competition | Participation |
 | 2021 | NLB "Read for books" programme | Donate books to less privileged |
-| 2018 |  Singapore Secondary Schools Debate Championships    | Won 2 out of 3 rounds <br>Round 1 Best Speaker - Le Er  <br>Round 2 Best Speaker - Koushika| 
-|2018|  Scrabble Competition (Jurong Green Community Centre)   | Certification of Participation |
-| 2018|  ACJC Orator’s Trophy| Lim Le Er Annabel (Reached the Quarter final) |
-| 2018|  Emcee Audition for SYF  | Certification of Participation |
+|2021 | VIA-GIFs on Social Issues | Shared with all students |
+| 2021 | Cyber Safety workshop (IMDA) | Participation |
+| 2020 | Teachers Day Card | Collaboration with Student Leaders |
+| 2020 | "5 or 6 word stories" Competition | | 
 
 
 #### Staff and Committee Members
@@ -36,15 +39,15 @@ Words are powerful--they influence thoughts, feelings, and action. By reading an
 |Designation|Name|
 |---	|---	|
 | Teachers-in-Charge 	|Mdm Shagun (i/c)<br>Mdm Siti Fatimah Bte Muhammad 	|
-| Chairperson 	| Lee Yue Ying 	|
-| Vice Chairperson 	| Chester Choo Kae Jye 	|
+| Chairperson 	| Yusra Ahmad 	|
+| Vice Chairperson 	| Poh Li Lin 	|
 
 #### Training Schedule
 
 | Day | Time | Venue | Teacher I/C |
 | --- | --- | --- | --- |
-| Tuesdays | 3 pm - 6 pm | Library | Mdm Shagun |
-| Thursdays | 3 pm - 6 pm | Library | Mdm Siti Fatimah |
+| Tuesdays | 3 pm - 5.30 pm | Library | Mdm Shagun |
+| Thursdays | 3 pm - 5.30 pm | Library | Mdm Siti Fatimah |
 
 Photos
 ------
