@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: /images/sssdc2023 - mfss debate.jpg
 ---
+MFSS Debate Team was declared Runner's Up for Silver Plate under Division III.
+
+Yusra Ahmed bagged the 5th place in the TOP 20 Speakers for Division III.
+
+![](/images/sssdc2023%20-%20mfss%20debate.jpg)
