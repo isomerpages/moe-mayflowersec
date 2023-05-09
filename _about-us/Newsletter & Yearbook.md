@@ -3,6 +3,14 @@ title: Newsletter & Yearbook
 permalink: /about-us/newsletter-yearbook/permalink/
 description: ""
 ---
+Newsletter
+========
+
+2023, Issue 1
+----
+[![2023 issue 1](/images/the%20mayflower%20promise%20(issue%201,%202023)%20cover.png)](https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2023_?fr=sOGQyZjU4NTAzNjI)
+
+
 Yearbook
 ========
 
