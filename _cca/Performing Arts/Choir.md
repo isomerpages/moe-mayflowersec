@@ -162,14 +162,8 @@ Want to hear more about our Choir? Check out this playlist and hear it straight 
 ![](/images/CCA%20thumbnails/performing%20art%20page%20-%20choir.jpeg)
 **SYF Arts Presentation 2023** where our Choir was awarded Certificate of Distinction for the 4th year.
 
-![](/images/choir1.jpg)
-**Limelight 2019:**&nbsp;The Choir's mandatory photoshoot before the concert begins.
+![](/images/choir%20-%20speech%20day%20aesthetic%20production%202022.png)
+**Speech Day/Aesthetic Production 2022**
 
-![](/images/choir2.jpg)
-**Limelight 2019**&nbsp;where the Choir not only fills the hall with music, but also transforms the stage visually with cellophane lanterns to suit the theme of the music.
-
-![](/images/choir3.jpg)
-**Lion Mums: Crash Landing on Schools – Episode 7.**&nbsp;COVID-19 has not been friendly to anyone, forcing most activities into Home-Based Learning and eCCAs, but that did not waver the Choir's spirits!
-
-![](/images/choir4.jpg)
-**Farewell Seniors 2020.**&nbsp;Despite saying farewell to our seniors, the Choir is always a family that sings together, firm yet fun.
+![](/images/choir%20-%20inaugural%20concert%202022.png)
+**Inaugural Concert 2022: Song of Joy Song of Hope**
