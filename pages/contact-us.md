@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 0730 - 1700
         description: ""
-    maps_link: https://goo.gl/maps/ouuCEPiME9XVFVVJ6
+    maps_link: ""
     title: School Address
 contacts:
   - content:
