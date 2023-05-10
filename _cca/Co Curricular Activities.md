@@ -66,8 +66,8 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Enterprise Club**<img src="/images/CCA%20thumbnails/thumbnail_enterprise.jpg" style="width:350px;">](/cca/Clubs/enterprise-club/permalink/) | [**InfoComm Club**<img src="/images/CCA%20thumbnails/thumbnail_info_comm.jpg" style="width:350px;">](/cca/Clubs/infocomm-club/permalink/)|
+| [**Enterprise Club**<img src="/images/CCA%20thumbnails/thumbnail_enterprise.jpg" style="width:350px;">](/cca/clubs/enterprise-club/permalink/) | [**InfoComm Club**<img src="/images/CCA%20thumbnails/thumbnail_info_comm.jpg" style="width:350px;">](/cca/clubs/infocomm-club/permalink/)|
 
 |  |
 | :---: |
-|[**Literary &amp; Orators Club**<img src="/images/CCA%20thumbnails/thumbnail_lno.jpg" style="width:350px;">](/cca/Clubs/literary-and-orators-club/permalink/) |
+|[**Literary &amp; Oratorical Club**<img src="/images/CCA%20thumbnails/thumbnail_lno.jpg" style="width:350px;">](/cca/clubs/literary-and-oratorical-club/permalink/) |
