@@ -11,7 +11,7 @@ These Terms of Use may be changed from time to time. Changes will be posted on t
 
 **PROPRIETARY RIGHTS**
 
-This Web Site is maintained by Mayflower Secondary School.
+This website is maintained by Mayflower Secondary School.
 
 The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Mayflower Secondary School.
 
@@ -38,13 +38,13 @@ The Contents of this website are provided on an “as is” basis without warran
 
 Mayflower Secondary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
-**LINKS FROM THIS WEB SITE TO OTHER WEB SITES**
+**LINKS FROM THIS WEBSITE TO OTHER WEBSITES**
 
 This website contains hyperlinks to websites which are not maintained by Mayflower Secondary School. Mayflower Secondary School is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
-Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Mayflower Secondary Schoolbe considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
+Hyperlinks to other websites are provided as a convenience. In no circumstances shall Mayflower Secondary Schoolbe considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
-**LINKS TO THIS WEB SITE FROM OTHER WEB SITES**
+**LINKS TO THIS WEBSITE FROM OTHER WEBSITES**
 
 Except as set forth below, caching and links to, and the framing of this website or any of the Contents are prohibited.
 
