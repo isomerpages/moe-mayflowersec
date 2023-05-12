@@ -1,10 +1,10 @@
 ---
 title: Infocomm Club
-permalink: /cca/Clubs/infocomm-club/permalink/
+permalink: /cca/clubs/infocomm-club/permalink/
 description: ""
 third_nav_title: Clubs
 ---
-> Empowering Youth in Technology
+&gt; Empowering Youth in Technology
 
 The Infocomm Club aims to
 
@@ -57,4 +57,4 @@ In Infocomm Club, we equip students with IT skills and knowledge and broaden the
 Photos
 ------
 
-<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTE6yNuBkyfhN-XHh9uOo9tKYlgBLNz3MrInr9j3a4h-SA2J4yQNSHH2bqefLdimxxQ045IdCips7iK/embed?start=false&loop=false&delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTE6yNuBkyfhN-XHh9uOo9tKYlgBLNz3MrInr9j3a4h-SA2J4yQNSHH2bqefLdimxxQ045IdCips7iK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>

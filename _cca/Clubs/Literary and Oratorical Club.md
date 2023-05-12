@@ -1,6 +1,6 @@
 ---
-title: Literary & Orators Club
-permalink: /cca/Clubs/literary-and-orators-club/permalink/
+title: Literary and Oratorical Club
+permalink: /cca/clubs/literary-and-oratorical-club/permalink/
 description: ""
 third_nav_title: Clubs
 ---

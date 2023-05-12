@@ -1,10 +1,10 @@
 ---
 title: Enterprise Club
-permalink: /cca/Clubs/enterprise-club/permalink/
+permalink: /cca/clubs/enterprise-club/permalink/
 description: ""
 third_nav_title: Clubs
 ---
-> To think and act like entrepreneurs
+&gt; To think and act like entrepreneurs
 
 **The Enterprise Club CCA aims to**
 
@@ -21,15 +21,15 @@ Students learn to manage funds wisely through events or selling of their own pro
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
-| 2022 | Young Trail Blazer Competition by Prudential | Finalist  |
+| 2022 | Young Trail Blazer&nbsp;Competition by Prudential | Finalist&nbsp; |
 | 2020/2021 | Young Trail Blazer Competition by Prudential | Competed in eCompetition |
-|  2019 | Young Trail Blazer Competition by Prudential  | Best Storyboard Award  |
+| &nbsp;2019 | Young Trail Blazer Competition by Prudential&nbsp; | Best Storyboard Award&nbsp; |
 | 2018 | Watercolour competition | Ong Yu Han of 4J achieved Certificate of Achievement |
 | 2017 | National Youth Business Challenge | Silver award  |
 |2017|Social media darling award | |
-|2017| Spirit of Enterprise |   |
-| 2017| Global game jam |   |
-| 2016 | Ice cream competition | 3rd position |
+|2017| Spirit of Enterprise | &nbsp; |
+| 2017| Global game jam | &nbsp; |
+| 2016 | Ice cream competition | 3rd&nbsp;position |
 
 
 ### CCA Teachers in Charge
