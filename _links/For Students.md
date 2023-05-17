@@ -22,6 +22,7 @@ Student Development
 
 *   [LEAPS 2.0](https://www.moe.gov.sg/-/media/files/programmes/leaps-2.pdf)
 *   [School Fault Reporting System](http://bit.ly/mfss-fault)
+*   [MySkillsFuture Portal for Secondary School Students](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
   
 
