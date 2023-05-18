@@ -271,7 +271,6 @@ There will be a short interview after the trial. All trials and interviews will 
 					<li>Be fluent in spoken Chinese Language</li>
 					<li>Answer fluently and confidently in the Q&amp;A segment based on the argument presented.</li>
 				</ul>
-				
 		<b>Public Speaking</b>
 		<ul>
 			<li>Present a 3-minute speech on a given topic (Preparation time: 10 mins)</li>
@@ -287,7 +286,6 @@ There will be a short interview after the trial. All trials and interviews will 
 					<li>Present a 5-minute argument on a given topic (Preparation time: 10 mins)</li>
 					<li>Be fluent in spoken Malay Language</li>
 					<li>Answer fluently and confidently in the Q&amp;A segment based on the argument presented.</li>
-
 				</ul>
 		<b>Public Speaking</b>
 		<ul>

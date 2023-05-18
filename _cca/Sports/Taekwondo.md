@@ -27,6 +27,7 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 | 2018 | National Inter-school Taekwondo Championships - B Division Boys Kyorugi | 3rd Overall Placing |
 
 ### National School Games Results 2023
+
 |Event |Class | Name |Award / Position |
 | --- | ---| ---| ---|
 | C Division Girls Individual Poomsae | 1D | GABRIELLE CHENG JIAQI | 4th |
