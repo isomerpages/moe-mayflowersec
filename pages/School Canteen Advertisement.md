@@ -21,7 +21,7 @@ description: ""
 
 * Address: 2 Ang Mo Kio St 21 Singapore 569384
 * Contact No: [6457 7783](tel:+65-6457-7783)
-* Email: mayflower_ss@moe.edu.sg
+* Email: [mayflower_ss@moe.edu.sg](mailto:mayflower_ss@moe.edu.sg)
 
 **How to get there?**
 * Nearest MRT: 
