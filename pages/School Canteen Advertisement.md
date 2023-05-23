@@ -19,14 +19,15 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: xxxx S737777
-* Contact No: 6666 4444
-* Email: abc_ps@moe.edu.sg
-* Contact Person: Mdm Sally Tan  
+* Address: 2 Ang Mo Kio St 21 Singapore 569384
+* Contact No: [6457 7783](tel:+65-6457-7783)
+* Email: mayflower_ss@moe.edu.sg
 
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+* Nearest MRT: 
+  * Mayflower MRT (TE6 line) – 7 minutes walking distance
+* Bus Services Available
+  * 71, 76, 132, 165, 166, 169, 262, 265, 268, 269
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
