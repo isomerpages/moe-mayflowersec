@@ -28,6 +28,8 @@ sections:
       url: https://www.youtube.com/watch?v=sfOjhtIcCmU
       alt: Enchanted-Evening-Production
       image: /images/Enchanted Evening_group photo.jpg
+      description: Our horror-comedy shows that goes back in time when magic goes
+        wrong causing eventful twists and turns for the characters.
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
