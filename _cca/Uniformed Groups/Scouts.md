@@ -4,7 +4,7 @@ permalink: /cca/Uniformed-Groups/scouts/permalink/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-> Be Prepared
+&gt; Be Prepared
 
 
 Scouts aims to develop the full physical, intellectual, emotional, social and spiritual capacities of our scouts so as to allow them to contribute to the development of a better world. We continuously challenge our scouts to attain the various proficiency badges so as to have the capability to ‘Be Prepared’ in all situations.
@@ -25,28 +25,29 @@ Better Scouting for more young People
 
 | Year | Event Name | Award / Position |
 | --- | --- | --- |
+| 2023 | Frank Cooper Sands | Gold Award (With Pennant) |
 | 2022 | South Area Orienteering Competition | 1st Place |
 | 2022 | Chief Commissioner's Award | Awarded to Avis Chan Siew Ying, Koh Jing-Wei, Nabil Latifah Sumamar, Finn Tan, Nancy Liau and Foo Kok Yeow |
 | 2021 | National Mind Quiz 2021 | National 2nd Place |
 | 2021 | Chief Commissioner's Award | Awarded to Avis Chan Siew Ying, Koh Jing-Wei, Nabil Latifah Sumamar, Finn Tan, Nancy Liau and Foo Kok Yeow |
 | 2020 | Chief Commissioner's Award | Awarded to Ng Kian Yan, Harold Hong Jiankai, Gan Jing Jie, Pang Min Tze Benedict and Soon Ee Hern, Ethan |
 | 2020 | President Scout Award | Awarded to Chia Kang Xu |
-| 2019 | Frank Cooper Sands | Gold |
+| 2019 | Frank Cooper Sands | Gold Award |
 | 2019 | Chief Commissioner's Award | Awarded to Joshua Lee |
-| 2018 | National Patrol Camp | Silver |
-| 2018 | Frank Cooper Sands | Gold |
-| 2017 | Frank Cooper Sands | Gold Award (With Pennant) |
+| 2018 | National Patrol Camp | Silver Award |
+| 2018 | Frank Cooper Sands | Gold Award |
+| 2017 | Frank Cooper Sands | Gold Award |
 | 2017 | Istana Hospitality Award | Awarded to Foo Yang De and Chia Kang Xu for their services |
 | 2017 | Chief Commissioner’s Award | Awarded to Chia Kang Xu, Foo Yang De, Si Thu Soe, Tan Hang Sheng and Yee Jun Hyeok Brian |
 
-### Staff and Committee Members 2022
+### Staff and Committee Members 2023
 
 |Designation | Name |
 |---|---|
 | Teachers-in-Charge 	| Mr Timothy Ng<br>Ms Su Haiyin<br>Mr Chen Zhen 	|
-| Scout Leaders 	| Ng Ying Jie<br>Jabez Wong<br>Hazel Cai<br>Bernard Sng<br>Adam Tong 	|
-| Assistant Senior Patrol Leader 	| Chan Xin Ying<br>Dylan Lai Shing Chun 	|
-| Patrol Leaders 	| Lee Xin Yu  <br>Ong Chong Seng Gino  <br>Wong Hao Yin  <br>Zekiel Elijah Rey Biona|
+| Scout Leaders 	| Gananedran S Eagamparam <br>Jabez Wong<br>Ng Ying Jie <br> Chia Kang Xu <br>Bernard Sng<br>Adam Tong	|
+| Patrol Leaders 	| Alanza Mary Siby<br>Fiona Lee Wen Hui	|
+| Assistant Patrol Leaders 	| Stewart Neo Hui Wen<br>Lian Hong Kai, Keith<br>Maria Hasleen D/O Shanmugam|
 
 ### Training Schedule
 
