@@ -114,7 +114,7 @@ description: ""
 | Senior AED (Learning & Behavioural Support) | Mr Gan Kai Loon | [gan\_kai\_loon@schools.gov.sg](mailto:gan_kai_loon@schools.gov.sg) |
 | AED (Learning & Behavioural Support) | Mdm Wee Geok Lian (Linda) | [wee\_geok\_lian@schools.gov.sg](mailto:wee_geok_lian@schools.gov.sg) |
 | Student Welfare Officer | Ms Amirah Binte Ariffin | [amirah\_ariffin@schools.gov.sg](mailto:amirah_ariffin@schools.gov.sg) |
-| Edu. & Career Guidance Counsellor (ECG) | Ms Camilla Teo | [teo\_hsia\_poh@schools.gov.sg](mailto:teo_hsia_poh@schools.gov.sg) |
+| Edu. & Career Guidance Counsellor (ECG) | Mr Eugene Loh Jun Lai | [loh\_jun\_lai\_eugene@schools.gov.sg](mailto:loh_jun_lai_eugene@schools.gov.sg) |
 
 ### Executive and Administration Staff
 
