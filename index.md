@@ -23,11 +23,13 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
-      title: '"An Enchanted Evening"'
-      button: Watch our very own production
-      url: https://www.youtube.com/watch?v=sfOjhtIcCmU
-      alt: Enchanted-Evening-Production
-      image: /images/Enchanted Evening_group photo.jpg
+      title: The Mayflower Promise Newsletter
+      subtitle: 2023 Issue 1
+      description: Our newsletter is out!
+      button: Read More
+      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2023_?fr=sOGQyZjU4NTAzNjI
+      image: /images/the mayflower promise (issue 1, 2023) thumbnail.png
+      alt: Image alt text
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
