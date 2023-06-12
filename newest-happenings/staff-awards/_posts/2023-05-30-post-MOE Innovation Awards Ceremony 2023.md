@@ -15,6 +15,9 @@ On 30 May 2023, two of our teachers were recognised for receiving the [Outstandi
 
 ![](/images/Staff%20Awards/tcef2023_oia_2.jpg)
 
+As a person who believes in maximising Teaching and Learning time (or contact time with students) and minimising menial administrative tasks via automated means, Mr Gabriel Cheow is always on the lookout to improve work processes in the workplace over the years, be it in the committee (Exams, SDT or ICT / Knowledge Management) or in the department (Mathematics). It was over many key contributions he has made in these aspects that has inspired colleagues around him in the committees and department to venture into said innovative thoughts. 
+
+One key characteristic that makes Mr Cheow an Outstanding Innovator is the scalability of his innovations that can be scaled up to serve the whole school and beyond. A quintessential scale-up innovation would be the [ICT Teaching Tools Guide Google Site](https://sites.google.com/moe.edu.sg/ictguide/home) for all MOE Teachers during [the first full HBL in 2020](https://www.straitstimes.com/singapore/education/schools-to-shift-to-full-home-based-learning-from-april-8), where Mr Cheow initiated and collaborated with teachers islandwide to curate and organise ICT and EdTech tips for their colleagues in their schools. This is a scale-up from an earlier Google Site he created for the Math Department – MFSS Math Portal.
 
 <a name="Innergy-Gold-2022"></a>
 ## Innergy Gold Award 2022
