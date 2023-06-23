@@ -52,10 +52,10 @@ description: ""
 | 1F | Mr Ho Kien Kok Marcus | [ho\_kien\_kok\_marcus@schools.gov.sg](mailto:ho_kien_kok_marcus@schools.gov.sg) |
 | 1F | Ms Stella Lim Soon Shien | [lim\_soon\_shien\_stella@schools.gov.sg](mailto:lim_soon_shien_stella@schools.gov.sg) |
 | 1I | Mr Yap Chien-Shen Alvin | [yap\_chien-shen\_alvin@schools.gov.sg](mailto:yap_chien-shen_alvin@schools.gov.sg) |
-| 1I | Ms Azmira Binte Zailan | [azmira\_binte\_zailan@schools.gov.sg](mailto:azmira_binte_zailan@schools.gov.sg) |
+| 1I | Mr Ng Boon Yong | [ng\_boon\_yong@schools.gov.sg](mailto:ng_boon_yong@schools.gov.sg) |
 | 2A | Ms Jaime Ch'ng Mei Xin | [jaime\_chng\_mei\_xin@schools.gov.sg](mailto:jaime_chng_mei_xin@schools.gov.sg) |
 | 2A | Ms Wong Yin Sung | [wong\_yin\_sung@schools.gov.sg](mailto:wong_yin_sung@schools.gov.sg) |
-| 2B | Ms Charissa Qiu Hui Qi | [qiu\_huiqi\_charissa@schools.gov.sg](mailto:qiu_huiqi_charissa@schools.gov.sg) |
+| 2B | Mdm Liu Xuefang | [liu\_xuefang@schools.gov.sg](mailto:liu_xuefang@schools.gov.sg) |
 | 2B | Mr Mohamed Naguib Bin Ngadnan | [mohamed\_naguib\_ngadnan@schools.gov.sg](mailto:mohamed_naguib_ngadnan@schools.gov.sg) |
 | 2D | Mdm Chelsea Yam Chaur Shin | [yam\_chaur\_shin@schools.gov.sg](mailto:yam_chaur_shin@schools.gov.sg) |
 | 2D | Ms Teo Wan Ngee Allycia | [teo\_wan\_ngee\_allycia@schools.gov.sg](mailto:teo_wan_ngee_allycia@schools.gov.sg) |
@@ -114,7 +114,7 @@ description: ""
 | Senior AED (Learning & Behavioural Support) | Mr Gan Kai Loon | [gan\_kai\_loon@schools.gov.sg](mailto:gan_kai_loon@schools.gov.sg) |
 | AED (Learning & Behavioural Support) | Mdm Wee Geok Lian (Linda) | [wee\_geok\_lian@schools.gov.sg](mailto:wee_geok_lian@schools.gov.sg) |
 | Student Welfare Officer | Ms Amirah Binte Ariffin | [amirah\_ariffin@schools.gov.sg](mailto:amirah_ariffin@schools.gov.sg) |
-| Edu. & Career Guidance Counsellor (ECG) | Ms Camilla Teo | [teo\_hsia\_poh@schools.gov.sg](mailto:teo_hsia_poh@schools.gov.sg) |
+| Edu. & Career Guidance Counsellor (ECG) | Mr Eugene Loh Jun Lai | [loh\_jun\_lai\_eugene@schools.gov.sg](mailto:loh_jun_lai_eugene@schools.gov.sg) |
 
 ### Executive and Administration Staff
 
