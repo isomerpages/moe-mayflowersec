@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Achievements
           description: ""
-          url: /about-us/Our-Achievements/student-awards/permalink/
+          url: newest-happenings/student-awards/
         - title: Latest Happenings
           description: ""
           url: /newest-happenings/
