@@ -28,6 +28,19 @@ Please note that the 4 HBL weeks for 2023 Semester 2 are as follows:
 
 <hr style="height:3px; background-color: #000000">
 
+#### Term 3 Remedial / Supplementary Schedule
+Note:
+- Remedial will commence in Week 2 (6 July 2023)
+
+
+| Remedial / Supplementary |
+|---|
+| [2023 Term 3 Remedial / Supplementary Schedule for Sec 1](https://file.for.edu.sg/mfss-2023-t3-remedial-schedule-sec-1.pdf) |
+| [2023 Term 3 Remedial / Supplementary Schedule for Sec 2](https://file.for.edu.sg/mfss-2023-t3-remedial-schedule-sec-2.pdf) |
+| [2023 Term 3 Remedial / Supplementary Schedule for Sec 3](https://file.for.edu.sg/mfss-2023-t3-remedial-schedule-sec-3.pdf) |
+|[2023 Term 3 Remedial / Supplementary Schedule for Sec 4/5](https://file.for.edu.sg/mfss-2023-t3-remedial-schedule-sec-45.pdf)|
+
+
 #### Term 2 Remedial / Supplementary Schedule
 Note:
 - CCA has stand down for Sec 4s &amp; 5s, except for Performing Arts and National School Games students.
