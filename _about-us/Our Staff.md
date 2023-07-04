@@ -83,10 +83,8 @@ description: ""
 | 4A | Mdm Shagun | [shagun\_a@schools.gov.sg](mailto:shagun_a@schools.gov.sg) |
 | 4B | Mr Tan Jian Xun | [tan\_jian\_xun@schools.gov.sg](mailto:tan_jian_xun@schools.gov.sg) |
 | 4B | Dr Tang Suyun | [tang\_suyun@schools.gov.sg](mailto:tang_suyun@schools.gov.sg) |
-| 4D | Mr Fam Tong Siang | [fam\_tong\_siang@schools.gov.sg](mailto:fam_tong_siang@schools.gov.sg) |
 | 4D | Mr Ku Seow Wee | [ku\_seow\_wee@schools.gov.sg](mailto:ku_seow_wee@schools.gov.sg) |
 | 4D | Mrs Frances Ess | [frances\_ess@schools.gov.sg](mailto:frances_ess@schools.gov.sg) |
-| 4E | Ms Nurulhuda Binte Mustafa | [nurulhuda\_mustafa@schools.gov.sg](mailto:nurulhuda_mustafa@schools.gov.sg) |
 | 4E | Ms Alethea Goei Min Yi | [alethea\_goei\_min\_yi@schools.gov.sg](mailto:alethea_goei_min_yi@schools.gov.sg) |
 | 4E | Mr Tan Boon Yong | [tan\_boon\_yong@schools.gov.sg](mailto:tan_boon_yong@schools.gov.sg) |
 | 4F | Mr Goh Keng Lim Edwin | [goh\_keng\_lim\_edwin@schools.gov.sg](mailto:goh_keng_lim_edwin@schools.gov.sg) |
@@ -158,5 +156,6 @@ description: ""
 |Flexi Adj (Math)|Ms Wong Chun Lai (Joy)|[wong\_chun\_lai@schools.gov.sg](mailto:wong_chun_lai@schools.gov.sg)|
 |Flexi Adj (Math)|Ms Goh Yan Qin Katharine|[goh\_yan\_qin\_katharine@schools.gov.sg](mailto:goh_yan_qin_katharine@schools.gov.sg) |
 |Flexi Adj (Physical Education)|Mr Lee Joen Yen|[lee\_joen\_yen@schools.gov.sg](mailto:lee_joen_yen@schools.gov.sg)|
+|Flexi Adj (Science)|Ms Pan Shiyun |[pan\_shiyun@schools.gov.sg](mailto:pan_shiyun@schools.gov.sg)|
 |Flexi Adj|Mr Pillai Vidhu | [pillai\_vidhu\_a@schools.gov.sg](mailto:pillai_vidhu_a@schools.gov.sg)|
 |Flexi Adj|Mr Gananedran S Eagamparam|[gananedran\_s\_eagamparam@moe.edu.sg](mailto:gananedran_s_eagamparam@moe.edu.sg)|

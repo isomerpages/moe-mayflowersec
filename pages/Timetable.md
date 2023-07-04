@@ -13,10 +13,10 @@ Timetable for 2023 Semester 2
 
 | Normal Week Timetable | HBL Week Timetable |
 |---|---|
-| [2023 Sem 2 Timetable Sec 1 Main](/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%201%20main.pdf) |  |
-|[2023 Sem 2 Timetable Sec 2 Main](/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%202%20main.pdf) |  |
-| [2023 Sem 2 Timetable Sec 3 Main](/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%203%20main.pdf)|  |
-| [2023 Sem 2 Timetable Sec 4/5 Main](/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%2045%20main.pdf) |  |
+| [2023 Sem 2 Timetable Sec 1 Main](/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%201%20main.pdf) | [2023 Sem 2 Timetable Sec 1 (HBL Week)](/files/2023%20Sem%202%20Timetables/2023timetable%20sem2%20(sec1s)%20wef%2010july%20(hbl%20week).pdf) |
+|[2023 Sem 2 Timetable Sec 2 Main](/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%202%20main.pdf) | [2023 Sem 2 Timetable Sec 2 (HBL Week)](/files/2023%20Sem%202%20Timetables/2023timetable%20sem2%20(sec2s)%20wef%2010july%20(hbl%20week).pdf) |
+| [2023 Sem 2 Timetable Sec 3 Main](/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%203%20main.pdf)| [2023 Sem 2 Timetable Sec 3 (HBL Week)](/files/2023%20Sem%202%20Timetables/2023timetable%20sem2%20(sec3s)%20wef%2010july%20(hbl%20week).pdf) |
+| [2023 Sem 2 Timetable Sec 4/5 Main](/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%2045%20main.pdf) | [2023 Sem 2 Timetable Sec 4/5 (HBL Week)](/files/2023%20Sem%202%20Timetables/2023timetable%20sem2%20(sec4_5s)%20wef%2010july%20(hbl%20week).pdf) |
 
 
 #### HBL Weeks
