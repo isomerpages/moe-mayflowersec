@@ -10,8 +10,11 @@ Academic
 --------
 
 *   [MFSS Student Portal](https://sites.google.com/moe.edu.sg/mfss-students) (Requires login to students.edu.sg account to view)
-*   [MFSS Mathematics Portal](https://sites.google.com/moe.edu.sg/mfssmath)  
+
+*   [MFSS InkRealms 墨渊 DimensiDakwat](https://sites.google.com/moe.edu.sg/inkrealms/)  
     
+*   [MFSS Mathematics Portal](https://sites.google.com/moe.edu.sg/mfssmath)  
+
 *   [Student iCON Onboarding Guide](https://mayflowersec.moe.edu.sg/qql/slot/u313/Links/Student%20iCON%20Onboarding%20Guide.pdf)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/)
 
