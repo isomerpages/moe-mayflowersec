@@ -28,6 +28,15 @@ Please note that the 4 HBL weeks for 2023 Semester 2 are as follows:
 
 <hr style="height:3px; background-color: #000000">
 
+####  2023 GCE 'N' Preliminary Examination
+
+Note:
+- For 4NA, 4NT, 3NT
+
+[2023 GCE 'N' Preliminary Examination Timetable](/files/2023%20n%20prelim%20tt%204na%204nt%203nt%2026jun%20students.pdf)
+
+<hr style="height:3px; background-color: #000000">
+
 #### Term 3 Remedial / Supplementary Schedule
 Note:
 - Remedial will commence in Week 2 (6 July 2023)
