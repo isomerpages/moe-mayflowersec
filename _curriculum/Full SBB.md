@@ -58,4 +58,4 @@ For more information on how our school would implement Full SBB, you can contact
 ![Sec Sch Exp &amp; post sec pathway](/images/sec%20sch%20exp%20and%20post%20sec%20pathway.jpeg)
 
 
-<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none; border-radius:10px;">Go to MOE Microsite for more information on FSBB</a>
+<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none; border-radius:10px;">Go to <b>MOE Microsite</b> for more information on FSBB</a>
