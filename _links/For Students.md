@@ -3,10 +3,6 @@ title: For Students
 permalink: /links/for-students/permalink/
 description: ""
 ---
-For Students
-============
-
-
 Academic
 --------
 
