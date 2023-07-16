@@ -36,7 +36,7 @@ To help students who are struggling with subjects, the school also conducts targ
 In line with preparing our students for the future, we have a comprehensive programme to develop Mayflowerians into effective communicators. Broad based programmes [Tier 1] targeted at the entire school population are planned and run by the English Language and Mother Tongue departments throughout the year. Specialised programmes are spiralled to Tier 2 level whereby selected students with talents and who show interest are trained and coached for greater exposure such as competitions.
 
 [Find out more about our ALP](/curriculum/applied-learning-programme/permalink/)
-<a href="/curriculum/applied-learning-programme/permalink/" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none;">Find out more about our ALP</a>
+<a href="/curriculum/applied-learning-programme/permalink/" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none; border-radius:10px;">Find out more about our ALP</a>
 
 -----------------------------------
 ### Full Subject Based Banding \[FSBB\]
