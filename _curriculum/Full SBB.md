@@ -39,11 +39,11 @@ For more information on how our school would implement Full SBB, you can contact
 
 ### Useful Videos for Reference
 
-	
-["Talk show" with Min Ong](https://www.facebook.com/moesingapore/videos/2725818744113611/)
 
-This video shares the rationale behind Full SBB through an interview with Minister Ong.
-*   [Explaining full SBB.](https://youtu.be/JMc_GispPmk) This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
+* [ [CNA] A New School Of Thought - Full SBB (13 July 2023)](https://www.channelnewsasia.com/watch/a-new-school-of-thought/full-sbb-3626236). Full Subject-Based Banding will be rolled out to all secondary schools by 2024. What is this policy change all about? Evelyn Tan, television actress and mother of four, finds out. Brought to you by Ministry of Education.
+
+* ["Talk show" with Min Ong (5 March 2019)](https://www.facebook.com/moesingapore/videos/2725818744113611/). This video shares the rationale behind Full SBB through an interview with Minister Ong.
+*   [Explaining full SBB, (5 March 2019)](https://youtu.be/JMc_GispPmk). This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
 
 ### Infographics on Full SBB
 
