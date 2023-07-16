@@ -29,7 +29,7 @@ As part of the pilot, our school has implemented these aspects of FSBB:
 
 *   Each form classes may comprise students from the Express, Normal (Academic) and Normal (Technical) streams.
 *   This common learning experience creates a valuable setting for students to work together, build meaningful friendships, and appreciate different perspectives with students from diverse background and abilities which will benefit them in life. It can also help reduce the inadvertent labelling associated with streaming.
-*   The students will take a set of subjects at a common level together for lower secondary Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education.
+*   The students will take a set of subjects at a common level together for lower secondary Art, Character &amp; Citizenship Education, Design &amp; Technology, Food &amp; Consumer Education, Music, and Physical Education.
 
 * For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. Express, N(A) or N(T).
 
@@ -55,6 +55,7 @@ For more information on how our school would implement Full SBB, you can contact
 
 ### Secondary school experience and post-secondary pathways under Full SBB (infographic)
 
-![Sec Sch Exp & post sec pathway](/images/sec%20sch%20exp%20and%20post%20sec%20pathway.jpeg)
+![Sec Sch Exp &amp; post sec pathway](/images/sec%20sch%20exp%20and%20post%20sec%20pathway.jpeg)
 
-More information can be found [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
+
+<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none; border-radius:10px;">Go to MOE Microsite for more information on FSBB</a>
