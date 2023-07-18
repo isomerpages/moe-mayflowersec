@@ -24,11 +24,11 @@ sections:
           url: /dsa/
   - infopic:
       title: The Mayflower Promise Newsletter
-      subtitle: 2023 Issue 1
+      subtitle: 2023 Issue 2
       description: Our newsletter is out!
       button: Read More
-      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2023_?fr=sOGQyZjU4NTAzNjI
-      image: /images/the mayflower promise (issue 1, 2023) thumbnail.png
+      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2023_?fr=xKAE9_zU1NQ
+      image: /images/tmp cover issue 2.png
       alt: Image alt text
   - resources:
       title: Latest Happenings

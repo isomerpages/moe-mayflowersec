@@ -3,11 +3,7 @@ title: For Staff
 permalink: /links/for-staff/permalink/
 description: ""
 ---
-For Staff
-=========
-
-*   [HR Portal](https://www.hrp.gov.sg/)  
-    
+*   [HR Portal](https://www.hrp.gov.sg/)      
 *   [iCON](https://mail.google.com/a/moe.edu.sg) (Add another account)
 *   [iEXAMS2](https://iexams.seab.gov.sg/login/)
 *   [MFSS ICT Tips & Guides](https://sites.google.com/moe.edu.sg/mfss-ict)

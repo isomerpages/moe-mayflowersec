@@ -29,7 +29,7 @@ As part of the pilot, our school has implemented these aspects of FSBB:
 
 *   Each form classes may comprise students from the Express, Normal (Academic) and Normal (Technical) streams.
 *   This common learning experience creates a valuable setting for students to work together, build meaningful friendships, and appreciate different perspectives with students from diverse background and abilities which will benefit them in life. It can also help reduce the inadvertent labelling associated with streaming.
-*   The students will take a set of subjects at a common level together for lower secondary Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education.
+*   The students will take a set of subjects at a common level together for lower secondary Art, Character &amp; Citizenship Education, Design &amp; Technology, Food &amp; Consumer Education, Music, and Physical Education.
 
 * For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. Express, N(A) or N(T).
 
@@ -39,11 +39,11 @@ For more information on how our school would implement Full SBB, you can contact
 
 ### Useful Videos for Reference
 
-	
-["Talk show" with Min Ong](https://www.facebook.com/moesingapore/videos/2725818744113611/)
 
-This video shares the rationale behind Full SBB through an interview with Minister Ong.
-*   [Explaining full SBB.](https://youtu.be/JMc_GispPmk) This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
+* [ [CNA] A New School Of Thought - Full SBB (13 July 2023)](https://www.channelnewsasia.com/watch/a-new-school-of-thought/full-sbb-3626236). Full Subject-Based Banding will be rolled out to all secondary schools by 2024. What is this policy change all about? Evelyn Tan, television actress and mother of four, finds out. Brought to you by Ministry of Education.
+
+* ["Talk show" with Min Ong (5 March 2019)](https://www.facebook.com/moesingapore/videos/2725818744113611/). This video shares the rationale behind Full SBB through an interview with Minister Ong.
+*   [Explaining full SBB, (5 March 2019)](https://youtu.be/JMc_GispPmk). This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
 
 ### Infographics on Full SBB
 
@@ -55,6 +55,7 @@ This video shares the rationale behind Full SBB through an interview with Minist
 
 ### Secondary school experience and post-secondary pathways under Full SBB (infographic)
 
-![Sec Sch Exp & post sec pathway](/images/sec%20sch%20exp%20and%20post%20sec%20pathway.jpeg)
+![Sec Sch Exp &amp; post sec pathway](/images/sec%20sch%20exp%20and%20post%20sec%20pathway.jpeg)
 
-More information can be found [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
+
+<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none; border-radius:10px;">Go to <b>MOE Microsite</b> for more information on FSBB</a>

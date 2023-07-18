@@ -31,28 +31,30 @@ To help students who are struggling with subjects, the school also conducts targ
 ### Applied Learning Programme \[ALP\] : Effective Communication
 
 
-<img src="/images/stage1.jpeg" style="width:280px;height:180px;margin-left:1px;" align="left">   
+<img align="left" style="width:280px;height:180px;margin-left:1px;" src="/images/stage1.jpeg">   
 
 In line with preparing our students for the future, we have a comprehensive programme to develop Mayflowerians into effective communicators. Broad based programmes [Tier 1] targeted at the entire school population are planned and run by the English Language and Mother Tongue departments throughout the year. Specialised programmes are spiralled to Tier 2 level whereby selected students with talents and who show interest are trained and coached for greater exposure such as competitions.
 
-[Find out more about our ALP](/curriculum/applied-learning-programme/permalink/)
+<a href="/curriculum/applied-learning-programme/permalink/" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none; border-radius:10px;">Find out more about our ALP</a>
 
 -----------------------------------
 ### Full Subject Based Banding \[FSBB\]
 
-<img src="/images/pathways.jpg" style="width:100%;margin:1px;">
+<img style="width:100%;margin:1px;" src="/images/pathways.jpg">
 
-[Find out more about FSBB](/curriculum/full-sbb/permalink/)
+
+<a href="/curriculum/full-sbb/permalink/" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none; border-radius:10px;">Find out more about Full SBB</a>
 
 -------------------------------------------------------------
 ### National Digitalisation Literacy Programme \[NDLP\]
 
 
-<img src="/images/ndlp.png" style="width:100%;margin:1px;">
+<img style="width:100%;margin:1px;" src="/images/ndlp.png">
 
 The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with digital literacies to be future-ready. As part of NDLP, MOE announced in 2020 that every secondary school student will own a school-prescribed personal learning device (PLD) by the end-2021. Other than to support the development of digital literacies, the NDLP also aims to enhance teaching and learning while supporting self-directed and collaborative learning.
 
-[Find out more about NDLP](/curriculum/ndlp/permalink/)
+<a href="/curriculum/ndlp/permalink/" style="display: inline-block; width: 100%; background-color: #a71616; color: #fff; text-align: center; padding: 10px; text-decoration: none; border-radius:10px;">Find out more about NDLP</a>
+
 
 ---------------------------------------
 ### Dedicated and Capable Staff of Teachers

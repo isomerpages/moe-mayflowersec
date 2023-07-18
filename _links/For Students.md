@@ -3,9 +3,6 @@ title: For Students
 permalink: /links/for-students/permalink/
 description: ""
 ---
-For Students
-============
-
 Academic
 --------
 
@@ -15,6 +12,8 @@ Academic
     
 *   [MFSS Mathematics Portal](https://sites.google.com/moe.edu.sg/mfssmath)  
 
+* [MIMS Portal](https://portal.mims.moe.gov.sg/) - for Self-Service Password Reset for Student iCON.
+
 *   [Student iCON Onboarding Guide](https://mayflowersec.moe.edu.sg/qql/slot/u313/Links/Student%20iCON%20Onboarding%20Guide.pdf)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/)
 
@@ -23,7 +22,7 @@ Academic
 Student Development
 -------------------
 
-*   [LEAPS 2.0](https://www.moe.gov.sg/-/media/files/programmes/leaps-2.pdf)
+*   [LEAPS 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0)
 *   [School Fault Reporting System](http://bit.ly/mfss-fault)
 *   [MySkillsFuture Portal for Secondary School Students](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
