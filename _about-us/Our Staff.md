@@ -148,7 +148,7 @@ description: ""
 |Designation|Name|Email|
 |----|-----|-----|
 |Flexi Adj (Art)|Ms Teo Wan Ping (Serene)|[teo\_wan\_ping@schools.gov.sg](mailto:teo_wan_ping@schools.gov.sg)|
-|Flexi Adj (Chemistry)|Mdm Teh Swee Choo|[teh\_swee\_choo@schools.gov.sg](mailto:teh_swee_choo@schools.gov.sg)|
+|Flexi Adj (Chemistry)|Mdm Teh Swee Choo|[teh\_swee\_choo_@schools.gov.sg](mailto:teh_swee_choo_@schools.gov.sg)|
 |Flexi Adj (Chinese Language)|Mr Kim Kin Seng|[kim\_kin\_seng@schools.gov.sg](mailto:kim_kin_seng@schools.gov.sg)|
 |Flexi Adj (Chinese Language)|Mdm Lee Low Eng|[foo\_tee\_yam@schools.gov.sg](mailto:foo_tee_yam@schools.gov.sg)|
 |Flexi Adj (English Language)|Mdm Wan Chue Wah|[wan\_chue\_wah@schools.gov.sg](mailto:wan_chue_wah@schools.gov.sg)|
