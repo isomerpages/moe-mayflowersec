@@ -28,6 +28,16 @@ Please note that the 4 HBL weeks for 2023 Semester 2 are as follows:
 
 <hr style="height:3px; background-color: #000000">
 
+####  2023 GCE 'O' Preliminary Examination
+
+Note:
+- For 5NA, 4EX, 4NA
+
+
+[2023 GCE 'O' Preliminary Examination Timetable](/files/2023%20o%20prelim%20tt%204ex%205na%204na.pdf)
+
+<hr style="height:3px; background-color: #000000">
+
 ####  2023 GCE 'N' Preliminary Examination
 
 Note:
