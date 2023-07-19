@@ -30,6 +30,14 @@ sections:
       url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2023_?fr=xKAE9_zU1NQ
       image: /images/tmp cover issue 2.png
       alt: Image alt text
+  - infopic:
+      title: Timetable for Prelim Examination
+      subtitle: GCE 'O' Level
+      description: For Sec 5EX, 4EX, 4NA
+      button: Read more
+      url: /timetable/#2023-gce-o-preliminary-examination
+      image: /images/2023 gce o level prelim thumbnail.png
+      alt: Prelim Exam Timetable
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
