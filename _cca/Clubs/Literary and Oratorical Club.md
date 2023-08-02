@@ -49,19 +49,23 @@ Words are powerful--they influence thoughts, feelings, and action. By reading an
 | Tuesdays | 3 pm - 5.30 pm | Library | Mdm Shagun |
 | Thursdays | 3 pm - 5.30 pm | Library | Mdm Siti Fatimah |
 
+Project
+-----
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWcsH6h-EcBG7CK0MfB98TzbFrXUHbS_pneh-KRv-dcGR2aB4itMNATxNBj4crbDnVXcUbnsgWTyQL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="450px" allowfullscreen="true"></iframe>
+
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpsPaC3RHyZ8joVxze5w5FzpMIAEjlyKC-v5zgA6dpFOzF-NOCOQRT-TZQDUgvdWF_DbbKoD4R2fTn/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpsPaC3RHyZ8joVxze5w5FzpMIAEjlyKC-v5zgA6dpFOzF-NOCOQRT-TZQDUgvdWF_DbbKoD4R2fTn/embed?start=1&amp;loop=1&amp;delayms=3000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Video
 -----
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="LNO - CCA Promotional Video 2023" src="https://www.youtube.com/embed/AHBwHhcckDc"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/AHBwHhcckDc" title="LNO - CCA Promotional Video 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br>
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="LNO Open House Video 2023" src="https://www.youtube.com/embed/3vf_1M0FM3s"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/3vf_1M0FM3s" title="LNO Open House Video 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br>
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Literary &amp; Orators Club 2023" src="https://www.youtube.com/embed/qy1w6NWcc88"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/qy1w6NWcc88" title="Literary &amp; Orators Club 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
