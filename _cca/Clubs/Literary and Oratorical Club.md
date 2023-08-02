@@ -51,7 +51,8 @@ Words are powerful--they influence thoughts, feelings, and action. By reading an
 
 Project
 -----
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWcsH6h-EcBG7CK0MfB98TzbFrXUHbS_pneh-KRv-dcGR2aB4itMNATxNBj4crbDnVXcUbnsgWTyQL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="450px" allowfullscreen="true"></iframe>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWcsH6h-EcBG7CK0MfB98TzbFrXUHbS_pneh-KRv-dcGR2aB4itMNATxNBj4crbDnVXcUbnsgWTyQL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 Photos
 ------
