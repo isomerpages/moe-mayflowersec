@@ -26,7 +26,7 @@ sections:
       title: Congratulations to our Award recepients
       subtitle: National Day Award 2023
       description: "Long Service Medal: Mdm Lai Meei Ju & Mr B Prem Anand,
-        Commendation Medal: Mdm Tan Gie Chun and Mr Tay Boon Teck Gregory "
+        Commendation Medal: Mdm Tan Gie Chun and Mr Tay Boon Teck Gregory"
       button: Read more
       url: /newest-happenings/staff-awards/national-day-awards-2023/
       image: /images/national day award 2023.png
