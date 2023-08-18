@@ -13,4 +13,4 @@ The Long Service Medal may be awarded to any person who is of irreproachable cha
 
 The Commendation Medal may be awarded to persons who have distinguished themselves through commendable performance and conduct, or significant efficiency, competence and devotion to duty.
 
-![](/images/national%20day%20award%202023.png)
+![](/images/national%20day%20award%202023.jpg)
