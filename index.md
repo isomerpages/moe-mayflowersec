@@ -37,7 +37,7 @@ sections:
         Commendation Medal: Mdm Tan Gie Chun and Mr Tay Boon Teck Gregory"
       button: Read more
       url: /newest-happenings/staff-awards/national-day-awards-2023/
-      image: /images/national day award 2023.png
+      image: /images/national day award 2023.jpg
       alt: National Day Awardees
   - infopic:
       title: The Mayflower Promise Newsletter
