@@ -28,6 +28,11 @@ Please note that the 4 HBL weeks for 2023 Semester 2 are as follows:
 
 <hr style="height:3px; background-color: #000000">
 
+#### September Holiday 2023 Academic Programme
+[Holiday Schedule PDF](/files/sept%20hols%20acad%20prog%202023.pdf)
+
+<hr style="height:3px; background-color: #000000">
+
 ####  2023 GCE 'O' Preliminary Examination
 
 Note:

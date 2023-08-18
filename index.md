@@ -23,6 +23,23 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: Holiday Academic Programme
+      subtitle: September 2023
+      description: For Sec 3s to 5s
+      button: Read more
+      url: /timetable/#september-holiday-2023-academic-programme
+      image: /images/sep holiday 2023 acad prog info pic.jpg
+      alt: Sep Holiday 2023 Prog
+  - infopic:
+      title: Congratulations to our Award recepients
+      subtitle: National Day Award 2023
+      description: "Long Service Medal: Mdm Lai Meei Ju & Mr B Prem Anand,
+        Commendation Medal: Mdm Tan Gie Chun and Mr Tay Boon Teck Gregory"
+      button: Read more
+      url: /newest-happenings/staff-awards/national-day-awards-2023/
+      image: /images/national day award 2023.png
+      alt: National Day Awardees
+  - infopic:
       title: The Mayflower Promise Newsletter
       subtitle: 2023 Issue 2
       description: Our newsletter is out!
@@ -30,14 +47,6 @@ sections:
       url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2023_?fr=xKAE9_zU1NQ
       image: /images/tmp cover issue 2.png
       alt: Image alt text
-  - infopic:
-      title: Timetable for Prelim Examination
-      subtitle: GCE 'O' Level
-      description: For Sec 5EX, 4EX, 4NA
-      button: Read more
-      url: /timetable/#2023-gce-o-preliminary-examination
-      image: /images/2023 gce o level prelim thumbnail.png
-      alt: Prelim Exam Timetable
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
