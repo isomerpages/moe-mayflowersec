@@ -10,6 +10,8 @@ Dear Parents/Guardians of Secondary 2 students,
 
 Please find the attached information to help you and your child make a decision on the subject combination choices for Secondary 3. 
 
+[2024 Subject Allocation Briefing Slides [PDF]](/files/2024%20second%20subject%20allocation%20briefing%20(14-21%20aug%202023_ft%20period).pdf)
+
 ## Craft &amp; Technology Department
 
 <div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="C&amp;T Subject Allocation Briefing" src="https://www.youtube.com/embed/a_NFm_lWIos?si=o4C2iQ2rIxGRaYjR" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
