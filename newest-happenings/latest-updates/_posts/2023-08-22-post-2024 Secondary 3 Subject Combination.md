@@ -23,4 +23,4 @@ Please find the attached information to help you and your child make a decision 
 
 ## Humanities
 ### SS History or SS Geography
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSel8DqmBFKlas-IYRqoOsA2npw9tb_kyz23xQkPMiKWgUnfyLXVsNjpfAVAjK-7OiIluWnR7B3CbH1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" style="width: 100%; height: 100%;" allowfullscreen="true"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSel8DqmBFKlas-IYRqoOsA2npw9tb_kyz23xQkPMiKWgUnfyLXVsNjpfAVAjK-7OiIluWnR7B3CbH1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true"></iframe></div>
