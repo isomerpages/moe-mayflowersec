@@ -26,6 +26,10 @@ Please find the attached information to help you and your child make a decision 
 ### SS History or SS Geography
 <div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe allowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSel8DqmBFKlas-IYRqoOsA2npw9tb_kyz23xQkPMiKWgUnfyLXVsNjpfAVAjK-7OiIluWnR7B3CbH1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
+## English
+### Literature (Pure)
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe allowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9BE3Nye4FSoO_ddyA97BWCLRRlGxmuTRpjQKwXuaRaJZ0Z5agz31RI5tuqCV3kKhha23EnqFsgjec/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
+
 ## Math
 ### Principles of Accounts
 <div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe allowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSq94bB1FhF6n-ceEj9hdEikKCItwGAwayaHhqP-rM-yn_PIUrO2a9QcDjvb83ppWvmSwuFHeMYMiK_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
