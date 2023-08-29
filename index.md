@@ -27,7 +27,7 @@ sections:
       subtitle: 📣 Announcement
       description: "Due to the National Presidential Election, the school will closed
         at the following timing: Wed, 30th Aug, 2 pm & Thu, 31st Aug, 10.30 am"
-      button: Read More
+      button: More info
       url: /newest-happenings/latest-events/sch-closure-pe2023/
       image: /images/teacher's day 2023 thumbnail.jpeg
       alt: Image alt text
