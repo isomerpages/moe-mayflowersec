@@ -8,5 +8,7 @@ image: /images/teacher's day 2023 thumbnail.jpeg
 ---
 As our school premises will be used for our National Presidential Election,  please note that the school will closed at the following timing on 30th August and 31st August:
 
-* Wednesday, 30th August: 2 pm
-* Thursday, 31st August: 10.30 am
+Wednesday, 30th August: 2 pm
+Thursday, 31st August: 10.30 am
+
+Alumni who wish to visit their teachers are encouraged to be in school before the closing time.
