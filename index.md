@@ -23,7 +23,7 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
-      title: School closure
+      title: School Closing Hours during Teachers Day Celebration
       subtitle: 📣 Announcement
       description: "Due to the National Presidential Election, the school will closed
         at the following timing: Wed, 30th Aug, 2 pm & Thu, 31st Aug, 10.30 am"
