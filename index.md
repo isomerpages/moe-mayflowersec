@@ -23,6 +23,15 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: School Closing Hours during Teachers Day Celebration
+      subtitle: 📣 Announcement
+      description: "Due to the National Presidential Election, the school will closed
+        at the following timing: Wed, 30th Aug, 2 pm & Thu, 31st Aug, 10.30 am"
+      button: More info
+      url: /newest-happenings/latest-events/sch-closure-pe2023/
+      image: /images/teacher's day 2023 thumbnail.jpeg
+      alt: Image alt text
+  - infopic:
       title: Holiday Academic Programme
       subtitle: September 2023
       description: For Sec 3s to 5s
@@ -39,14 +48,6 @@ sections:
       url: /newest-happenings/staff-awards/national-day-awards-2023/
       image: /images/national day award 2023.jpg
       alt: National Day Awardees
-  - infopic:
-      title: The Mayflower Promise Newsletter
-      subtitle: 2023 Issue 2
-      description: Our newsletter is out!
-      button: Read More
-      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2023_?fr=xKAE9_zU1NQ
-      image: /images/tmp cover issue 2.png
-      alt: Image alt text
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
