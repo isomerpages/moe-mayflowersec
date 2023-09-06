@@ -28,6 +28,23 @@ Please note that the 4 HBL weeks for 2023 Semester 2 are as follows:
 
 <hr style="height:3px; background-color: #000000">
 
+#### 2023 End of Year Exam Timetable
+[Sec 1-3 End of Year Timetable](/files/2023%20EOY%20Exam%20Subject%20Info/2023%20eoy%20exam%20tt.pdf)
+
+| End of Year Exam Subject Information |
+|---|
+|[Sec 1EX - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 1NA - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 1NT - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 2EX - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 2NA - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 2NT - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 3EX - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 3NA - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 3NT - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+
+<hr style="height:3px; background-color: #000000">
+
 #### September Holiday 2023 Academic Programme
 [Holiday Schedule PDF](/files/sept%20hols%20acad%20prog%202023.pdf)
 

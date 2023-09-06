@@ -37,3 +37,10 @@ School Social Media
 *   [Mayflower Alumni Facebook Page](https://www.facebook.com/mayfloweralumni)
 *   [Mayflower School Google Photos Page](https://photos.app.goo.gl/z0kHE4KkKwWwFcyO2)
 *   [Mayflower Library Instagram Page](https://www.instagram.com/mayflowerlibrary/)
+
+Post Secondary Information
+-----
+* [**Post Secondary Admissions exercises and programmes**](https://www.moe.gov.sg/post-secondary/admissions). Explore the different admissions exercises and programmes available to help you gain entry into a junior college, Millennia Institute, polytechnic or ITE.
+  * [**JAE Website**](https://www.moe.gov.sg/jae). Contains essential information on JAE, such as an overview of the JAE process and timeline (the key stages and respective dates/periods).
+  * [**SchoolFinder**](https://www.moe.gov.sg/schoolfinder). Find school information such as contact details, JAE aggregate score range, subjects offered, CCAs and programmes offered by the **junior colleges** and **Millennia Institute**.
+  * [**CourseFinder**](http://www.moe.gov.sg/coursefinder). Explore courses offered by the **polytechnics** and **Institute of Technical Education**, based on aggregate type and area of interest. Students can also access the course’s minimum entry requirements, details about the course (modules and career prospects), etc
