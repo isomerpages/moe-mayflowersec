@@ -29,8 +29,8 @@ sections:
         cares deeply? Nominate them for the Caring Teacher Award! Nominations
         close on 12 Jan 2024.
       button: More info
-      url: /newest-happenings/latest-events/sch-closure-pe2023/
-      image: /images/teacher's day 2023 thumbnail.jpeg
+      url: https://www.cta.nie.edu.sg/
+      image: /images/caring teacher award logo.png
       alt: Image alt text
   - infopic:
       title: Holiday Academic Programme
