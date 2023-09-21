@@ -65,17 +65,20 @@ Taekwondo is a martial art where the focus is on the execution of kicks. Student
 | B Division Boys Kyorugi | 3I | ZAYNE LEE | 3rd |
 
 
-### CCA Teachers in Charge
+### Staff and Committee Members
 
-- Mr Edwin Goh (i/c)  
-- Mdm Patricia Kwek  
-- Ms Jeevana Rani
-
-### Captains
-- AGUSTIN JACOB ALBERT CACAO  (4A)
-- ANG XI ER JONIE   (4I)
-- LEE RUI HENG NATHAN  (3F)
-- CHUA TING YI, ERIN   (3E)
+| Teachers-in-Charge 	| Mr Edwin Goh<br> Mdm Patricia Kwek<br> Ms Jeevana Rani |
+|---	|---	|
+| **Coaches / Instructors**	| Mr Brian Peh (Head Coach of Zen Academy) 	|
+| **B Division Boys Captain** 	|  LEE RUI HENG NATHAN (3F)	|
+| **B Division Boys Vice-Captain** |	ZAYNE LEE (3I) |
+| **B Division Girls Captain** |	CHUA TING YI, ERIN (3E) |
+| **B Division Girls Vice-Captain** |	KOH KAI EN (3J) |
+| **Upper Secondary Executive Committee** |	HUANG YAN'EN (3F) |
+| **C Division Boys Captain** |	LUKE SIM (2A) |
+| **C Division Boys Captain** |	RYU RITCH LEE (2D) |
+| **C Division Girls Captain** |	MAYA DELILAH WANG CHUN YUN (2I) |
+| **C Division Girls Captain** |	ONG SHI QI CLARIS (2B) |
 
 
 ### Training Schedule
