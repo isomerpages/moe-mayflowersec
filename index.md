@@ -23,6 +23,14 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: The Mayflower Promise
+      subtitle: 2023, Issue 3
+      description: Our Newsletter
+      button: Read more
+      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_3_2023_final?fr=sMDE0YTY2MzQ5NTI
+      image: /images/the mayflower promise (issue 3, 2023) thumbnail.png
+      alt: Sep Holiday 2023 Prog
+  - infopic:
       title: Caring Teacher Awards 2024
       subtitle: 📣 Announcement
       description: Got an amazing teacher who's not just all about lessons but also
@@ -32,14 +40,6 @@ sections:
       url: /newest-happenings/latest-events/cta-2024-nominations/
       image: /images/caring teacher award logo.png
       alt: Image alt text
-  - infopic:
-      title: Holiday Academic Programme
-      subtitle: September 2023
-      description: For Sec 3s to 5s
-      button: Read more
-      url: /timetable/#september-holiday-2023-academic-programme
-      image: /images/sep holiday 2023 acad prog info pic.jpg
-      alt: Sep Holiday 2023 Prog
   - infopic:
       title: Congratulations to our Award recepients
       subtitle: National Day Award 2023

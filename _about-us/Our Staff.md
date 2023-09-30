@@ -137,10 +137,9 @@ description: ""
 | Technical Support Officer | Mdm Ong Xiang Pin Jenny | [ong\_xiang\_pin\_jenny@schools.gov.sg](mailto:ong_xiang_pin_jenny@schools.gov.sg) |
 | Technical Support Officer | Mr Samsulbahri Bin Ahmad Surasi | [samsulbahri\_ahmad\_surasi@moe.edu.sg](mailto:samsulbahri_ahmad_surasi@moe.edu.sg) |
 | Technical Support Officer | Mdm Wong Juat Ngiom | [wong\_juat\_ngiom@schools.gov.sg](mailto:wong_juat_ngiom@schools.gov.sg) |
-| Operation Support Officer | Ms Yeo Tay Long Nancy | NIL |
 | Operation Support Officer | Mdm J Chandra | [j\_chandra@schools.gov.sg](mailto:j_chandra@schools.gov.sg) |
-| Operation Support Officer | Mdm Foo Sean Tay | NIL |
-| Operation Support Officer | Mr Mahmood Bin Suhaimi | NIL |
+| Operation Support Officer | Mdm Foo Sean Tay | [foo\_sean\_tay\_a@moe.edu.sg](mailto:foo_sean_tay_a@moe.edu.sg) |
+| Operation Support Officer | Mr Mahmood Bin Suhaimi | [mahmood\_suhaimi@moe.edu.sg](mailto:mahmood\_suhaimi@moe.edu.sg) |
 | Operation Support Officer (Assit. Home Econ) | Mdm Chuo Chung Mee Amy | NIL |
 
 ### Adjunct Relief Teachers
