@@ -10,13 +10,13 @@ Newsletter
 2023, Issue 3
 ----
 
-[![2023 issue 3](/images/the%20mayflower%20promise%20(issue%203,%202023)%20cover.png)](https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_3_2023_final?fr=xKAE9_zU1NQ)
+[![2023 issue 3](/images/the%20mayflower%20promise%20(issue%203,%202023)%20cover.png)](https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_3_2023_final?fr=sMDE0YTY2MzQ5NTI)
 
 
 2023, Issue 2
 ----
 
-[![2023 issue 2](/images/tmp%20cover%20(full).png)](https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2023_?fr=xKAE9_zU1NQ)
+[![2023 issue 2](/images/tmp%20cover%20(full).png)](https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2023_?fr=sOTA2NzY2MzQ5NTI)
 
 
 2023, Issue 1
