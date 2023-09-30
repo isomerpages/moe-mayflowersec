@@ -27,7 +27,7 @@ sections:
       subtitle: 2023, Issue 3
       description: Our Newsletter
       button: Read more
-      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_3_2023_final?fr=xKAE9_zU1NQ
+      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_3_2023_final?fr=sMDE0YTY2MzQ5NTI
       image: /images/the mayflower promise (issue 3, 2023) thumbnail.png
       alt: Sep Holiday 2023 Prog
   - infopic:
