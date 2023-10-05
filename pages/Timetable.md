@@ -5,6 +5,19 @@ description: Timetable for normal and Home-Based Learning week,
   remdial/supplementary Schedule
 image: /images/2023 Sem 1-1.png
 ---
+#### 2023 Script Check Timetable (16 to 20 Oct 2023)
+*Updated as of 05 Oct 2023*
+
+
+#### 2023 End of Year Exam Timetable
+[Sec 1-3 End of Year Timetable](/files/2023%20EOY%20Exam%20Subject%20Info/2023%20eoy%20exam%20tt.pdf)
+
+| End of Year Exam Subject Information | | |
+|---|---|---|
+|[Sec 1EX - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|[Sec 1NA - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|[Sec 1NT - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 2EX - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)| [Sec 2NA - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)| [Sec 2NT - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+|[Sec 3EX - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)| [Sec 3NA - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|[Sec 3NT - 2023 EOY Exam Subject Info](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
+
 Timetable for 2023 Semester 2
 -----------------------------
 
@@ -26,22 +39,6 @@ Please note that the 4 HBL weeks for 2023 Semester 2 are as follows:
 *   14 Aug - 18 Aug 2023 (HBL Day on 18 Aug)
 *   18 Sep - 22 Sep 2023 (HBL Day on 22 Sep)
 
-<hr style="height:3px; background-color: #000000">
-
-#### 2023 End of Year Exam Timetable
-[Sec 1-3 End of Year Timetable](/files/2023%20EOY%20Exam%20Subject%20Info/2023%20eoy%20exam%20tt.pdf)
-
-| End of Year Exam Subject Information |
-|---|
-|[Sec 1EX - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
-|[Sec 1NA - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
-|[Sec 1NT - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%201nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
-|[Sec 2EX - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
-|[Sec 2NA - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
-|[Sec 2NT - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%202nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
-|[Sec 3EX - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
-|[Sec 3NA - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
-|[Sec 3NT - 2023 End of Year Exam Subject Information](/files/2023%20EOY%20Exam%20Subject%20Info/sec%203nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf)|
 
 <hr style="height:3px; background-color: #000000">
 
