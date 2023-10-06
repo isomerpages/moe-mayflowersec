@@ -14,3 +14,5 @@ The event featured a wide variety of delicious food options. Students participat
 During a school assembly, the discipline master encouraged students without enough points to exchange for food vouchers to strive harder next semester. This subtly instilled a goal for improvement in students’ mind. The event enhanced students' autonomy and their sense of showing kindness.
 
 ![](/images/mfss%20-%20good%20deed%20card%20food.jpg)
+
+Read the ZB School's article [here](https://www.zbschools.sg/news/school/stories-28109).
