@@ -24,7 +24,7 @@ sections:
           url: /dsa/
   - infopic:
       title: 美华中学以美食奖励善举
-      subtitle: National Day Award 2023
+      subtitle: Promoting Kindness
       description: 为了激励美华学生多行善举，学校在8月7日举办了”以美食奖励善举”的校园活动。学生在平日做的好人好事，可以获得“好行为卡”（Good
         conduct card）。活动当天，学生拿着“好行为卡”可以兑换美食券，获得免费的食物。
       button: Read the ZB Schools' article
