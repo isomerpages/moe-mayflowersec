@@ -41,14 +41,14 @@ sections:
       image: /images/caring teacher award logo.png
       alt: Image alt text
   - infopic:
-      title: Congratulations to our Award recepients
+      title: 美华中学以美食奖励善举
       subtitle: National Day Award 2023
-      description: "Long Service Medal: Mdm Lai Meei Ju & Mr B Prem Anand,
-        Commendation Medal: Mdm Tan Gie Chun and Mr Tay Boon Teck Gregory"
-      button: Read more
-      url: /newest-happenings/staff-awards/national-day-awards-2023/
-      image: /images/national day award 2023.jpg
-      alt: National Day Awardees
+      description: 为了激励美华学生多行善举，学校在8月7日举办了”以美食奖励善举”的校园活动。学生在平日做的好人好事，可以获得“好行为卡”（Good
+        conduct card）。活动当天，学生拿着“好行为卡”可以兑换美食券，获得免费的食物。
+      button: Read the ZB Schools' article
+      url: /newest-happenings/latest-events/promoting-kindness/
+      image: /images/mfss - good deed card food.jpg
+      alt: Promoting Kindness
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
