@@ -140,6 +140,7 @@ description: ""
 | Operation Support Officer | Mdm J Chandra | [j\_chandra@schools.gov.sg](mailto:j_chandra@schools.gov.sg) |
 | Operation Support Officer | Mdm Foo Sean Tay | [foo\_sean\_tay\_a@moe.edu.sg](mailto:foo_sean_tay_a@moe.edu.sg) |
 | Operation Support Officer | Mr Mahmood Bin Suhaimi | [mahmood\_suhaimi@moe.edu.sg](mailto:mahmood\_suhaimi@moe.edu.sg) |
+| Operation Support Officer | Mr Lee Keng Kiong Dave | NIL |
 | Operation Support Officer (Assit. Home Econ) | Mdm Chuo Chung Mee Amy | NIL |
 
 ### Adjunct Relief Teachers
