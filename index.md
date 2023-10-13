@@ -23,6 +23,15 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: Vacancy for Malay Food Stall
+      subtitle: 📣 Announcement
+      description: We are inviting interested applicants to operate a Malay Food Stall
+        in our school canteen with effect from 2 January 2024.
+      button: More info
+      url: /school-canteen-ads/
+      image: /images/food.jpg
+      alt: Food Stall available
+  - infopic:
       title: 美华中学以美食奖励善举
       subtitle: Promoting Kindness
       description: 为了激励美华学生多行善举，学校在8月7日举办了”以美食奖励善举”的校园活动。学生在平日做的好人好事，可以获得“好行为卡”（Good
@@ -39,16 +48,6 @@ sections:
       url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_3_2023_final?fr=sMDE0YTY2MzQ5NTI
       image: /images/the mayflower promise (issue 3, 2023) thumbnail.png
       alt: Sep Holiday 2023 Prog
-  - infopic:
-      title: Caring Teacher Awards 2024
-      subtitle: 📣 Announcement
-      description: Got an amazing teacher who's not just all about lessons but also
-        cares deeply? Nominate them for the Caring Teacher Award! Nominations
-        close on 12 Jan 2024.
-      button: More info
-      url: /newest-happenings/latest-events/cta-2024-nominations/
-      image: /images/caring teacher award logo.png
-      alt: Image alt text
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings

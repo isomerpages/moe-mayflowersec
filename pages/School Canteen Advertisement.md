@@ -3,14 +3,16 @@ title: School Canteen Advertisement
 permalink: /school-canteen-ads/
 description: ""
 ---
+![](/images/food.jpg)
+
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| NIL      | NIL     | NIL   |
+| Malay Food      | 20 October 2023, 5 pm     | Halal certified ingredients |
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form unavailable] 
+* [APPLICATION FOR CANTEEN STALL IN EXISTING SCHOOL [PDF]](/files/appexistingsch.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -30,14 +32,15 @@ description: ""
   * 71, 76, 132, 165, 166, 169, 262, 265, 268, 269
 
 **Interest applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+* Singapore citizen or Singapore Permanent Resident (SPR) for stall holder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
+* Must be in personal attendance at the stall during operating hours
 
 
-**Applicants should preferably fulfil the following criteria:**
+**Applicants should preferably fulfill the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
