@@ -10,9 +10,9 @@ image: /images/2023 Sem 1-1.png
 
 | Script Check Week (16 to 20 Oct 2023)| 23 Oct to 26 Oct 2023 |
 |---|---|
-|[Sec 1 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%201).pdf) | 
-|[Sec 2 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%202).pdf) | 
-|[Sec 3 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%203).pdf) | [Sec 3 Prep Programme (23 Oct to 3 Nov)](/files/2023%20timetable%20sec%203%20prep%20programme%20(23%20oct%20-%20%203%20nov)%20(sec%203).pdf)|
+|[Sec 1 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%201).pdf) | [Post Exam Schedule 23 to 26 Oct](/files/2023%20Sem%202%20Timetables/2023%20eoy%20post%20exams%20schedule%2023%20to%2026%20oct.pdf)
+|[Sec 2 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%202).pdf) |  [Post Exam Schedule 23 to 26 Oct](/files/2023%20Sem%202%20Timetables/2023%20eoy%20post%20exams%20schedule%2023%20to%2026%20oct.pdf)
+|[Sec 3 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%203).pdf) | [Post Exam Schedule 23 to 26 Oct](/files/2023%20Sem%202%20Timetables/2023%20eoy%20post%20exams%20schedule%2023%20to%2026%20oct.pdf)<br> [Sec 3 Prep Programme (23 Oct to 3 Nov)](/files/2023%20timetable%20sec%203%20prep%20programme%20(23%20oct%20-%20%203%20nov)%20(sec%203).pdf)|
 
 
 #### 2023 End of Year Exam Timetable
