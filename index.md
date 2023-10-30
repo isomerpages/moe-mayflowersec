@@ -23,14 +23,14 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
-      title: Vacancy for Malay Food Stall
+      title: Open House 2023
       subtitle: 📣 Announcement
-      description: We are inviting interested applicants to operate a Malay Food Stall
-        in our school canteen with effect from 2 January 2024.
+      description: Join us on 18th November from 9:30 am to 12:30 pm to discover our
+        programmes.
       button: More info
-      url: /school-canteen-ads/
-      image: /images/food.jpg
-      alt: Food Stall available
+      url: https://linktr.ee/mayfloweroh2023
+      image: /images/open house 2023 banner.jpeg
+      alt: Open House 2023
   - infopic:
       title: 美华中学以美食奖励善举
       subtitle: Promoting Kindness
