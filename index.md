@@ -25,8 +25,8 @@ sections:
   - infopic:
       title: Open House 2023
       subtitle: 📣 Announcement
-      description: "We are inviting interested applicants to our physical open houses
-        on the 18th of November, from 9:30 am to 12:30 pm. "
+      description: Join us on 18th November  from 9:30 am to 12:30 pm to discover our
+        programmes.
       button: More info
       url: https://linktr.ee/mayfloweroh2023
       image: /images/open house 2023 banner.jpeg
