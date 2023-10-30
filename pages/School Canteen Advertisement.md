@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food      | 20 October 2023, 5 pm     | Halal certified ingredients |
+| NIL      | NIL     | NIL |
 
 **Application Procedure**
 
