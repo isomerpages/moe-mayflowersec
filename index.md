@@ -30,6 +30,7 @@ sections:
       button: More info
       url: https://linktr.ee/mayfloweroh2023
       image: /images/open house 2023 banner.jpeg
+      alt: Open House 2023
   - infopic:
       title: 美华中学以美食奖励善举
       subtitle: Promoting Kindness
