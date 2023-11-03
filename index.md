@@ -41,13 +41,13 @@ sections:
       image: /images/mfss - good deed card food.jpg
       alt: Promoting Kindness
   - infopic:
-      title: The Mayflower Promise
-      subtitle: 2023, Issue 3
-      description: Our Newsletter
+      title: Booklist for 2024
+      subtitle: Back to school
+      description: Booklist and uniform purchase for 2024 is available.
       button: Read more
-      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_3_2023_final?fr=sMDE0YTY2MzQ5NTI
-      image: /images/the mayflower promise (issue 3, 2023) thumbnail.png
-      alt: Sep Holiday 2023 Prog
+      url: /newest-happenings/latest-updates/book-and-uniform-2024/
+      image: /images/booklist2024.jpg
+      alt: booklist 2024
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
