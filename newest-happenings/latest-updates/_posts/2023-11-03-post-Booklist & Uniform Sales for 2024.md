@@ -29,13 +29,16 @@ variant: markdown
 [Sec 4 NT Booklist 2024.pdf](/files/2024%20Booklist/s4%20nt%20booklist%202023.pdf)  
 [Sec 5 NA Booklist 2024.pdf](/files/2024%20Booklist/s5%20na%20booklist%202023.pdf)
 
-### Sec 2-5 Walk-in purchase, online / FAS collection
+### Bookshop Sec 2-5 Walk-in purchase, online / FAS collection
 
 **Online order dates:** 8 Nov 2023, 9am to 7 Dec 2023, 11.59pm  
 **Collection/Walk-in purchase dates:** 14 Nov to 12 Dec 2023  
 **Time:** 9am to 3pm daily  
 **Notes:**  
-Closed on Saturday, Sunday and Public Holidays  
+* Closed on Saturday, Sunday and Public Holidays  
+* Please purchase online via [mfss.cascoedusupply.com.sg](https://mfss.cascoedusupply.com.sg) to ensure correct titles/editions.
+* Please input quantity of item required. All sold/exchangeable items are NON-REFUNDABLE for cash.
+* Exchanged items must be in mint condition. Produce the booklist for exchanges within 7 working days of purchase.  
 
 #### Mode of Order:
 **Online order**
@@ -55,7 +58,7 @@ Closed on Saturday, Sunday and Public Holidays
 
 ## Uniform Purchase
 
-### Sec 2-5 Walk-in purchase, online / FAS collection
+### Uniform Sec 2-5 Walk-in purchase, online / FAS collection
 
 **Dates:** 11, 14, 15, 18 Dec 2023  
 **Time:** 9am to 3pm daily  
