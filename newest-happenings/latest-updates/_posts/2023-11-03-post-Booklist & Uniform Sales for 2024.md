@@ -78,7 +78,7 @@ For made-to-measure orders: Please visit 213 Henderson Road, #01-12, Singapore 1
 **Buses:** 5, 14, 32, 33, 57, 64, 65, 123, 131, 132, 145, 147, 175, 176, 195, 196, 197, 272, 273, 275, 855, 961  
 **Office / Factory:** 213 Henderson Road #01-12 Singapore 159553  
 **Business Hours:** Mon-Fri, 9 am - 1 pm, 2 - 5 pm   Sat, 9 am -12.30 pm  
-**☎:** +65 6271 9248   🖷: 6273 9600  
+**☎:** +65 6271 9248   : 6273 9600  
 **Email:** [uniforms@bibibaba.com.sg](mailto:uniforms@bibibaba.com.sg)
 
 ![](/images/office1.png)
