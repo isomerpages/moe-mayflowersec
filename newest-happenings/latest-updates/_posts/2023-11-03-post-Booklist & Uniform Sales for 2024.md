@@ -11,9 +11,11 @@ variant: markdown
 
 ![](/images/booklist2024.jpg)
 
+## Bookshop Purchase
+
 ### Booklist 2024
 
-[Sec1 G1 Booklist 2024.pdf](files/2024%20Booklist/s1g1%20booklist%202023.pdf)  
+[Sec1 G1 Booklist 2024.pdf](/files/2024%20Booklist/s1g1%20booklist%202023.pdf)  
 [Sec1 G2 Booklist 2024.pdf](/files/2024%20Booklist/s1g2%20booklist%202023.pdf)  
 [Sec1 G3 Booklist 2024 .pdf](/files/2024%20Booklist/s1g3%20booklist%202023.pdf)   
 [Sec 2 Exp Booklist 2024.pdf](/files/2024%20Booklist/s2%20exp%20booklist%202023.pdf)  
@@ -26,6 +28,22 @@ variant: markdown
 [Sec 4 NA Booklist 2024.pdf](/files/2024%20Booklist/s4%20na%20booklist%202023.pdf)  
 [Sec 4 NT Booklist 2024.pdf](/files/2024%20Booklist/s4%20nt%20booklist%202023.pdf)  
 [Sec 5 NA Booklist 2024.pdf](/files/2024%20Booklist/s5%20na%20booklist%202023.pdf)
+
+### Sec 2-5 Walk-in purchase, online / FAS collection
+
+**Online order dates:** 8 Nov 2023, 9am to 7 Dec 2023, 11.59pm
+**Walk-in sales dates:** 14 Nov to 12 Dec 2023  
+**Time:** 9am to 3pm daily  
+**Notes:**
+Closed on Saturday, Sunday and Public Holidays  
+#### Mode of Order:
+**Online order**
+* Login to [mfss.cascoedusupply.com.sg](https://mfss.cascoedusupply.com.sg) and register an account 
+* Online order start date: 8 Nov 2023, 9am
+* Home delivery at $13 per address or self-collection at school bookshop
+* Sales of books will start on 14 Nov 2023
+
+## Uniform Purchase
 
 ### Sec 2-5 Walk-in purchase, online / FAS collection
 
