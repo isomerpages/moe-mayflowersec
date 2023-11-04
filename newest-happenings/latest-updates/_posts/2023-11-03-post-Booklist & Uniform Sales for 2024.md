@@ -31,17 +31,25 @@ variant: markdown
 
 ### Sec 2-5 Walk-in purchase, online / FAS collection
 
-**Online order dates:** 8 Nov 2023, 9am to 7 Dec 2023, 11.59pm
-**Walk-in sales dates:** 14 Nov to 12 Dec 2023  
+**Online order dates:** 8 Nov 2023, 9am to 7 Dec 2023, 11.59pm  
+**Book sales dates:** 14 Nov to 12 Dec 2023  
 **Time:** 9am to 3pm daily  
-**Notes:**
+**Notes:**  
 Closed on Saturday, Sunday and Public Holidays  
+
 #### Mode of Order:
 **Online order**
 * Login to [mfss.cascoedusupply.com.sg](https://mfss.cascoedusupply.com.sg) and register an account 
-* Online order start date: 8 Nov 2023, 9am
 * Home delivery at $13 per address or self-collection at school bookshop
-* Sales of books will start on 14 Nov 2023
+* Sales of books will start on 14 Nov 2023 to 12 Dec 2023 (For Sec 2 - 5)
+* Note - Due to high order volume during this season, waiting time for home delivery service may take up to 2 weeks for your items to be delivered.
+**Mode of payment:** 
+* Credit Card (Visa/Master)
+* PayNow
+* Cash
+* NETS
+* NTUC Care Fund (e-Vouchers)
+
 
 ## Uniform Purchase
 
