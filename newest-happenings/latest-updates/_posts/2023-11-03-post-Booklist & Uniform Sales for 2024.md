@@ -49,7 +49,7 @@ variant: markdown
 
 **Mode of payment:** 
 * Credit Card (Visa/Master) [Online/Walk-in]
-* PayNow [Online/Walk-in]
+* PayNow [Online]
 * Cash [Walk-in]
 * NETS [Walk-in]
 * NTUC Care Fund (e-Vouchers) [Walk-in]
