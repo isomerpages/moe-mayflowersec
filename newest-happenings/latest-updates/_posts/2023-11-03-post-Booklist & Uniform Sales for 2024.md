@@ -32,7 +32,7 @@ variant: markdown
 ### Bookshop Sec 2-5 Walk-in purchase, online / FAS collection
 
 **Online order dates:** 8 Nov 2023, 9am to 7 Dec 2023, 11.59pm  
-**Collection/Walk-in purchase dates:** 14 Nov to 12 Dec 2023  
+**Collection/Walk-in purchase dates:** 14 Nov to 12 Dec 2023 (For Sec 2 - 5)  
 **Time:** 9am to 3pm daily  
 **Notes:**  
 * Closed on Saturday, Sunday and Public Holidays  
@@ -44,7 +44,6 @@ variant: markdown
 **Online order**
 * Login to [mfss.cascoedusupply.com.sg](https://mfss.cascoedusupply.com.sg) and register an account 
 * Home delivery at $13 per address or self-collection at school bookshop
-* Sales of books will start on 14 Nov 2023 to 12 Dec 2023 (For Sec 2 - 5)
 * Note - Due to high order volume during this season, waiting time for home delivery service may take up to 2 weeks for your items to be delivered.  
 
 
