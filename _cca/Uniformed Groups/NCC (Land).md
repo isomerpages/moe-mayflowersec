@@ -3,6 +3,7 @@ title: NCC (Land)
 permalink: /cca/Uniformed-Groups/ncc-land/permalink/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 &gt; To Serve with Pride and Dedication
 
@@ -55,4 +56,4 @@ Photos
 
 Video
 -----
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/W7IowZGW0DI" title="Mayflower Secondary School - NCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+[![NCC Fancy Drill](/images/mfss%20-%20ncc%20yt.jpg)](http://www.youtube.com/watch?v=W7IowZGW0DI/)
