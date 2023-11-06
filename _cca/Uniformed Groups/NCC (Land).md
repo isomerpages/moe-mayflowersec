@@ -41,8 +41,8 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 | Designation | Name|
 |---|---|
 | Teachers-in-Charge 	| Mr Tham Wen Xi (i/c)<br>Mr Naguib Ngadnan<br>Mr Tan Kok Meng 	|
-| Unit Sergeant Major (USM) 	| Chua Yi Xian (4F) 	|
-| Assistant Sergeant Major (ASM) 	| Yeo Ze Khai (4E) 	|
+| Unit Sergeant Major (USM) 	| Yee Teng Fong (4I) 	|
+| Assistant Sergeant Major (ASM) 	| Tan Yi Qiang Muhammad Faizul (4B) 	|
 
 ### Training Schedule
 
