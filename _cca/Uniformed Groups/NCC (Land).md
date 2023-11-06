@@ -52,7 +52,7 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIGTgeo_DpQGzoCcvpQgxkmrU_DS_AcUlhz90vWp0le4H3Kq3d9-StOPDYWk17p24D-5p-4VkTU7t5/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTH893lfE0IAofeHlJSvwnQzk1sy3NFIQeowemLXVtEl6IkHJ4itvFPifnV6Jc9Q3LEECExol18zHKU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
 Video
 -----
