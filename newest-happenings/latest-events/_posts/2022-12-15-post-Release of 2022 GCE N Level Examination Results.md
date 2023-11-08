@@ -5,7 +5,9 @@ date: 2022-12-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
+![](/images/Release%20of%202022%20GCE%20N-Level%20Exam.jpg) 
 
 The results of the 2022 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on Monday, 19 December 2022, 2.00 pm.
 
