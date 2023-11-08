@@ -4,6 +4,7 @@ permalink: /timetable/
 description: Timetable for normal and Home-Based Learning week,
   remdial/supplementary Schedule
 image: /images/2023 Sem 1-1.png
+variant: markdown
 ---
 #### 2023 Post-Exam Timetable
 *Updated as of 11 Oct 2023*
@@ -12,7 +13,13 @@ image: /images/2023 Sem 1-1.png
 |---|---|
 |[Sec 1 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%201).pdf) | [Post Exam Schedule 23 to 26 Oct](/files/2023%20Sem%202%20Timetables/2023%20eoy%20post%20exams%20schedule%2023%20to%2026%20oct.pdf)
 |[Sec 2 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%202).pdf) |  [Post Exam Schedule 23 to 26 Oct](/files/2023%20Sem%202%20Timetables/2023%20eoy%20post%20exams%20schedule%2023%20to%2026%20oct.pdf)
-|[Sec 3 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%203).pdf) | [Post Exam Schedule 23 to 26 Oct](/files/2023%20Sem%202%20Timetables/2023%20eoy%20post%20exams%20schedule%2023%20to%2026%20oct.pdf)<br> [Sec 3 Prep Programme (23 Oct to 3 Nov)](/files/2023%20timetable%20sec%203%20prep%20programme%20(23%20oct%20-%20%203%20nov)%20(sec%203).pdf)|
+|[Sec 3 Script Check Timetable 2023](/files/2023%20Sem%202%20Timetables/2023%20timetable%20script%20check%2016%20-%2020%20oct%20(sec%203).pdf) | [Post Exam Schedule 23 to 26 Oct](/files/2023%20Sem%202%20Timetables/2023%20eoy%20post%20exams%20schedule%2023%20to%2026%20oct.pdf) |
+
+
+Sec 3 Prep Programme
+--------------------
+![](/images/prep.jpg) 
+[Sec 3 Prep Programme (23 Oct to 3 Nov)](/files/2023%20timetable%20sec%203%20prep%20programme%20(23%20oct%20-%20%203%20nov)%20(sec%203).pdf)
 
 
 #### 2023 End of Year Exam Timetable
@@ -49,12 +56,14 @@ Please note that the 4 HBL weeks for 2023 Semester 2 are as follows:
 <hr style="height:3px; background-color: #000000">
 
 #### September Holiday 2023 Academic Programme
+![](/images/sept.jpg)
+
 [Holiday Schedule PDF](/files/sept%20hols%20acad%20prog%202023.pdf)
 
 <hr style="height:3px; background-color: #000000">
 
 ####  2023 GCE 'O' Preliminary Examination
-
+![](/images/prelim.jpeg)
 Note:
 - For 5NA, 4EX, 4NA
 
@@ -73,6 +82,8 @@ Note:
 <hr style="height:3px; background-color: #000000">
 
 #### Term 3 Remedial / Supplementary Schedule
+
+![](/images/remedial.jpeg)
 Note:
 - Remedial will commence in Week 2 (6 July 2023)
 
@@ -101,6 +112,8 @@ Note:
 
 
 #### Term 1 Remedial / Supplementary Schedule
+
+![](/images/supp.jpg)
 Please be informed that the TERM 1 remedial/ supplementary will commence in Week 4 (25 Jan) and end on Week 10 (10 Mar).
 
 
