@@ -36,13 +36,13 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 | 2017 | Army - NCC Badge Test | Gold |
 
 
-### Staff and Committe Members
+### Staff and Committee Members
 
 | Designation | Name|
 |---|---|
-| Teachers-in-Charge 	| Mr Tham Wen Xi (i/c)<br>Mr Naguib Ngadnan<br>Mr Tan Kok Meng 	|
-| Unit Sergeant Major (USM) 	| Yee Teng Fong (4I) 	|
-| Assistant Sergeant Major (ASM) 	| Tan Yi Qiang Muhammad Faizul (4B) 	|
+| Teachers-in-Charge 	| CPT (NCC) Tham Wen Xi (i/c) <br>CPT (NCC) Tan Kok Meng <br>2LT (NCC) Ng Boon Yong <br>Mr Naguib Ngadnan 	|
+| Unit Sergeant Major (USM) 	| MSG Yee Teng Fong (4I) 	|
+| Assistant Sergeant Major (ASM) 	| MSG Tan Yi Qiang Muhammad Faizul (4B) 	|
 
 ### Training Schedule
 
