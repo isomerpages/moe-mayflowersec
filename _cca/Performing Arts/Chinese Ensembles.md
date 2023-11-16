@@ -3,6 +3,7 @@ title: Chinese Ensembles
 permalink: /cca/Performing-Arts/chinese-ensembles/permalink/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 &gt; To Nuture Students with a Love for Chinese Music
 
@@ -48,4 +49,4 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 Photos
 ------
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIzJlll1fwp77WGLDpkEt_-f16SqR2a_82CEJUukQSQ9n5eo4GQxtyxEuOFbudxOSagAAcaRx39ubL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSujFqRcflV52xr_q-SL7ZHkEIv-T8fReOw6oCFWoXZXmxIhGltxpn0j3W1Of4071A0J4UReg88XKo6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>

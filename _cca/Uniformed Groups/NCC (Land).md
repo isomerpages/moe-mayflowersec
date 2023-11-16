@@ -3,6 +3,7 @@ title: NCC (Land)
 permalink: /cca/Uniformed-Groups/ncc-land/permalink/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 &gt; To Serve with Pride and Dedication
 
@@ -35,13 +36,13 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 | 2017 | Army - NCC Badge Test | Gold |
 
 
-### Staff and Committe Members
+### Staff and Committee Members
 
 | Designation | Name|
 |---|---|
-| Teachers-in-Charge 	| Mr Tham Wen Xi (i/c)<br>Mr Naguib Ngadnan<br>Mr Tan Kok Meng 	|
-| Unit Sergeant Major (USM) 	| Chua Yi Xian (4F) 	|
-| Assistant Sergeant Major (ASM) 	| Yeo Ze Khai (4E) 	|
+| Teachers-in-Charge 	| CPT (NCC) Tham Wen Xi (i/c) <br>CPT (NCC) Tan Kok Meng <br>2LT (NCC) Ng Boon Yong <br>Mr Naguib Ngadnan 	|
+| Unit Sergeant Major (USM) 	| MSG Yee Teng Fong (4I) 	|
+| Assistant Sergeant Major (ASM) 	| MSG Tan Yi Qiang Muhammad Faizul (4B) 	|
 
 ### Training Schedule
 
@@ -51,8 +52,8 @@ Singapore citizens and permanent residents typically join the NCC as a Co-Curric
 
 Photos
 ------
-<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIGTgeo_DpQGzoCcvpQgxkmrU_DS_AcUlhz90vWp0le4H3Kq3d9-StOPDYWk17p24D-5p-4VkTU7t5/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 62%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTH893lfE0IAofeHlJSvwnQzk1sy3NFIQeowemLXVtEl6IkHJ4itvFPifnV6Jc9Q3LEECExol18zHKU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
 Video
 -----
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/W7IowZGW0DI" title="Mayflower Secondary School - NCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+[![NCC Fancy Drill](/images/mfss%20-%20ncc%20yt.jpg)](http://www.youtube.com/watch?v=W7IowZGW0DI/)

@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /cca/Performing-Arts/modern-dance/permalink/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 &gt;Dance to Express
 
@@ -72,5 +73,4 @@ Photos
 
 Video
 -----
-
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allow="accelerometer; autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture" frameborder="0" title="Modern Dance 2021" src="https://www.youtube.com/embed/6dVqB4-_WdQ"></iframe></div>
+[![MFSS Modern Dance YouTube](/images/mfss%20-%20dance%20yt.jpg)](http://www.youtube.com/watch?v=6dVqB4-_WdQ)

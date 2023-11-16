@@ -5,7 +5,10 @@ date: 2023-01-09
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
+![](/images/Release%20of%202022%20O%20Level.jpg)
+
 The results of the 2022 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination will be released on **Thursday, 12 January 2023, 2.00 pm**.
 
 Arrangements have been made for school candidates to receive the results from their secondary schools from 2.00 pm on 12 January 2023.

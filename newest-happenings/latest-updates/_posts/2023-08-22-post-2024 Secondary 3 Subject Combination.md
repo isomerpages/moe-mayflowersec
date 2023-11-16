@@ -5,7 +5,10 @@ date: 2023-08-22
 layout: post
 description: Sec 3 Subject Combination for 2024
 image: ""
+variant: markdown
 ---
+
+![sec 3 subject allocation](/images/allocation.png)  
 Dear Parents/Guardians of Secondary 2 students,
 
 Please find the attached information to help you and your child make a decision on the subject combination choices for Secondary 3. 
