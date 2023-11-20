@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-To Nurture Students with a Love for Chinese Music
+&gt; To Nurture Students with a Love for Chinese Music
 
 
 The Chinese Ensembles aims to instil an appreciation and enduring passion for music in all our members. We seek to develop our members holistically by equipping them with music skills and developing their ability to manage their time, plan and organise activities. The leadership abilities of students are also developed through a mentoring programme where seniors mentor juniors in organising activities. Most importantly, we seek to instil in our students a sense of care and compassion for their peers and the community around us.
