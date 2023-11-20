@@ -20,9 +20,8 @@ The Chinese Ensembles aims to instil an appreciation and enduring passion for mu
 
 ### Staff and Committee Members
 
-| Column 1 | Column 2 | 
-| -------- | -------- |
 | Teachers-in-Charge     | Mrs Jasmine Chan <br> Mr David Pang<br> Mrs Evelyn Ng     |
+| -------- | -------- |
 | Conductor  | Mr Mike Chiang |
 | Instructors | Ms Jessica Lu <br> Mdm Helen Chen <br> Mr Wu Xiang Yang |
 | President | Tey Shi Yun |
