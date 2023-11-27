@@ -2,6 +2,7 @@
 title: Full SBB
 permalink: /curriculum/full-sbb/permalink/
 description: ""
+variant: markdown
 ---
 Mayflower Secondary is one of the 28 secondary schools piloting aspects of Full Subject-Based Banding (Full SBB) since 2020.
 
@@ -27,11 +28,18 @@ As part of the pilot, our school has implemented these aspects of FSBB:
 
 #### 2\. Organising Lower Secondary classes in new ways
 
+**2021 - 2023 Secondary 1 Cohort**
 *   Each form classes may comprise students from the Express, Normal (Academic) and Normal (Technical) streams.
 *   This common learning experience creates a valuable setting for students to work together, build meaningful friendships, and appreciate different perspectives with students from diverse background and abilities which will benefit them in life. It can also help reduce the inadvertent labelling associated with streaming.
 *   The students will take a set of subjects at a common level together for lower secondary Art, Character &amp; Citizenship Education, Design &amp; Technology, Food &amp; Consumer Education, Music, and Physical Education.
 
 * For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. Express, N(A) or N(T).
+ 
+**2024 Secondary 1 cohort onwards**
+* There will no longer be Express, Normal (Academic) and Normal (Technical) streams.
+* The students will take a set of subjects at a common level together for lower secondary Art, Character &amp; Citizenship Education, Design &amp; Technology, Food &amp; Consumer Education, Music, and Physical Education.
+* For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. G1, G2, G3 (G stands for General)
+* At the end of secondary school, students will sit for the common national examination and receive a new national certification with subjects at G1/G2/G3 levels. Students will use the new certification in the following year to enter JC, Polytechnic or ITE in 2028.
 
   
 For more information on how our school would implement Full SBB, you can contact us at&nbsp;[mayflower\_ss@moe.edu.sg](mailto:mayflower_ss@moe.edu.sg)  
@@ -41,9 +49,9 @@ For more information on how our school would implement Full SBB, you can contact
 
 
 * [ [CNA] A New School Of Thought - Full SBB (13 July 2023)](https://www.channelnewsasia.com/watch/a-new-school-of-thought/full-sbb-3626236). Full Subject-Based Banding will be rolled out to all secondary schools by 2024. What is this policy change all about? Evelyn Tan, television actress and mother of four, finds out. Brought to you by Ministry of Education.
+* [Secondary School experience with Full Subject-Based Banding](https://www.youtube.com/watch?v=FGjXlsTBRN0).  Find out more about being in mixed form classes and having the flexibility to take different subjects at different subject levels in this video.
+* [CNA Feature on Full SBB](https://go.gov.sg/cna-fsbb). Find out what Full SBB looks like when it kicks in.
 
-* ["Talk show" with Min Ong (5 March 2019)](https://www.facebook.com/moesingapore/videos/2725818744113611/). This video shares the rationale behind Full SBB through an interview with Minister Ong.
-*   [Explaining full SBB, (5 March 2019)](https://youtu.be/JMc_GispPmk). This video shows the evolution of the education system, emphasising points where changes were made for greater customisation of learning, and the purpose of these changes.
 
 ### Infographics on Full SBB
 
