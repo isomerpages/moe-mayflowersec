@@ -2,14 +2,15 @@
 title: Our School Advisory Committee
 permalink: /about-us/our-school-advisory-committee/permalink/
 description: ""
+variant: markdown
 ---
 |  |
 | :---: |
-| <img src="/images/School%20Advisory%20Committee/mr_albert_lai-225x300.jpg" style="width:188px">**Mr  Lai Hon Nyien Albert**<br>Chairman |
+| <img src="/images/School%20Advisory%20Committee/mr_philip_chua.png" style="width:188px">**Mr Chua Tin Sien Philip**<br>Chairman |
 
-|  |  |
-| :---: | :---: |
-| <img src="/images/School%20Advisory%20Committee/mr_seow_soon_hee-225x300.jpg" style="width:188px">**Mr Seow Soon Hee**<br>Honorary Patron | <img src="/images/School%20Advisory%20Committee/mr_sum_ah_lam-225x300.jpg" style="width:188px">**Mr Sum Ah Lam**<br>Honorary Patron |
+|  |  | |
+| :---: | :---: | :---: |
+| <img src="/images/School%20Advisory%20Committee/mr_albert_lai-225x300.jpg" style="width:188px">****Mr Lai Hon Nyien Albert****<br>Honorary Patron | <img src="/images/School%20Advisory%20Committee/mr_seow_soon_hee-225x300.jpg" style="width:188px">**Mr Seow Soon Hee**<br>Honorary Patron | <img src="/images/School%20Advisory%20Committee/mr_sum_ah_lam-225x300.jpg" style="width:188px">**Mr Sum Ah Lam**<br>Honorary Patron |
 
 |  |  |
 | :---: | :---: |
@@ -17,6 +18,7 @@ description: ""
 
 |  |  |  |
 | :---: | :---: | :---: |
+| <img src="/images/School%20Advisory%20Committee/mr_anselm_ng.jpg" style="width:188px">**Mr Anselm Ng**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/Kiesha_Prem.png" style="width:188px">**Dr Kiesha Prem**<br>Committee Member
 | <img src="/images/School%20Advisory%20Committee/mr_daniel_tan-225x300.jpg" style="width:188px">**Mr Tan Yong Nam Daniel**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/mrs_may_olivia_tay-225x300.jpg" style="width:188px">**Mrs May Olivia Tay**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/mr_fang_koh_look-225x300.jpg" style="width:188px">**Mr Fang Koh Look**<br>Committee Member |
 
 |  |  |
