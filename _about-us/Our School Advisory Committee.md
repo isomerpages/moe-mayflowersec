@@ -18,7 +18,7 @@ variant: markdown
 
 |  |  |  |
 | :---: | :---: | :---: |
-| <img src="/images/School%20Advisory%20Committee/mr_anselm_ng.jpg" style="width:188px">**Mr Anselm Ng**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/Kiesha_Prem.png" style="width:230px">**Dr Kiesha Prem**<br>Committee Member  |<img src="/images/School%20Advisory%20Committee/7__Jessie_Chong.jpg" style="width:188px">**Ms Jessie Chong**<br>Committee Member |
+| <img src="/images/School%20Advisory%20Committee/mr_anselm_ng.jpg" style="width:188px">**Mr Anselm Ng**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/Kiesha_Prem.png" style="width:230px">**Dr Kiesha Prem**<br>Committee Member  |<img src="/images/School%20Advisory%20Committee/7__Jessie_Chong.jpg" style="width:230px">**Ms Jessie Chong**<br>Committee Member |
 | <img src="/images/School%20Advisory%20Committee/mr_daniel_tan-225x300.jpg" style="width:188px;">**Mr Tan Yong Nam Daniel**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/mrs_may_olivia_tay-225x300.jpg" style="width:188px">**Mrs May Olivia Tay**<br>Committee Member | <img src="/images/School%20Advisory%20Committee/mr_fang_koh_look-225x300.jpg" style="width:188px">**Mr Fang Koh Look**<br>Committee Member |
 
 |  |  |
