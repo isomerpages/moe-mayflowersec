@@ -24,7 +24,7 @@ sections:
           url: /dsa/
   - infopic:
       title: 2023 N-Level Results Release
-      subtitle: 18 December 2023, 2.00 pm
+      subtitle: 🗓 18 December 2023, 2.00 pm
       description: Candidates are to receive their results in the hall. Unwell
         candidates should seek medical attention and not return to school to
         collect their results.
@@ -34,7 +34,7 @@ sections:
       alt: N Level Result Release 2023
   - infopic:
       title: Booklist for 2024
-      subtitle: Back to school
+      subtitle: 🏫 Back to school
       description: Booklist and uniform purchase for 2024 is available.
       button: Read more
       url: /newest-happenings/latest-updates/book-and-uniform-2024/
