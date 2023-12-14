@@ -5,7 +5,8 @@ description: "MAYFLOWER SECONDARY SCHOOL. 2 Ang Mo Kio St 21 Singapore 569384
   Tel: +65 6457 7783 Fax: +65 6458 3284 Email: mayflower_ss@moe.edu.sg."
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: The Secondary 1 (S1) posting results will be released on
+  Wednesday, 20 December 2023, at 9am.
 sections:
   - hero:
       background: /images/Hero_BG/20230309_122210.jpg
