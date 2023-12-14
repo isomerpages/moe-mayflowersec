@@ -55,7 +55,7 @@ As part of the NDLP, schools will progressively roll out ICT applications that a
 | |  |
 | ----: | -------- |
 | **OS** | ChromeOS |
-| **Processor** | Intel N100 |
+| **Processor** | Intel® Quad-core N100 |
 | **RAM and Storage** | 8GB, 64GB |
 | **Battery** | Up to 12 hours |
 | **Weight** | 1.4 kg |
