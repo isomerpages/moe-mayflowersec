@@ -60,7 +60,7 @@ As part of the NDLP, schools will progressively roll out ICT applications that a
 | **Battery** | Up to 12 hours |
 | **Weight** | 1.4 kg |
 | **Screen** | 11.6" IPS, HD 1366 x 768, Multi-Touch |
-| **Accessories** | TouchPad Stylus, wired mouse |
+| **Accessories** | Active Stylus Pen, wired mouse |
 | **Convertible** | Yes (back-flip) |
 | **Shock Resistant** | Yes |
 | **Price w/ GST** | S$ 553.72 |
