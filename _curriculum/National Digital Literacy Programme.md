@@ -2,6 +2,7 @@
 title: National Digital Literacy Programme
 permalink: /curriculum/ndlp/permalink/
 description: ""
+variant: markdown
 ---
 The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with digital literacies to be future-ready.
 
@@ -15,15 +16,15 @@ The aims of NDLP are to:
 
 Watch the video to have a better understanding of how NDLP strengthens Digital Literacy.
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/3FKftVAU4eI" title="Strengthening digital literacy of students | Committee of Supply 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/3FKftVAU4eI" title="Strengthening digital literacy of students | Committee of Supply 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 #### Student And Teacher Experiences
 
 Watch the videos to hear the students' and teachers' voices about NDLP.
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-TCnHCORdYc" title="Digital Learning - Teachers' Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-TCnHCORdYc" title="Digital Learning - Teachers' Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 #### How Will Your Child Be Using Their PLDs?
@@ -49,19 +50,20 @@ As part of the NDLP, schools will progressively roll out ICT applications that a
 | Every secondary school student will be given an iCON account that provides access to email and Google productivity tools. | Every secondary school student will be able to access and use Microsoft Office tools that include Word, PowerPoint and Excel on their PLD. | Every secondary school student will be given a Zoom free account \[with a 40 mins time limit\] using the Student iCON for the students’ video conferencing needs. |
  
 ### Device Information
->  <img src="/images/Acer%20Chromebook.png" style="width:50%"> **Acer Chromebook Spin R753TN**
+&gt;  <img src="/images/Acer%20Chromebook.png" style="width:50%"> **Acer Chromebook Spin R756TN**
 
 | |  |
 | ----: | -------- |
 | **OS** | ChromeOS |
-| **Processor** | Intel N4500 |
+| **Processor** | Intel® Quad-core N100 |
 | **RAM and Storage** | 8GB, 64GB |
 | **Battery** | Up to 12 hours |
-| **Weight** | 1.31kg |
+| **Weight** | 1.4 kg |
 | **Screen** | 11.6" IPS, HD 1366 x 768, Multi-Touch |
-| **Accessories** | Active Pen, wired mouse |
+| **Accessories** | Active Stylus Pen, wired mouse |
 | **Convertible** | Yes (back-flip) |
 | **Shock Resistant** | Yes |
+| **Price w/ GST** | S$ 553.72 |
 
 
 ### Supporting Students in the Safe and Effective Use of PLDs
