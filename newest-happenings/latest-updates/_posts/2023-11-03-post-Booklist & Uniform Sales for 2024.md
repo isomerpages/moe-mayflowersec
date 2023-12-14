@@ -15,9 +15,9 @@ variant: markdown
 
 ### Booklist 2024
 
-[Sec1 G1 Booklist 2024.pdf](/files/2024%20Booklist/s1g1%20booklist%202023.pdf)  
-[Sec1 G2 Booklist 2024.pdf](/files/2024%20Booklist/s1g2%20booklist%202023.pdf)  
-[Sec1 G3 Booklist 2024 .pdf](/files/2024%20Booklist/s1g3%20booklist%202023.pdf)   
+[Sec1 G1 Booklist 2024.pdf](/files/2024%20Booklist/S1G1.pdf)  
+[Sec1 G2 Booklist 2024.pdf](/files/2024%20Booklist/S1G2.pdf)  
+[Sec1 G3 Booklist 2024.pdf](/files/2024%20Booklist/S1G3.pdf)   
 [Sec 2 Exp Booklist 2024.pdf](/files/2024%20Booklist/s2%20exp%20booklist%202023.pdf)  
 [Sec 2 NA Booklist 2024.pdf](/files/2024%20Booklist/s2%20na%20booklist%202023.pdf)  
 [Sec 2 NT Booklist 2024.pdf](/files/2024%20Booklist/s2%20nt%20booklist%202023.pdf)  
