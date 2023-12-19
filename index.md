@@ -23,6 +23,8 @@ sections:
         - title: DSA
           description: ""
           url: /dsa/
+      url: https://sites.google.com/moe.edu.sg/mfss-2024-sec1-reg/
+      variant: center
   - infopic:
       title: 2023 N-Level Results Release
       subtitle: 🗓 18 December 2023, 2.00 pm
