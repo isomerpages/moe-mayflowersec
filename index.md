@@ -23,6 +23,20 @@ sections:
         - title: DSA
           description: ""
           url: /dsa/
+      url: https://sites.google.com/moe.edu.sg/mfss-2024-sec1-reg/
+      variant: center
+      button: Secondary One Registration
+      title: Mayflower Secondary School
+      subtitle: Mighty in Thought and Deed
+  - infopic:
+      title: Secondary 1 e-Registration
+      subtitle: 📣 Announcement
+      description: The Sec 1 Registration online form need to be submitted by 21
+        December 2023, 12 pm. DSA students will also need to register online.
+      button: More info
+      url: https://sites.google.com/moe.edu.sg/mfss-2024-sec1-reg/home
+      image: /images/sec_1_e_reg_2024.jpg
+      alt: Open House 2023
   - infopic:
       title: 2023 N-Level Results Release
       subtitle: 🗓 18 December 2023, 2.00 pm
@@ -41,15 +55,6 @@ sections:
       url: /newest-happenings/latest-updates/book-and-uniform-2024/
       image: /images/booklist2024.jpg
       alt: booklist 2024
-  - infopic:
-      title: Open House 2023
-      subtitle: 📣 Announcement
-      description: Join us on 18th November from 9:30 am to 12:30 pm to discover our
-        programmes.
-      button: More info
-      url: https://linktr.ee/mayfloweroh2023
-      image: /images/open house 2023 banner.jpeg
-      alt: Open House 2023
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
