@@ -25,6 +25,9 @@ sections:
           url: /dsa/
       url: https://sites.google.com/moe.edu.sg/mfss-2024-sec1-reg/
       variant: center
+      button: Secondary One Registration
+      title: Mayflower Secondary School
+      subtitle: Mighty in Thought and Deed
   - infopic:
       title: Secondary 1 e-Registration
       subtitle: 📣 Announcement
