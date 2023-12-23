@@ -3,16 +3,17 @@ title: Mother Tongue
 permalink: /curriculum/Departments/mother-tongue/permalink/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 #### Department Vision
 
 
-> Effective Global Communicators rooted in Values with a Love for the Languages and Cultures
+&gt; Effective Global Communicators rooted in Values with a Love for the Languages and Cultures
 
 #### Department Mission
 
 
-> To nurture **Active Learners, Proficient Users** anchored in values who embrace their ethnic identities.  
+&gt; To nurture **Active Learners, Proficient Users** anchored in values who embrace their ethnic identities.  
 To develop **Forward Thinkers** with a global outlook and appreciation for unity in diversity
 
 
@@ -22,7 +23,6 @@ The Mother Tongue Department believes in the importance of nurturing students to
 | Teacher | Designation | Unit | 
 |---|---|---|
 | Mdm Tan Lay Teng | HOD Mother Tongue | Chinese |
-| Mdm Wang Xueping | Lead Teacher | Chinese |
 | Mrs Tan Woan Chyn | Subject Head | Chinese |
 | Mdm Lai Meei Ju | Teacher | Chinese |
 | Mdm Su Xiaoling | Teacher | Chinese |
@@ -102,7 +102,7 @@ In 2022, we continued to stretch our students by participating in a variety of c
 - 3T National Inter-Schools Translation Competition
 - The 5th National Textbook Recital Competition
 
-Sec 1 & 2 Higher Chinese students attended the ALP Tier 2 training on recital skills. Two teams and two students took part in the 5th Text Recital Competition 2022 under the Group Category and Individual Category respectively.
+Sec 1 &amp; 2 Higher Chinese students attended the ALP Tier 2 training on recital skills. Two teams and two students took part in the 5th Text Recital Competition 2022 under the Group Category and Individual Category respectively.
 
 All participants have been awarded the Silver Award.<br>
 **Individual Category awardees:**
@@ -136,8 +136,8 @@ Photo
 
 Videos
 ------
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zo7eMSentdA" title="Sec 3 MT ALP 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zo7eMSentdA" title="Sec 3 MT ALP 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 <br>
 
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/FSulPK8PmOI" title="MFSS MT ALP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/FSulPK8PmOI" title="MFSS MT ALP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
