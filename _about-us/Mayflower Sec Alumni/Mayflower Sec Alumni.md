@@ -3,27 +3,6 @@ title: Mayflower Sec Alumni
 permalink: /about-us/Mayflower-Sec-Alumni/permalink/
 description: ""
 third_nav_title: Mayflower Sec Alumni
+variant: tiptap
 ---
-<img style="width:40%" src="/images/alumni.jpg">
-
-### Mission
-
-To continue to stay connected with the school, continue supporting her development and well being, as well as inspiring the next generation of Mayflowerians.
-
-### Connect with us
-
-<img align="left" style="width:30px;height:30px;margin-left:15px; margin-right:5px" src="/images/icon_fb.svg"> [Mayflower Secondary Alumni (Official)](https://www.facebook.com/mayfloweralumni/)
-
-<img align="left" style="width:30px;height:30px;margin-left:15px;margin-right:5px" src="/images/icon_instagram.svg"> [mfss\_alumni](https://www.instagram.com/mfss_alumni/)
-
-<img align="left" style="width:30px;height:30px;margin-left:15px;margin-right:5px" src="/images/gmail.png"> [alumni@mf.edu.sg](mailto:alumni@mf.edu.sg)
-
-[Join Us](/about-us/Mayflower-Sec-Alumni/alumni-registration/permalink/)
-
-Video
------
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Alumni Interview - MFSS Publicity Video 2016" src="https://www.youtube.com/embed/cCEgjRt-zSc"></iframe></div>
-
-Hall of Fame
------
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyrhvqBaiOClp2UDeIDwIqol0VR0b8_A66HugkycrYhdoELtIHo4LHG1Hnc-XcPJ-G6rkrnbCV9EwN/embed?start=1&amp;loop=1&amp;delayms=3000"></iframe></div>
+<div class="isomer-image-wrapper"><img style="width:40%" height="auto" width="100%" src="/images/alumni.jpg"></div><h3>Mission</h3><blockquote><p>To stay connected with the school, continue supporting her development and well-being, and inspire the next generation of Mayflowerians.</p></blockquote><h3>Connect with us</h3><div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mayfloweralumni/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Facebook icon" src="/images/icon_fb.svg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mayflower Secondary Alumni (Official)</div><div class="isomer-card-link">Follow on FB</div></div></a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/mfss_alumni/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Instagram icon" src="/images/icon_instagram.svg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">mfss_alumni</div><div class="isomer-card-link">Follow on IG</div></div></a><a rel="noopener noreferrer nofollow" href="mailto:alumni@mf.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gmail icon" src="/images/gmail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Email</div><div class="isomer-card-link">Contact us</div></div></a></div><p><a href="/about-us/Mayflower-Sec-Alumni/alumni-registration/permalink/" rel="noopener noreferrer nofollow" target="_blank">📝 Register to be part of the MFSS Alumni contact list</a></p><h2>Video</h2><div class="iframe-wrapper"><iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cCEgjRt-zSc?si=T6BoIMfUIHBc24NT"></iframe></div><h2>Hall of Fame</h2><div class="iframe-wrapper"><iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRGzM2rEdGXXkkHFHK892PTAvt3w6FDaU9MgVURcwvTESHWk_N2XZesEQ14vp8wi8PYSeezRY-cpJS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><p></p>

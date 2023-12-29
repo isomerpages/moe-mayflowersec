@@ -3,35 +3,6 @@ title: Performing Arts
 permalink: /cca/Performing-Arts/permalink/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-<div style="position:relative;width:100%;padding-bottom: 56.25%;height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/bGvnP8zjQ8Q" title="MFSS Performing Arts CCAs: Interview with Our Students" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-**Congratulations to our Performing Arts groups for their achievements at the Singapore Youth Festival 2023!**
-
-| Performing Arts Groups | Achievements |
-| --- | --- |
-| [Chinese Dance](/cca/Performing-Arts/chinese-dance/permalink/) | Certificate of Distinction |
-| [Chinese Ensemble (Percussion)](/cca/Performing-Arts/chinese-ensembles/permalink/) | Certificate of Distinction |
-| [Chinese Ensemble (Plucking)](/cca/Performing-Arts/chinese-ensembles/permalink/) | Certificate of Distinction |
-| [Choir](/cca/Performing-Arts/choir/permalink/) | Certificate of Distinction |
-| [Concert Band](/cca/Performing-Arts/concert-band/permalink/) | Certificate of Accomplishment |
-| [Drama](/cca/Performing-Arts/drama/permalink/) | Certificate of Distinction |
-| [Modern Dance](/cca/Performing-Arts/modern-dance/permalink/) | Certificate of Accomplishment |
-
-#### Concert Band
-[![Concert Band](/images/CCA%20thumbnails/performing%20art%20page%20-%20concert%20band.jpeg)](/cca/Performing-Arts/concert-band/permalink/)
-
-#### Chinese Dance
-[![Chinese Dance](/images/CCA%20thumbnails/performing%20art%20page%20-%20chinese%20dance.jpeg)](/cca/Performing-Arts/chinese-dance/permalink/)
-
-#### Chinese Ensemble
-[![Chinese Ensemble](/images/CCA%20thumbnails/performing%20art%20page%20-%20chinese%20emsembles.jpeg)](/cca/Performing-Arts/chinese-ensembles/permalink/)
-
-#### Choir
-[![Choir](/images/CCA%20thumbnails/performing%20art%20page%20-%20choir.jpeg)](/cca/Performing-Arts/choir/permalink/)
-
-#### Drama
-[![Drama](/images/CCA%20thumbnails/performing%20art%20page%20-%20drama.jpeg)](/cca/Performing-Arts/drama/permalink/)
-
-#### Modern Dance
-[![Modern Dance](/images/CCA%20thumbnails/performing%20art%20page%20-%20modern%20dance.jpeg)](/cca/Performing-Arts/modern-dance/permalink/)
+<div class="iframe-wrapper"><iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bGvnP8zjQ8Q?si=5uHCRaBcIJ8TWNgK"></iframe></div><p><strong>Congratulations to our Performing Arts groups for their achievements at the Singapore Youth Festival 2023!</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Performing Arts Groups</p></th><th rowspan="1" colspan="1"><p>Achievements</p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="/cca/Performing-Arts/chinese-dance/permalink/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a></p></td><td rowspan="1" colspan="1"><p>Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/cca/Performing-Arts/chinese-ensembles/permalink/" rel="noopener noreferrer nofollow" target="_blank">Chinese Ensemble (Percussion)</a></p></td><td rowspan="1" colspan="1"><p>Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/cca/Performing-Arts/chinese-ensembles/permalink/" rel="noopener noreferrer nofollow" target="_blank">Chinese Ensemble (Plucking)</a></p></td><td rowspan="1" colspan="1"><p>Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/cca/Performing-Arts/choir/permalink/" rel="noopener noreferrer nofollow" target="_blank">Choir</a></p></td><td rowspan="1" colspan="1"><p>Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/cca/Performing-Arts/concert-band/permalink/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a></p></td><td rowspan="1" colspan="1"><p>Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/cca/Performing-Arts/drama/permalink/" rel="noopener noreferrer nofollow" target="_blank">Drama</a></p></td><td rowspan="1" colspan="1"><p>Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/cca/Performing-Arts/modern-dance/permalink/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></p></td><td rowspan="1" colspan="1"><p>Certificate of Accomplishment</p></td></tr></tbody></table><h4>Concert Band</h4><a class="isomer-image-wrapper" href="/cca/Performing-Arts/concert-band/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/performing art page - concert band.jpeg"></a><h4>Chinese Dance</h4><a class="isomer-image-wrapper" href="/cca/Performing-Arts/chinese-dance/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/performing art page - chinese dance.jpeg"></a><h4>Chinese Ensemble</h4><a class="isomer-image-wrapper" href="/cca/Performing-Arts/chinese-ensembles/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/performing art page - chinese emsembles.jpeg"></a><h4>Choir</h4><a class="isomer-image-wrapper" href="/cca/Performing-Arts/choir/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/performing art page - choir.jpeg"></a><h4>Drama</h4><a class="isomer-image-wrapper" href="/cca/Performing-Arts/drama/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/performing art page - drama.jpeg"></a><h4>Modern Dance</h4><a class="isomer-image-wrapper" href="/cca/Performing-Arts/modern-dance/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/performing art page - modern dance.jpeg"></a><p></p>
