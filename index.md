@@ -29,7 +29,7 @@ sections:
       subtitle: Mighty in Thought and Deed
   - infopic:
       title: 2023 O-Level Results Release
-      subtitle: 📅 11 JANUARY 2024, 2.00 PM
+      subtitle: 🗓️ 11 JANUARY 2024, 2.00 PM
       description: Candidates are to receive their results in the hall. Unwell
         candidates should seek medical attention and not return to school to
         collect their results.
@@ -48,7 +48,7 @@ sections:
       alt: Open House 2023
   - infopic:
       title: 2023 N-Level Results Release
-      subtitle: 🗓 18 December 2023, 2.00 pm
+      subtitle: 🗓️ 18 December 2023, 2.00 pm
       description: Candidates are to receive their results in the hall. Unwell
         candidates should seek medical attention and not return to school to
         collect their results.
