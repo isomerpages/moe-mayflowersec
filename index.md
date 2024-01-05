@@ -35,7 +35,7 @@ sections:
         collect their results.
       button: More info
       url: /newest-happenings/latest-events/release-o-level-2023-result/
-      image: /images/booklist2024.jpg
+      image: /images/Release_of_o_level_result.jpg
       alt: O Level Result Release 2023
   - infopic:
       title: Secondary 1 e-Registration
