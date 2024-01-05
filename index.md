@@ -28,7 +28,7 @@ sections:
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
   - infopic:
-      title: O-Level Results Release
+      title: 2023 O-Level Results Release
       subtitle: 📅 11 JANUARY 2024, 2.00 PM
       description: Candidates are to receive their results in the hall. Unwell
         candidates should seek medical attention and not return to school to
