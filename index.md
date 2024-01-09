@@ -28,6 +28,15 @@ sections:
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
   - infopic:
+      title: Sec 1 CCA Information
+      subtitle: 📣 Announcement
+      description: Choosing a co-curricular activity (CCA) can be exciting! Here are
+        some steps to help you decide.
+      button: More info
+      url: /newest-happenings/latest-events/sec-1-cca-info-2024/
+      image: /images/CCA_Information_for_Sec_1.jpg
+      alt: N Level Result Release 2023
+  - infopic:
       title: 2023 O-Level Results Release
       subtitle: 🗓️ 11 JANUARY 2024, 2.00 PM
       description: Candidates are to receive their results in the hall. Unwell
@@ -46,15 +55,6 @@ sections:
       url: https://sites.google.com/moe.edu.sg/mfss-2024-sec1-reg/home
       image: /images/sec_1_e_reg_2024.jpg
       alt: Open House 2023
-  - infopic:
-      title: Sec 1 CCA Information
-      subtitle: 📣 Announcement
-      description: Choosing a co-curricular activity (CCA) can be exciting! Here are
-        some steps to help you decide.
-      button: More info
-      url: /newest-happenings/latest-events/sec-1-cca-info-2024/
-      image: /images/CCA_Information_for_Sec_1.jpg
-      alt: N Level Result Release 2023
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
