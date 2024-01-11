@@ -28,6 +28,16 @@ sections:
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
   - infopic:
+      title: Sec 1 Parent Engagement Session
+      subtitle: 🗓️ 4 JANUARY 2024
+      description: You can refer to the School-Parent Engagement Session slides shared
+        on the 4th Jan for information on Academic and Non-Academic matters and
+        policies.
+      button: More info
+      url: /newest-happenings/latest-updates/sec-1-parent-engagement-2024/
+      image: /images/2024Talk_to_Sec_1_parents__Cover_.jpg
+      alt: Open House 2023
+  - infopic:
       title: Sec 1 CCA Information
       subtitle: 📣 Announcement
       description: Choosing a co-curricular activity (CCA) can be exciting! Here are
@@ -46,15 +56,6 @@ sections:
       url: /newest-happenings/latest-events/release-o-level-2023-result/
       image: /images/Release_of_o_level_result.jpg
       alt: O Level Result Release 2023
-  - infopic:
-      title: Secondary 1 e-Registration
-      subtitle: 📣 Announcement
-      description: The Sec 1 Registration online form need to be submitted by 21
-        December 2023, 12 pm. DSA students will also need to register online.
-      button: More info
-      url: https://sites.google.com/moe.edu.sg/mfss-2024-sec1-reg/home
-      image: /images/sec_1_e_reg_2024.jpg
-      alt: Open House 2023
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
