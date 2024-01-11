@@ -1,5 +1,5 @@
 ---
-title: Sec 1 CCA Information 2024
+title: Sec 1 CCA exploration sessions 2024
 permalink: /newest-happenings/latest-events/sec-1-cca-info-2024/
 date: 2024-01-09
 layout: post
