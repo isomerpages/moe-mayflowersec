@@ -1,0 +1,16 @@
+logo: /images/logo.png
+links:
+  - title: About us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Student Development
+    collection: student-development
+  - title: Cca
+    collection: cca
+  - title: Parents
+    collection: parents
+  - title: Links
+    collection: links
+  - title: Latest Happenings
+    resource_room: true

@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our History.md
+      - Principal's Message.md
+      - Our Staff.md
+      - Our Identity.md
+      - Our School Advisory Committee.md
+      - Mayflower Sec Alumni/.keep
+      - Mayflower Sec Alumni/Mayflower Sec Alumni.md
+      - Mayflower Sec Alumni/Alumni Registration.md
+      - Contact us.md
+      - Newsletter & Yearbook.md

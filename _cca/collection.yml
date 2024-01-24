@@ -1,0 +1,32 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - "LLP: Aesthetics.md"
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Chinese Ensembles.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Modern Dance.md
+      - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Basketball.md
+      - Sports/Bowling.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Table Tennis.md
+      - Sports/Taekwondo.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/NCC (Land).md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Scouts.md
+      - Clubs/.keep
+      - Clubs/Clubs.md
+      - Clubs/Enterprise Club.md
+      - Clubs/Infocomm Club.md
+      - Clubs/Literary and Oratorical Club.md
