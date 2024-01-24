@@ -28,6 +28,14 @@ sections:
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
   - infopic:
+      title: The Mayflower Promise
+      subtitle: 📰 2023, Issue 4
+      description: Our newsletter
+      button: Read more
+      url: /about-us/newsletter-yearbook/permalink/
+      image: /images/The_Mayflower_Promise__Issue_4__2023__thumb.png
+      alt: Mayflower Promise, Issue 4
+  - infopic:
       title: Sec 1 Parent Engagement Session
       subtitle: 🗓️ 4 JANUARY 2024
       description: You can refer to the School-Parent Engagement Session slides shared
@@ -46,16 +54,6 @@ sections:
       url: /newest-happenings/latest-events/sec-1-cca-info-2024/
       image: /images/CCA_Information_for_Sec_1.jpg
       alt: N Level Result Release 2023
-  - infopic:
-      title: 2023 O-Level Results Release
-      subtitle: 🗓️ 11 JANUARY 2024, 2.00 PM
-      description: Candidates are to receive their results in the hall. Unwell
-        candidates should seek medical attention and not return to school to
-        collect their results.
-      button: More info
-      url: /newest-happenings/latest-events/release-o-level-2023-result/
-      image: /images/Release_of_o_level_result.jpg
-      alt: O Level Result Release 2023
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
