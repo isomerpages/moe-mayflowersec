@@ -46,13 +46,13 @@ sections:
       image: /images/2024Talk_to_Sec_1_parents__Cover_.jpg
       alt: Open House 2023
   - infopic:
-      title: Sec 1 CCA Information
+      title: 2024 Term 1 Remedial / Supplementary schedule
       subtitle: 📣 Announcement
-      description: Choosing a co-curricular activity (CCA) can be exciting! Here are
-        some steps to help you decide.
+      description: Please be informed that the TERM 1 remedial/ supplementary will
+        commence in Week 5 (29 Jan) and end on Week 10 (8 Mar).
       button: More info
       url: /newest-happenings/latest-events/sec-1-cca-info-2024/
-      image: /images/CCA_Information_for_Sec_1.jpg
+      image: /images/supp.jpg
       alt: N Level Result Release 2023
   - resources:
       title: Latest Happenings
