@@ -33,7 +33,7 @@ sections:
       description: Please be informed that the TERM 1 remedial/ supplementary will
         commence in Week 5 (29 Jan) and end on Week 10 (8 Mar).
       button: More info
-      url: /newest-happenings/latest-events/sec-1-cca-info-2024/
+      url: /timetable/
       image: /images/supp.jpg
       alt: N Level Result Release 2023
   - infopic:
