@@ -28,6 +28,15 @@ sections:
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
   - infopic:
+      title: 2024 Term 1 Remedial / Supplementary schedule
+      subtitle: 📣 Announcement
+      description: Please be informed that the TERM 1 remedial/ supplementary will
+        commence in Week 5 (29 Jan) and end on Week 10 (8 Mar).
+      button: More info
+      url: /newest-happenings/latest-events/sec-1-cca-info-2024/
+      image: /images/supp.jpg
+      alt: N Level Result Release 2023
+  - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2023, Issue 4
       description: Our newsletter
@@ -45,15 +54,6 @@ sections:
       url: /newest-happenings/latest-updates/sec-1-parent-engagement-2024/
       image: /images/2024Talk_to_Sec_1_parents__Cover_.jpg
       alt: Open House 2023
-  - infopic:
-      title: Sec 1 CCA Information
-      subtitle: 📣 Announcement
-      description: Choosing a co-curricular activity (CCA) can be exciting! Here are
-        some steps to help you decide.
-      button: More info
-      url: /newest-happenings/latest-events/sec-1-cca-info-2024/
-      image: /images/CCA_Information_for_Sec_1.jpg
-      alt: N Level Result Release 2023
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
