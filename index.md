@@ -5,7 +5,7 @@ description: "MAYFLOWER SECONDARY SCHOOL. 2 Ang Mo Kio St 21 Singapore 569384
   Tel: +65 6457 7783 Fax: +65 6458 3284 Email: mayflower_ss@moe.edu.sg."
 image: /images/logo.png
 permalink: /
-notification: 2024 Sem 1 Timetable is now available in the "Timetable" Subpage.
+notification: ""
 sections:
   - hero:
       background: /images/Hero_BG/20230309_122210.jpg
@@ -22,9 +22,7 @@ sections:
         - title: DSA
           description: ""
           url: /dsa/
-      url: https://sites.google.com/moe.edu.sg/mfss-2024-sec1-reg/
       variant: center
-      button: Secondary One Registration
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
   - infopic:
