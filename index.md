@@ -31,7 +31,7 @@ sections:
       id: infopic
       description: Catch us on 22nd of March as we unfold stories of friendship,
         resilience and role-modelling.
-      button: Get YOUR tickets now! 😀
+      button: Get YOUR tickets now!
       url: https://forms.moe.edu.sg/forms/eLXQae
       image: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
       alt: Image alt text
