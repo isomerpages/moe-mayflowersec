@@ -25,12 +25,14 @@ sections:
       variant: center
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
+      button: "Get tickets to the museum: harmony unveiled"
+      url: https://forms.moe.edu.sg/forms/eLXQae
   - infopic:
       title: "The Museum: Harmony Unveiled"
       subtitle: Aesthetics Production 2024
       id: infopic
-      description: Catch us on 22nd of March as we unfold stories of friendship,
-        resilience and role-modelling.
+      description: "Catch us on 22nd of March as we unfold stories of friendship,
+        resilience and role-modelling. Trailer Video: "
       button: Get YOUR tickets now!
       url: https://forms.moe.edu.sg/forms/eLXQae
       image: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
