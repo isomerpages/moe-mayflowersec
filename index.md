@@ -26,14 +26,32 @@ sections:
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
   - infopic:
-      title: 2024 Term 1 Remedial / Supplementary schedule
-      subtitle: 📣 Announcement
-      description: Please be informed that the TERM 1 remedial/ supplementary will
-        commence in Week 5 (29 Jan) and end on Week 10 (8 Mar).
-      button: More info
-      url: /timetable/
-      image: /images/supp.jpg
-      alt: N Level Result Release 2023
+      title: "The Museum: Harmony Unveiled"
+      subtitle: Aesthetics Production 2024
+      id: infopic
+      description: Catch us on 22nd of March as we unfold stories of friendship,
+        resilience and role-modelling.
+      button: Get YOUR tickets now! 😀
+      url: https://forms.moe.edu.sg/forms/eLXQae
+      image: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
+      alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: 2024 Term 1 Remedial / Supplementary schedule
+          date: 28 January 2024
+          announcement: Please be informed that the Term 1 remedial/ supplementary will
+            commence in Week 5 (29 Jan) and end on Week 10 (8 Mar).
+          link_text: GO TO TIMETABLE
+          link_url: /timetable/
+        - title: Sec 1 Parent Engagement Session
+          date: 04 January 2024
+          announcement: You can refer to the School-Parent Engagement Session slides
+            shared on the 4th Jan for information on Academic and Non-Academic
+            matters and policies.
+          link_text: MORE INFO
+          link_url: /newest-happenings/latest-updates/sec-1-parent-engagement-2024/
   - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2023, Issue 4
@@ -42,16 +60,6 @@ sections:
       url: /about-us/newsletter-yearbook/permalink/
       image: /images/The_Mayflower_Promise__Issue_4__2023__thumb.png
       alt: Mayflower Promise, Issue 4
-  - infopic:
-      title: Sec 1 Parent Engagement Session
-      subtitle: 🗓️ 4 JANUARY 2024
-      description: You can refer to the School-Parent Engagement Session slides shared
-        on the 4th Jan for information on Academic and Non-Academic matters and
-        policies.
-      button: More info
-      url: /newest-happenings/latest-updates/sec-1-parent-engagement-2024/
-      image: /images/2024Talk_to_Sec_1_parents__Cover_.jpg
-      alt: Open House 2023
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
