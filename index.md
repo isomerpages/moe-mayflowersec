@@ -34,7 +34,7 @@ sections:
       button: Get YOUR tickets now!
       url: https://forms.moe.edu.sg/forms/eLXQae
       image: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
-      alt: Image alt text
+      alt: Aesthetics Production Poster
   - announcements:
       title: Announcements
       id: announcements
