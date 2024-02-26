@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_BG/20230309_122210.jpg
+      background: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
       key_highlights:
         - title: Achievements
           description: ""
@@ -25,7 +25,7 @@ sections:
       variant: center
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
-      button: "Get tickets to the museum: harmony unveiled"
+      button: Get your tickets now
       url: https://forms.moe.edu.sg/forms/eLXQae
   - infopic:
       title: "The Museum: Harmony Unveiled"
