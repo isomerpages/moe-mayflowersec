@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
+      background: /images/Hero_BG/Hero_banner___the_museum__harmony_unveiled.jpg
       key_highlights:
         - title: Achievements
           description: ""
