@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uvGqTMs5XiU?si=RRxjknLej7McwRtB"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uvGqTMs5XiU?si=RRxjknLej7McwRtB"></iframe>
 </div>
 <p>Join us on a mysterious journey through The Museum, An Original Mayflower
 Production. The Museum brings back memories and lessons of a Zest for Life,
