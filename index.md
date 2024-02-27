@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_BG/Hero_banner___the_museum__harmony_unveiled.jpg
+      background: /images/Hero_BG/20230309_122210.jpg
       key_highlights:
         - title: Achievements
           description: ""
