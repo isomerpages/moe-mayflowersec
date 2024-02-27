@@ -25,8 +25,8 @@ sections:
       variant: center
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
-      button: "Get tickets to the museum: harmony unveiled"
-      url: https://forms.moe.edu.sg/forms/eLXQae
+      button: Aesthetics Production 2024
+      url: /newest-happenings/latest-events/aesthetics-production-2024-publicity/
   - infopic:
       title: "The Museum: Harmony Unveiled"
       subtitle: Aesthetics Production 2024
