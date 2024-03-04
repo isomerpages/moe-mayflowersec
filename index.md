@@ -25,18 +25,6 @@ sections:
       variant: center
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
-      button: Aesthetics Production 2024
-      url: /newest-happenings/latest-events/aesthetics-production-2024-publicity/
-  - infopic:
-      title: "The Museum: Harmony Unveiled"
-      subtitle: Aesthetics Production 2024
-      id: infopic
-      description: Catch us on 22nd of March as we unfold stories of friendship,
-        resilience and role-modelling! 🎟️🎟️
-      button: Get YOUR tickets now!
-      url: https://forms.moe.edu.sg/forms/eLXQae
-      image: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
-      alt: Aesthetics Production Poster
   - announcements:
       title: Announcements
       id: announcements
@@ -54,6 +42,16 @@ sections:
             matters and policies.
           link_text: MORE INFO
           link_url: /newest-happenings/latest-updates/sec-1-parent-engagement-2024/
+  - infopic:
+      title: "The Museum: Harmony Unveiled"
+      subtitle: Aesthetics Production 2024
+      id: infopic
+      description: Catch us on 22nd of March as we unfold stories of friendship,
+        resilience and role-modelling! 🎟️🎟️
+      button: Find out more
+      url: /newest-happenings/latest-events/aesthetics-production-2024-publicity/
+      image: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
+      alt: Aesthetics Production Poster
   - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2023, Issue 4
