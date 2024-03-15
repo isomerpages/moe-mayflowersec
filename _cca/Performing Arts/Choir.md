@@ -110,8 +110,8 @@ and Assistant Conductor Ethel Poh.</p>
 <p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=aCQngpKFGjE" rel="noopener noreferrer" target="_blank">Recording in light of COVID-19: You Do Not Walk Alone</a>
-<br><a href="https://www.mewatch.sg/watch/Lion-Mums-Crash-Landing-on-Schools-E7-Choir-Choir-You-re-on-Fire-161758" rel="noopener noreferrer" target="_blank">Lion Mums: Crash Landing on Schools Episode 7</a>
+<p><a href="https://www.youtube.com/watch?v=aCQngpKFGjE" rel="noopener noreferrer" target="_blank">Recording in light of COVID-19: You Do Not Walk Alone</a> 
+<br><a href="https://www.mewatch.sg/watch/Lion-Mums-Crash-Landing-on-Schools-E7-Choir-Choir-You-re-on-Fire-161758" rel="noopener noreferrer" target="_blank">Lion Mums: Crash Landing on Schools Episode 7</a> 
 <br><a href="https://www.youtube.com/watch?v=TSTLcNfVOPo" rel="noopener noreferrer" target="_blank">Everything I Am (Teacher's Day 2020 Remake)</a>
 </p>
 </td>
@@ -123,7 +123,7 @@ and Assistant Conductor Ethel Poh.</p>
 <td rowspan="1" colspan="1">
 <p>SYF Arts Presentation for Choir, April (Certificate of Distinction)
 <br>Bloom VIVA Concert, May
-<br><a href="https://www.youtube.com/watch?v=BcmNUinI35M" rel="noopener noreferrer" target="_blank">Choir Camp 2019</a>
+<br><a href="https://www.youtube.com/watch?v=BcmNUinI35M" rel="noopener noreferrer" target="_blank">Choir Camp 2019</a> 
 <br>38th Speech Day, August
 <br><a href="https://www.youtube.com/watch?v=Gi5AAjCgV0U&amp;list=PL-0txKiPyr5uyEh7l6KOH5Q5t2AfV6REE" rel="noopener noreferrer" target="_blank">Esplanade Presents Limelight, November</a>
 </p>
@@ -162,7 +162,7 @@ Fiesta, November</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese New Year Celebration, February
-<br><a href="https://www.youtube.com/watch?v=wlgoXaNw-Ic&amp;list=PL-0txKiPyr5sNR-6H7Jss2z-6Pl6R5-Po" rel="noopener noreferrer" target="_blank">Esplanade Presents Limelight, November</a>
+<br><a href="https://www.youtube.com/watch?v=wlgoXaNw-Ic&amp;list=PL-0txKiPyr5sNR-6H7Jss2z-6Pl6R5-Po" rel="noopener noreferrer" target="_blank">Esplanade Presents Limelight, November</a> 
 <br><a href="https://www.youtube.com/watch?v=GNg8kcEemEM" rel="noopener noreferrer" target="_blank">Hong Kong Cultural Exchange Trip, November</a>
 </p>
 </td>
@@ -327,7 +327,7 @@ March
 </table>
 <h2>Photo &amp; Videos</h2>
 <h3>Videos</h3>
-<p><strong>A family that sings together, firm yet fun</strong>
+<p><strong>A family that sings together, firm yet fun</strong> 
 <br>The highlights of the choir's journey through these years.</p>
 <div class="iframe-wrapper">
 <iframe style="width: 100%; height: 450px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fIqlJYOw5TE"></iframe>
@@ -370,6 +370,6 @@ straight from our members from past to present!</p>
 </div>
 <h3>Photo Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLVNZQYxxMivQ-hAYIbAlLFq8ab3lWEyZrGpwlcoMU5K1oWuD_Qe1tiRjMxpzuCEBHN7NzQg32gMjw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLVNZQYxxMivQ-hAYIbAlLFq8ab3lWEyZrGpwlcoMU5K1oWuD_Qe1tiRjMxpzuCEBHN7NzQg32gMjw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
