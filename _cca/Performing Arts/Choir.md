@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/Performing-Arts/choir/permalink/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <img src="/images/Choir logo.png" style="width:30%">
 
@@ -159,11 +160,6 @@ Want to hear more about our Choir? Check out this playlist and hear it straight 
 
 ### Photo Gallery
 
-![](/images/CCA%20thumbnails/performing%20art%20page%20-%20choir.jpeg)
-**SYF Arts Presentation 2023** where our Choir was awarded Certificate of Distinction for the 4th year.
-
-![](/images/choir%20-%20speech%20day%20aesthetic%20production%202022.png)
-**Speech Day/Aesthetic Production 2022**
-
-![](/images/choir%20-%20inaugural%20concert%202022.png)
-**Inaugural Concert 2022: Song of Joy Song of Hope**
+```
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLVNZQYxxMivQ-hAYIbAlLFq8ab3lWEyZrGpwlcoMU5K1oWuD_Qe1tiRjMxpzuCEBHN7NzQg32gMjw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+```
