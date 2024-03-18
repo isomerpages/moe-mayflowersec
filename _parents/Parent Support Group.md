@@ -97,7 +97,7 @@ stakeholders for the advancement of the Mayflower's Promise</p>
 </div>
 <h2>2024 Parent Support Group Executive Committee</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG EXCO 2024" src="/images/MFSS_PSG_EXCO_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MFSS_PSG_EXCO_2024.png">
 </div>
 <h2>Article on "Raising your child for Success"</h2>
 <p><a href="https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO</a>
