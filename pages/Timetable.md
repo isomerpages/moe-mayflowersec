@@ -81,6 +81,42 @@ variant: tiptap
 </li>
 </ul>
 <hr>
+<h4>Term 2 Remedial / Supplementary Schedule</h4>
+<p>Note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aesthetics production: As Tuesday (19 Mar) is the final rehearsal involving
+all performers and production team, these students will be excused from
+the Tuesday remedial. There will be another a short meet up session for
+all performers at 3:15 pm after their first remedial slot on Thursday (21/3),
+as such students will not be able to attend the second remedial slot as
+well.</p>
+</li>
+<li>
+<p>As some of the sports CCA are still having National School Games, kindly
+note that you may also miss remedial during this period of time.</p>
+</li>
+<li>
+<p>All Sec 4s will be down for their Learning Journey on the 25th March.
+You will leave school at 2:30 pm.</p>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Remedial / Supplementary</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_Sec_4_5_T2_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 &amp; 5 Term 2 Remedial and Supplementary</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4>Term 1 Remedial / Supplementary Schedule</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/supp.jpg">
@@ -377,49 +413,6 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 </tr>
 </tbody>
 </table>
-<h4>Term 2 Remedial / Supplementary Schedule</h4>
-<p>Note:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>CCA has stand down for Sec 4s &amp; 5s, except for Performing Arts and
-National School Games students.</p>
-</li>
-<li>
-<p>Sec 4s &amp; 5s will have additional slots on Tuesdays and Thursdays.</p>
-</li>
-</ul>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Remedial / Supplementary</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%201%20Timetables/2023%20Sec%201%20T2%20Remedial%20&amp;%20Supp%20Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 2 Remedial / Supplementary Schedule for Sec 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%201%20Timetables/2023%20Sec%202%20T2%20Remedial%20&amp;%20Supp%20Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 2 Remedial / Supplementary Schedule for Sec 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%201%20Timetables/2023%20Sec%203%20T2%20Remedial%20and%20Supp%20Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 2 Remedial / Supplementary Schedule for Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%201%20Timetables/2023%20Sec%204_5%20T2%20Remedial%20and%20Supp%20Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 2 Remedial / Supplementary Schedule for Sec 4/5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4></h4>
 <p></p>
