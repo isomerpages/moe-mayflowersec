@@ -164,8 +164,8 @@ to craft and flesh out scripts in lessons, and learn stage directions and
 masterful use of voice to produce an entertaining skit. The EL teachers
 parallel the ALP sessions by encouraging students to turn an inward eye
 and reflect on their own progress and learning during the Reading lessons.
-The winning teams staging their skits during assembly programmes or the
-ALP Showcase session.</p>
+The winning teams stage their skits during assembly programmes or the ALP
+Showcase session.</p>
 <h4>Journalism and Broadcast Programme</h4>
 <p>The Secondary 2 students participate in Journalism and Broadcast programme
 in Term 2. With the objective to develop students to be confident communicators,
