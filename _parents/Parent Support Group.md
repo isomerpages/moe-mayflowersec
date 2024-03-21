@@ -93,7 +93,7 @@ stakeholders for the advancement of the Mayflower's Promise</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnership%20team%202023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/partnership_org_chart_2024.png">
 </div>
 <h2>2024 Parent Support Group Executive Committee</h2>
 <div class="isomer-image-wrapper">
