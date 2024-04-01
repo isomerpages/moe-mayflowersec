@@ -242,22 +242,6 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unit Sergeant Major (USM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MSG CHEW ZHENG YANG, TAYDEN (4A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Sergeant Major (ASM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MSG CHEAH RUI EN (4D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Cadet Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,6 +254,22 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>COFFR (NCC) Yee Teng Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Sergeant Major (USM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG CHEW ZHENG YANG, TAYDEN (4A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Sergeant Major (ASM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG CHEAH RUI EN (4D)</p>
 </td>
 </tr>
 </tbody>
