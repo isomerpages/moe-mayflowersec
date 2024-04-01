@@ -256,6 +256,22 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 <p>MSG CHEAH RUI EN (4D)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cadet Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/LTA (NCC) Andrew Sim Yi Zong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cadet Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COFFR (NCC) Yee Teng Fong</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Training Schedule</h3>
