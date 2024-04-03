@@ -223,8 +223,8 @@ events.</p>
 <p>Upper Secondary EXCO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elleora Encee Lee</p>
-<p>Seah Zhe Hao, Jayden</p>
+<p>Elleora Encee Lee
+<br>Seah Zhe Hao, Jayden</p>
 </td>
 </tr>
 <tr>
@@ -232,8 +232,8 @@ events.</p>
 <p>Lower Secondary EXCO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Alisha Bte Norman</p>
-<p>Hia Cheng Hao</p>
+<p>Nur Alisha Bte Norman
+<br>Hia Cheng Hao</p>
 </td>
 </tr>
 </tbody>
