@@ -278,6 +278,6 @@ events.</p>
 </table>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
-<iframe style="width: 100%; height: 450px;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTE6yNuBkyfhN-XHh9uOo9tKYlgBLNz3MrInr9j3a4h-SA2J4yQNSHH2bqefLdimxxQ045IdCips7iK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe style="width: 100%; height: 450px;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTE6yNuBkyfhN-XHh9uOo9tKYlgBLNz3MrInr9j3a4h-SA2J4yQNSHH2bqefLdimxxQ045IdCips7iK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
