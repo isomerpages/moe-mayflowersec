@@ -44,6 +44,7 @@ recipients' authentic needs.</p>
 arts because we know that arts education builds individuals with a zest
 for life.</p>
 <h3>Video Production</h3><a class="isomer-image-wrapper" href="https://youtu.be/sfOjhtIcCmU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enchanted Evening_group photo.jpg"></a>
+<p></p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9wRhzyn35UlLze_Rb5_oezetGomt8J4lLt7tSg4iwI--itwNdkrwAIAh4ea2A9XqWR7-h6nvlscas/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
