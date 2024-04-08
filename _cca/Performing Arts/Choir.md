@@ -28,30 +28,31 @@ variant: tiptap
 </li>
 </ul>
 <h3>About the Choir</h3>
-<p>The Mayflower Secondary School Choir is a group of vibrant, young people
-who share a common love in singing, living by the vision of a family that
-sings together, firm yet fun.</p>
-<p>In 2022, after the Covid-19 Pandemic, the choir held it is first public
-concert entitled Song of Joy Song of Hope.</p>
-<p>The Choir was awarded Certificates of Distinction in the 2015, 2017,2019
-and 2023 SYF Arts Presentation.</p>
-<p>In 2014 and 2017, the Choir also received Distinctions in the Associated
-Board of the Royal Schools of Music (ABRSM) Choral Singing (intermediate)
-examinations.</p>
-<p>The Choir performed at the Esplanade Concert Hall in the Limelight Series
-at the invitation of Esplanade in 2016 and in 2019. The choir was invited
-by Odyssey Dance Theatre in 2017 to be the chorus for their Dance Fiesta
-opening production, involving many international artists and multi-disciplinary
-artistry.</p>
-<p>The choir believes in giving back to society. In 2019, the choir performed
-in “Bloom”, a concert by Singapore Chinese Girl’s School, in aid of VIVA
-Foundation for Children with Cancer. The choir has also volunteered their
-time in Willing Hearts to prepare meals for the charity’s beneficiaries.</p>
-<p>Singing a wide variety of choral music, the MFSS Choir aspires to engage
-the community through singing, to grow in the pursuit of choral excellence,
-and to deepen the bonds shared through music-making.</p>
-<p>The Choir is under the choral leadership of Conductor Mr. Toh Ban Sheng
-and Assistant Conductor Ethel Poh.</p>
+<p>Welcome to the Mayflower Secondary School Choir, where vibrant, young
+voices unite in harmony to create unforgettable melodies. Guided by our
+vision of a family that sings together, stay together, we are an ensemble
+dedicated to the pursuit of choral excellence while embracing the joy of
+music-making.</p>
+<p>Our journey is marked by numerous accolades, including Certificates of
+Distinction in the prestigious SYF Arts Presentation of 2015, 2017, 2019,
+and 2023. These awards testify to our commitment to musical excellence
+and artistic expression.</p>
+<p>At the heart of our choir is our diverse repertoire, spanning a wide array
+of choral music genres. From classical masterpieces to contemporary compositions,
+we captivate audiences with our dynamic performances that resonate with
+emotion and passion.</p>
+<p>Under the expert guidance of our esteemed Conductor, Mr. Toh Ban Sheng,
+and Assistant Conductor, Ethel Poh, we continue to evolve as musicians
+and individuals. Their leadership nurtures our talents, fosters camaraderie,
+and cultivate a deep appreciation for the transformative power of music.</p>
+<p>Beyond the confines of our school walls, we aspire to engage and enrich
+our community through the universal language of song. Through outreach
+programs and collaborative initiatives, we aim to share the gift of music
+and inspire others to discover their own voices.</p>
+<p>Join us on our journey as we strive for excellence, forge lasting connections,
+and create beautiful music together. Experience the magic of the Mayflower
+Secondary School Choir – where every note tells a story, and every voice
+finds its place.</p>
 <ul>
 <li>
 <p><strong><a href="https://mfsschoir.wordpress.com/" rel="noopener noreferrer nofollow" target="\_blank">Access our WordPress site for more information</a></strong>
@@ -82,6 +83,14 @@ and Assistant Conductor Ethel Poh.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Kebun Baru National Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>SYF Arts Presentation for Choir, April (Certificate of Distinction)</p>
 </td>
 </tr>
@@ -103,91 +112,6 @@ and Assistant Conductor Ethel Poh.</p>
 <br>Musical Cover Competition (Intra-CCA Competition), June
 <br><a href="https://www.youtube.com/watch?v=mZ45Bt2ACs0" rel="noopener noreferrer" target="_blank">NDP 2021 Theme Song Cover: The Road Ahead</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=aCQngpKFGjE" rel="noopener noreferrer" target="_blank">Recording in light of COVID-19: You Do Not Walk Alone</a> 
-<br><a href="https://www.mewatch.sg/watch/Lion-Mums-Crash-Landing-on-Schools-E7-Choir-Choir-You-re-on-Fire-161758" rel="noopener noreferrer" target="_blank">Lion Mums: Crash Landing on Schools Episode 7</a> 
-<br><a href="https://www.youtube.com/watch?v=TSTLcNfVOPo" rel="noopener noreferrer" target="_blank">Everything I Am (Teacher's Day 2020 Remake)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation for Choir, April (Certificate of Distinction)
-<br>Bloom VIVA Concert, May
-<br><a href="https://www.youtube.com/watch?v=BcmNUinI35M" rel="noopener noreferrer" target="_blank">Choir Camp 2019</a> 
-<br>38th Speech Day, August
-<br><a href="https://www.youtube.com/watch?v=Gi5AAjCgV0U&amp;list=PL-0txKiPyr5uyEh7l6KOH5Q5t2AfV6REE" rel="noopener noreferrer" target="_blank">Esplanade Presents Limelight, November</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Celebration, February
-<br>37th Speech Day, March
-<br>Choral Workshop with Dr. Wickham, Course Director of MMus in Choral Studies,
-University of Cambridge, September
-<br><a href="https://www.youtube.com/watch?v=h3TY7CyZgXs&amp;list=PL-0txKiPyr5sPSKScS_zy1BZHtXF6_Fx5" rel="noopener noreferrer" target="_blank">Tapestry @ Esplanade Recital Studio, November</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Guild in Concert @ National Gallery Singapore, January
-<br>36th Speech Day, April
-<br>SYF Arts Presentation for Choir, April (Certificate of Distinction)
-<br>Recording for Singapore Teachers’ Academy for the Arts (STAR)
-<br>ABRSM Singing Examination, August (Distinction)
-<br>Chorus for Opening Production of the 9th Xposition ‘O’ Contemporary Dance
-Fiesta, November</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Celebration, February
-<br><a href="https://www.youtube.com/watch?v=wlgoXaNw-Ic&amp;list=PL-0txKiPyr5sNR-6H7Jss2z-6Pl6R5-Po" rel="noopener noreferrer" target="_blank">Esplanade Presents Limelight, November</a> 
-<br><a href="https://www.youtube.com/watch?v=GNg8kcEemEM" rel="noopener noreferrer" target="_blank">Hong Kong Cultural Exchange Trip, November</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Paying tribute to Mr. Lee Kuan Yew lying in state at Parliament House,
-March
-<br>34th Speech Day, April
-<br>SYF Arts Presentation for Choir, April (Certificate of Distinction)
-<br>Touch of the Hearts 2015 Performance @ NEX, August
-<br>Voices – A Festival of Song, December</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2014</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>#OneVoiceOneSg, June
-<br>MANIFEST Concert, August
-<br>ABRSM Singing Examination, August (Distinction)</p>
 </td>
 </tr>
 </tbody>
@@ -216,7 +140,7 @@ March
 </tr>
 </tbody>
 </table>
-<h3>Executive Committee 2023</h3>
+<h3>Executive Committee 2024</h3>
 <table>
 <tbody>
 <tr>
@@ -232,7 +156,7 @@ March
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mikaela Abigail Chng</p>
+<p>Liow Ler Enn</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +164,7 @@ March
 <p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Samuel Chua</p>
+<p>Arisa Wu Youting</p>
 </td>
 </tr>
 <tr>
@@ -248,7 +172,7 @@ March
 <p>Student Conductor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heidi Lim</p>
+<p>Arisa Wu Youting</p>
 </td>
 </tr>
 <tr>
@@ -256,8 +180,8 @@ March
 <p>Soprano Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arisa Wu
-<br>Liow Ler Enn</p>
+<p>Teo Keng Ern Germaine</p>
+<p>Tara Caoimhe Walsh</p>
 </td>
 </tr>
 <tr>
@@ -265,8 +189,8 @@ March
 <p>Alto Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Charlene Tan
-<br>Tyvia Teo</p>
+<p>Charlotte Khoo Yixin</p>
+<p>Tyvia Teo Kai Wen</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +198,7 @@ March
 <p>Bass Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shen Hongyi</p>
+<p>Danish Khusairy Bin Mohd Yazid</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +206,8 @@ March
 <p>Publicity/ Logistics - Hanif</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shi Yilai</p>
+<p>Tyvia Teo
+<br>Gooi Yi Xuan</p>
 </td>
 </tr>
 </tbody>
