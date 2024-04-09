@@ -31,7 +31,7 @@ give them a flavour on how to organise an event.</p>
 own products during CCA duty. In Enterprise Club, we believe that our students
 will demonstrate creativity and initiative in every aspect and without
 fear to seize opportunities in future.</p>
-<h3>Key events and Achievements</h3>
+<h3>Key Events and Achievements</h3>
 <table>
 <tbody>
 <tr>
@@ -50,7 +50,7 @@ fear to seize opportunities in future.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Young Trail Blazer Competition by Prudentail</p>
+<p>Young Trail Blazer Competition by Prudential</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -149,7 +149,7 @@ fear to seize opportunities in future.</p>
 <p>2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ice cream competition</p>
+<p>Swenson's Ice cream competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd&nbsp;position</p>
@@ -201,12 +201,18 @@ fear to seize opportunities in future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EXCO member
-<br>Manager</p>
+<p>EXCO member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hazel Calista
-<br>Chaw Xin Yi
+<p>Hazel Calista</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chaw Xin Yi
 <br>Ng Xiaoyi Cayden</p>
 </td>
 </tr>
