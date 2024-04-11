@@ -334,4 +334,15 @@ reduce stress on the eyes.</p>
 </tr>
 </tbody>
 </table>
+<h4>DMA Parent Guide</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.edu.sg/dma-parent-guide-option-a" rel="noopener noreferrer nofollow" target="_blank">Mobile Guardian Parent Guide - Option A</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/dma-parent-guide-option-b" rel="noopener noreferrer nofollow" target="_blank">Mobile Guardian Parent Guide - Option B</a>
+</p>
+</li>
+</ul>
 <p></p>
