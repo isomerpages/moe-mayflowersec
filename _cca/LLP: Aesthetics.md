@@ -51,7 +51,7 @@ arts because we know that arts education builds individuals with a zest
 for life.</p>
 <h3>Video Production</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xYAW3Vk-VR4?si=dWgdXFywYWefPX81"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xYAW3Vk-VR4?si=dWgdXFywYWefPX81"></iframe>
 </div>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
