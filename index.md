@@ -43,14 +43,15 @@ sections:
           link_text: MORE INFO
           link_url: /newest-happenings/latest-updates/sec-1-parent-engagement-2024/
   - infopic:
-      title: "The Museum: Harmony Unveiled"
-      subtitle: Aesthetics Production 2024
+      title: Reunite@MFSS
+      subtitle: Concert & Alumni Reunion
       id: infopic
-      description: Catch us on 22nd of March as we unfold stories of friendship,
-        resilience and role-modelling! 🎟️🎟️
-      button: Find out more
-      url: /newest-happenings/latest-events/aesthetics-production-2024-publicity/
-      image: /images/WhatsApp_Image_2024_01_31_at_20_03_45.jpg
+      description: 🎉✨ Attention all MF alumni! 🎓✨ Get ready to relive the memories
+        and reconnect with old friends at our MF alumni reunion on April 30th,
+        from 4 to 6 pm! 🥳🎶
+      button: Register by 16 April
+      url: https://tinyurl.com/reunitemfss2024
+      image: /images/MF_Alumni_reunion_30_Apr_2024.jpg
       alt: Aesthetics Production Poster
   - infopic:
       title: The Mayflower Promise

@@ -203,7 +203,7 @@ finds its place.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Publicity/ Logistics - Hanif</p>
+<p>Publicity/ Logistics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tyvia Teo
