@@ -7,6 +7,9 @@ variant: tiptap
 <blockquote>
 <p>Developing A Zest For Life Through Music, Performing And Visual Arts</p>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Museum - The Entrance" src="/images/The_Museum___The_Entrance.png">
+</div>
 <p>We believe arts education is a powerful tool that helps students to become
 positive thinkers and spirited citizens. Positive thinking and perseverance
 are especially important during times of rapid change. As such, we design
@@ -22,6 +25,9 @@ which option would be the best. Through these platforms, students cultivate
 the habits of thinking creatively and critically. The ability to see different
 perspectives and think of alternatives helps a student become more optimistic
 as they move through life.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Aesthetic Production 2024 Group Photo" src="/images/Aesthetic_Production_Group_Photo.jpg">
+</div>
 <p>To teach students to appreciate the arts is not an end in itself. One
 of its goals is also to help students see the beauty in their surroundings,
 leading to gratitude and joy in life. We also offer a stage for students
@@ -43,8 +49,10 @@ recipients' authentic needs.</p>
 <p>At Mayflower Secondary School, we believe in providing a space for the
 arts because we know that arts education builds individuals with a zest
 for life.</p>
-<h3>Video Production</h3><a class="isomer-image-wrapper" href="https://youtu.be/sfOjhtIcCmU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enchanted Evening_group photo.jpg"></a>
-<p></p>
+<h3>Video Production</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xYAW3Vk-VR4?si=dWgdXFywYWefPX81"></iframe>
+</div>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9wRhzyn35UlLze_Rb5_oezetGomt8J4lLt7tSg4iwI--itwNdkrwAIAh4ea2A9XqWR7-h6nvlscas/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
