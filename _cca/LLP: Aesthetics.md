@@ -49,10 +49,7 @@ recipients' authentic needs.</p>
 <p>At Mayflower Secondary School, we believe in providing a space for the
 arts because we know that arts education builds individuals with a zest
 for life.</p>
-<h3>Video Production</h3>
-<div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xYAW3Vk-VR4?si=dWgdXFywYWefPX81"></iframe>
-</div>
+<h3>Video Production</h3><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=xYAW3Vk-VR4&amp;list=PLlcmhR7ZMJMXaKEW_D1NsvSlYPZlSunbU"><img style="width: 100%" height="auto" width="100%" alt="The Museum Highlights - YouTube Playlist" src="/images/The_Museum_Highlights__Play_btn_.png"></a>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9wRhzyn35UlLze_Rb5_oezetGomt8J4lLt7tSg4iwI--itwNdkrwAIAh4ea2A9XqWR7-h6nvlscas/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
