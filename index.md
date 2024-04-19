@@ -35,13 +35,15 @@ sections:
             commence in Week 5 (29 Jan) and end on Week 10 (8 Mar).
           link_text: GO TO TIMETABLE
           link_url: /timetable/
-        - title: Sec 1 Parent Engagement Session
-          date: 04 January 2024
-          announcement: You can refer to the School-Parent Engagement Session slides
-            shared on the 4th Jan for information on Academic and Non-Academic
-            matters and policies.
-          link_text: MORE INFO
-          link_url: /newest-happenings/latest-updates/sec-1-parent-engagement-2024/
+  - infopic:
+      title: MFSS Speech Day 2024
+      subtitle: 🗓️ 30 Apr 2024 1.45 - 4.00 pm
+      description: We are thrilled to announce our upcoming Speech Day, dedicated to
+        celebrating the Stars of Mayflower!
+      button: Read more
+      url: /mfss-speech-day-2024/
+      image: /images/MFSS_Speech_Day_2024_Publicity_Poster.png
+      alt: MFSS Speech Day 2024
   - infopic:
       title: Reunite@MFSS
       subtitle: Concert & Alumni Reunion
@@ -55,9 +57,10 @@ sections:
       alt: Aesthetics Production Poster
   - infopic:
       title: The Mayflower Promise
-      subtitle: 📰 2023, Issue 4
+      subtitle: 📰 2023, ISSUE 4
+      id: infopic
       description: Our newsletter
-      button: Read more
+      button: Read More
       url: /about-us/newsletter-yearbook/permalink/
       image: /images/The_Mayflower_Promise__Issue_4__2023__thumb.png
       alt: Mayflower Promise, Issue 4
