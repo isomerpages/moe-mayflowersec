@@ -38,8 +38,8 @@ sections:
   - infopic:
       title: MFSS Speech Day 2024
       subtitle: 🗓️ 30 Apr 2024 1.45 - 4.00 pm
-      description: "We are thrilled to announce our upcoming Speech Day, dedicated to
-        celebrating the Stars of Mayflower! "
+      description: We are thrilled to announce our upcoming Speech Day, dedicated to
+        celebrating the Stars of Mayflower!
       button: Read more
       url: /mfss-speech-day-2024/
       image: /images/MFSS_Speech_Day_2024_Publicity_Poster.png
@@ -55,6 +55,15 @@ sections:
       url: https://tinyurl.com/reunitemfss2024
       image: /images/MF_Alumni_reunion_30_Apr_2024.jpg
       alt: Aesthetics Production Poster
+  - infopic:
+      title: The Mayflower Promise
+      subtitle: 📰 2023, ISSUE 4
+      id: infopic
+      description: Our newsletter
+      button: Read More
+      url: /about-us/newsletter-yearbook/permalink/
+      image: /images/The_Mayflower_Promise__Issue_4__2023__thumb.png
+      alt: Mayflower Promise, Issue 4
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
