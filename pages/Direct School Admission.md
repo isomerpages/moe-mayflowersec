@@ -65,13 +65,13 @@ in the Singapore Youth Festival (Aesthetics), National School Games (Sports),
 Debating and Public Speaking competitions.</p>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free of charge and will be open from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm</strong>.
+The application is free of charge and will be open from <strong>7<sup>th</sup> May 2024, 11am to 3 Jun 2024, 3pm</strong>.
 For more details, please refer to the MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements and the programmes available to develop the
 area of talent.</p>
-<p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the selected talent from year 1-4/5.</strong>
+<p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4/5.</strong>
 </p>
 <h3>Selection Criteria</h3>
 <h4>Performing Arts Domain</h4>
@@ -112,7 +112,7 @@ area of talent.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Will be invited for a performance audition and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August</strong>.</p>
+at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.</p>
 </li>
 <li>
 <p>Will be notified in advance of the date and time of the audition and interview</p>
@@ -144,7 +144,7 @@ at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup
 <ol data-tight="true" class="tight">
 <li>
 <p>have represented in Singapore Primary School Sports Council National School
-games, Zonal or National competitions.</p>
+Games, Zonal or National competitions.</p>
 </li>
 <li>
 <p>be a member of the Junior Sports Academy (JSA) or school team.</p>
@@ -155,7 +155,7 @@ games, Zonal or National competitions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Will be invited for a performance trial and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August</strong>.</p>
+at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.</p>
 </li>
 <li>
 <p>Will be notified in advance of the date and time of the trial and interview</p>
@@ -200,7 +200,7 @@ and Drama/Cultural society within or outside school.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>will be invited for a performance trial and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August</strong>.</p>
+at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.</p>
 </li>
 <li>
 <p>will be notified in advance of the date and time of their trial and interview</p>
@@ -217,9 +217,8 @@ the potential of the applicants.</p>
 <p>General Academic Ability Tests such as the General Ability Test (GAT)
 and the Higher Ability Selection Test (HAST) are <strong>not required</strong> in
 the selection process.</p>
-<p>Only shortlisted applicants that meet our selection criteria will be informed
-by <strong>19<sup>th</sup> July 2024</strong> of the exact date and time
-of the performance audition and an interview. The <strong>in- person</strong> performance
+<p>Only shortlisted applicants will be informed by <strong>19<sup>th</sup> July 2024</strong> of
+the exact date and time of the performance audition and an interview. The <strong>in- person</strong> performance
 audition and interview will be conducted at <strong>Mayflower Secondary School</strong> for
 all talent areas. Applicants who are not shortlisted will not be informed
 that they are unsuccessful in their application.</p>
@@ -231,9 +230,9 @@ that they are unsuccessful in their application.</p>
 <h2>Selection Process</h2>
 <h3>Performing Arts Talent Domain</h3>
 <p>There will be a short interview after the audition. All auditions and
-interviews will be carried out in-person at Mayflower Secondary school
-from <strong>8<sup>th</sup> July to 30<sup>th</sup> August</strong>. The
-following are the audition requirements for the different areas:</p>
+interviews will be carried out in-person at Mayflower Secondary School
+from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.
+The following are the audition requirements for the different areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -363,8 +362,8 @@ Applicant may also be asked to demonstrate his/her technical capacity.</p>
 </table>
 <h3>Sports Talent Domain</h3>
 <p>There will be a short interview after the trial. All trials and interviews
-will be carried out in-person at Mayflower Secondary school. The following
-are the audition requirements for the different areas:</p>
+will be carried out in-person at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.
+The following are the audition requirements for the different areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -466,8 +465,8 @@ looping.</p>
 </table>
 <h3>Academic Talent Domain</h3>
 <p>There will be a short interview after the trial. All trials and interviews
-will be carried out in-person at Mayflower Secondary school. The following
-are the audition requirements for the different areas:</p>
+will be carried out in-person at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.
+The following are the audition requirements for the different areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
