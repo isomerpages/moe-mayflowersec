@@ -65,8 +65,9 @@ in the Singapore Youth Festival (Aesthetics), National School Games (Sports),
 Debating and Public Speaking competitions.</p>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free of charge and will be open from <strong>7<sup>th</sup> May 2024, 11am to 3 Jun 2024, 3pm</strong>.
-For more details, please refer to the MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free of charge and will be open from <strong>7<sup>th</sup> May 2024, 11am to 3<sup>rd</sup> Jun 2024, 3pm</strong>.
+For more details, please refer to the MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa.</a>
+</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements and the programmes available to develop the
