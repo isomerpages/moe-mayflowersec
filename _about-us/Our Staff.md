@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>School Management Committee</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -234,7 +238,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Form Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -733,7 +741,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Non-Form Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -845,7 +857,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Executive and Administration Staff</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1081,7 +1097,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Adjunct / Relief Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1097,15 +1117,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_swee_choo_@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teh Swee Choo</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kim_kin_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kim Kin Seng</a>
 </p>
 </td>
 </tr>
@@ -1195,6 +1206,15 @@ variant: tiptap
 <p>Flexi Adj (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mail to:ng_yuen_yau_olivia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yuen Yau Olivia</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flexi Adj (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:pan_shiyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pan Shiyun</a>
 </p>
 </td>
@@ -1214,15 +1234,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pillai_vidhu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Pillai Vidhu</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Relief (Humanities)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_mei_jun_charlene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Mei Jun Charlene</a>
 </p>
 </td>
 </tr>
