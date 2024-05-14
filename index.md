@@ -36,25 +36,15 @@ sections:
           link_text: GO TO TIMETABLE
           link_url: /timetable/
   - infopic:
-      title: MFSS Speech Day 2024
-      subtitle: 🗓️ 30 Apr 2024 1.45 - 4.00 pm
-      description: We are thrilled to announce our upcoming Speech Day, dedicated to
-        celebrating the Stars of Mayflower!
+      title: Congratulations Samuel Tan
+      subtitle: 🎓 Mayflower Sec - Alumnus
+      description: Singapore Polytechnic (SP) is delighted that our former student,
+        Samuel Tan, has been selected for this year's Singapore Polytechnic
+        Scholarship Award.
       button: Read more
-      url: /mfss-speech-day-2024/
-      image: /images/MFSS_Speech_Day_2024_Publicity_Poster.png
-      alt: MFSS Speech Day 2024
-  - infopic:
-      title: Reunite@MFSS
-      subtitle: Concert & Alumni Reunion
-      id: infopic
-      description: 🎉✨ Attention all MF alumni! 🎓✨ Get ready to relive the memories
-        and reconnect with old friends at our MF alumni reunion on April 30th,
-        from 4 to 6 pm! 🥳🎶
-      button: Register by 16 April
-      url: https://tinyurl.com/reunitemfss2024
-      image: /images/MF_Alumni_reunion_30_Apr_2024.jpg
-      alt: Aesthetics Production Poster
+      url: /singapore-polytechnic-scholarship-award-samuel-tan/
+      image: /images/SP_Samuel_Tan_CLS.jpg
+      alt: SP Scholarship Award
   - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2023, ISSUE 4
