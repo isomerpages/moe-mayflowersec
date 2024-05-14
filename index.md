@@ -43,7 +43,7 @@ sections:
         Scholarship Award.
       button: Read more
       url: /singapore-polytechnic-scholarship-award-samuel-tan/
-      image: /images/SP_Samuel_Tan_CLS.jpg
+      image: /images/SP_Samuel_Tan_CLS_thumbnail.jpg
       alt: SP Scholarship Award
   - infopic:
       title: The Mayflower Promise
