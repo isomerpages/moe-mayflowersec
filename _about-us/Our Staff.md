@@ -1134,15 +1134,6 @@ variant: tiptap
 <p>Flexi Adj (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kim_neo_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Kim Neo Rachel</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:wan_chue_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wan Chue Wah</a>
 </p>
 </td>
