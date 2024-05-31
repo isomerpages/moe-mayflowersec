@@ -211,83 +211,64 @@ design.</p>
 <p></p>
 <h2>Signature Programmes / Enrichment Programmes</h2>
 <h3>Chinese New Year Celebration 2024</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/CNY_2024___Mascot_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/CNY_2024___Mascot_2.jpg">
+</div>
 <p>Mayflower students and staff celebrated a special Chinese New Year with
 our very own "Dragon Mascot Design Competition" followed by a physical
 concert in the hall.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/CNY_concert_emcees.jpg">
+</div>
 <p>Our CNY concert Emcees</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Sharing the Festivity with AWWA</p>
+<h3>Sharing the Festivity with AWWA</h3>
 <p>To spread our love to the community during the festive season, staff and
 students also rallied together for a donation drive to provide the AWWA
 elderly with daily necessities. This year, our students from Literary and
 Oratorical Club also went down to the AWWA Dementia Care Centre to share
 the festivity with the seniors.</p>
-<p></p>
-<p>Mother Tongue Language Fortnight 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Festivity_with_AWWA.jpg">
+</div>
+<h3>Mother Tongue Language Fortnight 2024</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/chinese_tea_drinking.jpg">
+</div>
 <p>Our Secondary 3 Chinese Language students went for a learning journey
 to Tea Chapter to learn about history of Chinese tea and the art of tea
 drinking.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Dikir_Barat_Workshop.jpg">
+</div>
 <p>The Malay Language students attended a Dikir Barat Workshop to learn its
 culture and form. After attending the workshop, the students came together
 and took initiative to prepare and perform during Hari Raya assembly programme.</p>
-<p>International Friendship Day Commemoration cum Hari Raya Celebration</p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<h3>International Friendship Day Commemoration cum Hari Raya Celebration&nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Dance___Dikir_Barat_performance.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Hari_Raya_2024.jpg">
+</div>
 <p>Our Malay Language students put together a Malay Dance item and a Dikir
 Barat performance for the International Friendship Day cum Hari Raya Celebration
 Assembly Programme. The programme is a collaboration between CCE Committee
 and Mother Tongue Department.</p>
-<p>Secondary 4/5 Mother Tongue Intensive Programme</p>
+<h3>Secondary 4/5 Mother Tongue Intensive Programme</h3>
 <p>Every year, the school will set aside 4 full days of Mother Tongue Intensive
 Programme at the end of Term 2 to help prepare our graduating students
 for the O Level Mid-Year Mother Tongue examination. During this period,
 the Mother Tongue Department will come together to customise the revision
 packages for our students and work along side with them.</p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Applied Learning Programme (Effective Communication)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/MT_Intensive_Prog_2024.jpg">
+</div>
+<h3>Applied Learning Programme (Effective Communication)</h3>
 <p>The MTL ALP aims to provide authentic learning experiences, riding on
 the foundation of language skills taught in EL ALP, based on the students’
 interests. The learning experiences are customised based on the profile
@@ -320,23 +301,23 @@ taught in EL ALP.</p>
 <p>Debate Skills</p>
 </li>
 </ul>
-<p>Chinese Language Applied Learning Programme</p>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<h3>Chinese Language Applied Learning Programme</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/CL_ALP_2024__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/CL_ALP_2024__1_.jpg">
+</div>
 <p>The teachers work closely with the instructors to conduct quality lessons
 for our students to teach them skills for reading, speech and drama and
 journalism and broadcasting.</p>
-<p>Malay Language Applied Learning Programme</p>
-<p></p>
+<h3>Malay Language Applied Learning Programme</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/ML_ALP_2024__1_.jpg">
+</div>
 <p>The ML Speech and Drama instructor conducted an engaging lesson for our
 students.</p>
-<p>Achievements and Programmes</p>
+<h3>Achievements and Programmes</h3>
 <p>To enrich the students’ exposure to language and culture, we designed
 an ALP Programme in reading, speech and drama and Journalism and Broadcasting
 and also held Mother Tongue Language Fortnight, showcasing the theme on
@@ -368,73 +349,96 @@ of competitions. These includes:</p>
 <p>NTU National Chinese Calligraphy Competition</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>7th Text Recital Competition 2024</p>
-<p></p>
+<h3>7th Text Recital Competition 2024</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/7th_Text_Recital_comp_2024.jpg">
+</div>
 <p>Sec 1 and 2 Higher Chinese students attended the ALP Tier 2 training on
 recital skills. Two teams and two students took part in the 7th Text Recital
 Competition 2024 under the Group Category and Individual Category respectively.
 We have been sending our students for this competition for the few years
 and have attained good results for all.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Text_Recital_Comp_2024___Silver_Award.jpg">
+</div>
 <p>Most our teams have attained the silver awards and in 2023, our Secondary
 2 team was awarded the gold award and was selected to participate in the
 finals.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>National Translation Competition</p>
-<p></p>
+<h3>National Translation Competition</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/National_Translation_Competition.jpg">
+</div>
 <p>2 groups of our Secondary 3 Higher Chinese students participated in the
 National Translation Competition at Nanyang Junior College after attending
 our Tier 2 translation programme.</p>
-<p>Xin Lei Jiang Creative Writing Competition</p>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
-<p>Rakan Bahasa 2024</p>
-<p>&nbsp;</p>
+<h3>Xin Lei Jiang Creative Writing Competition</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Xin_Lei_Jiang_Creative_Writing_Competition.jpg">
+</div>
+<h3>Rakan Bahasa 2024</h3>
 <p>2 of our Mayflowerians have been nominated by the Mother Tongue Department
 to be Malay Language ambassadors. This is an initiative by the Malay Language
 Council Singapore. As ambassadors, they are required to attend various
 workshops conducted in Malay Language as well as apply the usage of Malay
 Language in varied forms of medium. The ambassadors are also role models
 to their peers in encouraging their peers to develop the love of the language.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Language_Ambassadors.jpg">
+</div>
 <p>The 2 Malay Language Ambassadors, also known as Rakan Bahasa are Nur Alisha
 from 2B and Alisa Ariana from 2E.</p>
-<p>Malay Debate Competition 2024</p>
+<h3>Malay Debate Competition 2024</h3>
 <p>We have sent a group of Malay students participated in the Malay Debate
 Competition organised by the Malay Youth Literary Association 4PM. This
 is our second year participating in this competition and the students have
 improved since last year. The students are:</p>
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp; Zamir 3I</p>
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp; Qurratuaini 3J</p>
-<p>3)&nbsp;&nbsp;&nbsp;&nbsp; Marsya 2D</p>
-<p>4)&nbsp;&nbsp;&nbsp;&nbsp; Qasdina 1D （Best speaker for the team）</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Zamir 3I</p>
+</li>
+<li>
+<p>Qurratuaini 3J</p>
+</li>
+<li>
+<p>Marsya 2D</p>
+</li>
+<li>
+<p>Qasdina 1D （Best speaker for the team）</p>
 <p></p>
-<p></p>
-<p>Professional Sharing and Accomplishment</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Debate_Competition_2024__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Debate_Competition_2024__2_.jpg">
+</div>
+<h3>Professional Sharing and Accomplishment</h3>
 <p>The Chinese Unit set up a booth at the 2023 Mother Tongue Language Symposium
 to showcase the good practices of our MT department (CL unit).</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Mother_Tongue_Language_Symposium__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Mother_Tongue_Language_Symposium__2_.jpg">
+</div>
 <p>Our confident students interacted with the public and engage the children
 with our language games.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Mother_Tongue_Language_Symposium__3_.jpg">
+</div>
 <p>Presenting our good practices to fellow teachers at the 7th International
 Conference on Teaching and Learning of Chinese as a Second Language cum
 the 11th International Forum on Chinese Language Education.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Naguib___Golden_Point_Award_for_Poetry.jpg">
+</div>
 <p>From Berita Harian website</p>
 <p>Congratulations to Mr Naguib for receiving the 1st Prize at the Golden
 Point Award for Poetry (Malay Category).</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Distinguished_Chinese_Teachers_Award_2024.jpg">
+</div>
 <p>Congratulations to Mdm Tan Lay Teng for receiving the Distinguished Chinese
 Teachers Award 2024.</p>
 <h2>Photo</h2>
