@@ -48,7 +48,7 @@ For student leadership, we provide opportunities and platforms to train our CCA 
 
 |  |  |
 | :---: | :---: |
-| [**Table Tennis**<img src="/images/CCA%20thumbnails/thumbnail_tabletennis.jpg" style="width:350px;">](/cca/Sports/table-tennis/permalink/) | [**Taekwondo**<img src="/images/CCA%20thumbnails/thumbnail_Taekwondo.jpg" style="width:350px;">](/cca/Sports/taekwondo/permalink/) |
+| [**Table Tennis**<img src="/images/CCA%20thumbnails/thumbnail_tabletennis.jpg" style="width:350px;">](/cca/Sports/table-tennis/permalink/) | [**Taekwondo**<img src="/images/CCA%20thumbnails/thumbnail_taekwondo.jpg" style="width:350px;">](/cca/Sports/taekwondo/permalink/) |
 
 
 
