@@ -278,7 +278,7 @@ and aerobics during school events.</p>
 </tr>
 </tbody>
 </table>
-<h3>National School Games Results 2024 - Poomsae</h3>
+<h3>National School Games Results 2024 - Poomsa</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -863,7 +863,7 @@ and aerobics during school events.</p>
 <p></p>
 <h2>Video</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jmSurB65IZw"></iframe>
+<iframe height="550" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jmSurB65IZw"></iframe>
 </div>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
