@@ -318,12 +318,6 @@ journalism and broadcasting.</p>
 <p>The ML Speech and Drama instructor conducted an engaging lesson for our
 students.</p>
 <h3>Achievements and Programmes</h3>
-<p>To enrich the students’ exposure to language and culture, we designed
-an ALP Programme in reading, speech and drama and Journalism and Broadcasting
-and also held Mother Tongue Language Fortnight, showcasing the theme on
-Chinese and Malay weddings. We had a festive Chinese New Year celebration
-which includes an e-concert and engaging classroom activities for the whole
-school.</p>
 <p>In 2024, we continued to stretch our students by participating in a variety
 of competitions. These includes:</p>
 <ul data-tight="true" class="tight">
