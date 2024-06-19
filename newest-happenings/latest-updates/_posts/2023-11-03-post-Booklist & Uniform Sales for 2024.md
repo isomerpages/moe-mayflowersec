@@ -36,7 +36,7 @@ variant: markdown
 **Time:** 9am to 3pm daily  
 **Notes:**  
 * Closed on Saturday, Sunday and Public Holidays  
-* Please purchase online via [mfss.cascoedusupply.com.sg](https://mfss.cascoedusupply.com.sg) to ensure correct titles/editions.
+* Please purchase online to ensure correct titles/editions. [Update: Online ordering is now closed. Thank you]
 * Please input quantity of item required. All sold/exchangeable items are NON-REFUNDABLE for cash.
 * Exchanged items must be in mint condition. Produce the booklist for exchanges within 7 working days of purchase.  
 
