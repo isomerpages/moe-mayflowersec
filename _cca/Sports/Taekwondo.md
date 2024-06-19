@@ -27,7 +27,7 @@ and aerobics during school events.</p>
 <p>Teachers-in-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Fateha Abdullah
+<p>Mr Tay Junliang
 <br>Mdm Patricia Kwek
 <br>Ms Jeevana Rani</p>
 </td>
@@ -278,7 +278,7 @@ and aerobics during school events.</p>
 </tr>
 </tbody>
 </table>
-<h3>National School Games Results 2024 - Poomsa</h3>
+<h3>National School Games Results 2024 - Poomsae</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -861,6 +861,9 @@ and aerobics during school events.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___NSG_Reflection.png">
+</div>
 <h2>Video</h2>
 <div class="iframe-wrapper">
 <iframe height="550" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jmSurB65IZw"></iframe>
