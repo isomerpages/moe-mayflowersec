@@ -36,13 +36,13 @@ variant: markdown
 **Time:** 9am to 3pm daily  
 **Notes:**  
 * Closed on Saturday, Sunday and Public Holidays  
-* Please purchase online to ensure correct titles/editions. [Update: Online ordering is now closed. Thank you]
+* Please purchase online to ensure correct titles/editions. [**Update**: Online ordering is now closed. Thank you]
 * Please input quantity of item required. All sold/exchangeable items are NON-REFUNDABLE for cash.
 * Exchanged items must be in mint condition. Produce the booklist for exchanges within 7 working days of purchase.  
 
 #### Mode of Order:
 **Online order**
-* Login to [mfss.cascoedusupply.com.sg](https://mfss.cascoedusupply.com.sg) and register an account 
+* Login to Casco Edu Supply and register an account [**Update**: Online ordering is now closed. Thank you]
 * Home delivery at $13 per address or self-collection at school bookshop
 * Note - Due to high order volume during this season, waiting time for home delivery service may take up to 2 weeks for your items to be delivered.  
 
