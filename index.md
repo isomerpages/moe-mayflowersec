@@ -29,10 +29,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 Term 1 Remedial / Supplementary schedule
-          date: 28 January 2024
-          announcement: Please be informed that the Term 1 remedial/ supplementary will
-            commence in Week 5 (29 Jan) and end on Week 10 (8 Mar).
+        - title: 2024 Semester 2 Timeable
+          date: 21 June 2024
+          announcement: Please be informed that the Semester 2 main timetable is
+            available. The HBL weeks timetable and the selected weeks for HBL
+            will be announced soon.
           link_text: GO TO TIMETABLE
           link_url: /timetable/
   - infopic:
