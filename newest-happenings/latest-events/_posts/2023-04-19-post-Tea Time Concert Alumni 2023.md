@@ -6,6 +6,7 @@ layout: post
 description: "Hey Mayflowerians young and old! Hope to see you back on campus
   👋🏻  Please register at: https://bit.ly/mfss-alumni-ttc2023"
 image: /images/tea time concert alumni 2023.png
+variant: markdown
 ---
 Hey Mayflowerians young and old! Hope to see you back on campus! 👋🏻
 
@@ -16,6 +17,6 @@ Calling alumni to celebrate with us your 2013, 2003 & 1993 Batch Decade Annivers
 
 #### Registration
 Please register at:  
-[bit.ly/mfss-alumni-ttc2023](https://bit.ly/mfss-alumni-ttc2023)
+[Registration closed. Thank you for your support.]
 
 [![](/images/tea%20time%20concert%20alumni%202023.png)](https://bit.ly/mfss-alumni-ttc2023)

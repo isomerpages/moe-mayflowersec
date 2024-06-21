@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /cca/permalink/
 description: ""
+variant: markdown
 ---
 The Co-Curricular Activities (CCA) in Mayflower Secondary School form an integral part of a student’s life.
 
