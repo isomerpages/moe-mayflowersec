@@ -295,14 +295,8 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p>End of Year Exam Subject Information</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
