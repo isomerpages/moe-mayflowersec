@@ -6,10 +6,76 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/2023 Sem 1-1.png
 variant: tiptap
 ---
+<h2>Timetable for 2024 Semester 2</h2>
+<p><em>Updated as of 21/06/24</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Normal Week Timetable</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HBL Week Timetable</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 Sem 2 Timetables/2024_Sem_2_Timetable_Sec_1_Main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable Sec 1 Main</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Coming soon</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 Sem 2 Timetables/2024_Sem_2_Timetable_Sec_2_Main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable Sec 2 Main</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Coming soon</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 Sem 2 Timetables/2024_Sem_2_Timetable_Sec_3_Main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable Sec 3 Main</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Coming soon</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 Sem 2 Timetables/2024_Sem_2_Timetable_Sec_4___5_Main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable Sec 4/5 Main</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Coming soon</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>HBL Weeks</h4>
+<p>HBL weeks will be confirmed soon.</p>
+<hr>
 <h2>Timetable for 2024 Semester 1</h2>
 <p><em>Updated as of 11 Jan 2024</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -101,7 +167,10 @@ note that you may also miss remedial during this period of time.</p>
 You will leave school at 2:30 pm.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -123,7 +192,10 @@ You will leave school at 2:30 pm.</p>
 </div>
 <p>Please be informed that the TERM 1 remedial/ supplementary will commence
 in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -160,7 +232,11 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 <h2>2023 Post-Exam Timetable</h2>
 <p><em>Updated as of 11 Oct 2023</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -211,7 +287,12 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 <h4>2023 End of Year Exam Timetable</h4>
 <p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/2023%20eoy%20exam%20tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1-3 End of Year Timetable</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -268,77 +349,6 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 </tr>
 </tbody>
 </table>
-<h2>Timetable for 2023 Semester 2</h2>
-<p><em>Updated as of 23/06/23</em>
-</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Normal Week Timetable</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>HBL Week Timetable</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%201%20main.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2 Timetable Sec 1 Main</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%202%20Timetables/2023timetable%20sem2%20(sec1s)%20wef%2010july%20(hbl%20week).pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2 Timetable Sec 1 (HBL Week)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%202%20main.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2 Timetable Sec 2 Main</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%202%20Timetables/2023timetable%20sem2%20(sec2s)%20wef%2010july%20(hbl%20week).pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2 Timetable Sec 2 (HBL Week)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%203%20main.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2 Timetable Sec 3 Main</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%202%20Timetables/2023timetable%20sem2%20(sec3s)%20wef%2010july%20(hbl%20week).pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2 Timetable Sec 3 (HBL Week)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%202%20Timetables/2023%20sem%202%20timetable%20sec%2045%20main.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2 Timetable Sec 4/5 Main</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20Sem%202%20Timetables/2023timetable%20sem2%20(sec4_5s)%20wef%2010july%20(hbl%20week).pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Sem 2 Timetable Sec 4/5 (HBL Week)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>HBL Weeks</h4>
-<p>Please note that the 4 HBL weeks for 2023 Semester 2 are as follows:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>10 Jul - 14 Jul 2023 (HBL Day on 14 Jul)</p>
-</li>
-<li>
-<p>24 Jul - 28 Jul 2023 (HBL Day on 28 Jul)</p>
-</li>
-<li>
-<p>14 Aug - 18 Aug 2023 (HBL Day on 18 Aug)</p>
-</li>
-<li>
-<p>18 Sep - 22 Sep 2023 (HBL Day on 22 Sep)</p>
-</li>
-</ul>
 <hr>
 <h4>September Holiday 2023 Academic Programme</h4>
 <div class="isomer-image-wrapper">
@@ -380,7 +390,10 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 <p>Remedial will commence in Week 2 (6 July 2023)</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
