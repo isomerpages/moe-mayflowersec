@@ -31,7 +31,7 @@ sections:
       announcement_items:
         - title: Collection of School Graduation Certificates
           date: 26 June 2024
-          announcement: The School Graduation Certificates (SGC), SGC testimonials & CCA
+          announcement: The School Graduation Certificates (SGC), testimonials & CCA
             Reports are ready for collection. Collection is to be done by 31
             July. Please remember to bring along your proof of identity to
             collect your certificates from the school’s General Office, 8am to
