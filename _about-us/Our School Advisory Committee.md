@@ -4,7 +4,10 @@ permalink: /about-us/our-school-advisory-committee/permalink/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -17,7 +20,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -44,7 +53,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -64,7 +78,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,4 +134,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
