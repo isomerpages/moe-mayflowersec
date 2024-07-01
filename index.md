@@ -46,6 +46,15 @@ sections:
           link_text: GO TO TIMETABLE
           link_url: /timetable/
   - infopic:
+      title: The Mayflower Promise
+      subtitle: 📰 2024, ISSUE 1
+      id: infopic
+      description: Our newsletter
+      button: Read More
+      url: /about-us/newsletter-yearbook/permalink/
+      image: /images/Mayflower_Promise__2024_Issue_1___thumb.png
+      alt: Mayflower Promise,2024 Issue 1
+  - infopic:
       title: Congratulations Samuel Tan
       subtitle: 🎓 Mayflower Sec - Alumnus
       description: Singapore Polytechnic (SP) is delighted that our former student,
@@ -55,15 +64,6 @@ sections:
       url: /singapore-polytechnic-scholarship-award-samuel-tan/
       image: /images/SP_Samuel_Tan_CLS_thumbnail.jpg
       alt: SP Scholarship Award
-  - infopic:
-      title: The Mayflower Promise
-      subtitle: 📰 2023, ISSUE 4
-      id: infopic
-      description: Our newsletter
-      button: Read More
-      url: /about-us/newsletter-yearbook/permalink/
-      image: /images/The_Mayflower_Promise__Issue_4__2023__thumb.png
-      alt: Mayflower Promise, Issue 4
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
