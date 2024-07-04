@@ -46,6 +46,16 @@ sections:
           link_text: GO TO TIMETABLE
           link_url: /timetable/
   - infopic:
+      title: 7th National Text Recital Competition 2024
+      subtitle: 🏆 年全国课文朗诵比赛 2024
+      description: Our heartiest congratulations to our students for clinching the top
+        positions in the various categories of the 7th National Text Recital
+        Competition.
+      button: Read more
+      url: /7th-national-text-recital-competition-2024/
+      image: /images/7th_National_Text_Recital_Competition.png
+      alt: Text Recital Competition 2024
+  - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2024, ISSUE 1
       id: infopic
@@ -54,16 +64,6 @@ sections:
       url: /about-us/newsletter-yearbook/permalink/
       image: /images/Mayflower_Promise__2024_Issue_1___thumb.png
       alt: Mayflower Promise,2024 Issue 1
-  - infopic:
-      title: Congratulations Samuel Tan
-      subtitle: 🎓 Mayflower Sec - Alumnus
-      description: Singapore Polytechnic (SP) is delighted that our former student,
-        Samuel Tan, has been selected for this year's Singapore Polytechnic
-        Scholarship Award.
-      button: Read more
-      url: /singapore-polytechnic-scholarship-award-samuel-tan/
-      image: /images/SP_Samuel_Tan_CLS_thumbnail.jpg
-      alt: SP Scholarship Award
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
