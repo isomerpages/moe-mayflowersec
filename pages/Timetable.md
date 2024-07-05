@@ -157,6 +157,54 @@ Semester 2:</p>
 </li>
 </ul>
 <hr>
+<h4>Term 3 Remedial / Supplementary Schedule</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/remedial.jpeg">
+</div>
+<p>Note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The schedule remains largely the same as semester 1 with very minor additions
+for Sec 1 G3 Math and Sec 3 DT</p>
+</li>
+</ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Remedial / Supplementary</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_1_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 T3&amp;4 Remedial &amp; Supp Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_2_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 T3&amp;4 Remedial &amp; Supp Schedule </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_3_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 T3&amp;4 Remedial &amp; Supp Schedule </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_4_5_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4/5 T3&amp;4 Remedial &amp; Supp Schedule </a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4>Term 2 Remedial / Supplementary Schedule</h4>
 <p>Note:</p>
 <ul data-tight="true" class="tight">
@@ -186,6 +234,24 @@ You will leave school at 2:30 pm.</p>
 <th rowspan="1" colspan="1">
 <p>Remedial / Supplementary</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_1_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 T3&amp;4 Remedial &amp; Supp Schedule </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_2_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 T3&amp;4 Remedial &amp; Supp Schedule </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_3_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 T3&amp;4 Remedial &amp; Supp Schedule </a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -384,52 +450,4 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 <p><a href="/files/2023%20n%20prelim%20tt%204na%204nt%203nt%2026jun%20students.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 GCE 'N' Preliminary Examination Timetable</a>
 </p>
 <hr>
-<h4>Term 3 Remedial / Supplementary Schedule</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/remedial.jpeg">
-</div>
-<p>Note:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Remedial will commence in Week 2 (6 July 2023)</p>
-</li>
-</ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Remedial / Supplementary</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://file.for.edu.sg/mfss-2023-t3-remedial-schedule-sec-1.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 3 Remedial / Supplementary Schedule for Sec 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://file.for.edu.sg/mfss-2023-t3-remedial-schedule-sec-2.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 3 Remedial / Supplementary Schedule for Sec 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://file.for.edu.sg/mfss-2023-t3-remedial-schedule-sec-3.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 3 Remedial / Supplementary Schedule for Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://file.for.edu.sg/mfss-2023-t3-remedial-schedule-sec-45.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 3 Remedial / Supplementary Schedule for Sec 4/5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4></h4>
-<h4></h4>
 <p></p>
