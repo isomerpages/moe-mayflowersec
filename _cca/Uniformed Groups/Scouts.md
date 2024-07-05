@@ -246,8 +246,8 @@ Jun Hyeok Brian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Timothy Ng
-<br>Mr Chen Zhen</p>
-<p>Mdm Nurulhuda Bte Mustafa</p>
+<br>Mr Chen Zhen
+<br>Mdm Nurulhuda Bte Mustafa</p>
 </td>
 </tr>
 <tr>
