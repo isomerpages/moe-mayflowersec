@@ -54,6 +54,7 @@ sections:
       button: Read more
       url: /singapore-polytechnic-ranice-yong/
       image: /images/Mayflower_Secondary_School_Ranice_Yong_Edited.png
+      alt: SP 2024 Top Graduate
   - infopic:
       title: 7th National Text Recital Competition 2024
       subtitle: 🏆 年全国课文朗诵比赛 2024
