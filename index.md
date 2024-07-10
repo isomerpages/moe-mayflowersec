@@ -46,6 +46,15 @@ sections:
           link_text: GO TO TIMETABLE
           link_url: /timetable/
   - infopic:
+      title: Singapore Polytechnic 2024 Top Graduate
+      subtitle: 🎉 Congratulations Ranice Yong
+      id: infopic
+      description: Mayflower Secondary proudly celebrates alumna Yong Ranice, for her
+        outstanding academic achievements at the Singapore Polytechnic.
+      button: Read more
+      url: /singapore-polytechnic-ranice-yong/
+      image: /images/Mayflower_Secondary_School_Ranice_Yong_Edited.png
+  - infopic:
       title: 7th National Text Recital Competition 2024
       subtitle: 🏆 年全国课文朗诵比赛 2024
       description: Our heartiest congratulations to our students for clinching the top
