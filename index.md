@@ -44,6 +44,16 @@ sections:
           link_text: READ MORE
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
+      title: Info for Parents
+      subtitle: ⛺️ 2024 Sec 1 Cohort Camp
+      id: infopic
+      description: Dear parents,  please refer to the appended files for Sec1 Cohort
+        Camp information
+      button: More info
+      url: /2024-sec-1-cohort-camp-info-for-parents/
+      image: /images/2024_Sec_1_Camp_Parents_Briefing_Slides.png
+      alt: Sec 1 cohort camp info
+  - infopic:
       title: Singapore Polytechnic 2024 Top Graduate
       subtitle: 🎉 Congratulations Ranice Yong
       id: infopic
