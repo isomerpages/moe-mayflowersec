@@ -12,4 +12,5 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR45LvdU86KaGs1jYH2ZSsU8VHfhj7E8AKNPy1NGwDJ6nS0TfDnutJCzjwy--lRDQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
+<p><a href="/files/2024_Sec_1_Camp_Packing_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Packing list for Sec 1 Camp 2024</a>
+</p>
