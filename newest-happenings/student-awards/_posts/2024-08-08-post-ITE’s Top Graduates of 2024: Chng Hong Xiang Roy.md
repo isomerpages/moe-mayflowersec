@@ -16,7 +16,7 @@ at the ITE Graduation Ceremony last week. The TES Gold Medal is awarded
 to an outstanding graduate from each ITE College, who has achieved excellent
 course performance, participated actively in co-curricular activities and
 contributed to the well-being and development of his or her college.</p>
-<p>Roy is currently pursuing a Diploma in Infocomm &amp; MEdia Engineering
+<p>Roy is currently pursuing a Diploma in Infocomm &amp; Media Engineering
 at Nanyang Polytechnic. We believe his achievements will be an inspiration
 to our juniors in our school.</p>
 <h4>Programming is Life</h4>
