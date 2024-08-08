@@ -54,15 +54,16 @@ sections:
       image: /images/2024_Sec_1_Camp_Parents_Briefing_Slides.png
       alt: Sec 1 cohort camp info
   - infopic:
-      title: Singapore Polytechnic 2024 Top Graduate
-      subtitle: 🎉 Congratulations Ranice Yong
+      title: ITE’s Top Graduates of 2024
+      subtitle: 🎉 Congratulations Roy Chng
       id: infopic
-      description: Mayflower Secondary proudly celebrates alumna Yong Ranice, for her
-        outstanding academic achievements at the Singapore Polytechnic.
+      description: Chng Hong Xiang Roy received the Tay Eng Soon Gold Medal for
+        outstanding course performance, active CCA participation, &
+        contributions to his college.
       button: Read more
-      url: /singapore-polytechnic-ranice-yong/
-      image: /images/Mayflower_Secondary_School_Ranice_Yong_Edited.png
-      alt: SP 2024 Top Graduate
+      url: /ite-s-top-graduates-of-2024-chng-hong-xiang-roy/
+      image: /images/TES_Gold_Medal___1__Roy_Chng_1.png
+      alt: ITE 2024 Top Graduate
   - infopic:
       title: 7th National Text Recital Competition 2024
       subtitle: 🏆 年全国课文朗诵比赛 2024
