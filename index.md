@@ -44,6 +44,15 @@ sections:
           link_text: READ MORE
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
+      title: Congratulations to Mr Tan Kok Meng & Mr Raj
+      subtitle: 🎖️ National Day Awards 2024
+      description: We would like to congratulate 2 of our staff for receiving their
+        National Day Award this year.
+      button: Read more
+      url: /national-day-awards-2024/
+      image: /images/Staff Awards/National_Day_Award_2024.jpg
+      alt: National Day Award 2024
+  - infopic:
       title: Info for Parents
       subtitle: ⛺️ 2024 Sec 1 Cohort Camp
       id: infopic
@@ -64,15 +73,6 @@ sections:
       url: /ite-s-top-graduates-of-2024-chng-hong-xiang-roy/
       image: /images/TES_Gold_Medal___1__Roy_Chng_1.png
       alt: ITE 2024 Top Graduate
-  - infopic:
-      title: Congratulations to Mr Tan Kok Meng & Mr Raj
-      subtitle: 🎖️ National Day Awards 2024
-      description: We would like to congratulate 2 of our staff for receiving their
-        National Day Award this year.
-      button: Read more
-      url: /national-day-awards-2024/
-      image: /images/Staff Awards/National_Day_Award_2024.jpg
-      alt: National Day Award 2024
   - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2024, ISSUE 1
