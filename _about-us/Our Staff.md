@@ -838,15 +838,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:amirah_ariffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Amirah Binte Ariffin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Edu. &amp; Career Guidance Counsellor (ECG)</p>
 </td>
 <td rowspan="1" colspan="1">
