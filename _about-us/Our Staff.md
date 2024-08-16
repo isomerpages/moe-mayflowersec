@@ -473,7 +473,7 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:frances_ess@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Frances Ess</a>
+<p><a href="mailto:frances_ess@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Frances Ong</a>
 </p>
 </td>
 </tr>
@@ -975,16 +975,7 @@ variant: tiptap
 <p>Teacher Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:iskhayati_kasmin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iskhayati Binte Kasmin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siow_ching_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siow Ching Ching</a>
+<p><a href="mailto:kam_chooi_sim_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kam Chooi Sim Annie</a>
 </p>
 </td>
 </tr>
@@ -1149,15 +1140,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:md_ahdani_kandar_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Md Ahdani Bin Kandar</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Flexi Adj (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1215,7 +1197,16 @@ variant: tiptap
 <p>Flexi Adj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pillai_vidhu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Pillai Vidhu</u></a>
+<p><a href="mailto:kim_kin_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kim Kin Seng</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flexi Adj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_susan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan Susan</a>
 </p>
 </td>
 </tr>
