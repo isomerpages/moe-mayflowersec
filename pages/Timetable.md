@@ -186,19 +186,19 @@ for Sec 1 G3 Math and Sec 3 DT</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_2_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 T3&amp;4 Remedial &amp; Supp Schedule </a>
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_2_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 T3&amp;4 Remedial &amp; Supp Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_3_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 T3&amp;4 Remedial &amp; Supp Schedule </a>
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_3_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 T3&amp;4 Remedial &amp; Supp Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_4_5_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4/5 T3&amp;4 Remedial &amp; Supp Schedule </a>
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_4_5_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4/5 T3&amp;4 Remedial &amp; Supp Schedule</a>
 </p>
 </td>
 </tr>
@@ -237,19 +237,19 @@ You will leave school at 2:30 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_1_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 T3&amp;4 Remedial &amp; Supp Schedule </a>
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_1_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 T3&amp;4 Remedial &amp; Supp Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_2_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 T3&amp;4 Remedial &amp; Supp Schedule </a>
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_2_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 T3&amp;4 Remedial &amp; Supp Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_3_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 T3&amp;4 Remedial &amp; Supp Schedule </a>
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_3_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 T3&amp;4 Remedial &amp; Supp Schedule</a>
 </p>
 </td>
 </tr>
@@ -304,6 +304,13 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4>September Holiday 2024 Academic Programme</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sept__sec_4_5_.jpg">
+</div>
+<p><a href="/files/sept%20hols%20acad%20prog%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">September Holiday Schedule PDF</a>
+</p>
 <hr>
 <h2>2023 Post-Exam Timetable</h2>
 <p><em>Updated as of 11 Oct 2023</em>
@@ -419,13 +426,6 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<h4>September Holiday 2023 Academic Programme</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sept.jpg">
-</div>
-<p><a href="/files/sept%20hols%20acad%20prog%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Holiday Schedule PDF</a>
-</p>
 <hr>
 <h4>2023 GCE 'O' Preliminary Examination</h4>
 <div class="isomer-image-wrapper">
