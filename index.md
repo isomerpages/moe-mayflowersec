@@ -53,6 +53,16 @@ sections:
       image: /images/sept__sec_4_5_.jpg
       alt: Sec 4 5 Sep Prog
   - infopic:
+      title: Congratulations Javier Yong & Keer Soong
+      subtitle: 🎉 NYP Graduation - Gold Award
+      id: infopic
+      description: Mayflower Secondary School extends its warmest congratulations to
+        them on their outstanding achievements.
+      button: Read more
+      url: /ite-s-top-graduates-of-2024-chng-hong-xiang-roy/
+      image: /images/NYP_Graduation_posters_2024__MFSS_.png
+      alt: NYP Graduation 2024
+  - infopic:
       title: Congratulations to Mr Tan Kok Meng & Mr Raj
       subtitle: 🎖️ National Day Awards 2024
       description: We would like to congratulate 2 of our staff for receiving their
@@ -71,17 +81,6 @@ sections:
       url: /2024-sec-1-cohort-camp-info-for-parents/
       image: /images/2024_Sec_1_Camp_Parents_Briefing_Slides.png
       alt: Sec 1 cohort camp info
-  - infopic:
-      title: ITE’s Top Graduates of 2024
-      subtitle: 🎉 Congratulations Roy Chng
-      id: infopic
-      description: Chng Hong Xiang Roy received the Tay Eng Soon Gold Medal for
-        outstanding course performance, active CCA participation, &
-        contributions to his college.
-      button: Read more
-      url: /ite-s-top-graduates-of-2024-chng-hong-xiang-roy/
-      image: /images/TES_Gold_Medal___1__Roy_Chng_1.png
-      alt: ITE 2024 Top Graduate
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
