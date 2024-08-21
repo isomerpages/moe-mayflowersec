@@ -44,6 +44,14 @@ sections:
           link_text: READ MORE
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
+      title: September Holiday Academic Programme
+      subtitle: 🏫 For Sec 4 & 5
+      id: infopic
+      description: Lesson schedule is available on the timetable page.
+      button: More info
+      url: /timetable/#:~:text=September%20Holiday%202024%20Academic%20Programme
+      image: /images/sept__sec_4_5_.jpg
+  - infopic:
       title: Congratulations to Mr Tan Kok Meng & Mr Raj
       subtitle: 🎖️ National Day Awards 2024
       description: We would like to congratulate 2 of our staff for receiving their
@@ -73,15 +81,6 @@ sections:
       url: /ite-s-top-graduates-of-2024-chng-hong-xiang-roy/
       image: /images/TES_Gold_Medal___1__Roy_Chng_1.png
       alt: ITE 2024 Top Graduate
-  - infopic:
-      title: The Mayflower Promise
-      subtitle: 📰 2024, ISSUE 1
-      id: infopic
-      description: Our newsletter
-      button: Read More
-      url: /about-us/newsletter-yearbook/permalink/
-      image: /images/Mayflower_Promise__2024_Issue_1___thumb.png
-      alt: Mayflower Promise,2024 Issue 1
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
