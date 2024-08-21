@@ -309,7 +309,7 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sept__sec_4_5_.jpg">
 </div>
-<p><a href="/files/sept%20hols%20acad%20prog%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">September Holiday Schedule PDF</a>
+<p><a href="/files/Sept_Holidays_Acad_Programme_2024_docx.pdf" rel="noopener noreferrer nofollow" target="_blank">September Holiday Schedule 2024</a>
 </p>
 <hr>
 <h2>2023 Post-Exam Timetable</h2>
