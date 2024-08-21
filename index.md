@@ -29,11 +29,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Term 3 Remedial / Supplementary Schedule
-          date: 05 July 2024
-          announcement: Please be informed that the term 3 remedial schedule is available.
-          link_text: GO TO TIMETABLE
-          link_url: /timetable/#:~:text=Term%203%20Remedial%20/%20Supplementary%20Schedule
         - title: Collection of School Graduation Certificates
           date: 26 June 2024
           announcement: The School Graduation Certificates (SGC), testimonials & CCA
