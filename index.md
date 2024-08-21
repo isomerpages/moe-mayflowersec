@@ -51,6 +51,7 @@ sections:
       button: More info
       url: /timetable/#:~:text=September%20Holiday%202024%20Academic%20Programme
       image: /images/sept__sec_4_5_.jpg
+      alt: Sec 4 5 Sep Prog
   - infopic:
       title: Congratulations to Mr Tan Kok Meng & Mr Raj
       subtitle: 🎖️ National Day Awards 2024
