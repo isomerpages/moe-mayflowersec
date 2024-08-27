@@ -6,6 +6,10 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/2023 Sem 1-1.png
 variant: tiptap
 ---
+<h4>2024 End of Year Exam Timetable</h4>
+<p><a href="/files/2024_EOY_Exam_TT_27_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF]</a>
+</p>
+<hr>
 <h2>Timetable for 2024 Semester 2</h2>
 <p><em>Updated as of 21/06/24</em>
 </p>
@@ -156,10 +160,6 @@ Semester 2:</p>
 <p>06 May - 10 May 2024 (HBL Day on 10 May)</p>
 </li>
 </ul>
-<hr>
-<h4>2024 End of Year Exam Timetable</h4>
-<p><a href="/files/2024_EOY_Exam_TT_27_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF]</a>
-</p>
 <hr>
 <h4>Term 3 Remedial / Supplementary Schedule</h4>
 <div class="isomer-image-wrapper">
