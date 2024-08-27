@@ -158,7 +158,7 @@ Semester 2:</p>
 </ul>
 <hr>
 <h4>2024 End of Year Exam Timetable</h4>
-<p><a href="/files/2024_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF]</a>
+<p><a href="/files/2024_EOY_Exam_TT_27_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF]</a>
 </p>
 <hr>
 <h4>Term 3 Remedial / Supplementary Schedule</h4>
