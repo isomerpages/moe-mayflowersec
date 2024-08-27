@@ -157,6 +157,10 @@ Semester 2:</p>
 </li>
 </ul>
 <hr>
+<h4>2024 End of Year Exam Timetable</h4>
+<p><a href="/files/2024_EOY_Exam_TT_27_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF]</a>
+</p>
+<hr>
 <h4>Term 3 Remedial / Supplementary Schedule</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/remedial.jpeg">
@@ -361,72 +365,13 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h2>Sec 3 Prep Programme</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prep.jpg">
 </div>
 <p><a href="/files/2023%20timetable%20sec%203%20prep%20programme%20(23%20oct%20-%20%203%20nov)%20(sec%203).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Prep Programme (23 Oct to 3 Nov)</a>
 </p>
-<h4>2023 End of Year Exam Timetable</h4>
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/2023%20eoy%20exam%20tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1-3 End of Year Timetable</a>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>End of Year Exam Subject Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%201ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1EX - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%201na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1NA - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%201nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1NT - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%202ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2EX - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%202na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2NA - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%202nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2NT - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%203ex%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3EX - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%203na%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3NA - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2023%20EOY%20Exam%20Subject%20Info/sec%203nt%20-%202023%20eoy%20exam%20subject%20info%20sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3NT - 2023 EOY Exam Subject Info</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h4>2023 GCE 'O' Preliminary Examination</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim.jpeg">
