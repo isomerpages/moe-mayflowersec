@@ -9,6 +9,82 @@ variant: tiptap
 <h4>2024 End of Year Exam Timetable</h4>
 <p><a href="/files/2024_EOY_Exam_TT_27_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF]</a>
 </p>
+<p>2024 EOY Examination Subject Information</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p>Sec 1</p>
+</th>
+<th rowspan="1" colspan="3">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_1_Common_Curriculum_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 1 Common Curriculum Subjects</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_1G1_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 1 G1 Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_1G2_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 1 G2 Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_1G3_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 1 G3 Subject Info</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_2_Common_Curriculum_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 2 Common Curriculum Subjects</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_2EX.pdf" rel="noopener nofollow" target="_blank">Sec 2 EX Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_2NA.pdf" rel="noopener nofollow" target="_blank">Sec 2 NA Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_2NT.pdf" rel="noopener nofollow" target="_blank">Sec 2 NT Subject Info</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_3EX.pdf" rel="noopener nofollow" target="_blank">Sec 3 EX Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_3NA.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_3NT.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT Subject Info</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>Timetable for 2024 Semester 2</h2>
 <p><em>Updated as of 21/06/24</em>
