@@ -9,6 +9,137 @@ variant: tiptap
 <h4>2024 End of Year Exam Timetable</h4>
 <p><a href="/files/2024_EOY_Exam_TT_27_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF]</a>
 </p>
+<p>2024 EOY Examination Subject Information</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p>Sec 1</p>
+</th>
+<th rowspan="1" colspan="3">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_1_Common_Curriculum_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 1 Common Curriculum Subjects</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_1G1_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 1 G1 Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_1G2_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 1 G2 Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_1G3_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 1 G3 Subject Info</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_2_Common_Curriculum_Subjects.pdf" rel="noopener nofollow" target="_blank">Sec 2 Common Curriculum Subjects</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_2EX.pdf" rel="noopener nofollow" target="_blank">Sec 2 EX Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_2NA.pdf" rel="noopener nofollow" target="_blank">Sec 2 NA Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_2NT.pdf" rel="noopener nofollow" target="_blank">Sec 2 NT Subject Info</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_3EX.pdf" rel="noopener nofollow" target="_blank">Sec 3 EX Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_3NA.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA Subject Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 EOY Exam Subject Info/2024_EOY_Exam_Subject_Info_Sheet_3NT.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT Subject Info</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4>September Holiday 2024 Academic Programme</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sept__sec_4_5_.jpg">
+</div>
+<p><a href="/files/Sept_Holidays_Acad_Programme_2024_docx.pdf" rel="noopener noreferrer nofollow" target="_blank">September Holiday Schedule 2024</a>
+</p>
+<hr>
+<h4>Term 3 Remedial / Supplementary Schedule</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/remedial.jpeg">
+</div>
+<p>Note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The schedule remains largely the same as semester 1 with very minor additions
+for Sec 1 G3 Math and Sec 3 DT</p>
+</li>
+</ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Remedial / Supplementary</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_1_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 T3&amp;4 Remedial &amp; Supp Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_2_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 T3&amp;4 Remedial &amp; Supp Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_3_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 T3&amp;4 Remedial &amp; Supp Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_4_5_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4/5 T3&amp;4 Remedial &amp; Supp Schedule</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>Timetable for 2024 Semester 2</h2>
 <p><em>Updated as of 21/06/24</em>
@@ -161,54 +292,6 @@ Semester 2:</p>
 </li>
 </ul>
 <hr>
-<h4>Term 3 Remedial / Supplementary Schedule</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/remedial.jpeg">
-</div>
-<p>Note:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The schedule remains largely the same as semester 1 with very minor additions
-for Sec 1 G3 Math and Sec 3 DT</p>
-</li>
-</ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Remedial / Supplementary</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_1_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 T3&amp;4 Remedial &amp; Supp Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_2_T3_4_Remedial___Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 T3&amp;4 Remedial &amp; Supp Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_3_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 T3&amp;4 Remedial &amp; Supp Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2024/2024_Sec_4_5_T3_4_Remedial_and_Supp_Schedule_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4/5 T3&amp;4 Remedial &amp; Supp Schedule</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h4>Term 2 Remedial / Supplementary Schedule</h4>
 <p>Note:</p>
 <ul data-tight="true" class="tight">
@@ -308,13 +391,6 @@ in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<h4>September Holiday 2024 Academic Programme</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sept__sec_4_5_.jpg">
-</div>
-<p><a href="/files/Sept_Holidays_Acad_Programme_2024_docx.pdf" rel="noopener noreferrer nofollow" target="_blank">September Holiday Schedule 2024</a>
-</p>
 <hr>
 <h2>2023 Post-Exam Timetable</h2>
 <p><em>Updated as of 11 Oct 2023</em>
