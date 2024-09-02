@@ -7,7 +7,7 @@ image: /images/2023 Sem 1-1.png
 variant: tiptap
 ---
 <h4>2024 End of Year Exam Timetable</h4>
-<p><a href="/files/2024_EOY_Exam_TT_27_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF]</a>
+<p><a href="/files/2024_EOY_Exam_TT_28_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF] (Updated on 2 Sep 2024)</a>
 </p>
 <p>2024 EOY Examination Subject Information</p>
 <table style="minWidth: 100px">
