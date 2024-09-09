@@ -3,6 +3,7 @@ title: Cyber Wellness
 permalink: /curriculum/Character-and-Citizenship/cyber-wellness/permalink/
 description: ""
 third_nav_title: Character and Citizenship
+variant: markdown
 ---
 Understanding Cyber Wellness
 ----------------------------
@@ -28,7 +29,7 @@ The key messages to students are to:
 *   Maintain a positive presence in cyberspace
 *   Be a safe and responsible user of ICT
 
-_The linkster generation, also known as The Facebook Generation, are members of the population who were born after 1995, according to Johnson & Johnson (2010). They are the so-called Linkster Generation because no other generation has ever been so linked to each other and to the world through technology._
+_The linkster generation, also known as The Facebook Generation, are members of the population who were born after 1995, according to Johnson &amp; Johnson (2010). They are the so-called Linkster Generation because no other generation has ever been so linked to each other and to the world through technology._
 
 MOE's Cyber Wellness Framework
 ------------------------------
@@ -55,7 +56,7 @@ Components in Cyber Wellness
 Cyber Wellness Ressources for Parents
 -------------------------------------
 
-Please click the following links to access a list of guides & tips, resources and useful links to help you to reinforce Cyber Wellness education at home:
+Please click the following links to access a list of guides &amp; tips, resources and useful links to help you to reinforce Cyber Wellness education at home:
 
 *   [Tips for Parents](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 *   [Practising Cyber Wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
@@ -66,7 +67,6 @@ More Useful Tips for Parents
 *   [Suicide Games and Online media: What should parents do?](https://www.schoolbag.edu.sg/story/suicide-games-and-online-media-what-should-parents-do)
 *   [Parents, here's the truth about online predators](https://edition.cnn.com/2017/08/03/health/online-predators-parents-partner/index.html)
 *   [Livestreaming - top tips from young people](https://saferinternet.org.uk/blog/livestreaming-top-tips-from-young-people)
-*   [Managing Digital Incidents](https://www.netsafe.org.nz/online-incidents/?fbclid=I)
 *   [Teens Talk: What Works to Stop Cyberbullying - Cyberbullying Research Center](https://cyberbullying.org/teens-talk-works-stop-cyberbullying)
 *   [Pornographic malware found in Android apps for kids](https://money.cnn.com/2018/01/12/technology/porn-ads-apps-google-android/index.html)
 *   [How to Raise a Kid with a Conscience \| Common Sense Med](https://www.commonsensemedia.org/blog/how-to-raise-a-kid-with-a-conscience)
