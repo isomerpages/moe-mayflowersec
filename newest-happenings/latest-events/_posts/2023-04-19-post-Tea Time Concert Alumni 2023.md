@@ -18,5 +18,4 @@ Calling alumni to celebrate with us your 2013, 2003 & 1993 Batch Decade Annivers
 #### Registration
 Please register at:  
 [Registration closed. Thank you for your support.]
-
-[![](/images/tea%20time%20concert%20alumni%202023.png)](https://bit.ly/mfss-alumni-ttc2023)
+![](/images/tea%20time%20concert%20alumni%202023.png)
