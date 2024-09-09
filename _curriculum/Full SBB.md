@@ -48,7 +48,7 @@ For more information on how our school would implement Full SBB, you can contact
 ### Useful Videos for Reference
 
 
-* [ [CNA] A New School Of Thought - Full SBB (13 July 2023)](https://youtu.be/WBeklgUni90). Full Subject-Based Banding will be rolled out to all secondary schools by 2024. What is this policy change all about? Evelyn Tan, television actress and mother of four, finds out. Brought to you by Ministry of Education.
+* [ [CNA] A New School Of Thought - Full SBB (13 July 2023)](https://youtu.be/5gnLHBL5KlM). Full Subject-Based Banding will be rolled out to all secondary schools by 2024. What is this policy change all about? Evelyn Tan, television actress and mother of four, finds out. Brought to you by Ministry of Education.
 * [Secondary School experience with Full Subject-Based Banding](https://www.youtube.com/watch?v=FGjXlsTBRN0).  Find out more about being in mixed form classes and having the flexibility to take different subjects at different subject levels in this video.
 * [CNA Feature on Full SBB](https://go.gov.sg/cna-fsbb). Find out what Full SBB looks like when it kicks in.
 
