@@ -7,7 +7,7 @@ description: Congratulation to our winning recipients!
 image: /images/7th_National_Text_Recital_Competition.png
 variant: tiptap
 ---
-<h1>年全国课文朗诵比赛 2024</h1>
+<h1>2024年全国课文朗诵比赛 </h1>
 <p>The Committee jointly organises the 7th National Text Recital Competition
 to promote Chinese Language Learning (CPCLL), Pei Hwa Presbyterian Primary
 School and the Singapore Chinese Teachers’ Literary Recital Society. The
@@ -30,3 +30,15 @@ the top positions in the various competition categories:</p>
 awards ceremony. Minister of State for Education and Chairperson of the
 Committee to Promote Chinese Language Learning (CPCLL), Ms Gan Siow Huang,
 will be gracing the event as the Guest-of-Honour.</p>
+<h4>Video</h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-fZvjRTm9fs"></iframe>
+</div>
+<h4>Photo</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_01.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_02.jpg">
+</div>
+<p></p>
