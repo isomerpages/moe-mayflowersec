@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h1>2024年全国课文朗诵比赛</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7th_National_Text_Recital_Competition.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/7th_National_Text_Recital_Competition.png">
 </div>
 <p>The 7th National Text Recital Competition witnessed outstanding performances
 from Mayflowerians, who showcased their exceptional skills in Chinese text
