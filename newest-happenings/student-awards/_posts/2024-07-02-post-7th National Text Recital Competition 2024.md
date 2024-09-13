@@ -7,7 +7,7 @@ description: Congratulation to our winning recipients!
 image: /images/7th_National_Text_Recital_Competition.png
 variant: tiptap
 ---
-<h1>2024年全国课文朗诵比赛 </h1>
+<h1>2024年全国课文朗诵比赛</h1>
 <p>The Committee jointly organises the 7th National Text Recital Competition
 to promote Chinese Language Learning (CPCLL), Pei Hwa Presbyterian Primary
 School and the Singapore Chinese Teachers’ Literary Recital Society. The
@@ -38,7 +38,8 @@ will be gracing the event as the Guest-of-Honour.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_01.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_02.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_02.jpg">
 </div>
 <p></p>
