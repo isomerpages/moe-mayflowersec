@@ -36,10 +36,10 @@ will be gracing the event as the Guest-of-Honour.</p>
 </div>
 <h4>Photo</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_01.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_02.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/National_Text_Recital_Comp_02.jpg">
 </div>
 <p></p>
