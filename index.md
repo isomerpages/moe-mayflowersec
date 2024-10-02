@@ -29,15 +29,31 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Collection of School Graduation Certificates
-          date: 26 June 2024
-          announcement: The School Graduation Certificates (SGC), testimonials & CCA
-            Reports are ready for collection. Collection is to be done by 31
-            July. Please remember to bring along your proof of identity to
-            collect your certificates from the school’s General Office, 8am to
-            5pm on weekday.
-          link_text: READ MORE
-          link_url: /collection-of-school-graduation-certificates/
+        - title: Marking Day
+          date: 11 October 2024
+          announcement: Sec 1-4 students need not come to school.
+          link_text: ""
+          link_url: ""
+        - title: Promotion Day
+          date: 18 October 2024
+          announcement: Sec 1 - 3 students need not come to school.
+          link_text: ""
+          link_url: ""
+        - title: Parent-Teacher Meeting
+          date: 25 October 2024
+          announcement: Sec 1 - 3 students need not come to school.
+          link_text: ""
+          link_url: ""
+  - infopic:
+      title: Vacancy for 1 Food Stall
+      subtitle: 🍴School Canteen Advertisement
+      description: We are inviting interested applicants to operate 1 Food Stall from
+        2 Jan 2025. Food options can be either 🇯🇵, 🇰🇷, 🇹🇭, 🇻🇳 or
+        MEDITERRANEAN.
+      button: Read more
+      url: /school-canteen-ads/
+      image: /images/food.jpg
+      alt: Canteen Stall Vacancy
   - infopic:
       title: Celebrating the Most Valuable Players of Mayflower Secondary
       subtitle: 👩‍🏫 Happy Teacher's Day 2024
@@ -68,15 +84,6 @@ sections:
       url: /nyp-graduation-ceremony-2024-gold-award-winners/
       image: /images/NYP_Graduation_posters_2024__MFSS_.png
       alt: NYP Graduation 2024
-  - infopic:
-      title: Congratulations to Mr Tan Kok Meng & Mr Raj
-      subtitle: 🎖️ National Day Awards 2024
-      description: We would like to congratulate 2 of our staff for receiving their
-        National Day Award this year.
-      button: Read more
-      url: /national-day-awards-2024/
-      image: /images/Staff Awards/National_Day_Award_2024.jpg
-      alt: National Day Award 2024
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
