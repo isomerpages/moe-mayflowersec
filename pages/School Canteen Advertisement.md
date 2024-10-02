@@ -33,7 +33,7 @@ variant: tiptap
 <p>Fri, 25 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p>Please see the details below.</p>
 </td>
 </tr>
 </tbody>
@@ -42,8 +42,8 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.</p>
+<p>Download and complete the application form. You may also request a hard
+copy from the School’s General Office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -54,7 +54,7 @@ hardcopy from the School’s General Office.</p>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Attached the following documents together with the application form:</p>
+<p>Attached are the following documents together with the application form:</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -71,8 +71,8 @@ etc</p>
 </ul>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>Submit the completed application form and documents by closing date via
-email OR to the School's General Office.</p>
+<p>Submit the completed application form and documents by the closing date
+via email OR to the School's General Office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -125,7 +125,7 @@ set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
 Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
-<p>Able to maintain high standard of food safety and personal hygiene.</p>
+<p>Able to maintain a high standard of food safety and personal hygiene.</p>
 </li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
@@ -134,19 +134,19 @@ Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school
 <p>Must be in personal attendance at the stall during operating hours</p>
 </li>
 </ul>
-<p><strong>Applicants should preferably fulfill the following criteria:</strong>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+<p>Successful applicants and stall assistant(s) must possess the WSQ Basic
 Food Hygiene Certificate.</p>
 </li>
 <li>
 <p>Possess catering experience or experience operating in a school environment.</p>
 </li>
 <li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
+<p>Successful applicants must apply for a food stall license from Singapore
+Food Agency (SFA).</p>
 </li>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
