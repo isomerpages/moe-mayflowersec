@@ -41,9 +41,9 @@ sections:
   - infopic:
       title: Vacancy for 1 Food Stall
       subtitle: 🍴School Canteen Advertisement
-      description: We are inviting interested applicant to operate 1 Food Stall with
-        effect from 2 Jan 2025. Food options can be either 🇯🇵, 🇰🇷, 🇹🇭,
-        🇻🇳 or MEDITERRANEAN.
+      description: We are inviting interested applicants to operate 1 Food Stall from
+        2 Jan 2025. Food options can be either 🇯🇵, 🇰🇷, 🇹🇭, 🇻🇳 or
+        MEDITERRANEAN.
       button: Read more
       url: /school-canteen-ads/
       image: /images/food.jpg
