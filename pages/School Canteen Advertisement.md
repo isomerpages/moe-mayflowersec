@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JAPANESE, KOREAN, THAI, VIETNAMESE or MEDITERRANEAN</p>
+<p><strong>Either</strong> JAPANESE, KOREAN, THAI, VIETNAMESE <strong>or</strong> MEDITERRANEAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri, 25 Oct 2024</p>
