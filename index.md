@@ -39,6 +39,16 @@ sections:
           link_text: READ MORE
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
+      title: Vacancy for 1 Food Stall
+      subtitle: 🍴School Canteen Advertisement
+      description: We are inviting interested applicant to operate 1 Food Stall with
+        effect from 2 Jan 2025. Food options can be either 🇯🇵, 🇰🇷, 🇹🇭,
+        🇻🇳 or MEDITERRANEAN.
+      button: Read more
+      url: /school-canteen-ads/
+      image: /images/food.jpg
+      alt: Canteen Stall Vacancy
+  - infopic:
       title: Celebrating the Most Valuable Players of Mayflower Secondary
       subtitle: 👩‍🏫 Happy Teacher's Day 2024
       id: infopic
@@ -68,15 +78,6 @@ sections:
       url: /nyp-graduation-ceremony-2024-gold-award-winners/
       image: /images/NYP_Graduation_posters_2024__MFSS_.png
       alt: NYP Graduation 2024
-  - infopic:
-      title: Congratulations to Mr Tan Kok Meng & Mr Raj
-      subtitle: 🎖️ National Day Awards 2024
-      description: We would like to congratulate 2 of our staff for receiving their
-        National Day Award this year.
-      button: Read more
-      url: /national-day-awards-2024/
-      image: /images/Staff Awards/National_Day_Award_2024.jpg
-      alt: National Day Award 2024
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
