@@ -957,7 +957,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ian.seng.ji.liang@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ian Seng Ji Liang</a>
+<p><a href="mailto:fabian.alrajendra@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Fabian Alrajendra</a>
 </p>
 </td>
 </tr>
