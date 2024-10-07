@@ -38,8 +38,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Application Procedure</strong>
-</p>
+<h3><strong>Application Procedure</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request a hard
@@ -88,8 +87,7 @@ via email OR to the School's General Office.</p>
 </p>
 </li>
 </ul>
-<p><strong>How to get there?</strong>
-</p>
+<h3><strong>How to get there?</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT:</p>
@@ -108,8 +106,7 @@ via email OR to the School's General Office.</p>
 </ul>
 </li>
 </ul>
-<p><strong>Interest applicants must meet the following criteria:</strong>
-</p>
+<h3><strong>Interest applicants must meet the following criteria:</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stall holder
@@ -134,8 +131,7 @@ Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school
 <p>Must be in personal attendance at the stall during operating hours</p>
 </li>
 </ul>
-<p><strong>Applicants should preferably fulfil the following criteria:</strong>
-</p>
+<h4><strong>Applicants should preferably fulfil the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicants and stall assistant(s) must possess the WSQ Basic
