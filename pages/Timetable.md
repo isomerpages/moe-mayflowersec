@@ -6,6 +6,52 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/2023 Sem 1-1.png
 variant: tiptap
 ---
+<h4>2024 Script Checking Timetable (14-17 Oct)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Timetable [PDF]</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_Script_Checking_Timetable_14_17_Oct__Sec_1_.pdf" rel="noopener nofollow" target="_blank">Script Checking Timetable (Sec 1)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_Script_Checking_Timetable_14_17_Oct__Sec_2_.pdf" rel="noopener nofollow" target="_blank">Script Checking Timetable (Sec 2)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_Script_Checking_Timetable_14_17_Oct__Sec_3_.pdf" rel="noopener nofollow" target="_blank">Script Checking Timetable (Sec 3)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
 <h4>2024 End of Year Exam Timetable</h4>
 <p><a href="/files/2024_EOY_Exam_TT_28_Aug_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 End of Year Exam Timetable [PDF] (Updated on 2 Sep 2024)</a>
 </p>
