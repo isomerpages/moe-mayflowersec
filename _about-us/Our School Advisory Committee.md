@@ -112,7 +112,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/School%20Advisory%20Committee/7__Jessie_Chong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Advisory Committee/7__Jessie_Chong.jpg">
 </div>
 <p><strong>Ms Jessie Chong</strong> 
 <br>Committee Member</p>
