@@ -95,24 +95,32 @@ variant: tiptap
 <br>Committee Member</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Paige Chua" src="/images/School Advisory Committee/Paige_Chua_mugshot.png">
+</div>
+<p><strong>Ms CHUA CHI HUI PAIGE</strong>
+<br>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/Kiesha_Prem.png">
 </div>
 <p><strong>Dr Kiesha Prem</strong> 
 <br>Committee Member</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/7__Jessie_Chong.jpg">
-</div>
-<p><strong>Ms Jessie Chong</strong> 
-<br>Committee Member</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/6__Lau_kok_Hui.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/School%20Advisory%20Committee/7__Jessie_Chong.jpg">
+</div>
+<p><strong>Ms Jessie Chong</strong> 
+<br>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/School%20Advisory%20Committee/6__Lau_kok_Hui.jpg">
 </div>
 <p><strong>Mr Lau Kok Hui</strong> 
 <br>Committee Member</p>
@@ -124,12 +132,20 @@ variant: tiptap
 <p><strong>Mr Nethan Chew Jing Xiang</strong> 
 <br>Committee Member</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:165px;" height="auto" width="100%" src="/images/School%20Advisory%20Committee/mr_daniel_tan-225x300.jpg">
 </div>
 <p><strong>Mr Tan Yong Nam Daniel</strong> 
 <br>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

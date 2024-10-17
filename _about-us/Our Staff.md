@@ -1170,7 +1170,7 @@ variant: tiptap
 <p>Flexi Adj (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mail to:ng_yuen_yau_olivia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yuen Yau Olivia</a>
+<p><a href="mailto:ng_yuen_yau_olivia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yuen Yau Olivia</a>
 </p>
 </td>
 </tr>
