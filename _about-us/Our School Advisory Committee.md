@@ -120,7 +120,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/School%20Advisory%20Committee/6__Lau_kok_Hui.jpg">
+<img style="width: 30%;" height="auto" width="100%" src="/images/School%20Advisory%20Committee/6__Lau_kok_Hui.jpg">
 </div>
 <p><strong>Mr Lau Kok Hui</strong> 
 <br>Committee Member</p>
