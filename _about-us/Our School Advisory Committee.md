@@ -97,7 +97,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Paige Chua" src="/images/School Advisory Committee/Paige_Chua_mugshot.png">
+<img style="width: 33%;" height="auto" width="100%" alt="Paige Chua" src="/images/School Advisory Committee/Paige_Chua_mugshot.png">
 </div>
 <p><strong>Ms CHUA CHI HUI PAIGE</strong>
 <br>Committee Member</p>
