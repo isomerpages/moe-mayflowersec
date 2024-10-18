@@ -96,9 +96,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Advisory Committee/Paige_Chua_mugshot.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/School Advisory Committee/Paige_Chua_mugshot.png">
 </div>
-<p><strong>Ms CHUA CHI HUI PAIGE</strong>
+<p><strong>Ms Chua Chi Hui Paige</strong>
 <br>Committee Member</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,7 +119,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/School Advisory Committee/6__Lau_kok_Hui.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/School Advisory Committee/6__Lau_kok_Hui.jpg">
 </div>
 <p><strong>Mr Lau Kok Hui</strong> 
 <br>Committee Member</p>

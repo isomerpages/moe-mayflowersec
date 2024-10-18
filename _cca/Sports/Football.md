@@ -20,7 +20,12 @@ roles within the team structure through communication and collective responsibil
 Players are also expected to be disciplined and give of their best as they
 go through training or represent the school in competitions.</p>
 <h3>Events and Achievements</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -32,6 +37,18 @@ go through training or represent the school in competitions.</p>
 <th rowspan="1" colspan="1">
 <p>Award / Position</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division - League 2 Preliminary - Finished 3rd</p>
+<p>C Division - League 3 Quarter Finalist</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,7 +108,12 @@ go through training or represent the school in competitions.</p>
 </tbody>
 </table>
 <h3>CCA Teachers &amp; students in Charge</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -121,7 +143,12 @@ go through training or represent the school in competitions.</p>
 </tbody>
 </table>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
