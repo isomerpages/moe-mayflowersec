@@ -6,6 +6,12 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
+<h4>2024 End-of-Year Sec 3 Preparation Programme (28 Oct - 1 Nov)</h4>
+<p><a href="/files/2024_Sec_3_Prep_Prog_28Oct_1Nov__classes_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Prep Prog</a>
+</p>
+<h4>2024 End-of-Year Post Exams Programme (22-25 Oct)</h4>
+<p><a href="/files/2024_EOY_Post_Exams_and_Sec_3_Prep_Prog_22Oct_25Oct__classes_.pdf" rel="noopener nofollow" target="_blank">Sec 1-3 Post Exam Activities</a>
+</p>
 <h4>2024 Script Checking Timetable (14-17 Oct)</h4>
 <table style="minWidth: 50px">
 <colgroup>
