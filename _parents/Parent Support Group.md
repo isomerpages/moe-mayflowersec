@@ -4,28 +4,6 @@ permalink: /parents/parents-support-group/permalink/
 description: ""
 variant: tiptap
 ---
-<h2>When Family problems affect Children in School</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg1.jpg">
-</div>
-<p>Retired Principal, Mrs Jenny Yeo, shares how problems at home can affect
-a child’s learning in school.</p>
-<p>Recently, one of my friends said, “More and more of my pupils are acting
-up and not doing well in school because of family problems. Are parents
-aware of this? Do they know that their relationship as a couple affects
-their child?”</p>
-<p>Researchers at the Center on the Developing Child, Harvard University
-shared &nbsp;that “when (the) home is not stable…executive function skills
-may be impaired, or may not develop at all, limiting a child’s success
-in elementary school and later life.”</p>
-<p><a href="https://schoolbag.sg/story/when-family-problems-affect-children-in-school#.VZM-OtKqqkp" rel="noopener noreferrer nofollow" target="_blank">Please click here to read more...</a>
-</p>
-<p><strong><em>Summary</em></strong>
-</p>
-<p>The article was written by retired Principal Mrs Jenny Yeo about how problems
-at home can affect a child's learning in school. It examines how the unstable
-home environment and the poor relationship of parents at home may limit
-a child's success in school and later life.</p>
 <h2>Healthy Meals in Schools and at Home</h2>
 <p>Dear parents,</p>
 <p>Childhood and adolescent years are crucial to set the foundation for healthy
@@ -49,7 +27,11 @@ for your use.</p>
 <h2>Partnership Committee</h2>
 <p><strong>Objective:</strong>&nbsp;To forge meaningful partnerships with
 stakeholders for the advancement of the Mayflower's Promise</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
