@@ -61,12 +61,11 @@ stakeholders for the advancement of the Mayflower's Promise</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_Org_Chart___Redesigned.png">
 </div>
-<h2>Article on "Raising your child for Success"</h2>
-<p><a href="https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO</a>
-</p>
+<h2>Join PSG@MFSS - Where Happiness Awaits When Parents Connect, Support, and Grow!</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___MFSS_Poster.jpg">
+</div>
 <h2>PSG Photo Album</h2>
-<p><strong>Sec 1 Meet-Parents-Session, CCA Exhibition</strong>
-</p>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbEmgtN0CynPrr0xGX4t3zEp_QbBm7C3gTSSCAlQtiL-ruSNQezUlBs4OiXvH-jiTAsVIravIPO2FM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
