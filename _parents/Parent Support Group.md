@@ -4,26 +4,6 @@ permalink: /parents/parents-support-group/permalink/
 description: ""
 variant: tiptap
 ---
-<h2>Healthy Meals in Schools and at Home</h2>
-<p>Dear parents,</p>
-<p>Childhood and adolescent years are crucial to set the foundation for healthy
-growth. Eating a nutritionally balanced diet supports optimal growth and
-development. By encouraging healthy eating habits now, you can give your
-child the best opportunity to grow into a healthy adult.</p>
-<p>HPB has developed a Parents’ Booklet to encourage parents to nurture healthy
-eating habits at home. Together with the Healthy Meals in Schools Programme,
-we aim to promote the consumption of healthy meals with a balanced mix
-of the four different food groups – brown rice, whole grain noodles and
-wholemeal bread; fruit and vegetables as well as meat and alternatives,
-both in school and at home. The Booklet is available on our school website
-for your use.</p>
-<p>Thank you for partnering with us.</p>
-<p>Warm regards,
-<br>Eric Wong
-<br>HOD/PE&amp;CCA
-<br>Mayflower Sec Sch</p>
-<p><a href="/files/hpb.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ Booklet to Encourage Healthy Eating Habits at Home</a>
-</p>
 <h2>Partnership Committee</h2>
 <p><strong>Objective:</strong>&nbsp;To forge meaningful partnerships with
 stakeholders for the advancement of the Mayflower's Promise</p>
@@ -55,11 +35,11 @@ stakeholders for the advancement of the Mayflower's Promise</p>
 <p>Staff members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Naguib Bin Ngadnan
+<p>Mdm Wong Mui Lin
+<br>Mr Mohamed Naguib Bin Ngadnan
 <br>Ms Su Haiyin
+<br>Mr Yang Pei Qiang
 <br>Mr Lee Joen Yen</p>
-<p>Mr Yang Pei Qiang
-<br>Mdm Wong Mui Lin</p>
 </td>
 </tr>
 <tr>
@@ -75,11 +55,11 @@ stakeholders for the advancement of the Mayflower's Promise</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/partnership_org_chart_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnership_Org_Chart___Redesigned_2024__2_.png">
 </div>
 <h2>2024 Parent Support Group Executive Committee</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MFSS_PSG_EXCO_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_Org_Chart___Redesigned.png">
 </div>
 <h2>Article on "Raising your child for Success"</h2>
 <p><a href="https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO</a>
