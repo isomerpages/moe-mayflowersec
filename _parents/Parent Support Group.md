@@ -48,8 +48,8 @@ stakeholders for the advancement of the Mayflower's Promise</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leow Leong Chuan
-<br>Mr Abdul Rashid</p>
-<p>Mr Muhammad Fadhil</p>
+<br>Mr Abdul Rashid
+<br>Mr Muhammad Fadhil</p>
 </td>
 </tr>
 </tbody>
