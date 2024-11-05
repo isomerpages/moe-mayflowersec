@@ -44,6 +44,11 @@ sections:
           announcement: 7th to 11th November 2024
           link_text: ""
           link_url: ""
+        - title: Open House 2024
+          date: 16 November 2024
+          announcement: "Time: 9am to 12 noon."
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Nominations are now open
       subtitle: 🏆 PAT & OYEA 2025
