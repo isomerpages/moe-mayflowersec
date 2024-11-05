@@ -50,6 +50,17 @@ sections:
           link_text: Find out more
           link_url: /mayflower-secondary-school-open-house-2024/
   - infopic:
+      title: See you soon
+      subtitle: 🏫 Open House 2024
+      id: infopic
+      description: Join us at Mayflower Secondary School’s Open House for an exciting
+        glimpse into our vibrant school! Explore our campus, & discover the
+        Mayflowerian experience.
+      button: More info
+      url: /mayflower-secondary-school-open-house-2024/
+      image: /images/2024_OH_Infographic.png
+      alt: Open House 2024
+  - infopic:
       title: Nominations are now open
       subtitle: 🏆 PAT & OYEA 2025
       id: infopic
@@ -70,17 +81,6 @@ sections:
       url: /school-canteen-ads/
       image: /images/food.jpg
       alt: Canteen Stall Vacancy
-  - infopic:
-      title: See you soon
-      subtitle: 🏫 Open House 2024
-      id: infopic
-      description: Join us at Mayflower Secondary School’s Open House for an exciting
-        glimpse into our vibrant school! Explore our campus, & discover the
-        Mayflowerian experience.
-      button: More info
-      url: /mayflower-secondary-school-open-house-2024/
-      image: /images/2024_OH_Infographic.png
-      alt: Open House 2024
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
