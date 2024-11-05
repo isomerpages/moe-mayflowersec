@@ -1017,6 +1017,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Science STEM Adj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: yang_pei_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yang Pei Leng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1143,15 +1152,6 @@ variant: tiptap
 <p>Flexi Adj (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_chun_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Chun Lai (Joy)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (Math)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:goh_yan_qin_katharine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Yan Qin Katharine</a>
 </p>
 </td>
@@ -1162,15 +1162,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_joen_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Joen Yen</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yuen_yau_olivia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yuen Yau Olivia</a>
 </p>
 </td>
 </tr>
