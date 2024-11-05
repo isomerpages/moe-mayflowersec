@@ -45,6 +45,17 @@ sections:
           link_text: ""
           link_url: ""
   - infopic:
+      title: Nominations are now open
+      subtitle: 🏆 PAT & OYEA 2025
+      id: infopic
+      description: "We are thrilled to announce that nominations are now open
+        for  outstanding educators: President’s Award for Teachers & Outstanding
+        Youth in Education Award."
+      button: Read more
+      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
+      image: /images/PaT___OYEA_2025_poster.png
+      alt: PAT OYEA 2025
+  - infopic:
       title: Vacancy for 1 Food Stall
       subtitle: 🍴School Canteen Advertisement
       description: We are inviting interested applicants to operate 1 Food Stall from
@@ -65,25 +76,6 @@ sections:
       url: /teacher-s-day-2024/
       image: /images/Teachers_Day_2024_for_alumni.png
       alt: Teacher's Day 2024
-  - infopic:
-      title: September Holiday Academic Programme
-      subtitle: 🏫 For Sec 4 & 5
-      id: infopic
-      description: Lesson schedule is available on the timetable page.
-      button: More info
-      url: /timetable/#:~:text=September%20Holiday%202024%20Academic%20Programme
-      image: /images/sept__sec_4_5_.jpg
-      alt: Sec 4 5 Sep Prog
-  - infopic:
-      title: Congratulations Javier Yong & Keer Soong
-      subtitle: 🎉 NYP Graduation - Gold Award
-      id: infopic
-      description: Mayflower Secondary School extends its warmest congratulations to
-        them on their outstanding achievements.
-      button: Read more
-      url: /nyp-graduation-ceremony-2024-gold-award-winners/
-      image: /images/NYP_Graduation_posters_2024__MFSS_.png
-      alt: NYP Graduation 2024
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
