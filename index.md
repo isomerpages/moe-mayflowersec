@@ -44,6 +44,22 @@ sections:
           announcement: 7th to 11th November 2024
           link_text: ""
           link_url: ""
+        - title: Open House 2024
+          date: 16 November 2024
+          announcement: "Time: 9am to 12 noon."
+          link_text: Find out more
+          link_url: /mayflower-secondary-school-open-house-2024/
+  - infopic:
+      title: See you soon
+      subtitle: 🏫 Open House 2024
+      id: infopic
+      description: Join us at Mayflower Secondary School’s Open House for an exciting
+        glimpse into our vibrant school! Explore our campus, & discover the
+        Mayflowerian experience.
+      button: More info
+      url: /mayflower-secondary-school-open-house-2024/
+      image: /images/2024_OH_Infographic.png
+      alt: Open House 2024
   - infopic:
       title: Nominations are now open
       subtitle: 🏆 PAT & OYEA 2025
@@ -65,17 +81,6 @@ sections:
       url: /school-canteen-ads/
       image: /images/food.jpg
       alt: Canteen Stall Vacancy
-  - infopic:
-      title: Celebrating the Most Valuable Players of Mayflower Secondary
-      subtitle: 👩‍🏫 Happy Teacher's Day 2024
-      id: infopic
-      description: Alumni who wish to reconnect with their former teachers are invited
-        to visit during the last week of August. Please arrange an appointment
-        with your teachers.
-      button: More info
-      url: /teacher-s-day-2024/
-      image: /images/Teachers_Day_2024_for_alumni.png
-      alt: Teacher's Day 2024
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
