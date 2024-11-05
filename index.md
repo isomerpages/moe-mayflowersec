@@ -29,19 +29,19 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Marking Day
-          date: 11 October 2024
-          announcement: Sec 1-4 students need not come to school.
+        - title: "[CCA] Overseas Trip: VIA trip to Pattaya Thailand"
+          date: 06 November 2024
+          announcement: 6th to 9th November 2024
           link_text: ""
           link_url: ""
-        - title: Promotion Day
-          date: 18 October 2024
-          announcement: Sec 1 - 3 students need not come to school.
+        - title: Humanities Overseas Trip to Vietnam
+          date: 07 November 2024
+          announcement: 7th to 11th November 2024
           link_text: ""
           link_url: ""
-        - title: Parent-Teacher Meeting
-          date: 25 October 2024
-          announcement: Sec 1 - 3 students need not come to school.
+        - title: "[CCA] Overseas trip: Cultural Exchange to Hong Kong China"
+          date: 07 November 2024
+          announcement: 7th to 11th November 2024
           link_text: ""
           link_url: ""
   - infopic:
