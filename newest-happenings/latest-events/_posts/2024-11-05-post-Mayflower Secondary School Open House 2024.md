@@ -10,14 +10,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_OH_Infographic.png">
 </div>
-<p>Date: Sat, 16 Nov 2024
-<br>Time: 9am to 12 noon</p>
-<p>Come visit Mayflower Secondary School during our open house and get a
-peek into our school ground. Meet our friendly teachers and students, and
-find out more about our Mayflowerian experience.</p>
-<p>Visitors may park in the school if there are empty lots. Alternatively,
-you can park at the public parking lots along Ang Mo Kio Street 21 or the
-multi-story carpark opposite the school.</p>
+<p><strong>Date:</strong> Sat, 16 Nov 2024
+<br><strong>Time:</strong> 9am to 12 noon</p>
+<p>Join us at Mayflower Secondary School’s Open House for an exciting glimpse
+into our vibrant school community! Explore our campus, connect with our
+welcoming teachers and students, and discover the unique Mayflowerian experience.</p>
+<p>Visitors are welcome to park on campus if spaces are available. Alternatively,
+public parking is available along the road or at the multi-story carpark
+across from the school. We look forward to meeting you!</p>
 <h2>Getting to our school</h2>
 <h3>Address of School</h3>
 <blockquote>
