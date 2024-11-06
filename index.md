@@ -25,30 +25,6 @@ sections:
       variant: center
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: "[CCA] Overseas Trip: VIA trip to Pattaya Thailand"
-          date: 06 November 2024
-          announcement: 6th to 9th November 2024
-          link_text: ""
-          link_url: ""
-        - title: Humanities Overseas Trip to Vietnam
-          date: 07 November 2024
-          announcement: 7th to 11th November 2024
-          link_text: ""
-          link_url: ""
-        - title: "[CCA] Overseas trip: Cultural Exchange to Hong Kong China"
-          date: 07 November 2024
-          announcement: 7th to 11th November 2024
-          link_text: ""
-          link_url: ""
-        - title: Open House 2024
-          date: 16 November 2024
-          announcement: "Time: 9am to 12 noon."
-          link_text: Find out more
-          link_url: /mayflower-secondary-school-open-house-2024/
   - infopic:
       title: See you soon
       subtitle: 🏫 Open House 2024
@@ -81,6 +57,30 @@ sections:
       url: /school-canteen-ads/
       image: /images/food.jpg
       alt: Canteen Stall Vacancy
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: "[CCA] Overseas Trip: VIA trip to Pattaya Thailand"
+          date: 06 November 2024
+          announcement: 6th to 9th November 2024
+          link_text: ""
+          link_url: ""
+        - title: Humanities Overseas Trip to Vietnam
+          date: 07 November 2024
+          announcement: 7th to 11th November 2024
+          link_text: ""
+          link_url: ""
+        - title: "[CCA] Overseas trip: Cultural Exchange to Hong Kong China"
+          date: 07 November 2024
+          announcement: 7th to 11th November 2024
+          link_text: ""
+          link_url: ""
+        - title: Open House 2024
+          date: 16 November 2024
+          announcement: "Time: 9am to 12 noon."
+          link_text: Find out more
+          link_url: /mayflower-secondary-school-open-house-2024/
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
