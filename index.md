@@ -37,16 +37,14 @@ sections:
       image: /images/2024_OH_Infographic.png
       alt: Open House 2024
   - infopic:
-      title: Nominations are now open
-      subtitle: 🏆 PAT & OYEA 2025
+      title: Online & Walk-in purchase available
+      subtitle: 📚 Booklist for 2025
       id: infopic
-      description: "We are thrilled to announce that nominations are now open
-        for  outstanding educators: President’s Award for Teachers & Outstanding
-        Youth in Education Award."
+      description: For all Sec 2 to 5 students.
       button: Read more
-      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
-      image: /images/PaT___OYEA_2025_poster.png
-      alt: PAT OYEA 2025
+      url: /booklist-uniform-sales-for-2025/
+      image: /images/booklist2025.jpg
+      alt: booklist 2025
   - infopic:
       title: Vacancy for 1 Food Stall
       subtitle: 🍴School Canteen Advertisement
@@ -58,14 +56,16 @@ sections:
       image: /images/food.jpg
       alt: Canteen Stall Vacancy
   - infopic:
-      title: Online & Walk-in purchase available
-      subtitle: 📚 Booklist for 2025
+      title: Nominations are now open
+      subtitle: 🏆 PAT & OYEA 2025
       id: infopic
-      description: For all Sec 2 to 5 students.
+      description: "We are thrilled to announce that nominations are now open
+        for  outstanding educators: President’s Award for Teachers & Outstanding
+        Youth in Education Award."
       button: Read more
-      url: /booklist-uniform-sales-for-2025/
-      image: /images/booklist2025.jpg
-      alt: booklist 2025
+      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
+      image: /images/PaT___OYEA_2025_poster.png
+      alt: PAT OYEA 2025
   - announcements:
       title: Announcements
       id: announcements
