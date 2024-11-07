@@ -8,6 +8,10 @@ variant: tiptap
 <p><a href="https://www.schoolbag.edu.sg/story/raising-your-child-for-success/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/raising-your-child-for-success/</a>
 </p>
 <hr>
+<h2>E.A.R.N. Your Smiles 2024 - Blueprint for Academic Excellence</h2>
+<p><a href="https://for.edu.sg/earn-your-smiles2024parents" rel="noopener nofollow" target="_blank">Earn your Smiles 2024 Parents Deck</a>
+</p>
+<hr>
 <h2>TOUCH Parenting</h2>
 <p><a href="/files/IT.pdf" rel="noopener noreferrer nofollow" target="_blank">TOUCH Parenting Handout - I Cant Live Without IT.pdf</a>
 <br><a href="/files/TOUCH.pdf" rel="noopener noreferrer nofollow" target="_blank">TOUCH Parenting Handout - Nurturing Digital Natives.pdf</a>
