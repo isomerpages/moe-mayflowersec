@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_2G3.pdf" rel="noopener nofollow" target="_blank">Sec 2 G3 Booklist 2025.pdf</a>
 </p>
-<p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_3E.pdf" rel="noopener nofollow" target="_blank">Sec 2 Express Booklist 2025.pdf</a>
+<p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_3E.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express Booklist 2025.pdf</a>
 </p>
 <p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_3NA.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA Booklist 2025.pdf</a>
 </p>
@@ -58,7 +58,7 @@ within 7 days of purchase.</p>
 <p>Place order online</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Login to:	<a href="http://cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">cascoedusupply.com.sg</a>
+<p>Login to: <a href="http://cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">cascoedusupply.com.sg</a>
 </p>
 </li>
 <li>
@@ -109,7 +109,7 @@ delivery service may take up to 2 weeks for your items to be delivered.</p>
 <p>Casco Office Tel. No.: 6547 4204 (9 am to 5 pm)</p>
 </li>
 <li>
-<p>Email address:	<a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
+<p>Email address: <a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
 </p>
 </li>
 </ul>
