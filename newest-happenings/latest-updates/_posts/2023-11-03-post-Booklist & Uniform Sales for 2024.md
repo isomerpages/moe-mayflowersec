@@ -72,7 +72,7 @@ Please bring your own Tote Bags. Bibi&Baba plastic bags are charged at 20 cents 
 **Sun, 24 Dec 2023 (Christmas Eve):** 10.00 am - 4.00 pm  
 **Mon, 25 Dec 2023 (Christmas Day):** CLOSED  
 **Sun, 31 Dec 2023 (New Year's Eve):** 10.00 am - 4.00 pm  
-**Mon, 1 Jan 2021 (New Year's Day):** 10.00 am - 6.00 pm  
+**Mon, 1 Jan 2024 (New Year's Day):** 10.00 am - 6.00 pm  
 **Note:**  
 For made-to-measure orders: Please visit 213 Henderson Road, #01-12, Singapore 159553
 
