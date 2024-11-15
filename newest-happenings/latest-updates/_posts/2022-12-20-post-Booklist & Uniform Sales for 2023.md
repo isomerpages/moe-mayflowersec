@@ -5,8 +5,8 @@ date: 2022-12-20
 layout: post
 description: Details for buying 2023 books and uniform.
 image: /images/booklist 2023.jpg
+variant: markdown
 ---
-
 #### **Updated as of 01/11/22**
 
 ![](/images/booklist%202023.jpg)
@@ -46,12 +46,12 @@ Please bring your own Tote Bags. Bibi&Baba plastic bags are charged at 20 cents 
 
 **Daily Mon-Sat:** 10.00 am - 7.00pm  
 **Daily Sun:** 10.00 am - 6.00 pm  
-**Sat, 24 Dec 2021 (Christmas Eve):** 10.00 am - 4.00 pm  
-**Sun, 25 Dec 2021 (Christmas Day):** CLOSED  
-**Mon, 26 Dec 2021 (Boxing Day):** 10.00 am - 6.00 pm  
-**Sat, 31 Dec 2021 (New Year's Eve):** 10.00 am - 4.00 pm  
-**Sun, 1 Jan 2021 (New Year's Day):** 10.00 am - 6.00 pm  
-**Mon, 2 Jan 2022 (Public Holiday):** 10.00 am - 6.00 pm  
+**Sat, 24 Dec 2022 (Christmas Eve):** 10.00 am - 4.00 pm  
+**Sun, 25 Dec 2022 (Christmas Day):** CLOSED  
+**Mon, 26 Dec 2022 (Boxing Day):** 10.00 am - 6.00 pm  
+**Sat, 31 Dec 2022 (New Year's Eve):** 10.00 am - 4.00 pm  
+**Sun, 1 Jan 2023 (New Year's Day):** 10.00 am - 6.00 pm  
+**Mon, 2 Jan 2023 (Public Holiday):** 10.00 am - 6.00 pm  
   
 For made-to-measure orders: Please visit 213 Henderson Road, #01-12, Singapore 159553
 
