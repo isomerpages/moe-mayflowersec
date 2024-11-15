@@ -213,6 +213,9 @@ model – Engage, Explore, Explain, Elaborate and Evaluate.</p>
 </table>
 <h2>Science Talent Development 2024</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MFSS_Science_students_01.png">
+</div>
 <p>2024 is an exciting year for the Science department where our students
 enjoyed multiple platforms and opportunities to stretch their potential
 in Science beyond the textbooks. 4 teams submitted their projects for the
