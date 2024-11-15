@@ -5,4 +5,344 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<blockquote><p>Excitement. Exploration. Experience. Excellence.</p></blockquote><hr><p>The Science Department aims to provide students with a holistic understanding of the world around them through an inquiry-based approach in the teaching and learning of Science, enabling them to see the relevance of Science to their daily lives, the society and the environment.&nbsp;</p><p>The focus of the curriculum is to inculcate the spirit of scientific inquiry and nurturing our students to be the inquirer through the 5E Instructional model – Engage, Explore, Explain, Elaborate and Evaluate.</p><p>The department hopes to inspire every Mayflowerian to develop a learning experience of the Sciences beyond the classroom and enhance their depth of learning in the various domains of Science.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Staff</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Unit</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Tay Jang Shen Johnson</p></td><td rowspan="1" colspan="1"><p>HOD Science</p></td><td rowspan="1" colspan="1"><p>Physics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ng Kok Wing</p></td><td rowspan="1" colspan="1"><p>School Staff Developer</p></td><td rowspan="1" colspan="1"><p>Physics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr B Prem Anand</p></td><td rowspan="1" colspan="1"><p>Year Head (Upper Secondary)</p></td><td rowspan="1" colspan="1"><p>Physics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Krishnan Malathi</p></td><td rowspan="1" colspan="1"><p>HOD Special Projects</p></td><td rowspan="1" colspan="1"><p>Biology</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Marie Huang</p></td><td rowspan="1" colspan="1"><p>SH Biology</p></td><td rowspan="1" colspan="1"><p>Biology</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mohamad Gaddafi Annuar</p></td><td rowspan="1" colspan="1"><p>SH CCE / Asst Year Head</p></td><td rowspan="1" colspan="1"><p>Chemistry</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Timothy Chen</p></td><td rowspan="1" colspan="1"><p>SH Educational Support</p></td><td rowspan="1" colspan="1"><p>Chemistry</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ng Tze How</p></td><td rowspan="1" colspan="1"><p>Senior Teacher</p></td><td rowspan="1" colspan="1"><p>Biology</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ng Jiesheng Timothy</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>Biology</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Jeevana Rani</p></td><td rowspan="1" colspan="1"><p>Asst Year Head</p></td><td rowspan="1" colspan="1"><p>Chemistry</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lim Wei Li</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>Chemistry</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Pang Suo Kang David</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>Chemistry</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Mok Pei Jiun</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>Physics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Neo Peck Hoon</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>Physics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Wong Juat Ngiom</p></td><td rowspan="1" colspan="1"><p>Technical Support Officer</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Jenny Ong</p></td><td rowspan="1" colspan="1"><p>Technical Support Officer</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h2>2020 Teaching and Learning Strategies</h2><p>Science has taken on an even more crucial role in formulating our students’ understanding of the world. Authentic learning becomes more critical as we engage our students in the Joy of Learning and explore digital platforms to allow students to embark on self-directed learning and discovery.</p><p>Through the infusion of ICT tools (e.g. Loom, Kami, Mail merge, etc), teachers were able to enhance their teaching and learning processes to better support students' learning needs. With the rollout of MOE’s National Digital Literacy Programme, the Science Department is excited to be at the forefront of digital literacy in education</p><p>As a department initiative, Secondary 1 students are introduced to specially crafted lessons aimed to deliver the Joy of Learning into each topic. The aim is to inject authenticity in the learning process to allow students to learn beyond the classroom and textbooks.</p><p>Our department’s teachers are also encouraged to share how Assessment for Learning strategies are incorporated in their lessons, especially during Home-based learning. This is to provide timely feedback for our students to address learning gaps and to allow them to “feed forward”. Using the Assessment for Learning Framework by Dylan Williams, teachers are equipped with the knowledge to put into practice throughout the year.</p><h2>Notable Programmes and Events</h2><table><tbody><tr><th rowspan="1" colspan="1"><p>Programme Name</p></th><th rowspan="1" colspan="1"><p>Description</p></th></tr><tr><td rowspan="1" colspan="1"><p>1st Gear: Science of Motor Vehicles</p></td><td rowspan="1" colspan="1"><p>EduTorque conducted an exciting enrichment programme on The Science of Motor Vehicles for our Secondary 4 Normal Technical students. This course is designed to create a stimulating and life-long learning experience for students. Beyond the theory, students had an opportunity to take the hot seat in a Motorsports GP Car simulator.<br>Furthermore, students also had the opportunity to tour an electric kart circuit (The Karting Arena) and enjoy exciting karting sessions!</p></td></tr><tr><td rowspan="1" colspan="1"><p>EGO Workshop</p></td><td rowspan="1" colspan="1"><p>The workshop for Secondary 2s provides a “hands on, minds on” environment that supports and enriches the students’ learning and understanding of the science concepts from the Interactions &amp; Energy themes of the Lower Secondary Science syllabus.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Biodiversity Programme</p></td><td rowspan="1" colspan="1"><p>Secondary 1 Express and Normal (Academic) students are given the chance to learn beyond the curriculum and understand Biodiversity in Singapore and beyond Singapore. Through activities like a learning journey to Sungei Buloh Wetland Reserve, pond water sampling and a scavenger hunt, the classroom experience truly embodies the spirit of Joy of Learning where the learning takes an alternative form and nature offers knowledge outside of the textbook.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Enrich @ Health Sciences programmes conducted by Ngee Ann Polytechnic</p></td><td rowspan="1" colspan="1"><p>The Secondary 2 and 3 Normal Technical students took part various workshops conducted by Ngee Ann Polytechnic. These workshops, Oh Baby Baby and Respiratory Rhythm are highly interactive miniature workshops for the students to experience the world of healthcare and also understand how to better care for their own bodies.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Crystal Growing Enrichment &amp; Competition</p></td><td rowspan="1" colspan="1"><p>The Crystal Growing Enrichment is conducted every year for Lower Secondary students as an introductory workshop for them to learn the art of crystal growing. Through this workshop, the students will be able to experience Chemistry in an authentic manner through the planning of experiments, documentation of their preparatory work and presenting their product. In addition, the department has fielded two teams for the bi-annual Singapore National Crystal Growing Challenge organised by NUS's Department of Chemistry.</p></td></tr></tbody></table><h2>Achievements</h2><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Competition</p></th><th rowspan="1" colspan="1"><p>Achievement</p></th></tr><tr><td rowspan="1" colspan="1"><p>Upper Secondary</p></td><td rowspan="1" colspan="1"><p>8th International Biomedical Olympiad Quiz organized by Anglo-Chinese Junior College in collaboration with the Yong Loo Lin School of Medicine.</p></td><td rowspan="1" colspan="1"><p>1 Gold<br>2 Merit<br>1 Honourable Mention<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Upper Secondary</p></td><td rowspan="1" colspan="1"><p>Chemistry • Communication Challenge 2018<br>NUS Chemistry Department<br>Chemistry Solutions for a Sustainable Future</p></td><td rowspan="1" colspan="1"><p>3 Certificates of Participation</p></td></tr><tr><td rowspan="1" colspan="1"><p>Lower Secondary</p></td><td rowspan="1" colspan="1"><p>University of New South Wales Global International Competitions and Assessments for Schools 2019 (Science)</p></td><td rowspan="1" colspan="1"><p>1 Exemplary<br>5 Outstanding<br>13 Commendable<br>4 Good Effort<br>15 Participation</p></td></tr></tbody></table><h2>Photo</h2><div class="iframe-wrapper"><iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXBHmIV_uqIBMrtKf404aVjr1u9TeQDR_1Ts8erj4cdud_bLA1_IM-_EY0nBiDFiZH2GPDxcbVuld9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><p></p>
+<blockquote>
+<p>Excitement. Exploration. Experience. Excellence.</p>
+</blockquote>
+<p>Our Science Department’s vision is to develop our Mayflowerians into confident
+and self-Regulated inquirers with critical thinking skills and a passion
+in the learning of Science by providing a Hands-on, Minds-on &amp; Hearts-on
+authentic Science learning experience in a nurturing and caring environment.</p>
+<p>The focus of the curriculum is to inculcate the spirit of scientific inquiry
+and nurturing our students to be the inquirer through the 5E Instructional
+model – Engage, Explore, Explain, Elaborate and Evaluate.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Staff</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Unit</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Jang Shen Johnson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr B Prem Anand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Marie Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Gaddafi Bin Annuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CCE / Asst Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Timothy Chen Yanhui&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Educational Support / Asst Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Tze How</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jeevana Rani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mok Pei Jiun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Neo Peck Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Jiesheng Timothy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Suo Kang David</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pan Shiyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi adj (Sci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teh Swee Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi adj (Chem)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jenny Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Pei Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Samsulbahri Bin Ahmad Surasi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Science Talent Development 2024</h2>
+<p></p>
+<p>2024 is an exciting year for the Science department where our students
+enjoyed multiple platforms and opportunities to stretch their potential
+in Science beyond the textbooks. 4 teams submitted their projects for the
+25th International Elementz Fair organised by ASRJC. The teams explored
+a diverse range of topics that enabled their scientific learning to be
+enhanced.</p>
+<p>We are proud that the team comprising of Kayla Koh 3A, Liew Hng Yee 3A
+and Teo Pei Ann 3A represented Mayflower Secondary School at the finals
+on 16 April 2024, where they achieved a Bronze award for their project
+on Investigating The Effects Of Sleep On Learning And Memory Among 13 To
+15 Year Olds.</p>
+<p>The girls went on to extend their project to develop an application prototype
+for submission for the Samsung Solve For Tomorrow competition to track
+the sleep hours of the students and encourage the collective efforts of
+community to clock sufficient sleep hours.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Investigating The Effects Of Sleep On Learning And Memory Among 13 To 15 Year Old</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>3A Kayla Koh Yan Tang</p>
+</li>
+<li>
+<p>3A Teo Pei Ann</p>
+</li>
+<li>
+<p>3A Liew Hng Yee</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Assessing The Feasibility Of Nuclear Power Plant In Singapore's Energy Landscape</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>3I Claudia Phua Xin Er</p>
+</li>
+<li>
+<p>3I Kher Pei Xuan</p>
+</li>
+<li>
+<p>3I Zamir Zamirudin</p>
+</li>
+<li>
+<p>3J Teo Yu Han</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Effect Of Gender Bias On Emotion Recognition And Its Impact On Social Behaviour Of Teenagers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>3A Cloe Angel Chua Shanen</p>
+</li>
+<li>
+<p>3A Lim Yu Xuan</p>
+</li>
+<li>
+<p>3I Ajith Devika</p>
+</li>
+<li>
+<p>3J Er En Ying Lorynn</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Investigating Effect Of Covid-19 Infections On Performance Of Student Athletes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>3D Charlotte Teong</p>
+</li>
+<li>
+<p>3E Ng Mei Wei Nathalia Udaundo</p>
+</li>
+<li>
+<p>3I Bekesi Rylee Sarah</p>
+</li>
+<li>
+<p>3I Glairys Teo Gexuan</p>
+</li>
+<li>
+<p>3I Xylia Tan Sin Nga</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p>Our students also had participated in the following competitions where
+they were awarded a Certificate of Participation.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Genetic Modification Advisory Committee (GMAC) Students Challenge 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>3I Chan Rui Yi</p>
+</li>
+<li>
+<p>3I Kher Pei Xuan</p>
+</li>
+<li>
+<p>3J Lee Xin Ting</p>
+</li>
+<li>
+<p>3J Lai Yu Shan</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h2>Photo</h2>
+<div class="iframe-wrapper">
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXBHmIV_uqIBMrtKf404aVjr1u9TeQDR_1Ts8erj4cdud_bLA1_IM-_EY0nBiDFiZH2GPDxcbVuld9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
