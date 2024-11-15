@@ -334,15 +334,91 @@ they were awarded a Certificate of Participation.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Singapore Junior Biology Olympiad 2024</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3A Cloe Angel Chua Shanen</p>
+</li>
+<li>
+<p>3A Teo Pei Ann</p>
+</li>
+<li>
+<p>3A Tyvia Teo Kai Wen</p>
+</li>
+<li>
+<p>3A Lek Li Ying Bernice</p>
+</li>
+<li>
+<p>3I Bekesi Rylee Sarah</p>
+</li>
+<li>
+<p>3I Chan Rui Yi</p>
+</li>
+<li>
+<p>3J Ong Qian Yi</p>
+</li>
+<li>
+<p>3J Er En Ying Lorynn</p>
+</li>
+<li>
+<p>3J Kakulapati Anwita</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Samsung Solve for Tomorrow 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>3A Kayla Koh</p>
+</li>
+<li>
+<p>3A Liew Hng Yee</p>
+</li>
+<li>
+<p>3A Lu Kaixin Tiara</p>
+</li>
+<li>
+<p>3A Pay Wan Qing</p>
+</li>
+<li>
+<p>3A Teo Pei Ann</p>
+</li>
+<li>
+<p>3I Fan Zicheng</p>
+</li>
+<li>
+<p>3I Gabriel Ng Eu Gene</p>
+</li>
+<li>
+<p>3I Jiang Yuanhe</p>
+</li>
+<li>
+<p>3I Ng Jeyrome</p>
+</li>
+<li>
+<p>3J Teo Yuhan</p>
+</li>
+<li>
+<p>3J Venkatesh Nishitha</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
-<p></p>
+<p>Beyond competitions, our department has organised learning journeys to
+NeWater plant and I-Fly Programme, external workshops such as Squid Dissection
+by Young Nautilus and Making Strawberry Jam and Scones by Science Centre
+and in-house workshops such as Lip Balm to commemorate Mother’s Day, for
+our students to experience joy in the learning of Science. We hope to continue
+organising these activities for the development of our students’ active
+learning in Science.</p>
 <h2>Photo</h2>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXBHmIV_uqIBMrtKf404aVjr1u9TeQDR_1Ts8erj4cdud_bLA1_IM-_EY0nBiDFiZH2GPDxcbVuld9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+<p>Singapore Junior Biology Olympiad 2024</p>
