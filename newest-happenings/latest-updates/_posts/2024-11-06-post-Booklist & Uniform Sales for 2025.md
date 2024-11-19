@@ -7,12 +7,18 @@ description: ""
 image: /images/booklist2025.jpg
 variant: tiptap
 ---
-<h4><strong>Updated as of 06/11/24</strong></h4>
+<h4><strong>Updated as of 19/11/24</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/booklist2025.jpg">
 </div>
 <h2>Bookshop Purchase</h2>
 <h3>Booklist 2025</h3>
+<p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_1G1.pdf" rel="noopener nofollow" target="_blank">Sec 1 G1 Booklist 2025.pdf</a>
+</p>
+<p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_1G2.pdf" rel="noopener nofollow" target="_blank">Sec 1 G2 Booklist 2025.pdf</a>
+</p>
+<p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_1G3.pdf" rel="noopener nofollow" target="_blank">Sec 1 G3 Booklist 2025.pdf</a>
+</p>
 <p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_2G1.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1 Booklist 2025.pdf</a>
 </p>
 <p><a href="/files/2025 Booklist/MFSS_Booklist_2025_Sec_2G2.pdf" rel="noopener nofollow" target="_blank">Sec 2 G2 Booklist 2025.pdf</a>
