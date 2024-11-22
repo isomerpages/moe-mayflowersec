@@ -40,7 +40,7 @@ sections:
       title: Online & Walk-in purchase available
       subtitle: 📚 Booklist for 2025
       id: infopic
-      description: For all Sec 2 to 5 students.
+      description: For all Sec 1 to 5 students.
       button: Read more
       url: /booklist-uniform-sales-for-2025/
       image: /images/booklist2025.jpg
