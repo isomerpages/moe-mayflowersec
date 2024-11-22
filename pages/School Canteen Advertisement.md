@@ -7,9 +7,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/food.jpg">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -19,18 +18,12 @@ variant: tiptap
 <p>Type of Stall</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Requirements</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Either</strong> JAPANESE, KOREAN, THAI, VIETNAMESE <strong>or</strong> MEDITERRANEAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri, 25 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please see the details below.</p>
