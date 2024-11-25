@@ -69,7 +69,12 @@ applications to enhance personal productivity and develop life skills</p>
 <p>As part of the NDLP, schools will progressively roll out ICT applications
 that are vital to students’ educational journey. These applications will
 form an integral part of the applications installed in the PLDs:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -99,31 +104,25 @@ needs.</p>
 </tr>
 </tbody>
 </table>
-<h3>Device Information</h3>
-<blockquote>
+<h3>Device Information (2025 Model)</h3>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Acer%20Chromebook.png">
+<img style="width: 100%" height="auto" width="100%" alt="Acer Spin 512 R857TN" src="/images/Acer_Chromebook_Spin_512___R857TN.png">
 </div>
-</blockquote>
-<p><strong>Acer Chromebook Spin R756TN</strong>
+<p><strong>Acer Chromebook Spin R857TN</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>OS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ChromeOS</p>
+<p>Chrome OS</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +131,7 @@ needs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel® Quad-core N100</p>
+<p>Intel® Quad-core N150</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +149,7 @@ needs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 12 hours</p>
+<p>53 Wh, Up to 10 hours</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +158,7 @@ needs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.4 kg</p>
+<p>1.5 kg</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +167,16 @@ needs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.6" IPS, HD 1366 x 768, Multi-Touch</p>
+<p>12.2" IPS, WUXGA 1920 x 1200, Multi-Touch LCD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ports</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDMI 1.4, 2 x USB 3.2 Gen 1 Type-A, 2 x USB Type-C, 1 x 3.5 mm audio</p>
 </td>
 </tr>
 <tr>
@@ -303,7 +311,12 @@ prevent misuse of the device.</p>
 <p>The DMA will be funded by MOE and will be uninstalled from the device
 when your child/ward graduates or leaves the school. The purpose of DMA
 are three fold as follows:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
