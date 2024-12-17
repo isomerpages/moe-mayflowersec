@@ -24,7 +24,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_eet_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Eet Fong</a>
+<p><a href="mailto:lim_yu_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yu Kee</a>
 </p>
 </td>
 </tr>
@@ -48,10 +48,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_hidayani_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur Hidayani Ibrahim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kok_wing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Kok Wing</a>
+<p><a href="mailto:teo_boon_hua_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Boon Hua Francis</a>
 </p>
 </td>
 </tr>
