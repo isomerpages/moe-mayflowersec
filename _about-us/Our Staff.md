@@ -867,7 +867,7 @@ variant: tiptap
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_rashid_maali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Rashid Bin Ma'ali</a>
+<p><a href="mailto:tay_boon_teck_gregory@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Boon Teck Gregory</a>
 </p>
 </td>
 </tr>
@@ -876,7 +876,7 @@ variant: tiptap
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_boon_teck_gregory@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Boon Teck Gregory</a>
+<p><a href="mailto:abdul_rashid_maali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Rashid Bin Ma'ali</a>
 </p>
 </td>
 </tr>
