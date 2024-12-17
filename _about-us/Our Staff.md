@@ -873,6 +873,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vicknesh_thiagarajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vicknesh Thiagarajah</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -886,15 +895,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_boon_teck_gregory@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Boon Teck Gregory</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vicknesh_thiagarajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vicknesh Thiagarajah</a>
 </p>
 </td>
 </tr>
@@ -1008,10 +1008,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Lab)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_juat_ngiom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Juat Ngiom</a>
+<p><a href="mailto:yang_pei_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Pei Leng</a>
 </p>
 </td>
 </tr>
@@ -1206,7 +1206,7 @@ variant: tiptap
 <p>Hindi Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharmila jangir</p>
+<p>Mdm Sharmila Jangir</p>
 </td>
 </tr>
 </tbody>
