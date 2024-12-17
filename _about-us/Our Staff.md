@@ -972,6 +972,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Education Workshop Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:harish_nath_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Harish Nath Singh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1074,15 +1083,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chuo Chung Mee Amy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Education Workshop Instructor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:harish_nath_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Harish Nath Singh</a>
-</p>
 </td>
 </tr>
 </tbody>
