@@ -78,7 +78,7 @@ variant: tiptap
 <p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rohayati_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rohayati Bte Ismail</a>
+<p><a href="mailto: yeo_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Leng</a>
 </p>
 </td>
 </tr>
@@ -241,6 +241,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_woan_chyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Woan Chyn</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rohayati_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rohayati Bte Ismail</a>
 </p>
 </td>
 </tr>
