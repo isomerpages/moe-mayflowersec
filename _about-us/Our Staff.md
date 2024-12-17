@@ -210,10 +210,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCE / AYH Sec 2</p>
+<p>SH CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_gaddafi_annuar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mohamad Gaddafi Annuar</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_woan_chyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Woan Chyn</u></a>
 </p>
 </td>
 </tr>
@@ -228,7 +237,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT / AYH Sec 3</p>
+<p>SH ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheow_chee_siang_gabriel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Cheow</a>
@@ -237,10 +246,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Chinese</p>
+<p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_woan_chyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Woan Chyn</u></a>
+<p><a href="mailto:shen_sirui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shen Sirui</a>
 </p>
 </td>
 </tr>
