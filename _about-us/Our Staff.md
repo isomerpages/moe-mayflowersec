@@ -1044,15 +1044,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science STEM Adj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yang_pei_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yang Pei Leng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
