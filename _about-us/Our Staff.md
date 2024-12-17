@@ -1085,6 +1085,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Flexi Adj (F&amp;N)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_wan_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Teo Wan Ping (Serene)</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Flexi Adj (Chemistry)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1125,15 +1134,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wan_chue_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wan Chue Wah</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (F&amp;N)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_wan_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Teo Wan Ping (Serene)</u></a>
 </p>
 </td>
 </tr>
