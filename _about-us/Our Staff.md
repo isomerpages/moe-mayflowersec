@@ -796,6 +796,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:mok_pei_jiun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Mok Pei Jiun</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:noor_ezan_khatib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Noor Ezan Bte Khatib</u></a>
 </p>
 </td>
