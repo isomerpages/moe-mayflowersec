@@ -25,6 +25,8 @@ sections:
       variant: center
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
+      button: Sec 1 Registration
+      url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
   - infopic:
       title: See you soon
       subtitle: 🏫 Open House 2024
