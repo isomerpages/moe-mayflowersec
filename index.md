@@ -5,11 +5,7 @@ description: "MAYFLOWER SECONDARY SCHOOL. 2 Ang Mo Kio St 21 Singapore 569384
   Tel: +65 6457 7783 Fax: +65 6458 3284 Email: mayflower_ss@moe.edu.sg."
 image: /images/logo.png
 permalink: /
-notification: "School Transfer: For parents who wish to request for a school
-  transfer into Mayflower Secondary School, please complete your child’s
-  registration in his/her posted secondary school first. After which, you may
-  apply to be on the School Transfer waitlist via the FormSG
-  https://for.edu.sg/mfss-transfer-request"
+notification: ""
 sections:
   - hero:
       background: /images/Hero_BG/20230309_122210.jpg
