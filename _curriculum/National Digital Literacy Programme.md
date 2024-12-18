@@ -276,15 +276,11 @@ safe and responsible use of technology,</p>
 resources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/moe-cyber-wellness</a>
+<p><a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Well for your child</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/programmes/cyber-wellness/</a>
-</p>
-</li>
-<li>
-<p><a href="http://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/better-internet-sg</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Practising Cyber Wellness</a>
 </p>
 </li>
 <li>
@@ -292,7 +288,7 @@ resources:</p>
 </p>
 </li>
 <li>
-<p><a href="http://help123.sg/" rel="noopener noreferrer nofollow" target="_blank">http://help123.sg/</a>
+<p><a href="https://www.help123.sg/articles-listing/" rel="noopener noreferrer nofollow" target="_blank">http://help123.sg/</a>
 </p>
 </li>
 <li>
