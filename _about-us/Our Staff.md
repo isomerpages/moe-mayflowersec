@@ -803,11 +803,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior SEN Officer</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_kai_loon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gan Kai Loon</a>
-</p>
+<p>Ms Koh Hwee Chen, Regina</p>
 </td>
 </tr>
 <tr>
