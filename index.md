@@ -19,17 +19,8 @@ sections:
             url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
           - title: Appeal for School Transfer
             url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/appeal-for-school-transfer#h.2mluef8ca7ga
-  - infopic:
-      title: See you soon
-      subtitle: 🏫 Open House 2024
-      id: infopic
-      description: Join us at Mayflower Secondary School’s Open House for an exciting
-        glimpse into our vibrant school! Explore our campus, & discover the
-        Mayflowerian experience.
-      button: More info
-      url: /mayflower-secondary-school-open-house-2024/
-      image: /images/2024_OH_Infographic.png
-      alt: Open House 2024
+          - title: 2025 Booklist & Uniform Sales
+            url: /booklist-uniform-sales-for-2025/
   - infopic:
       title: Online & Walk-in purchase available
       subtitle: 📚 Booklist for 2025
@@ -60,6 +51,17 @@ sections:
       url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
       image: /images/PaT___OYEA_2025_poster.png
       alt: PAT OYEA 2025
+  - infopic:
+      title: See you soon
+      subtitle: 🏫 Open House 2024
+      id: infopic
+      description: Join us at Mayflower Secondary School’s Open House for an exciting
+        glimpse into our vibrant school! Explore our campus, & discover the
+        Mayflowerian experience.
+      button: More info
+      url: /mayflower-secondary-school-open-house-2024/
+      image: /images/2024_OH_Infographic.png
+      alt: Open House 2024
   - announcements:
       title: Announcements
       id: announcements

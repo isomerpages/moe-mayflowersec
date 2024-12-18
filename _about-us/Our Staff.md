@@ -4,6 +4,7 @@ permalink: /about-us/our-staff/permalink/
 description: ""
 variant: tiptap
 ---
+<h2>2025</h2>
 <h3>School Management Committee</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -802,11 +803,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior SEN Officer</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_kai_loon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gan Kai Loon</a>
-</p>
+<p>Ms Koh Hwee Chen, Regina</p>
 </td>
 </tr>
 <tr>

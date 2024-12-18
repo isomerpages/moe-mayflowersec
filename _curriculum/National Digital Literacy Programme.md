@@ -276,15 +276,11 @@ safe and responsible use of technology,</p>
 resources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/moe-cyber-wellness</a>
+<p><a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Well for your child</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/programmes/cyber-wellness/</a>
-</p>
-</li>
-<li>
-<p><a href="http://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/better-internet-sg</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Practising Cyber Wellness</a>
 </p>
 </li>
 <li>
@@ -292,15 +288,15 @@ resources:</p>
 </p>
 </li>
 <li>
-<p><a href="http://help123.sg/" rel="noopener noreferrer nofollow" target="_blank">http://help123.sg/</a>
+<p><a href="https://www.help123.sg/articles-listing/" rel="noopener noreferrer nofollow" target="_blank">http://help123.sg/</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) 2024</a>
+<p><a href="/files/Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) 2024</a>
+<p><a href="/files/Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) 2025</a>
 </p>
 </li>
 </ul>
@@ -350,11 +346,15 @@ reduce stress on the eyes.</p>
 <h4>DMA Parent Guide</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://for.edu.sg/dma-parent-guide-option-a" rel="noopener noreferrer nofollow" target="_blank">Mobile Guardian Parent Guide - Option A</a>
+<p><a href="https://for.edu.sg/dma-parent-guide-option-default" rel="noopener nofollow" target="_blank">Lightspeed Systems Parent Guide - Option Default</a>
 </p>
 </li>
 <li>
-<p><a href="https://for.edu.sg/dma-parent-guide-option-b" rel="noopener noreferrer nofollow" target="_blank">Mobile Guardian Parent Guide - Option B</a>
+<p><a href="https://for.edu.sg/dma-parent-guide-option-a" rel="noopener noreferrer nofollow" target="_blank">Lightspeed Systems Parent Guide - Option A</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/dma-parent-guide-option-b" rel="noopener noreferrer nofollow" target="_blank">Lightspeed Systems Parent Guide - Option B</a>
 </p>
 </li>
 </ul>
