@@ -13,24 +13,16 @@ notification: "School Transfer: For parents who wish to request for a school
 sections:
   - hero:
       background: /images/Hero_BG/20230309_122210.jpg
-      key_highlights:
-        - title: Achievements
-          description: ""
-          url: newest-happenings/student-awards/
-        - title: Latest Happenings
-          description: ""
-          url: /newest-happenings/
-        - title: Timetable
-          description: ""
-          url: /timetable/
-        - title: DSA
-          description: ""
-          url: /dsa/
       variant: center
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
-      button: Sec 1 Registration
-      url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
+      dropdown:
+        title: Sec 1 Registration
+        options:
+          - title: Sec 1 Registration Information
+            url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
+          - title: Appeal for School Transfer
+            url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/appeal-for-school-transfer#h.2mluef8ca7ga
   - infopic:
       title: See you soon
       subtitle: 🏫 Open House 2024
