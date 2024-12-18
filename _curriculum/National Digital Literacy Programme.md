@@ -346,11 +346,15 @@ reduce stress on the eyes.</p>
 <h4>DMA Parent Guide</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://for.edu.sg/dma-parent-guide-option-a" rel="noopener noreferrer nofollow" target="_blank">Mobile Guardian Parent Guide - Option A</a>
+<p><a href="https://for.edu.sg/dma-parent-guide-option-default" rel="noopener nofollow" target="_blank">Lightspeed Systems Parent Guide - Option Default</a>
 </p>
 </li>
 <li>
-<p><a href="https://for.edu.sg/dma-parent-guide-option-b" rel="noopener noreferrer nofollow" target="_blank">Mobile Guardian Parent Guide - Option B</a>
+<p><a href="https://for.edu.sg/dma-parent-guide-option-a" rel="noopener noreferrer nofollow" target="_blank">Lightspeed Systems Parent Guide - Option A</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/dma-parent-guide-option-b" rel="noopener noreferrer nofollow" target="_blank">Lightspeed Systems Parent Guide - Option B</a>
 </p>
 </li>
 </ul>
