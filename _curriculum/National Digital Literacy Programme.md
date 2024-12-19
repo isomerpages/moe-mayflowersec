@@ -300,7 +300,7 @@ resources:</p>
 </p>
 </li>
 </ul>
-<h4>Device Management Application (DMA) - Mobile Guardian</h4>
+<h4>Device Management Application (DMA) - Lightspeed Systems</h4>
 <p>Device management application (DMA) software will be installed on your
 child’s device to provide a safe learning experience for your child, and
 prevent misuse of the device.</p>
