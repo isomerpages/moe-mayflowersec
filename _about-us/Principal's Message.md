@@ -14,3 +14,7 @@ a curious mind and a generous spirit</p>
 <img style="width: 100%" height="auto" width="100%" alt="Under service" src="/images/Under_service.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Under_service.png">
+</div>
+<p></p>
