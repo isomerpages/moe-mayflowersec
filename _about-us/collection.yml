@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our History.md
-      - Principal's Message.md
       - Our Staff.md
       - Our Identity.md
       - Our School Advisory Committee.md
