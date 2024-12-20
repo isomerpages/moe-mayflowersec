@@ -4,10 +4,6 @@ permalink: /parents/resources/permalink/
 description: ""
 variant: tiptap
 ---
-<h2>Article on "Raising your child for Success"</h2>
-<p><a href="https://www.schoolbag.edu.sg/story/raising-your-child-for-success/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/raising-your-child-for-success/</a>
-</p>
-<hr>
 <h2>E.A.R.N. Your Smiles 2024 - Blueprint for Academic Excellence</h2>
 <p><a href="https://for.edu.sg/earn-your-smiles2024parents" rel="noopener nofollow" target="_blank">Earn your Smiles 2024 Parents Deck</a>
 </p>
