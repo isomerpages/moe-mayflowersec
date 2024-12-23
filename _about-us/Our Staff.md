@@ -79,7 +79,7 @@ variant: tiptap
 <p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: yeo_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Leng</a>
+<p><a href="mailto:yeo_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Leng</a>
 </p>
 </td>
 </tr>
