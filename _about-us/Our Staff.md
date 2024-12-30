@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/permalink/
 description: ""
 variant: tiptap
 ---
-<h2>2025</h2>
+<h2>Academic Year 2025</h2>
 <h3>School Management Committee</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -79,7 +79,7 @@ variant: tiptap
 <p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: yeo_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Leng</a>
+<p><a href="mailto:yeo_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Leng</a>
 </p>
 </td>
 </tr>

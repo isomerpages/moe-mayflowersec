@@ -225,7 +225,7 @@ Jun Hyeok Brian</p>
 </tr>
 </tbody>
 </table>
-<h3>Staff and Committee Members 2023</h3>
+<h3>Staff and Committee Members 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -247,7 +247,7 @@ Jun Hyeok Brian</p>
 <td rowspan="1" colspan="1">
 <p>Mr Timothy Ng
 <br>Mr Chen Zhen
-<br>Mdm Nurulhuda Bte Mustafa</p>
+<br>Mr Gananedran s/o S Eagamparam</p>
 </td>
 </tr>
 <tr>

@@ -68,7 +68,11 @@ finds its place.</p>
 </li>
 </ul>
 <h3>Achievements and Events</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -117,7 +121,11 @@ finds its place.</p>
 </tbody>
 </table>
 <h3>Teachers and Instructors</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -131,7 +139,7 @@ finds its place.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Bridget Ooi (IC)
 <br>Mrs Frances Ess
-<br>Ms Shen Sirui</p>
+<br>Ms Goh Yan Qin Katherine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Toh Ban Sheng
@@ -141,7 +149,11 @@ finds its place.</p>
 </tbody>
 </table>
 <h3>Executive Committee 2024</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -213,7 +225,12 @@ finds its place.</p>
 </tbody>
 </table>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
