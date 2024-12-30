@@ -32,7 +32,12 @@ own products during CCA duty. In Enterprise Club, we believe that our students
 will demonstrate creativity and initiative in every aspect and without
 fear to seize opportunities in future.</p>
 <h3>Key Events and Achievements</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -160,20 +165,21 @@ fear to seize opportunities in future.</p>
 <h3>CCA Teachers in Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Yeo Lynn</p>
-</li>
-<li>
 <p>Mr Marcus Ho</p>
 </li>
 <li>
-<p>Ms Nur Shahirah</p>
+<p>Mdm Rohayati Ismail</p>
 </li>
 <li>
-<p>Mrs Marie Huang</p>
+<p>Dr Ong Chiew Inn</p>
 </li>
 </ul>
 <h3>CCA Leaders and Executive Committee Members</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -219,7 +225,13 @@ fear to seize opportunities in future.</p>
 </tbody>
 </table>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
