@@ -31,7 +31,12 @@ are also trained in AVA to be responsible and highly efficient members
 capable of handling challenging tasks to ensure the smooth running of school
 events.</p>
 <h3>Events and Achievements</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -178,8 +183,11 @@ events.</p>
 </tr>
 </tbody>
 </table>
-<h3>Staff In-charge and Executive Committee Members 2024</h3>
-<table>
+<h3>Staff In-charge and Executive Committee Members 2025</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -195,7 +203,11 @@ events.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -239,7 +251,12 @@ events.</p>
 </tbody>
 </table>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
