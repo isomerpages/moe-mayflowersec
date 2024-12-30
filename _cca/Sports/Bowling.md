@@ -253,7 +253,7 @@ and perseverance.</p>
 <p>Teachers-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>CCA Leaders &amp; Executive Committee Members 2024</p>
+<p>CCA Leaders &amp; Executive Committee Members</p>
 </th>
 </tr>
 <tr>
