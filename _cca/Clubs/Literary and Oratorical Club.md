@@ -26,7 +26,12 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 <p><strong>Every LNO member will be trained in Scrabble, Digital Print Media and Toastmasters.</strong>
 </p>
 <h4>Events and Achievements</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -185,7 +190,11 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 </tbody>
 </table>
 <h4>Staff and Committee Members</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -200,8 +209,8 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 <p>Teachers-in-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shagun (i/c)
-<br>Mdm Siti Fatimah Bte Muhammad</p>
+<p>Mdm Shagun Anand (i/c)
+<br>Mr Gananedran s/o Eagamparam</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +232,13 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 </tbody>
 </table>
 <h4>Training Schedule</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
