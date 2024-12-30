@@ -27,7 +27,12 @@ who wish to stay on in the Corps after completing their secondary education
 may apply to undergo a 2-week Cadet Officer Course (COC). Cadets who graduate
 from the Course are then appointed as Cadet Officers (C/Offr).</p>
 <h3>Events and Achievements</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -219,7 +224,11 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 </tbody>
 </table>
 <h3>Staff and Committee Members</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -235,7 +244,6 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CPT (NCC) Tham Wen Xi (i/c)
-<br>CPT (NCC) Tan Kok Meng
 <br>2LT (NCC) Ng Boon Yong
 <br>Mr Naguib Ngadnan</p>
 </td>
@@ -275,7 +283,12 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 </tbody>
 </table>
 <h3>Training Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
