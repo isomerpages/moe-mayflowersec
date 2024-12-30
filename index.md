@@ -12,15 +12,21 @@ sections:
       variant: center
       title: Mayflower Secondary School
       subtitle: Mighty in Thought and Deed
-      dropdown:
-        title: Sec 1 Registration
-        options:
-          - title: Sec 1 Registration Information
-            url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
-          - title: Appeal for School Transfer
-            url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/appeal-for-school-transfer#h.2mluef8ca7ga
-          - title: 2025 Booklist & Uniform Sales
-            url: /booklist-uniform-sales-for-2025/
+      key_highlights:
+        - title: Achievements
+          description: ""
+          url: /newest-happenings/student-awards/
+        - title: Latest Happenings
+          description: ""
+          url: /newest-happenings/
+        - title: Timetable
+          description: ""
+          url: /timetable/
+        - title: DSA
+          description: ""
+          url: /dsa/
+      button: Sec 1 e-Registration Site
+      url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
   - infopic:
       title: Online & Walk-in purchase available
       subtitle: 📚 Booklist for 2025
