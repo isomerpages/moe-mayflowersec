@@ -28,8 +28,8 @@ and aerobics during school events.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Junliang
-<br>Mdm Patricia Kwek
-<br>Ms Jeevana Rani</p>
+<br>Ms Jeevana Rani
+<br>Mr Tan Kok Meng</p>
 </td>
 </tr>
 <tr>
