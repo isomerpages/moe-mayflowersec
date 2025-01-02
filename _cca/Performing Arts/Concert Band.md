@@ -69,6 +69,14 @@ career.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HK Cultural Exchange Programme with Fukien Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,16 +275,10 @@ Trip)</p>
 <br>Mr Png Boon Teck (Assistant Instructor)
 <br>Mr Chua Leng Heng (Section Tutor – Percussion)</p>
 <h3>Band Majors</h3>
-<p><strong>2022-2023</strong>
-<br>Lee Qi Qi (Sec 4I)
-<br>Charisse Tay (Sec 4D)
-<br>Koh Weiting (Sec 4E)
-<br>
-</p>
-<p><strong>2023-2024</strong>
-<br>Ashton Ching (Sec 3J)
-<br>Chit Myat Noe Maung (Sec 3A)
-<br>David Koe Zhi Zheng (Sec 3J)
+<p><strong>2024-2025</strong>
+<br>ZAMIR ZAMIRUDIN (Sec 4I)
+<br>LEK LI YING, BERNICE (Sec 4A)
+<br>KIRANA NUR HAFIZAH BINTE AZMAN (Sec 4B)
 <br>
 </p>
 <h3>Training Schedule</h3>
