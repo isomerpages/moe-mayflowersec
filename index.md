@@ -28,6 +28,17 @@ sections:
       button: Sec 1 e-Registration Site
       url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
   - infopic:
+      title: 2024 O-Level Results Release
+      subtitle: 🗓 10 Jan 2025, 2.30 PM
+      id: infopic
+      description: Arrangements have been made for school candidates to receive the
+        results from their secondary schools from 2.30 pm on Friday, 10 January
+        2025.
+      button: More info
+      url: /newest-happenings/latest-events/release-o-level-2024-result/
+      image: /images/Release_of_o_level_result.jpg
+      alt: 2024 O-level Result Release
+  - infopic:
       title: Online & Walk-in purchase available
       subtitle: 📚 Booklist for 2025
       id: infopic
@@ -57,17 +68,6 @@ sections:
       url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
       image: /images/PaT___OYEA_2025_poster.png
       alt: PAT OYEA 2025
-  - infopic:
-      title: 2024 O-Level Results Release
-      subtitle: 🗓 10 Jan 2025, 2.30 PM
-      id: infopic
-      description: Arrangements have been made for school candidates to receive the
-        results from their secondary schools from 2.30 pm on Friday, 10 January
-        2025.
-      button: More info
-      url: /newest-happenings/latest-events/release-o-level-2024-result/
-      image: /images/Release_of_o_level_result.jpg
-      alt: 2024 O-level Result Release
   - announcements:
       title: Announcements
       id: announcements
