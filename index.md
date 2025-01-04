@@ -31,7 +31,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 O-Level Results Release
+        - title: 🎓 2024 O-Level Results Release
           date: 10 January 2025
           announcement: Arrangements have been made for school candidates to receive the
             results from their secondary schools from 2.30 pm on Friday, 10
