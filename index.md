@@ -39,16 +39,15 @@ sections:
           link_text: Read more
           link_url: /newest-happenings/latest-events/release-o-level-2024-result/
   - infopic:
-      title: 2024 O-Level Results Release
-      subtitle: 🗓 10 Jan 2025, 2.30 PM
+      title: The Mayflower Promise
+      subtitle: 📰 2024, ISSUE 2
       id: infopic
-      description: Arrangements have been made for school candidates to receive the
-        results from their secondary schools from 2.30 pm on Friday, 10 January
-        2025.
-      button: More info
-      url: /newest-happenings/latest-events/release-o-level-2024-result/
-      image: /images/Release_of_o_level_result.jpg
-      alt: 2024 O-level Result Release
+      description: Catch up on Mayflower Got Talent, Semester 2 celebrations, and
+        don't miss the S1 Cluster Science Fair!
+      button: Read more
+      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2024_?fr=sN2I1YzY2MzQ5NTI
+      image: /images/mayflower_promise__2024_issue_2_thumbnail.png
+      alt: Newsletter 2024 Issue 2
   - infopic:
       title: Online & Walk-in purchase available
       subtitle: 📚 Booklist for 2025
