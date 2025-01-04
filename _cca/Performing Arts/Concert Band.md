@@ -69,6 +69,14 @@ career.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Kong Cultural Exchange Programme with Fukien Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,94 +133,6 @@ Band</p>
 Trip)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2013</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Japan Exchange Programme (Hosting of Visiting Students &amp; Outgoing
-Trip)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2012</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Performance at Singapore International Water Festival</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2011</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mayflower 30th Anniversary Variety Show
-<br>Music In The City – Bands by the Bay (Merlion Park)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2010</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music At The Park Series – Mac Ritchie Reservoir</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2009</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music At The Park Series – Mac Ritchie Reservoir</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2008</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music At The Park Series – Istana Park</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2007</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Japan Exchange Programme – Akitakata Arts Festival Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2006</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sentosa Fountain of Youth Concert
-<br>Public Concert: AEON II – Deck The Halls
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2005</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sentosa Fountain of Youth Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2004</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ISTANA Deepavali Open House Performance
-<br>Public Concert: AEON I – A New Beginning</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Achievements</h3>
@@ -267,16 +187,10 @@ Trip)</p>
 <br>Mr Png Boon Teck (Assistant Instructor)
 <br>Mr Chua Leng Heng (Section Tutor – Percussion)</p>
 <h3>Band Majors</h3>
-<p><strong>2022-2023</strong>
-<br>Lee Qi Qi (Sec 4I)
-<br>Charisse Tay (Sec 4D)
-<br>Koh Weiting (Sec 4E)
-<br>
-</p>
-<p><strong>2023-2024</strong>
-<br>Ashton Ching (Sec 3J)
-<br>Chit Myat Noe Maung (Sec 3A)
-<br>David Koe Zhi Zheng (Sec 3J)
+<p><strong>2024-2025</strong>
+<br>ZAMIR ZAMIRUDIN (Sec 4I)
+<br>LEK LI YING, BERNICE (Sec 4A)
+<br>KIRANA NUR HAFIZAH BINTE AZMAN (Sec 4B)
 <br>
 </p>
 <h3>Training Schedule</h3>

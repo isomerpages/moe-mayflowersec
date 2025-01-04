@@ -27,6 +27,27 @@ sections:
           url: /dsa/
       button: Sec 1 e-Registration Site
       url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: 🎓 2024 O-Level Results Release
+          date: 10 January 2025
+          announcement: Arrangements have been made for school candidates to receive the
+            results from their secondary schools from 2.30 pm on Friday, 10
+            January 2025.
+          link_text: Read more
+          link_url: /newest-happenings/latest-events/release-o-level-2024-result/
+  - infopic:
+      title: The Mayflower Promise
+      subtitle: 📰 2024, ISSUE 2
+      id: infopic
+      description: Catch up on Mayflower Got Talent, Semester 2 celebrations, and
+        don't miss the S1 Cluster Science Fair!
+      button: Read more
+      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2024_?fr=sN2I1YzY2MzQ5NTI
+      image: /images/mayflower_promise__2024_issue_2_thumbnail.png
+      alt: Newsletter 2024 Issue 2
   - infopic:
       title: Online & Walk-in purchase available
       subtitle: 📚 Booklist for 2025
@@ -57,41 +78,6 @@ sections:
       url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
       image: /images/PaT___OYEA_2025_poster.png
       alt: PAT OYEA 2025
-  - infopic:
-      title: See you soon
-      subtitle: 🏫 Open House 2024
-      id: infopic
-      description: Join us at Mayflower Secondary School’s Open House for an exciting
-        glimpse into our vibrant school! Explore our campus, & discover the
-        Mayflowerian experience.
-      button: More info
-      url: /mayflower-secondary-school-open-house-2024/
-      image: /images/2024_OH_Infographic.png
-      alt: Open House 2024
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: "[CCA] Overseas Trip: VIA trip to Pattaya Thailand"
-          date: 06 November 2024
-          announcement: 6th to 9th November 2024
-          link_text: ""
-          link_url: ""
-        - title: Humanities Overseas Trip to Vietnam
-          date: 07 November 2024
-          announcement: 7th to 11th November 2024
-          link_text: ""
-          link_url: ""
-        - title: "[CCA] Overseas trip: Cultural Exchange to Hong Kong China"
-          date: 07 November 2024
-          announcement: 7th to 11th November 2024
-          link_text: ""
-          link_url: ""
-        - title: Open House 2024
-          date: 16 November 2024
-          announcement: "Time: 9am to 12 noon."
-          link_text: Find out more
-          link_url: /mayflower-secondary-school-open-house-2024/
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
