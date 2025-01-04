@@ -72,7 +72,7 @@ career.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HK Cultural Exchange Programme with Fukien Secondary School</p>
+<p>Hong Kong Cultural Exchange Programme with Fukien Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -131,94 +131,6 @@ Band</p>
 <td rowspan="1" colspan="1">
 <p>Japan Exchange Programme (Hosting of Visiting Students &amp; Outgoing
 Trip)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2013</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Japan Exchange Programme (Hosting of Visiting Students &amp; Outgoing
-Trip)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2012</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Performance at Singapore International Water Festival</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2011</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mayflower 30th Anniversary Variety Show
-<br>Music In The City – Bands by the Bay (Merlion Park)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2010</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music At The Park Series – Mac Ritchie Reservoir</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2009</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music At The Park Series – Mac Ritchie Reservoir</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2008</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music At The Park Series – Istana Park</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2007</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Japan Exchange Programme – Akitakata Arts Festival Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2006</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sentosa Fountain of Youth Concert
-<br>Public Concert: AEON II – Deck The Halls
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2005</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sentosa Fountain of Youth Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2004</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ISTANA Deepavali Open House Performance
-<br>Public Concert: AEON I – A New Beginning</p>
 </td>
 </tr>
 </tbody>
