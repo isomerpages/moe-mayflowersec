@@ -58,16 +58,16 @@ sections:
       image: /images/PaT___OYEA_2025_poster.png
       alt: PAT OYEA 2025
   - infopic:
-      title: See you soon
-      subtitle: 🏫 Open House 2024
+      title: 2024 O-Level Results Release
+      subtitle: 🗓 10 Jan 2025, 2.30 PM
       id: infopic
-      description: Join us at Mayflower Secondary School’s Open House for an exciting
-        glimpse into our vibrant school! Explore our campus, & discover the
-        Mayflowerian experience.
+      description: Arrangements have been made for school candidates to receive the
+        results from their secondary schools from 2.30 pm on Friday, 10 January
+        2025.
       button: More info
-      url: /mayflower-secondary-school-open-house-2024/
-      image: /images/2024_OH_Infographic.png
-      alt: Open House 2024
+      url: /newest-happenings/latest-events/release-o-level-2024-result/
+      image: /images/Release_of_o_level_result.jpg
+      alt: 2024 O-level Result Release
   - announcements:
       title: Announcements
       id: announcements
