@@ -806,7 +806,8 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Hwee Chen, Regina</p>
+<p><a href="mailto:koh_hwee_chen_regina_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Koh Hwee Chen, Regina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1089,7 +1090,8 @@ variant: tiptap
 <p>Flexi Adj (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Choy Stephenie</p>
+<p><a href="mailto:choy_stephenie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Choy Stephenie</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1178,7 +1180,8 @@ variant: tiptap
 <p>Flexi Adj (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Hwei Ling</p>
+<p><a href="mailto:chua_hwei_ling_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chua Hwei Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1195,7 +1198,8 @@ variant: tiptap
 <p>Flexi Adj (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Hwee Ching Alice</p>
+<p><a href="Yeo_hwee_ching_alice_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Hwee Ching Alice</a>
+</p>
 </td>
 </tr>
 <tr>
