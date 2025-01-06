@@ -39,5 +39,5 @@ documents for the school’s verification when collecting the results. School
 candidates may contact their schools for assistance if they are unable
 to appoint a proxy.</p>
 <p>Please see MOE Press Release for more information at:
-<br><a href="https://www.seab.gov.sg/home/news/press-releases/release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/home/news/press-releases/release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise</a>
+<br><a href="https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise</a>
 </p>
