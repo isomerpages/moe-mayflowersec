@@ -2,6 +2,7 @@
 title: Our Identity
 permalink: /about-us/our-identity/permalink/
 description: ""
+variant: markdown
 ---
 ### Our School Crest
 <img src="/images/crest.svg" style="width:25%">
@@ -16,7 +17,7 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 ### School Motto
 
-> Mighty in Thought and Deed
+&gt; Mighty in Thought and Deed
 
 ----
   
@@ -24,7 +25,7 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 ### Mayflower Promise
 
-> Future Ready Mayflowerians with a **zest for life**, a **curious mind** and a **generous spirit**
+&gt; Future Ready Mayflowerians with a&nbsp;**zest for life**, a&nbsp;**curious mind**&nbsp;and a&nbsp;**generous spirit**
 
 ------
 
@@ -32,13 +33,13 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 ### Mayflower Mission
 
-> Every Mayflowerian - Mighty in Thought and Deed
+&gt; Every Mayflowerian - Mighty in Thought and Deed
 
 -----
 
 ### Mayflower Values
 
-<div align=center style="margin-bottom:18px">Moral Courage • Responsiblity • Optimism • Commitment • Discerning • Open-minded • Respect • Empathy • Integrity</div>
+<div align="center" style="margin-bottom:18px">Moral Courage • Responsiblity • Optimism • Commitment • Discerning • Open-minded • Respect • Empathy • Integrity</div>
 
 
 
@@ -59,7 +60,7 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 ![](/images/song.png)
 
-<div align=center>
+<div align="center">
 Mayflower our dearest school <br>
 Together aspire together we strive; <br>  
 From thee we derive  <br>
@@ -68,7 +69,7 @@ To thee we give our love and loyalty.<br><br>
 Mayflower, Mayflower,  <br>
 To fame and glory, to fame and glory;  <br>
 Mayflower, Mayflower,  <br>
-We serve and honour our school and country.<br><br>
+We strive and honour our school and country.<br><br>
 Be mighty in thought and deed  <br>
 Be modest to all men no matter what creed;  <br>
 Onward we'll march  <br>
