@@ -949,8 +949,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fabian.alrajendra@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Fabian Alrajendra</a>
-</p>
+<p>Mr Prashanth Karunakaran Pandian</p>
 </td>
 </tr>
 <tr>
