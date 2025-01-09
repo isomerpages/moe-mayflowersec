@@ -1180,7 +1180,7 @@ variant: tiptap
 <p>Flexi Adj (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://web.archive.org/web/20240802053207/mailto:md_ahdani_kandar_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Md Ahdani Bin Kandar</u></a>
+<p><a href="mailto:md_ahdani_kandar_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Md Ahdani Bin Kandar</u></a>
 </p>
 </td>
 </tr>
