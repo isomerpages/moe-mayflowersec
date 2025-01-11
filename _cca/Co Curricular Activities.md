@@ -5,12 +5,20 @@ description: ""
 variant: markdown
 ---
 ## A Holistic and Balanced Development for Future-Ready Mayflowerians
+![](/images/CCA_development.png)
 CCAs are an integral part of our students’ holistic education, providing opportunities for them to discover their interests and talents. Through CCAs, students develop character, learn values, and acquire social-emotional competencies and relevant skills to prepare for future challenges.
 
 CCAs also foster a sense of belonging by bringing together students from diverse backgrounds. Through collaboration and interaction, they form meaningful friendships and deepen their connection to the school and community. As students progress to their senior years, they are given numerous opportunities to lead and contribute within and across CCAs, making a positive impact on the wider community.
 
 Sustained participation in CCAs equips students with essential life skills and competencies, preparing them for an ever-changing and globalised world.
 
+-----------------
+
+## CCAs in Mayflower Secondary School 
+![](/images/CCAs_offered.png)
+At Mayflower Secondary School, we offer 18 CCAs across four groups: Performing Arts, Sports, Uniformed Groups, and Clubs. Through experiences such as the CCA exhibition, Singapore Youth Festival, National School Games, handover ceremonies, competitions, parades, and Open House, we instill values in our students. Our programme focuses on four key learning outcomes: building resilience, fostering self-motivation, aspiring towards one’s best self, and developing emotional regulation.
+
+-----------------
 
 ## LEAPS 2.0
 Introduced in 2014, LEAPS 2.0 recognises secondary school students' holistic development. Students are recognised in four domains: Participation, Achievement, Leadership, and Service, with levels of attainment ranging from Level 1 to Level 5.
@@ -20,11 +28,6 @@ At the end of their secondary school journey, students’ achievements in these 
 For more information about LEAPS 2.0, click [here](/files/LEAPS%202-0.pdf).
 
 -----------------
-
-
-
-## CCAs in Mayflower Secondary School 
-At Mayflower Secondary School, we offer 18 CCAs across four groups: Performing Arts, Sports, Uniformed Groups, and Clubs. Through experiences such as the CCA exhibition, Singapore Youth Festival, National School Games, handover ceremonies, competitions, parades, and Open House, we instill values in our students. Our programme focuses on four key learning outcomes: building resilience, fostering self-motivation, aspiring towards one’s best self, and developing emotional regulation.
 
 ### Performing Arts
 
