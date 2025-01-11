@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <blockquote>
-<p>D.A.R.E. (Discipline, Achieve, Resilience, Excellence)</p>
+<p>D.A.R.E. (Discipline, Adventurous, Resilience, Excellence)</p>
 </blockquote>
 <p>The NPCC aims to</p>
 <ul data-tight="true" class="tight">
@@ -14,8 +14,8 @@ variant: tiptap
 <p>Develop our members into active citizens and community leaders</p>
 </li>
 <li>
-<p>Work in partnership with the Singapore Police Force to fight crime and
-keep Singapore safe</p>
+<p>Partner Singapore Police Force (SPF) spread awareness of crimes and how
+to prevent them to the general public</p>
 </li>
 </ul>
 <p>In 1959, during the explosive period of Singapore's history, our society
@@ -48,6 +48,17 @@ a single teacher officer - Mr. Victor Seah.</p>
 <th rowspan="1" colspan="1">
 <p>Award / Position</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -150,11 +161,9 @@ a single teacher officer - Mr. Victor Seah.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nicholas Quek (OC Unit)
-<br>Mr Ng Tze How</p>
-<p>Mdm Whong Tung Geok</p>
-<p>Ms Su Haiyin
-<br>
-</p>
+<br>Mr Ng Tze How
+<br>Mdm Whong Tung Geok
+<br>Ms Su Haiyin</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +171,9 @@ a single teacher officer - Mr. Victor Seah.</p>
 <p>Volunteers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>INSP (NPCC) Lim Hai Jie, Felicia</p>
+<p>INSP(NPCC) Lim Hai Jie, Felicia
+<br>CI Kwek Nayi
+<br>P/CI Wayne Aw Wei En</p>
 </td>
 </tr>
 <tr>
@@ -170,8 +181,8 @@ a single teacher officer - Mr. Victor Seah.</p>
 <p>Cadet Leaders: Leadership Group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wayne Aw Wei En (Chairperson)
-<br>Thanisha Sarangi (Vice Chairperson)</p>
+<p>Ryan Neo (Liang Jiaxiang) (Chairperson)
+<br>Teh Jing Heng (Vice Chairperson)</p>
 </td>
 </tr>
 </tbody>
