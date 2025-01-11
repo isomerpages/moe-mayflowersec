@@ -319,4 +319,5 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 <iframe style="width: 100%; height: 450px;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTH893lfE0IAofeHlJSvwnQzk1sy3NFIQeowemLXVtEl6IkHJ4itvFPifnV6Jc9Q3LEECExol18zHKU/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h2>Video</h2><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=W7IowZGW0DI"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/mfss - ncc yt.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/WbYg4_fNXlA"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ncc_ndp2024_yt.png"></a>
 <p></p>
