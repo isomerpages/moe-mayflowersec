@@ -25,38 +25,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Timetable_Sem1_Main___Sec_1.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 1 Main</a>
+<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_1__Main_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 1 Main</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_1__HBL_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 1 HBL</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Timetable_Sem1_Main___Sec_2.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 2 Main</a>
+<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_2__Main_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 2 Main</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_2__HBL_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 2 HBL</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Timetable_Sem1_Main___Sec_3.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 3 Main</a>
+<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_3__Main_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 3 Main</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_3__HBL_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 3 HBL</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Timetable_Sem1_Main___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 4 &amp; 5 Main</a>
+<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_4___5__Main_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 4 &amp; 5 Main</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_4___5__HBL_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 4 &amp; 5 HBL</a>
+</p>
 </td>
 </tr>
 </tbody>
