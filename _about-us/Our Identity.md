@@ -69,7 +69,7 @@ To thee we give our love and loyalty.<br><br>
 Mayflower, Mayflower,  <br>
 To fame and glory, to fame and glory;  <br>
 Mayflower, Mayflower,  <br>
-We strive and honour our school and country.<br><br>
+We serve and honour our school and country.<br><br>
 Be mighty in thought and deed  <br>
 Be modest to all men no matter what creed;  <br>
 Onward we'll march  <br>

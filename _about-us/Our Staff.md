@@ -949,7 +949,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fabian.alrajendra@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Fabian Alrajendra</a>
+<p><a href="mailto:prashanth.alkarunakaranpandian@ncs.com.sg" rel="noopener nofollow" target="_blank">Mr Prashanth Karunakaran Pandian</a>
 </p>
 </td>
 </tr>
@@ -1180,7 +1180,7 @@ variant: tiptap
 <p>Flexi Adj (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://web.archive.org/web/20240802053207/mailto:md_ahdani_kandar_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Md Ahdani Bin Kandar</u></a>
+<p><a href="mailto:md_ahdani_kandar_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Md Ahdani Bin Kandar</u></a>
 </p>
 </td>
 </tr>
@@ -1207,7 +1207,7 @@ variant: tiptap
 <p>Flexi Adj (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Yeo_hwee_ching_alice_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Hwee Ching Alice</a>
+<p><a href="mailto:yeo_hwee_ching_alice_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Hwee Ching Alice</a>
 </p>
 </td>
 </tr>
