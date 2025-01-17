@@ -601,13 +601,13 @@ sexuality education programmes by MOE-approved external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/5b__Annex_A_Parent_Opt_Out_Form_Sexuality_Education_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+the start of the year and is also downloadable&nbsp;<a href="/files/6b__Annex_A_Parent_Opt_Out_Form_Sexuality_Education_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/6b__Annex_B_Parents_Opt_out_Form_for_eTeens_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+the start of the year and is also downloadable&nbsp;<a href="/files/7b__Annex_B_Parents_Opt_out_Form_for_eTeens_Programme_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
