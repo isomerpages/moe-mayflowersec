@@ -16,6 +16,8 @@ are also developed through a mentoring programme where seniors mentor juniors
 in organising activities. Most importantly, we seek to instil in our students
 a sense of care and compassion for their peers and the community around
 us.</p>
+<h4>Three Sections, Two Ensembles, One Big Family.</h4>
+<p>Check out our videos on our <a href="https://www.youtube.com/@mayflowersecondaryschoolch8742" rel="noopener nofollow" target="_blank">Youtube Channel</a>.</p>
 <h3>Events and Achievements</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -37,36 +39,33 @@ us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 - 2023</p>
+<p>2019 - 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Festival Concert
-<br>SYF Arts Presentation
+<p>2023 SYF Arts Presentation
 <br><a href="https://www.youtube.com/watch?v=WUGmDuuWarI" rel="noopener noreferrer nofollow" target="_blank">SYF21 - Mixed Ensemble Performance</a> 
 <br><a href="https://www.youtube.com/watch?v=CUk9FP7JPf0" rel="noopener noreferrer nofollow" target="_blank">SYF21 - Sectional Ensemble Performance</a> 
 <br>
 <br><strong>School Performances:</strong> 
-<br>Speech Day, Chinese New Year Concert, Aesthetics Production, Open House,
-CCA Exploration
-<br>
-<br><strong>Chinese Ensembles Nite:</strong>
-<br>Performance for CE Parents and Alumni
+<br>CCA Exhibition
+<br>Mayflower Speech Day
+<br>Mayflower Open House
+<br>Aesthetics Production
 <br>
 <br><strong>External Performances:</strong>
-<br>KBCC Mid-Autumn Celebration at Mayflower Mall
+<br>2023 SYF Festival Concert
+<br>KBCC Lunar New Year Dinner
 <br>CO Music Exchange with Greenridge Secondary and Maris Stella High School
 <br>
 <br><strong>Values-in-action Projects:</strong>
-<br>Flag Day for Kidney Dialysis Foundation
-<br>Tea-party
-<br>Mid-Autumn Festival Celebration
-<br>performance at Thye Hua Kwan Senior Activity Centre
+<br>Tea-party and performance to Celebrate Mid-Autumn Festival at Thye Hua
+Kwan Senior Activity Centre
 <br>
 <br><strong>Aesthetic Outings:</strong>
 <br>SCO performance at Botanic Garden, NYPCO
 <br>
 <br><strong>Sports Education Programme:</strong>
-<br>Inline Skating</p>
+<br>Inline Skating, Kinball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction - CO (Sectional)
@@ -75,7 +74,7 @@ CCA Exploration
 </tr>
 </tbody>
 </table>
-<h3>Staff and Committee Members</h3>
+<h3>Staff and Committee Members 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -118,7 +117,7 @@ CCA Exploration
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tey Shi Yun</p>
+<p>Angel Lee (4E)</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +126,27 @@ CCA Exploration
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Huang Han</p>
+<p>Kuoh Xin Ying (4J)
+<br>Edison Ang (4A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Section Leader</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jamie Ang (4D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Logistics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dorielle Sin (4D)
+<br>Penelope Tay (4I)</p>
 </td>
 </tr>
 </tbody>

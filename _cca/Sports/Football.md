@@ -136,8 +136,8 @@ go through training or represent the school in competitions.</p>
 <p>Mdm Norhidayah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chang Chun Kiat Gabriel (3B)</p>
-<p>Ashrei Anil (3J)</p>
+<p>Chang Chun Kiat Gabriel (4B)</p>
+<p>Ashrei Anil (4J)</p>
 </td>
 </tr>
 </tbody>
