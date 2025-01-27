@@ -949,7 +949,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:prashanth.alkarunakaranpandian@ncs.com.sg" rel="noopener nofollow" target="_blank">Mr Prashanth Karunakaran Pandian</a>
+<p><a href="mailto:prashanth.karunakaran@ncs.com.sg" rel="noopener nofollow" target="_blank">Mr Prashanth Karunakaran Pandian</a>
 </p>
 </td>
 </tr>
