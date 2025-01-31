@@ -6,6 +6,31 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
+<h4>Term 1 Remedial / Supplementary Schedule</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/supp.jpg">
+</div>
+<p>Please be informed that the TERM 1 remedial/ supplementary will commence
+in Week 5 (3 Feb).</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Remedial / Supplementary</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_4_5_T1_Remedial_and_Supp_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Remedial / Supplementary Schedule for Sec 4/5</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h2>Timetable for 2025 Semester 1</h2>
 <p><em>Updated as of 30 Dec 2024</em>
 </p>
@@ -409,47 +434,5 @@ You will leave school at 2:30 pm.</p>
 </tbody>
 </table>
 <hr>
-<h4>Term 1 Remedial / Supplementary Schedule</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/supp.jpg">
-</div>
-<p>Please be informed that the TERM 1 remedial/ supplementary will commence
-in Week 5 (29 Jan) and end on Week 10 (8 Mar).</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Remedial / Supplementary</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024 Sem 1 Timetables/2024_Sec_1_T1_Remedial___Supp_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 Remedial / Supplementary Schedule for Sec 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024 Sem 1 Timetables/2024_Sec_2_T1_Remedial___Supp_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 Remedial / Supplementary Schedule for Sec 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024 Sem 1 Timetables/2024_Sec_3_T1_Remedial_and_Supp_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 Remedial / Supplementary Schedule for Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024 Sem 1 Timetables/2024_Sec_4_5_T1_Remedial_and_Supp_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 Remedial / Supplementary Schedule for Sec 4/5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
+<h4></h4>
 <p></p>
