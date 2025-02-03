@@ -49,6 +49,17 @@ sections:
       image: /images/mayflower_promise__2024_issue_2_thumbnail.png
       alt: Newsletter 2024 Issue 2
   - infopic:
+      title: Nominations are now open
+      subtitle: 🏆 PAT & OYEA 2025
+      id: infopic
+      description: "We are thrilled to announce that nominations are now open
+        for  outstanding educators: President’s Award for Teachers & Outstanding
+        Youth in Education Award."
+      button: Read more
+      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
+      image: /images/PaT___OYEA_2025_poster.png
+      alt: PAT OYEA 2025
+  - infopic:
       title: Online & Walk-in purchase available
       subtitle: 📚 Booklist for 2025
       id: infopic
@@ -67,17 +78,6 @@ sections:
       url: /school-canteen-ads/
       image: /images/food.jpg
       alt: Canteen Stall Vacancy
-  - infopic:
-      title: Nominations are now open
-      subtitle: 🏆 PAT & OYEA 2025
-      id: infopic
-      description: "We are thrilled to announce that nominations are now open
-        for  outstanding educators: President’s Award for Teachers & Outstanding
-        Youth in Education Award."
-      button: Read more
-      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
-      image: /images/PaT___OYEA_2025_poster.png
-      alt: PAT OYEA 2025
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
