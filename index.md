@@ -68,16 +68,6 @@ sections:
       url: /booklist-uniform-sales-for-2025/
       image: /images/booklist2025.jpg
       alt: booklist 2025
-  - infopic:
-      title: Vacancy for 1 Food Stall
-      subtitle: 🍴School Canteen Advertisement
-      description: We are inviting interested applicants to operate 1 Food Stall from
-        2 Jan 2025. Food options can be either 🇯🇵, 🇰🇷, 🇹🇭, 🇻🇳 or
-        MEDITERRANEAN.
-      button: Read more
-      url: /school-canteen-ads/
-      image: /images/food.jpg
-      alt: Canteen Stall Vacancy
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
