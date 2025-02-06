@@ -11,7 +11,11 @@ variant: tiptap
 to be Effective Speakers, Creative Writers and Critical Thinkers through
 a holistic language-learning approach.</p>
 <h3>The Team</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -35,6 +39,14 @@ a holistic language-learning approach.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Boon Hua Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -64,14 +76,6 @@ a holistic language-learning approach.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Gina Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Jaime Ch'ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -112,14 +116,6 @@ a holistic language-learning approach.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Shagun Anand</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Stella Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -202,15 +198,15 @@ those in ALP Tier 2 are stretched to participate in assembly programmes,
 debates and competitive events beyond school such as PESA and ACJC Orator’s
 Trophy. The department also organises Literature Virtual Experience (Sec
 1) as well as Learning Journeys to Peranakan Museum (Sec 2) related to
-the set texts, engaging students inexploration of setting, characterisation
-and themem. Such sessions are abuzz and engaging as students are urged
-to pose questions to the presenters and even write mini reflections and
-words of encouragement for their friends. Over the years, there have been
-a variety of mixed media products presented that demonstrated students’
-interpretation and understanding of the Literature textbooks. As a whole,
-students are always encouraged to be empathetic through characterisation
-and role-plays make insightful connections between the novel and the contemporary
-world issues.</p>
+the set texts, engaging students in exploration of setting, characterisation
+and theme. Such sessions are abuzz and engaging as students are urged to
+pose questions to the presenters and even write mini reflections and words
+of encouragement for their friends. Over the years, there have been a variety
+of mixed media products presented that demonstrated students’ interpretation
+and understanding of the Literature textbooks. As a whole, students are
+always encouraged to be empathetic through characterisation and role-plays
+make insightful connections between the novel and the contemporary world
+issues.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/english6.png">
 </div>
