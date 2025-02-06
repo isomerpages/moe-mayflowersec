@@ -84,6 +84,24 @@ finds its place.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nostra Musica&nbsp;Unitat
+<br>Combined Performance with Catholic Junior College, Dunman High, and Mayflower
+Secondary School.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Musical: A production by Mayflower Secondary&nbsp;School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -280,18 +298,6 @@ finds its place.</p>
 an audition on the 11th, 13th and 18th of Jan from 3:30 pm to 5:00 pm.</p>
 <div class="iframe-wrapper">
 <iframe style="width: 100%; height: 450px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2-YwRpcStiI"></iframe>
-</div>
-<p><strong>Our choir's music to the world in light of COVID-19</strong>
-</p>
-<p>In light of COVID-19, livelihoods of many are affected, be it as patients
-and family members, healthcare workers overwhelmed by alarming numbers
-in the hospitals, contact tracing officials, governments, freelancers,
-businesses, people who need to cross borders daily to make a living, and
-the list goes on.</p>
-<p>In these turbulent times, we’d like to let you know, in our own little
-way, we are all in this together – you do not walk alone.</p>
-<div class="iframe-wrapper">
-<iframe style="width: 100%; height: 450px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aCQngpKFGjE"></iframe>
 </div>
 <p><strong>Interviewing Our Alumni</strong>
 </p>
