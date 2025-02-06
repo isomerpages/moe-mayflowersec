@@ -68,7 +68,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jeremy Ong Zhen Wei
-<br>Ms Alethea Goei
 <br>Ms Su Haiyin
 <br>Mr Chen Zhen
 <br>Mrs Eugenia Tan</p>
@@ -112,6 +111,15 @@ in our students the love and appreciation of the humanities.</p>
 <p>If you have any questions or would like to know more about our curriculum,
 please contact us.</p>
 <h2>Notable Programmes &amp; Events</h2>
+<h4>Overseas Learning Journeys</h4>
+<p>A Humanities trip to Vietnam was organised in 2024, providing students
+with experiential learning opportunities that deepened their understanding
+of historical, cultural, and socio-political contexts. This immersive experience
+allowed students to draw connections between classroom concepts and real-world
+applications, fostering a greater appreciation for global issues and cross-cultural
+understanding. Through guided reflections, discussions, and on-site activities,
+students developed a more nuanced perspective on history, geography and
+social studies, enhancing their curiosity and engagement. Watch our <a href="https://drive.google.com/file/d/1idkXo70hdrroRYIJD-GRc_KsGhb_0dvz/view?usp=sharing" rel="noopener nofollow" target="_blank">photo montage of the trip here</a>.</p>
 <h4>Investigative Projects</h4>
 <p>With inquiry-based learning as the cornerstone, students of all levels
 embark on Geographical Investigations. Lower Secondary students also work
