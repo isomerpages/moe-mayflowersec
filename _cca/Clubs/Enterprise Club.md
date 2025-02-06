@@ -52,6 +52,29 @@ fear to seize opportunities in future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Young Trail Blazer&nbsp;Competition</p>
+<p>Young Trail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blazer&nbsp;Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oaktree Award - Special Merit&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,29 +272,14 @@ fear to seize opportunities in future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mondays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1400 - 1700</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Enterprise Café (Canteen) &amp; Pop-up stall (Mightee Forest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Weekly sales
-<br>(Depending on teams)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1400 - 1700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Enterprise Café
-<br>(Canteen) &amp; Pop-up stall (Mightee Forest</p>
+<p>Vedure Café
+<br>(Canteen) &amp; Mightee Forest Pop-up stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Weekly sales
@@ -286,10 +294,10 @@ fear to seize opportunities in future.</p>
 <p>1500 - 1800</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 3</p>
+<p>Canteen / Computer Lab 3 / Art Studio 1 / Cookery Room 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Events / Workshops (All)</p>
+<p>Weekly sales / Events / Workshops (All)</p>
 </td>
 </tr>
 </tbody>
