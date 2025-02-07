@@ -23,10 +23,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Either</strong> JAPANESE, KOREAN, THAI, VIETNAMESE <strong>or</strong> MEDITERRANEAN</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please see the details below.</p>
+<p>NIL</p>
 </td>
 </tr>
 </tbody>

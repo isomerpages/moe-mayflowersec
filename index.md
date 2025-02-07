@@ -49,25 +49,6 @@ sections:
       image: /images/mayflower_promise__2024_issue_2_thumbnail.png
       alt: Newsletter 2024 Issue 2
   - infopic:
-      title: Online & Walk-in purchase available
-      subtitle: 📚 Booklist for 2025
-      id: infopic
-      description: For all Sec 1 to 5 students.
-      button: Read more
-      url: /booklist-uniform-sales-for-2025/
-      image: /images/booklist2025.jpg
-      alt: booklist 2025
-  - infopic:
-      title: Vacancy for 1 Food Stall
-      subtitle: 🍴School Canteen Advertisement
-      description: We are inviting interested applicants to operate 1 Food Stall from
-        2 Jan 2025. Food options can be either 🇯🇵, 🇰🇷, 🇹🇭, 🇻🇳 or
-        MEDITERRANEAN.
-      button: Read more
-      url: /school-canteen-ads/
-      image: /images/food.jpg
-      alt: Canteen Stall Vacancy
-  - infopic:
       title: Nominations are now open
       subtitle: 🏆 PAT & OYEA 2025
       id: infopic
@@ -78,6 +59,15 @@ sections:
       url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
       image: /images/PaT___OYEA_2025_poster.png
       alt: PAT OYEA 2025
+  - infopic:
+      title: Online & Walk-in purchase available
+      subtitle: 📚 Booklist for 2025
+      id: infopic
+      description: For all Sec 1 to 5 students.
+      button: Read more
+      url: /booklist-uniform-sales-for-2025/
+      image: /images/booklist2025.jpg
+      alt: booklist 2025
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings

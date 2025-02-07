@@ -48,7 +48,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maya Delilah Wang Chun Yun (3E)</p>
+<p>Maya Delilah Wang Chun Yun (4E)</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Luke Sim (3I)</p>
+<p>Luke Sim (4I)</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Shi Qi Claris (3D)</p>
+<p>Ong Shi Qi Claris (4D)</p>
 </td>
 </tr>
 </tbody>

@@ -13,24 +13,22 @@ potential in their physical, mental and social skills. Our guiding principles
 of perseverance and hard work and our emphasis on team effort, team building
 and team bonding make up the dynamics of our team. Our CCA leaders have
 always taken on the role of organisers, planning our Secondary 4 graduation
-party, day camp and CCA Open house as part of their leadership training.
-This also helps to strengthen the bonds amongst our CCA members. Even though
-we did not have a chance to experience these programmes in 2020, we have
-full faith that our leaders will emerge stronger in 2021!</p>
+party, our day camp and CCA Open house as part of their leadership training.
+This also helps to foster closer bonds amongst our CCA members.&nbsp;</p>
 <p>Our Netball team is currently training under Coach Sue who started coaching
 us at the end of 2017. Coach Sue comes to us with many years of coaching
 experience and we have seen great improvements both individually and as
 a team. Coach Sue may be strict at times but never fails to show care and
-concern during training. She puts in maximum effort in teaching us and
-never fails to correct us whenever we make mistakes. She got creative during
-the HBL period, designing activities and games to engage our players.</p>
+concern during training. She puts in her heart and soul in teaching us
+and never fails to correct us whenever we make mistakes.&nbsp;</p>
 <p>We also want to take this opportunity to show our appreciation to our
-celebrity star coach, Ms Paige Chua who occasionally drops by whenever
-she can despite her busy schedule. She is a role model for our students,
-having graduated from Mayflower as Netball Captain and Vice-President of
-Student Councillor, and an active alumni.</p>
+celebrity star coach, Ms Paige Chua. Ms Chua drops by to coach and mentor
+whenever she can, despite her busy schedule. She is a role model for our
+students, having graduated from Mayflower as Netball Captain and Vice-President
+of Student Councillor, and is currently an active member of our school
+Alumni.</p>
 <p><strong>Training sessions:</strong>&nbsp;Tuesdays and Thursdays, 3 pm
-to 5 pm</p>
+to 6 pm</p>
 <h3>Staff and Executive Members 2023</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -53,40 +51,8 @@ to 5 pm</p>
 <br>Ms Serene Teo Wan Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cherlynn Tan
-<br>Yvette Lim Miao Qian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Clara Goh Yong En (4J)</p>
+<p>Sheena Ng Xuan Wen (4D)</p>
 </td>
 </tr>
 </tbody>

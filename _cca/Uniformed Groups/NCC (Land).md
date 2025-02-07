@@ -269,7 +269,7 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 <p>Unit Sergeant Major (USM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSG CHEW ZHENG YANG, TAYDEN (4A)</p>
+<p>MSG VALERIUS LOOI GUANG ZHI (4A)</p>
 </td>
 </tr>
 <tr>
@@ -277,7 +277,7 @@ from the Course are then appointed as Cadet Officers (C/Offr).</p>
 <p>Assistant Sergeant Major (ASM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSG CHEAH RUI EN (4D)</p>
+<p>MSG LEE JIN HNG (4J)</p>
 </td>
 </tr>
 </tbody>

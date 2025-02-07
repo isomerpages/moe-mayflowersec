@@ -345,5 +345,5 @@ of ballet, floor work, fall and recovery and other techniques.</p>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeMzRnhWAu2xfG9u4zO1F5qTV5dsjS3c08ynR0iyxODZ0YvbKUhcocwB-d1RkEdRz7-rcySv_ktbr6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h2>Video</h2><a class="isomer-image-wrapper" href="http://www.youtube.com/watch?v=6dVqB4-_WdQ"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/mfss - dance yt.jpg"></a>
+<h2>Video</h2><a class="isomer-image-wrapper" href="https://youtu.be/_vj2vV3JA6Y"><img style="width: 100%" height="auto" width="100%" alt="Mayflower Sec - Singapore Challenge Cup 2024" src="/images/Modern_Dance___SG_Challenge_Cup_play_button.png"></a>
 <p></p>
