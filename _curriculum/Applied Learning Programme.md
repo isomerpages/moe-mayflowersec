@@ -22,6 +22,9 @@ The EC provides plenty of authentic learning experiences for our students
 to enable them to acquire both creative and critical thinking skills. The
 English Department and the Mother Tongue are the main drivers of the EC
 organised level-wide programmes.</p>
+<div class="iframe-wrapper">
+<iframe style="width: 100%; height: 450px;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6LWNfsmO0NaLlmXvOUELm3_E5EUz2QXbxwwvHEpm0dTNt9u0e49vK-sXDJrilzOWe5M54avVSo3wt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp1.png">
 </div>
@@ -100,7 +103,7 @@ their MT languages. Students taking Chinese Language will also be engaged
 in a series of mind-twisting translation challenges in our annual MTL Fortnight
 Cultural Camp. Students also participated in translation and debate competitions.</p>
 <div class="iframe-wrapper">
-<iframe style="width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKeIFEGNv9_YEgJsY7L_KMbUYPIVwprOzlG9P7rp2_6jYedQ43m9HnpTygLdxC1TbbE4wbsyPVzLFZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe style="width: 100%; height: 450px;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKeIFEGNv9_YEgJsY7L_KMbUYPIVwprOzlG9P7rp2_6jYedQ43m9HnpTygLdxC1TbbE4wbsyPVzLFZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Our text recital workshops help Sec 1 &amp; 2 HCL students explore the
 voice techniques and promote their reading and oral competency. The trainings
