@@ -2,6 +2,7 @@
 title: Applied Learning Programme
 permalink: /curriculum/applied-learning-programme/permalink/
 description: ""
+variant: markdown
 ---
 &gt; Developing Confidence and Curiosity through Effective Communication
 
