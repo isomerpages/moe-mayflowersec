@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Partnership Committee</h2>
-<p><strong>Objective:</strong>&nbsp;To forge meaningful partnerships with
-stakeholders for the advancement of the Mayflower's Promise</p>
+<p><strong>Objective:</strong>&nbsp;To establish meaningful collaborations
+with stakeholders to support the holistic development of our students and
+fulfil the vision of Mayflower Secondary School.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -36,10 +37,9 @@ stakeholders for the advancement of the Mayflower's Promise</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Mui Lin
-<br>Mr Mohamed Naguib Bin Ngadnan
-<br>Ms Su Haiyin
+<br>Dr Ong Chiew Inn
 <br>Mr Yang Pei Qiang
-<br>Mr Lee Joen Yen</p>
+<br>Mr Chen Zhen</p>
 </td>
 </tr>
 <tr>
@@ -55,11 +55,11 @@ stakeholders for the advancement of the Mayflower's Promise</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnership_Org_Chart___Redesigned_2024__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnership_Org_Chart_2025.png">
 </div>
-<h2>2024 Parent Support Group Executive Committee</h2>
+<h2>2025 Parent Support Group Executive Committee</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_Org_Chart___Redesigned.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_Org_Chart__2025.png">
 </div>
 <h2>Join PSG@MFSS - Where Happiness Awaits When Parents Connect, Support, and Grow!</h2>
 <div class="isomer-image-wrapper">
