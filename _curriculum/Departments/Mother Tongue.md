@@ -54,6 +54,17 @@ design.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Yeo Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Woan Chyn</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,35 +217,44 @@ design.</p>
 <p>Chinese</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Md Ahdani Kadar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-adjunct Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <h2>Signature Programmes / Enrichment Programmes</h2>
-<h3>Chinese New Year Celebration 2024</h3>
+<h3>Chinese New Year Celebration 2025</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/CNY_2024___Mascot_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_2025___Banner.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/CNY_2024___Mascot_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_2025___Wishes.png">
 </div>
 <p>Mayflower students and staff celebrated a special Chinese New Year with
-our very own "Dragon Mascot Design Competition" followed by a physical
+our very own Chinese New Year Card Design Competition followed by a physical
 concert in the hall.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/CNY_concert_emcees.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_2025___Lion_Dance.jpg">
 </div>
-<p>Our CNY concert Emcees</p>
+<p>Our School Leaders with the Lion Dance Troupe</p>
 <h3>Sharing the Festivity with AWWA</h3>
 <p>To spread our love to the community during the festive season, staff and
 students also rallied together for a donation drive to provide the AWWA
-elderly with daily necessities. This year, our students from Literary and
-Oratorical Club also went down to the AWWA Dementia Care Centre to share
-the festivity with the seniors.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Festivity_with_AWWA.jpg">
-</div>
+elderly with daily necessities. This year, our students from Table Tennis
+Team also went down to the AWWA Dementia Care Centre to share the festivity
+with the seniors.</p>
 <h3>Mother Tongue Language Fortnight 2024</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/chinese_tea_drinking.jpg">
@@ -344,20 +364,25 @@ of competitions. These includes:</p>
 </li>
 </ul>
 <h3>7th Text Recital Competition 2024</h3>
+<p>Sec 1 &amp; 2 Higher Chinese students attended the ALP Tier 2 training
+on recital skills. Two teams and two students took part in the 7th Text
+Recital Competition 2024 under the Group Category and Individual Category
+respectively. We have been sending our students for this competition for
+the few years and have attained good results for all.</p>
+<p>In 2024, our Secondary 2 Individual and Team have been awarded the gold
+award and were selected to participate in the finals. We were very proud
+and honoured to announce that they have clinched the overall 3rd and 1st
+place respectively at the finals!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/7th_Text_Recital_comp_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recital_Competition___Lower_Sec_3rd.jpg">
 </div>
-<p>Sec 1 and 2 Higher Chinese students attended the ALP Tier 2 training on
-recital skills. Two teams and two students took part in the 7th Text Recital
-Competition 2024 under the Group Category and Individual Category respectively.
-We have been sending our students for this competition for the few years
-and have attained good results for all.</p>
+<p>Overall 3<sup>rd</sup> Place for Lower Sec Individual: Celeste Wong Rui
+Yi</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Text_Recital_Comp_2024___Silver_Award.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recital_Competition___Lower_Sec_1st.jpg">
 </div>
-<p>Most our teams have attained the silver awards and in 2023, our Secondary
-2 team was awarded the gold award and was selected to participate in the
-finals.</p>
+<p>Overall 1<sup>st</sup> Place for Lower Sec Team: Luo Yafei, Tao Yixuan,
+Chia Pei Enn</p>
 <h3>National Translation Competition</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/National_Translation_Competition.jpg">
@@ -404,6 +429,7 @@ improved since last year. The students are:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Debate_Competition_2024__1_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Debate_Competition_2024__2_.jpg">
 </div>
@@ -413,6 +439,7 @@ to showcase the good practices of our MT department (CL unit).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Mother_Tongue_Language_Symposium__1_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Mother_Tongue_Language_Symposium__2_.jpg">
 </div>
