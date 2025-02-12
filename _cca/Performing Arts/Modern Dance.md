@@ -43,6 +43,72 @@ of ballet, floor work, fall and recovery and other techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Challenge Cup Dance Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Performance at Kebun Baru Community Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mayflower Musical Production</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mayflower X Hillgrove Secondary School Dance Recital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24 2023 Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,116 +140,6 @@ of ballet, floor work, fall and recovery and other techniques.</p>
 <p>Certificate of Distinction</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overseas Cultural and Immersion Programme to Thailand</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>38th&nbsp;Speech Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mayflower Dance Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mayflower Dance Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Day Dance Exchange RE:define</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TRDO Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Recognition of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mayflower Dance Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-Day Dance Exchange RE:define</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yellowren Modern Dance Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017 Champion</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>CCA Teachers in Charge</h3>
@@ -191,7 +147,7 @@ of ballet, floor work, fall and recovery and other techniques.</p>
 <br>Mrs Quek Ai Jee
 <br>Mdm Teh Swee Choo</p>
 <h3>Coaches/Instructors</h3>
-<p>Ms Serene Tung</p>
+<p>Ms Audryn</p>
 <h3>CCA Leaders and Executive Committee Members</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -212,23 +168,7 @@ of ballet, floor work, fall and recovery and other techniques.</p>
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kayli-Jane Goh Wen Xuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson (Operations)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay Li Xuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson (Discipline)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jennifer Metta Tirtha Lim</p>
+<p>Dawn Lim Seng Xuan (Lin Chenxuan)</p>
 </td>
 </tr>
 <tr>
@@ -236,64 +176,15 @@ of ballet, floor work, fall and recovery and other techniques.</p>
 <p>Vice-Chairperson (Development)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Wing Yiu</p>
+<p>Ashley Wong Xin Yi (Huang Xinyi)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secretary</p>
+<p>Vice-Chairperson (Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sia Hui Ting Ashlynn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Rui Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quartermaster</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Melissa Tan Marchen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Publicity Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Shi Ting,
-<br>Vanessa (Huang Shiting)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Yi Xuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Welfare</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nonidh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dance Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teh Qian Han</p>
+<p>Fu Weiqi Angie</p>
 </td>
 </tr>
 </tbody>
