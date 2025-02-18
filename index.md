@@ -39,16 +39,6 @@ sections:
           link_text: Read more
           link_url: /newest-happenings/latest-events/release-o-level-2024-result/
   - infopic:
-      title: The Mayflower Promise
-      subtitle: 📰 2024, ISSUE 2
-      id: infopic
-      description: Catch up on Mayflower Got Talent, Semester 2 celebrations, and
-        don't miss the S1 Cluster Science Fair!
-      button: Read more
-      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2024_?fr=sN2I1YzY2MzQ5NTI
-      image: /images/mayflower_promise__2024_issue_2_thumbnail.png
-      alt: Newsletter 2024 Issue 2
-  - infopic:
       title: Nomination for Inspiring Teacher of English Award 2025
       subtitle: 🏆 Nomination is now open
       id: infopic
@@ -60,14 +50,26 @@ sections:
       image: /images/Inspiring_Teacher_of_Eng_Award_2025.png
       alt: PAT OYEA 2025
   - infopic:
-      title: Online & Walk-in purchase available
-      subtitle: 📚 Booklist for 2025
+      title: Nomination for Arif Budiman Malay Language Teacher Award
+      subtitle: 🏆 Nomination is now open
       id: infopic
-      description: For all Sec 1 to 5 students.
+      description: This award recognises outstanding Malay Language teachers who have
+        made significant contributions to the teaching & learning of the Malay
+        Language.
+      button: Nominate now
+      url: https://go.gov.sg/agab2025
+      image: /images/AGAB_2025_Poster.png
+      alt: agab 2025
+  - infopic:
+      title: The Mayflower Promise
+      subtitle: 📰 2024, ISSUE 2
+      id: infopic
+      description: Catch up on Mayflower Got Talent, Semester 2 celebrations, and
+        don't miss the S1 Cluster Science Fair!
       button: Read more
-      url: /booklist-uniform-sales-for-2025/
-      image: /images/booklist2025.jpg
-      alt: booklist 2025
+      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2024_?fr=sN2I1YzY2MzQ5NTI
+      image: /images/mayflower_promise__2024_issue_2_thumbnail.png
+      alt: Newsletter 2024 Issue 2
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
