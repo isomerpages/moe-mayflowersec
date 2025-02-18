@@ -49,15 +49,15 @@ sections:
       image: /images/mayflower_promise__2024_issue_2_thumbnail.png
       alt: Newsletter 2024 Issue 2
   - infopic:
-      title: Nominations are now open
-      subtitle: 🏆 PAT & OYEA 2025
+      title: Nomination for Inspiring Teacher of English Award 2025
+      subtitle: 🏆 Nomination is now open
       id: infopic
-      description: "We are thrilled to announce that nominations are now open
-        for  outstanding educators: President’s Award for Teachers & Outstanding
-        Youth in Education Award."
-      button: Read more
-      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
-      image: /images/PaT___OYEA_2025_poster.png
+      description: All students, their parents & teachers are invited to send in
+        nominations to the Principal of the nominee’s school by 6 pm on 24 March
+        2025.
+      button: Nominate now
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/Inspiring_Teacher_of_Eng_Award_2025.png
       alt: PAT OYEA 2025
   - infopic:
       title: Online & Walk-in purchase available
