@@ -15,19 +15,6 @@ best.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stud_Dev___Year_Head_Prog___Sec_1_Camp.jpg">
 </div>
-<p><strong>Lifeskills Learning Festival</strong>
-<br>Students learnt social skills and social-emotional competencies from their
-peers through skits, song and dance.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1.png">
-</div>
-<h3>Secondary Two</h3>
-<p><strong>Camp Venture</strong>
-<br>Students went beyond their comfort zone to bond with students from other
-classes. This is done in collaboration with the Physical Education Department.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec2.png">
-</div>
 <h3>Secondary Three</h3>
 <p><strong>Industrial Visit</strong>
 <br>To encourage our Secondary 3 students to start thinking of their ‘end

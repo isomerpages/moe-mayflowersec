@@ -119,7 +119,7 @@ allowed students to draw connections between classroom concepts and real-world
 applications, fostering a greater appreciation for global issues and cross-cultural
 understanding. Through guided reflections, discussions, and on-site activities,
 students developed a more nuanced perspective on history, geography and
-social studies, enhancing their curiosity and engagement. Watch our <a href="https://drive.google.com/file/d/1idkXo70hdrroRYIJD-GRc_KsGhb_0dvz/view?usp=sharing" rel="noopener nofollow" target="_blank">photo montage of the trip here</a>.</p>
+social studies, enhancing their curiosity and engagement. Watch our <a href="https://youtu.be/DJFHpFHgO9c" rel="noopener nofollow" target="_blank">photo montage of the trip here</a>.</p>
 <h4>Investigative Projects</h4>
 <p>With inquiry-based learning as the cornerstone, students of all levels
 embark on Geographical Investigations. Lower Secondary students also work

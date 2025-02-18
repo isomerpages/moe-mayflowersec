@@ -39,6 +39,28 @@ sections:
           link_text: Read more
           link_url: /newest-happenings/latest-events/release-o-level-2024-result/
   - infopic:
+      title: Nomination for Inspiring Teacher of English Award 2025
+      subtitle: 🏆 Nomination is now open
+      id: infopic
+      description: All students, their parents & teachers are invited to send in
+        nominations to the Principal of the nominee’s school by 6 pm on 24 March
+        2025.
+      button: Nominate now
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/Inspiring_Teacher_of_Eng_Award_2025.png
+      alt: ITEA 2025
+  - infopic:
+      title: Nomination for Arif Budiman Malay Language Teacher Award
+      subtitle: 🏆 Nomination is now open
+      id: infopic
+      description: This award recognises outstanding Malay Language teachers who have
+        made significant contributions to the teaching & learning of the Malay
+        Language.
+      button: Nominate now
+      url: https://go.gov.sg/agab2025
+      image: /images/AGAB_2025_Poster.png
+      alt: agab 2025
+  - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2024, ISSUE 2
       id: infopic
@@ -48,26 +70,6 @@ sections:
       url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2024_?fr=sN2I1YzY2MzQ5NTI
       image: /images/mayflower_promise__2024_issue_2_thumbnail.png
       alt: Newsletter 2024 Issue 2
-  - infopic:
-      title: Nominations are now open
-      subtitle: 🏆 PAT & OYEA 2025
-      id: infopic
-      description: "We are thrilled to announce that nominations are now open
-        for  outstanding educators: President’s Award for Teachers & Outstanding
-        Youth in Education Award."
-      button: Read more
-      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea-2025/
-      image: /images/PaT___OYEA_2025_poster.png
-      alt: PAT OYEA 2025
-  - infopic:
-      title: Online & Walk-in purchase available
-      subtitle: 📚 Booklist for 2025
-      id: infopic
-      description: For all Sec 1 to 5 students.
-      button: Read more
-      url: /booklist-uniform-sales-for-2025/
-      image: /images/booklist2025.jpg
-      alt: booklist 2025
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
