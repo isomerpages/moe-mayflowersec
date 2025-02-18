@@ -48,7 +48,7 @@ sections:
       button: Nominate now
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
       image: /images/Inspiring_Teacher_of_Eng_Award_2025.png
-      alt: PAT OYEA 2025
+      alt: ITEA 2025
   - infopic:
       title: Nomination for Arif Budiman Malay Language Teacher Award
       subtitle: 🏆 Nomination is now open
