@@ -134,15 +134,15 @@ nurtures performance confidence, fosters class spirit, and enhances their
 sense of rhythmic pulse.Beyond dance, students explore musical performance
 with instruments such as the ukulele, keyboard, and digital tools like
 Garage Band and Bandlab. These hands-on experiences empower students to
-make creative decisions in performing, composing, and listening to <a href="http://music.To" rel="noopener noreferrer nofollow" target="_blank">music.To</a> deepen
-students' appreciation for the arts, our curriculum includes the Performing
-Arts-Based Learning (PABL) initiative, a collaborative effort by the Ministry
-of Education (MOE) and the National Arts Council (NAC). Through PABL, every
-student experiences bespoke live music performances in professional arts
-venues. This programme cultivates curiosity and pride in local music and
-musicians while connecting classroom learning to real-world music experiences.Our
-Music Department is dedicated to inspiring every Mayflowerian to explore,
-appreciate, and excel in the performing arts.</p>
+make creative decisions in performing, composing, and listening to music.
+To deepen students' appreciation for the arts, our curriculum includes
+the Performing Arts-Based Learning (PABL) initiative, a collaborative effort
+by the Ministry of Education (MOE) and the National Arts Council (NAC).
+Through PABL, every student experiences bespoke live music performances
+in professional arts venues. This programme cultivates curiosity and pride
+in local music and musicians while connecting classroom learning to real-world
+music experiences.Our Music Department is dedicated to inspiring every
+Mayflowerian to explore, appreciate, and excel in the performing arts.</p>
 <h2>Photo</h2>
 <p><strong>Music</strong>
 </p>
