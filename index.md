@@ -37,7 +37,7 @@ sections:
             Reports are ready for collection. Collection is to be done by 31
             July. Please remember to bring along your proof of identity to
             collect your certificates from the school's General Office, 8am to
-            5pm on weekday.
+            4pm on weekday.
           link_text: Read more
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
