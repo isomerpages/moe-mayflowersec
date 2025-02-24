@@ -1,13 +1,13 @@
 ---
 title: Collection of School Graduation Certificates
 permalink: /collection-of-school-graduation-certificates/
-date: 2024-06-26
+date: 2025-02-24
 layout: post
 description: ""
 image: /images/Sch_Gaduation_Cert_Sample.jpg
 variant: tiptap
 ---
-<p>Dear Graduates of 2023 Sec 4s &amp; 5s Cohort,
+<p>Dear Graduates of 2024 Sec 4s &amp; 5s Cohort,
 <br>
 <br>The School Graduation Certificates (SGC) folders (together with SGC testimonials
 and CCA Reports) are ready for collection. Collection is to be done by
