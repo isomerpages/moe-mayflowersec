@@ -31,13 +31,15 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 🎓 2024 O-Level Results Release
-          date: 10 January 2025
-          announcement: Arrangements have been made for school candidates to receive the
-            results from their secondary schools from 2.30 pm on Friday, 10
-            January 2025.
+        - title: 📜 Collection of School Graduation Certificates
+          date: 24 February 2025
+          announcement: The School Graduation Certificates (SGC), testimonials & CCA
+            Reports are ready for collection. Collection is to be done by 31
+            July. Please remember to bring along your proof of identity to
+            collect your certificates from the school's General Office, 8am to
+            5pm on weekday.
           link_text: Read more
-          link_url: /newest-happenings/latest-events/release-o-level-2024-result/
+          link_url: /collection-of-school-graduation-certificates/
   - infopic:
       title: Nomination for Inspiring Teacher of English Award 2025
       subtitle: 🏆 Nomination is now open
