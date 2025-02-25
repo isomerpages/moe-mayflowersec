@@ -806,7 +806,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_hwee_chen_regina_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Koh Hwee Chen, Regina</a>
+<p><a href="mailto:toh_boon_keng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Toh Boon Keng</a>
 </p>
 </td>
 </tr>
