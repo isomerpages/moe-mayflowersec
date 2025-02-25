@@ -24,7 +24,25 @@ in Week 5 (3 Feb).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_4_5_T1_Remedial_and_Supp_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Remedial / Supplementary Schedule for Sec 4/5</a>
+<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_1_T1___2_Remedial___Supp_Schedule__docx.pdf" rel="noopener nofollow" target="_blank">2025 Term 1-2 Remedial / Supplementary Schedule for Sec 1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_2_T1___2_Remedial___Supp_Schedule__docx.pdf" rel="noopener nofollow" target="_blank">2025 Term 1-2 Remedial / Supplementary Schedule for Sec 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_3_T1___2_Remedial_and_Supp_Schedule_.pdf" rel="noopener nofollow" target="_blank">2025 Term 1-2 Remedial / Supplementary Schedule for Sec 3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_4_5_T1_Remedial_and_Supp_Schedule__update.pdf" rel="noopener nofollow" target="_blank">2025 Term 1-2 Remedial / Supplementary Schedule for Sec 4 &amp; 5</a>
 </p>
 </td>
 </tr>
