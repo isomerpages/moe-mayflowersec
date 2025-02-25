@@ -71,6 +71,6 @@ fulfil the vision of Mayflower Secondary School.</p>
 </div>
 <h2>Video</h2>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K_DNl6rtOBg"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFniklridiE"></iframe>
 </div>
 <p></p>
