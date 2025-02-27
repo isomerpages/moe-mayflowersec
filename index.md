@@ -25,8 +25,6 @@ sections:
         - title: DSA
           description: ""
           url: /dsa/
-      button: Sec 1 e-Registration Site
-      url: https://sites.google.com/moe.edu.sg/mfss-2025-sec1-reg/home
   - announcements:
       title: Announcements
       id: announcements
