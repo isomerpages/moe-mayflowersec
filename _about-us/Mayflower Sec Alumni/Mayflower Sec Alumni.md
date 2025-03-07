@@ -39,8 +39,6 @@ future generations of Mayflowerians.</p>
 </div>
 </a>
 </div>
-<p><a href="/about-us/Mayflower-Sec-Alumni/alumni-registration/permalink/" rel="noopener noreferrer nofollow" target="_blank">📝 Register to be part of the MFSS Alumni contact list</a>
-</p>
 <h2>Video</h2>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cCEgjRt-zSc?si=T6BoIMfUIHBc24NT"></iframe>
