@@ -63,9 +63,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/mdm_lee_eet_fong-225x300.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Lim_Yu_Kee.png">
 </div>
-<p><strong>Mdm Lee Eet Fong</strong> 
+<p><strong>Mr Lim Yu Kee</strong> 
 <br>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
