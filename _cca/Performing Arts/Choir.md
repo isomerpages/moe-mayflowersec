@@ -88,7 +88,7 @@ finds its place.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nostra Musica&nbsp;Unitat
-<br>Combined Performance with Catholic Junior College, Dunman High, and Mayflower
+<br>Combined Performance with Catholic Junior College, Dunman Sec, and Mayflower
 Secondary School.</p>
 </td>
 </tr>
