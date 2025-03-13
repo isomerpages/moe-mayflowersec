@@ -39,6 +39,16 @@ sections:
           link_text: Read more
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
+      title: Be part of MFSS Alumni Network
+      subtitle: 📢 Calling All Alumni!
+      id: infopic
+      description: Sign up today to be part of the Alumni Network to strengthen our
+        alumni network and create meaningful opportunities for our students.
+      button: Sign up today
+      url: https://for.edu.sg/mfalumninetwork
+      image: /images/MFSS_Alumni_Network_Publicity_Poster.png
+      alt: Sign up poster
+  - infopic:
       title: Nomination for Inspiring Teacher of English Award 2025
       subtitle: 🏆 Nomination is now open
       id: infopic
