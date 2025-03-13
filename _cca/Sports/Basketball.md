@@ -149,8 +149,8 @@ with their peers due to the teamwork needed for the game.</p>
 <br>Mr Ku Seow Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Zhi Yi&nbsp;(4J) - Boys' Captain
-<br>Low Yit Hean (4I) - Boys' Vice-Captain</p>
+<p>Ore Jia Hwa (4F)</p>
+<p>Raywin Tan (4J)</p>
 </td>
 </tr>
 </tbody>
