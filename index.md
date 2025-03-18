@@ -39,6 +39,17 @@ sections:
           link_text: Read more
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
+      title: Nomination for Distinguished Chinese Language Teacher Awards
+      subtitle: 🏆 Nomination is now open
+      id: infopic
+      description: The awards recognise Chinese language teachers for their exemplary
+        efforts in teaching the language and culture & fostering student
+        appreciation.
+      button: Read more
+      url: nomination-for-distinguished-chinese-language-teachers-awards-2025/
+      image: /images/Distinguished_Chinese_Language_Teachers_Awards_2025.png
+      alt: Distinguished CL Teacher Award
+  - infopic:
       title: Be part of MFSS Alumni Network
       subtitle: 📢 Calling All Alumni!
       id: infopic
@@ -70,17 +81,6 @@ sections:
       url: https://go.gov.sg/agab2025
       image: /images/AGAB_2025_Poster.png
       alt: agab 2025
-  - infopic:
-      title: Nomination for Distinguished Chinese Language Teacher Awards
-      subtitle: 🏆 Nomination is now open
-      id: infopic
-      description: The awards recognise Chinese language teachers for their exemplary
-        efforts in teaching the language and culture & fostering student
-        appreciation.
-      button: Read more
-      url: nomination-for-distinguished-chinese-language-teachers-awards-2025/
-      image: /images/Distinguished_Chinese_Language_Teachers_Awards_2025.png
-      alt: Distinguished CL Teacher Award
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
