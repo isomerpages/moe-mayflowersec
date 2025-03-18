@@ -71,15 +71,16 @@ sections:
       image: /images/AGAB_2025_Poster.png
       alt: agab 2025
   - infopic:
-      title: The Mayflower Promise
-      subtitle: 📰 2024, ISSUE 2
+      title: Nomination for Distinguished Chinese Language Teacher Awards
+      subtitle: 🏆 Nomination is now open
       id: infopic
-      description: Catch up on Mayflower Got Talent, Semester 2 celebrations, and
-        don't miss the S1 Cluster Science Fair!
+      description: The awards recognise Chinese language teachers for their exemplary
+        efforts in teaching the language and culture & fostering student
+        appreciation.
       button: Read more
-      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2024_?fr=sN2I1YzY2MzQ5NTI
-      image: /images/mayflower_promise__2024_issue_2_thumbnail.png
-      alt: Newsletter 2024 Issue 2
+      url: nomination-for-distinguished-chinese-language-teachers-awards-2025/
+      image: /images/Distinguished_Chinese_Language_Teachers_Awards_2025.png
+      alt: Distinguished CL Teacher Award
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
