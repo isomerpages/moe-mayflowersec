@@ -288,10 +288,13 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWcsH6h-EcBG7CK0MfB98TzbFrXUHbS_pneh-KRv-dcGR2aB4itMNATxNBj4crbDnVXcUbnsgWTyQL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p><a href="https://padlet.com/makethechange/mayflower-secondary-school-fundamentals-ma3mt0dfuond1pq8" rel="noopener nofollow" target="_blank">View the student work</a>
+</p>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAE6cJwTj5NnfZtxyIFdB9TmnMDeWPscpXIQvP0Eifp9U4AzlbUiAwR2_MyogxihHgIebUD7IpMfAG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <h2>Video</h2>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PItBcyJyoy0?si=H6h_yAagMVKW_mLu"></iframe>
