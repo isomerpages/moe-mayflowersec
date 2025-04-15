@@ -94,7 +94,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/history_principals.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/history_principals.png">
 </div>
 <p>The original Mayflower Secondary School building was built at a cost of
 $5.46 million on a 2.7 hectares plot of land along Ang Mo Kio Avenue 3
