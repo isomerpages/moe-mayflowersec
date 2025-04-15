@@ -157,7 +157,7 @@ old Campus 1 and Ang Mo Kio Primary School, formerly Ai Tong Primary School.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/school5.png">
 </div>
 <p>The <a href="https://www.facebook.com/mayfloweralumni" rel="noopener noreferrer nofollow" target="_blank">Mayflower Secondary Alumni (Official)</a> Facebook
-page was launched in 2010 and now has more than 1800 members.</p>
+page was launched in 2010 and now has more than 2000 members.</p>
 <p>President S R Nathan was the Guest of Honour at our 30th Anniversary Dinner
 cum Opening Ceremony of the Indoor Sports Hall, on 27 May 2011.</p>
 <p>About 200 alumni and staff, including former Principal Mr Ibrahim Othman,
