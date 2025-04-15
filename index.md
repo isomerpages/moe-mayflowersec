@@ -39,6 +39,17 @@ sections:
           link_text: Read more
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
+      title: Speech Day 2025
+      subtitle: 📅 Save the date
+      id: infopic
+      description: Join us on 30 April 2025, from 1.45pm to 4.15pm, as we recognise
+        the academic and CCA achievements of our Mayflowerians at this year’s
+        Speech Day.
+      button: Read more
+      url: /speech-day-2025/
+      image: /images/SpeechDay2025_Publicity_Poster.jpg
+      alt: speech day 2025
+  - infopic:
       title: Nomination for Distinguished Chinese Language Teacher Awards
       subtitle: 🏆 Nomination is now open
       id: infopic
@@ -70,17 +81,6 @@ sections:
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
       image: /images/Inspiring_Teacher_of_Eng_Award_2025.png
       alt: ITEA 2025
-  - infopic:
-      title: Nomination for Arif Budiman Malay Language Teacher Award
-      subtitle: 🏆 Nomination is now open
-      id: infopic
-      description: This award recognises outstanding Malay Language teachers who have
-        made significant contributions to the teaching & learning of the Malay
-        Language.
-      button: Nominate now
-      url: https://go.gov.sg/agab2025
-      image: /images/AGAB_2025_Poster.png
-      alt: agab 2025
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
