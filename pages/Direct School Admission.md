@@ -4,7 +4,7 @@ permalink: /dsa/
 description: ""
 variant: tiptap
 ---
-<h2>Admission to Sec 1 in 2025</h2>
+<h2>Admission to Sec 1 in 2026</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mayflower%20Sec%20DSA%202023%20Poster.jpeg">
 </div>
@@ -14,7 +14,7 @@ range of student achievements and talents can be recognised.</p>
 <p>Mayflower Secondary School is conducting the DSA exercise to admit Secondary
 One students for <strong>Aesthetics</strong>, <strong>Effective Communication</strong> and <strong>Sports</strong> for
 the academic year <strong>2025</strong>.</p>
-<p>We are looking for students of calibre who possess talent with outstanding
+<p>We are looking for students of caliber who possess talent with outstanding
 achievements in one or more of the following areas.</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -65,7 +65,7 @@ in the Singapore Youth Festival (Aesthetics), National School Games (Sports),
 Debating and Public Speaking competitions.</p>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free of charge and will be open from <strong>7<sup>th</sup> May 2024, 11am to 3<sup>rd</sup> Jun 2024, 3pm</strong>.
+The application is free of charge and will be open from <strong>6<sup>th</sup> May 2025, 11am to 2<sup>nd</sup> Jun 2025, 3pm</strong>.
 For more details, please refer to the MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa.</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
@@ -113,7 +113,7 @@ area of talent.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Will be invited for a performance audition and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.</p>
+at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2025</strong>.</p>
 </li>
 <li>
 <p>Will be notified in advance of the date and time of the audition and interview</p>
@@ -156,7 +156,7 @@ Games, Zonal or National competitions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Will be invited for a performance trial and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.</p>
+at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2025</strong>.</p>
 </li>
 <li>
 <p>Will be notified in advance of the date and time of the trial and interview</p>
@@ -201,7 +201,7 @@ and Drama/Cultural society within or outside school.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>will be invited for a performance trial and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.</p>
+at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2025</strong>.</p>
 </li>
 <li>
 <p>will be notified in advance of the date and time of their trial and interview</p>
@@ -218,13 +218,13 @@ the potential of the applicants.</p>
 <p>General Academic Ability Tests such as the General Ability Test (GAT)
 and the Higher Ability Selection Test (HAST) are <strong>not required</strong> in
 the selection process.</p>
-<p>Only shortlisted applicants will be informed by <strong>19<sup>th</sup> July 2024</strong> of
+<p>Only shortlisted applicants will be informed by <strong>19<sup>th</sup> July 2025</strong> of
 the exact date and time of the performance audition and an interview. The <strong>in- person</strong> performance
 audition and interview will be conducted at <strong>Mayflower Secondary School</strong> for
 all talent areas. Applicants who are not shortlisted will not be informed
 that they are unsuccessful in their application.</p>
 <p>All shortlisted applicants will be informed of the status of their application
-(Confirmed, Waiting List or Rejected) by <strong>12<sup>th</sup> September 2024</strong>.</p>
+(Confirmed, Waiting List or Rejected) by <strong>12<sup>th</sup> September 2025</strong>.</p>
 <p>For further clarifications, please contact Mrs Lucinda Leong, SH CCA (DID:
 <a href="tel:+65-6594-0158" rel="noopener noreferrer nofollow" target="_blank">65940158</a>, Email:&nbsp;<a href="mailto:cheam_phaik_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheam_phaik_tin@moe.edu.sg</a>).</p>
 <hr>
@@ -232,7 +232,7 @@ that they are unsuccessful in their application.</p>
 <h3>Performing Arts Talent Domain</h3>
 <p>There will be a short interview after the audition. All auditions and
 interviews will be carried out in-person at Mayflower Secondary School
-from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.
+from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2025</strong>.
 The following are the audition requirements for the different areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
