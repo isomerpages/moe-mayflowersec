@@ -1168,15 +1168,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (Humanities)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kwee_joo_clara@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Kwee Joo Clara</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Flexi Adj (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
