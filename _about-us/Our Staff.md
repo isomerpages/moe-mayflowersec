@@ -812,6 +812,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_alif__gadaffi_abdul_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Alif Gadaffi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1163,15 +1172,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yeen_yoong_eugenia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Yeen Yoong Eugenia</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:md_ahdani_kandar_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Md Ahdani Bin Kandar</u></a>
 </p>
 </td>
 </tr>
