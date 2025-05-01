@@ -13,7 +13,7 @@ schools greater flexibility in student admission so that a more diverse
 range of student achievements and talents can be recognised.</p>
 <p>Mayflower Secondary School is conducting the DSA exercise to admit Secondary
 One students for <strong>Aesthetics</strong>, <strong>Effective Communication</strong> and <strong>Sports</strong> for
-the academic year <strong>2025</strong>.</p>
+the academic year <strong>2026</strong>.</p>
 <p>We are looking for students of caliber who possess talent with outstanding
 achievements in one or more of the following areas.</p>
 <ol data-tight="true" class="tight">
@@ -65,7 +65,7 @@ in the Singapore Youth Festival (Aesthetics), National School Games (Sports),
 Debating and Public Speaking competitions.</p>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free of charge and will be open from <strong>6<sup>th</sup> May 2025, 11am to 2<sup>nd</sup> Jun 2025, 3pm</strong>.
+The application is free of charge and will be open from <strong>7<sup>th</sup> May 2025, 11am to 3<sup>rd</sup> Jun 2025, 3pm</strong>.
 For more details, please refer to the MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa.</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
@@ -113,7 +113,7 @@ area of talent.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Will be invited for a performance audition and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2025</strong>.</p>
+at Mayflower Secondary School from <strong>7<sup>th</sup> July to 29<sup>th</sup> August 2025</strong>.</p>
 </li>
 <li>
 <p>Will be notified in advance of the date and time of the audition and interview</p>
@@ -156,7 +156,7 @@ Games, Zonal or National competitions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Will be invited for a performance trial and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2025</strong>.</p>
+at Mayflower Secondary School from <strong>7<sup>th</sup> July to 29<sup>th</sup> August 2025</strong>.</p>
 </li>
 <li>
 <p>Will be notified in advance of the date and time of the trial and interview</p>
@@ -201,7 +201,7 @@ and Drama/Cultural society within or outside school.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>will be invited for a performance trial and interview carried out in-person
-at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2025</strong>.</p>
+at Mayflower Secondary School from <strong>7<sup>th</sup> July to 29<sup>th</sup> August 2025</strong>.</p>
 </li>
 <li>
 <p>will be notified in advance of the date and time of their trial and interview</p>
@@ -218,11 +218,12 @@ the potential of the applicants.</p>
 <p>General Academic Ability Tests such as the General Ability Test (GAT)
 and the Higher Ability Selection Test (HAST) are <strong>not required</strong> in
 the selection process.</p>
-<p>Only shortlisted applicants will be informed by <strong>19<sup>th</sup> July 2025</strong> of
-the exact date and time of the performance audition and an interview. The <strong>in- person</strong> performance
-audition and interview will be conducted at <strong>Mayflower Secondary School</strong> for
-all talent areas. Applicants who are not shortlisted will not be informed
-that they are unsuccessful in their application.</p>
+<p>You will receive notification from the school by <strong><u>1<sup>st</sup> August 2025</u></strong> of
+the exact date and time of the performance audition and an interview, if
+your child has been shortlisted to undergo Direct School Admission (DSA)
+selection. The <strong>in-person</strong> performance audition and interview
+will be conducted at <strong>Mayflower Secondary School</strong> for all
+talent areas. All applicants will receive their application outcomes by <strong><u>4<sup>th</sup> September 2025</u></strong>.</p>
 <p>All shortlisted applicants will be informed of the status of their application
 (Confirmed, Waiting List or Rejected) by <strong>12<sup>th</sup> September 2025</strong>.</p>
 <p>For further clarifications, please contact Mrs Lucinda Leong, SH CCA (DID:
@@ -232,7 +233,7 @@ that they are unsuccessful in their application.</p>
 <h3>Performing Arts Talent Domain</h3>
 <p>There will be a short interview after the audition. All auditions and
 interviews will be carried out in-person at Mayflower Secondary School
-from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2025</strong>.
+from <strong>7<sup>th</sup> July to 29<sup>th</sup> August 2025</strong>.
 The following are the audition requirements for the different areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -264,6 +265,7 @@ is required for the two music pieces presented at the audition.</p>
 <p>Aural testing will also be conducted.</p>
 </li>
 </ul>
+<p></p>
 <p>NB: Applicant should arrange with their primary school for the use of
 any required instruments for the audition. Only the use of Mayflower Secondary
 School’s percussion instruments may be arranged.</p>
@@ -284,6 +286,7 @@ School’s percussion instruments may be arranged.</p>
 during the audition.</p>
 </li>
 </ul>
+<p></p>
 <p>NB: Applicant should arrange with their primary school for the use of
 any required instruments for the audition. Only the use of Mayflower Secondary
 School’s percussion instruments may be arranged.</p>
@@ -363,7 +366,7 @@ Applicant may also be asked to demonstrate his/her technical capacity.</p>
 </table>
 <h3>Sports Talent Domain</h3>
 <p>There will be a short interview after the trial. All trials and interviews
-will be carried out in-person at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.
+will be carried out in-person at Mayflower Secondary School from <strong>7<sup>th</sup> July to 29<sup>th</sup> August 2024</strong>.
 The following are the audition requirements for the different areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -412,6 +415,14 @@ The following are the audition requirements for the different areas:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Perform a full poomsae routine at your current belt level.</p>
+</li>
+<li>
+<p>Perform various structured target kicking to demonstrate kicking repertoire,
+power, speed and accuracy.</p>
+</li>
+<li>
+<p>Candidates displaying proficiency in both Poomsae and Kyorugi categories
+will be given extra considerations during evaluation.</p>
 </li>
 </ul>
 </td>
@@ -466,7 +477,7 @@ looping.</p>
 </table>
 <h3>Academic Talent Domain</h3>
 <p>There will be a short interview after the trial. All trials and interviews
-will be carried out in-person at Mayflower Secondary School from <strong>8<sup>th</sup> July to 30<sup>th</sup> August 2024</strong>.
+will be carried out in-person at Mayflower Secondary School from <strong>7<sup>th</sup> July to 29<sup>th</sup> August 2024</strong>.
 The following are the audition requirements for the different areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -484,7 +495,7 @@ The following are the audition requirements for the different areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Debating</em>
+<p><em>Debating (Engish)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -504,7 +515,7 @@ presented.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Public Speaking</em>
+<p><em>Public Speaking (English)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -528,7 +539,6 @@ presented.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Debating</strong> 
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -542,6 +552,7 @@ presented.</p>
 presented.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Public Speaking</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -564,7 +575,6 @@ presented.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Debating</strong> 
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -578,6 +588,7 @@ presented.</p>
 presented.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Public Speaking</strong>
 </p>
 <ul data-tight="true" class="tight">
