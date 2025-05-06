@@ -1222,6 +1222,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Relief (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:krishnan_malathi@schools.gov.sg" rel="noopener nofollow" target="_blank">Krishnan Malathi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Hindi Language</p>
 </td>
 <td rowspan="1" colspan="1">
