@@ -1126,15 +1126,6 @@ variant: tiptap
 <p>Flexi Adj (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kim_kin_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kim Kin Seng</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:foo_tee_yam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Low Eng</a>
 </p>
 </td>
