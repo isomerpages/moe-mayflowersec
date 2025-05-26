@@ -38,6 +38,13 @@ sections:
             4pm on weekday.
           link_text: Read more
           link_url: /collection-of-school-graduation-certificates/
+        - title: 🗫 2025 Parent Lunch-Time Talk (11am to 12pm)
+          date: 30 May 2025
+          announcement: All parents are welcome to join the Lunch-time talk with our
+            School Counsellor and Parent Support Group to learn about parenting
+            strategies and resources.
+          link_text: Join Us!
+          link_url: https://meet.google.com/brw-vxhx-ppu
   - infopic:
       title: Speech Day 2025
       subtitle: 📅 Save the date
