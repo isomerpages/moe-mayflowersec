@@ -29,7 +29,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 🗫 2025 Parent Lunch-Time Talk (11am to 12pm)
+        - title: 💬 2025 Parent Lunch-Time Talk (11am to 12pm)
           date: 30 May 2025
           announcement: All parents are welcome to join the Lunch-time talk with our
             School Counsellor and Parent Support Group to learn about parenting
