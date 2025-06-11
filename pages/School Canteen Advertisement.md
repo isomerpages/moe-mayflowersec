@@ -23,7 +23,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Japanese</p>
+</li>
+<li>
+<p>Korean</p>
+</li>
+<li>
+<p>Thai</p>
+</li>
+<li>
+<p>Vietnamese</p>
+</li>
+<li>
+<p>Mediterranean</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
