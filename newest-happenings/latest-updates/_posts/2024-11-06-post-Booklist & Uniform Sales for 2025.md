@@ -7,7 +7,7 @@ description: ""
 image: /images/booklist2025.jpg
 variant: tiptap
 ---
-<h4><strong>Updated as of 19/11/24</strong></h4>
+<h4><strong>Updated as of 16/06/25</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/booklist2025.jpg">
 </div>
@@ -122,47 +122,12 @@ delivery service may take up to 2 weeks for your items to be delivered.</p>
 </li>
 </ol>
 <h2>Uniform Purchase</h2>
-<h3>Uniform Sec 2-5 Walk-in purchase, online / FAS collection</h3>
-<p><strong>Dates:</strong>&nbsp;4, 9, 17, 18 Dec 2024
-<br><strong>Time:</strong>&nbsp;9am to 3pm daily
-<br><strong>Uniform Online Purchase:</strong>&nbsp;<a href="https://www.schooluniforms.sg/mayflower-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schooluniforms.sg/mayflower-secondary-school</u></a><strong> </strong>
-<br><strong>Note:</strong>
-<br>Please bring your own Tote Bags. Bibi&amp;Baba plastic bags are charged
-at 20 cents per piece, with the funds raised for Charities.</p>
-<h3>Bibi&amp;Baba Far East Shopping Centre Opening Hours (Xmas 2024 / New Year 2025)</h3>
-<p><strong>Daily Mon-Sat:</strong>&nbsp;10.00 am - 7.00pm
-<br><strong>Daily Sun:</strong>&nbsp;10.00 am - 6.00 pm
-<br><strong>Tue, 24 Dec 2024 (Christmas Eve):</strong>&nbsp;10.00 am - 4.00
-pm
-<br><strong>Wed, 25 Dec 2024 (Christmas Day):</strong>&nbsp;CLOSED
-<br><strong>Thu, 26 Dec 2024 (Boxing Day):</strong>&nbsp;10.00 am - 7.00 pm
-<br><strong>Tue, 31 Dec 2024 (New Year’s Eve):</strong>&nbsp;10.00 am - 4.00
-pm
-<br><strong>Wed, 1 Jan 2025 (New Year’s Day):</strong>&nbsp;10.00 am - 6.00
-pm
-<br><strong>Thu, 2 Jan 2025:</strong>&nbsp;10.00 am - 7.00 pm
-<br><strong>Note:</strong>
-<br>For made-to-measure orders: Please visit 213 Henderson Road, #01-12, Singapore
-159553</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/office.png">
-</div>
-<p><strong>Buses:</strong>&nbsp;5, 14, 32, 33, 57, 64, 65, 123, 131, 132,
-145, 147, 175, 176, 195, 196, 197, 272, 273, 275, 855, 961
-<br><strong>Office / Factory:</strong>&nbsp;213 Henderson Road #01-12 Singapore
-159553
-<br><strong>Business Hours:</strong>&nbsp;Mon-Fri, 9 am - 1 pm, 2 - 5 pm &nbsp;
-Sat, 9 am -12.30 pm
-<br><strong>☎:</strong>&nbsp;+65 6271 9248&nbsp; &nbsp;📠: 6273 9600
-<br><strong>Email:</strong>&nbsp;<a href="mailto:uniforms@bibibaba.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>uniforms@bibibaba.com.sg</u></a>
+<h3>Jeep Sing Fashion</h3>
+<p>4012 Ang Mo Kio Ave 10
+<br>#01-08 Techplace 1
+<br>Singapore 569628</p>
+<p><strong>☎ </strong>Office: 6456 3198</p>
+<p>📱 Mobile: 9488 1358</p>
+<p>✉ Email: <a href="mailto:jeepsing@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">jeepsing@hotmail.com</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/office1.png">
-</div>
-<p><strong>Shop:</strong>&nbsp;545 Orchard Road #02-28 Far East Shopping
-Centre Singapore 238882
-<br><strong>Business Hours:</strong>&nbsp;Mon-Sat, 10am - 7.30pm &nbsp; Sun,
-10am-6pm
-<br><strong>☎:</strong>&nbsp;+65 6732 7022
-<br><strong>Web:</strong>  <a href="mailto:uniforms@bibibaba.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.bibibaba.com.sg</u></a>
-</p>
+<p></p>
