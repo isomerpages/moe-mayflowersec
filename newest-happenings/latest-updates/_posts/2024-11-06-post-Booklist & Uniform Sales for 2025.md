@@ -127,7 +127,5 @@ delivery service may take up to 2 weeks for your items to be delivered.</p>
 <br>#01-08 Techplace 1
 <br>Singapore 569628</p>
 <p><strong>☎ </strong>Office: 6456 3198</p>
-<p>📱 Mobile: 9488 1358</p>
-<p>✉ Email: <a href="mailto:jeepsing@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">jeepsing@hotmail.com</a>
+<p>🛒 <a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener nofollow" target="_blank">Contact supplier</a>
 </p>
-<p></p>
