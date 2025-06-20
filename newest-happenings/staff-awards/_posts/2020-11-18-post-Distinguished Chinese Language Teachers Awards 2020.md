@@ -5,6 +5,7 @@ date: 2020-11-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 > Congratulations to our Distinguished Chinese Language Teachers Awards Recipient, Ms Eileen Chew!
 
@@ -20,5 +21,3 @@ In appreciation for receiving the award, Ms Chew said: "When I rally (my teacher
 
 #### Read more  
 * [10 teachers win awards for inspiring students in Chinese](https://www.straitstimes.com/singapore/parenting-education/10-teachers-win-awards-for-inspiring-students-in-chinese)  
-  
-* [10教师荣获2020年全国杰出华文教师奖](https://www.zaobao.com.sg/zvideos/zbschools/story20201112-1100431)
