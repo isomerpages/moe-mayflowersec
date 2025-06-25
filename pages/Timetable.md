@@ -6,6 +6,72 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
+<h2>Timetable for 2025 Semester 2</h2>
+<p><em>Updated as of 25/06/25</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Normal Week Timetable</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HBL Week Timetable</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 Timetable/2025Timetable_Sem2__Sec_1__wef_30June.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sem 2 Timetable Sec 1 Main</a>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p><em>Same as Normal Week Timetable with Friday as the HBL day.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 Timetable/2025Timetable_Sem2__Sec_2__wef_30June.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Timetable Sec 2 Main</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 Timetable/2025Timetable_Sem2__Sec_3__wef_30June.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Timetable Sec 3 Main</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 Timetable/2025Timetable_Sem2__Sec_4_5__wef_30June.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Timetable Sec 45 Main</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>HBL Weeks</h4>
+<p>Please note that HBL is on the Friday for the following weeks for 2025
+Semester 2:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>28 July - 1 Aug 2025</p>
+</li>
+<li>
+<p>⁠18 Aug - 22 Aug 2025</p>
+</li>
+</ul>
+<p>Other HBL days that is not on Friday:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>⁠15 - 17 July 2025
+<br>(Tue, Wed, Thu, 3 full days for GCE Oral Exams)</p>
+</li>
+</ul>
+<hr>
 <h4>N Level Prelim Exam Timetable 2025</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim1.jpg">
@@ -334,78 +400,6 @@ for Sec 1 G3 Math and Sec 3 DT</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<h2>Timetable for 2024 Semester 2</h2>
-<p><em>Updated as of 21/06/24</em>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Normal Week Timetable</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>HBL Week Timetable</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024 Sem 2 Timetables/2024_Sem_2_Timetable_Sec_1_Main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable Sec 1 Main</a>
-</p>
-</td>
-<td rowspan="4" colspan="1">
-<p><em>Same as Normal Week Timetable with Friday as the HBL day.</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024 Sem 2 Timetables/2024_Sem_2_Timetable_Sec_2_Main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable Sec 2 Main</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024 Sem 2 Timetables/2024_Sem_2_Timetable_Sec_3_Main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable Sec 3 Main</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024 Sem 2 Timetables/2024_Sem_2_Timetable_Sec_4___5_Main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable Sec 4/5 Main</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>HBL Weeks</h4>
-<p>Please note that HBL is on the Friday for the following weeks for 2024
-Semester 2:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>8 July - 12 July 2024</p>
-</li>
-<li>
-<p>⁠12 Aug - 16 Aug 2024</p>
-</li>
-<li>
-<p>⁠9 Sep - 13 Sep 2024</p>
-</li>
-</ul>
-<p>Other HBL days that is not on Friday:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>⁠23, 24 &amp; 25 July 2024
-<br>(Tue, Wed, Thu, 3 full days for Oral Exams)</p>
-</li>
-<li>
-<p>⁠2 Oct 2024 (Wed, for only Sec 1 &amp; 2)</p>
-</li>
-</ul>
 <hr>
 <h4>Term 2 Remedial / Supplementary Schedule</h4>
 <p>Note:</p>
