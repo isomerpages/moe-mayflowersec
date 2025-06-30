@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1>Newsletter</h1>
-<h2>2024, Issue 2</h2><a class="isomer-image-wrapper" href="https://www.canva.com/design/DAGPSiWkkII/4iB1AEZBQmBnkYfQvz74Jw/view?utm_content=DAGPSiWkkII&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hf43363e19f#1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/mayflower_promise__2024_issue_2___cover_page.png"></a>
+<h2>2025, Issue 1</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2025_?fr=sOGFjNjg2Njg1MTU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Mayflower_Promise__Issue_1__2025__cover.png"></a>
+<h2>2024, Issue 2</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2024_?fr=sZmY4ODg2Njg1MTU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/mayflower_promise__2024_issue_2___cover_page.png"></a>
 <h2>2024, Issue 1</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2024_?fr=sZDQzZDY2MzQ5NTI"><img style="width: 100%" height="auto" width="100%" alt="The Mayflower Promise - 2024, Issue 1" src="/images/Mayflower_Promise__2024_Issue_1___Cover_Page.png"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -31,7 +32,21 @@ variant: tiptap
 </details>
 </div>
 <h1>Yearbook</h1>
-<h2>2022</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/mfss_eyrbk2022?fr=sNGQ3YzU4NTAzNjI"><img style="width: 100%" height="auto" width="100%" alt="yearbook%202022" src="/images/yearbook%202022.png"></a>
-<h2>2021</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/mayflower_sec_yearbook_2021?fr=sMWI4NDU4NTAzNjI"><img style="width: 100%" height="auto" width="100%" alt="2021" src="/images/2021.jpg"></a>
-<h2>2019</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/mayflower-yearbook_2019?fr=sM2E5ZjU4NTAzNjI"><img style="width: 100%" height="auto" width="100%" alt="2019" src="/images/2019.jpg"></a>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2022</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/mfss_eyrbk2022?fr=sNGQ3YzU4NTAzNjI"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/yearbook 2022.png"></a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2021</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/mayflower_sec_yearbook_2021?fr=sMWI4NDU4NTAzNjI"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2021.jpg"></a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2019</summary>
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/mayflower_sec_yearbook_2021?fr=sMWI4NDU4NTAzNjI"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2019.jpg"></a>
+</div>
+</details>
+</div>
 <p></p>
