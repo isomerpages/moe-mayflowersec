@@ -785,7 +785,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Science Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mok_pei_jiun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Mok Pei Jiun</u></a>
@@ -797,7 +797,7 @@ variant: tiptap
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soohu_siew_foong_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soohu Siew Foong Christina</a>
+<p><a href="mailto:poh_shee_yean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Poh Shee Yean</a>
 </p>
 </td>
 </tr>
@@ -1141,15 +1141,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wan_chue_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wan Chue Wah</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Flexi Adj (Gear Up)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1186,15 +1177,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (Math)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_hwee_ching_alice_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Hwee Ching Alice</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Flexi Adj (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1213,7 +1195,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Relief (Science)</p>
+<p>Relief</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:krishnan_malathi@schools.gov.sg" rel="noopener nofollow" target="_blank">Krishnan Malathi</a>
