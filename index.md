@@ -40,7 +40,7 @@ sections:
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
       title: Info for Parents
-      subtitle: ⛺ 2024 Sec 1 Cohort Camp
+      subtitle: ⛺ 2025 Sec 1 Cohort Camp
       id: infopic
       description: Please refer to the slides and packing list for more information.
       button: Read more
