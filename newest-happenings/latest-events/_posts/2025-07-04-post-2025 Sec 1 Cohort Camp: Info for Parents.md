@@ -8,7 +8,7 @@ image: /images/2025_Sec_1_Camp_Parents__Briefing__Cover_.png
 variant: tiptap
 ---
 <p>Dear parents,</p>
-<p>please refer to the appended files for Sec1 Cohort Camp information.</p>
+<p>Please refer to the appended files for Sec1 Cohort Camp information.</p>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFFW3TKPX40AbQcedKmTxswatVzfCwsP27d2vWTVYTifO7ivOllw8cAvS7hK0tNg/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
