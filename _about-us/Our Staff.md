@@ -815,7 +815,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_alif__gadaffi_abdul_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Alif Gadaffi</a>
+<p><a href="mailto:muhammad_alif_gadaffi_abdul_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Alif Gadaffi</a>
 </p>
 </td>
 </tr>
