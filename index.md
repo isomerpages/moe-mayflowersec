@@ -48,16 +48,14 @@ sections:
       image: /images/2025_Sec_1_Camp_Parents__Briefing__Cover_.png
       alt: Sec 1 camp
   - infopic:
-      title: Speech Day 2025
-      subtitle: 📅 Save the date
+      title: The Mayflower Promise
+      subtitle: 📰 2025, Issue 1
       id: infopic
-      description: Join us on 30 April 2025, from 1.45pm to 4.15pm, as we recognise
-        the academic and CCA achievements of our Mayflowerians at this year’s
-        Speech Day.
+      description: 2025 Sem 1 Newsletter is out. Come take a peek!
       button: Read more
-      url: /speech-day-2025/
-      image: /images/SpeechDay2025_Publicity_Poster.jpg
-      alt: speech day 2025
+      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2025_?fr=sOGFjNjg2Njg1MTU
+      image: /images/mayflower_promise__2025_issue_1_thumbnail.png
+      alt: 2025 newsletter issue
   - infopic:
       title: Be part of MFSS Alumni Network
       subtitle: 📢 Calling All Alumni!
