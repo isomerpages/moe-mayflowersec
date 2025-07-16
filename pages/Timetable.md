@@ -7,8 +7,13 @@ image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
 <h2>Timetable for 2025 Semester 2</h2>
+<h4>O Level Prelim Exam Timetable 2025</h4>
+<p>Updated as of 16/07/2025</p>
+<p><a href="/files/2025_O_Prelim_TT_4EX_5N_4NA__SBB___8_July_2025_.pdf" rel="noopener nofollow" target="_blank">Sec 4EX, 5N, 4NA SBB O-Level Prelim Timetable</a>
+</p>
+<hr>
 <h4>Racial Harmony Day 2025 Timetable (18 July)</h4>
-<p><em>Updated as of 25/06/25</em>
+<p><em>Updated as of 16/07/25</em>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
