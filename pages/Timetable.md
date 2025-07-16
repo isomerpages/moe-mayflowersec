@@ -10,14 +10,43 @@ variant: tiptap
 <h4>Racial Harmony Day 2025 Timetable (18 July)</h4>
 <p><em>Updated as of 25/06/25</em>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Timetable by level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_1.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 1</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_2.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 2</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_3.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 3</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 4 &amp; 5</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <hr>
 <p><em>Updated as of 25/06/25</em>
 </p>
