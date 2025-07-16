@@ -7,6 +7,55 @@ image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
 <h2>Timetable for 2025 Semester 2</h2>
+<h4>O Level Prelim Exam Timetable 2025</h4>
+<p>Updated as of 16/07/2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim.jpeg">
+</div>
+<p><a href="/files/2025_O_Prelim_TT_4EX_5N_4NA__SBB___8_July_2025_.pdf" rel="noopener nofollow" target="_blank">Sec 4EX, 5N, 4NA SBB O-Level Prelim Timetable</a>
+</p>
+<hr>
+<h4>Racial Harmony Day 2025 Timetable (18 July)</h4>
+<p><em>Updated as of 16/07/25</em>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Timetable by level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_1.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_2.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_3.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 4 &amp; 5</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr>
 <p><em>Updated as of 25/06/25</em>
 </p>
 <table style="minWidth: 50px">
