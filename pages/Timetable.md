@@ -7,6 +7,18 @@ image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
 <h2>Timetable for 2025 Semester 2</h2>
+<h4>Racial Harmony Day 2025 Timetable (18 July)</h4>
+<p><em>Updated as of 25/06/25</em>
+</p>
+<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_1.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 1</a>
+</p>
+<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_2.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 2</a>
+</p>
+<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_3.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 3</a>
+</p>
+<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 4 &amp; 5</a>
+</p>
+<hr>
 <p><em>Updated as of 25/06/25</em>
 </p>
 <table style="minWidth: 50px">
