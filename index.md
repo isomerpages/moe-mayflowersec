@@ -39,14 +39,15 @@ sections:
           link_text: Read more
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
-      title: Info for Parents
-      subtitle: ⛺ 2025 Sec 1 Cohort Camp
+      title: Economy Rice / International Cuisine
+      subtitle: 🍽 Canteen Stalls Available
       id: infopic
-      description: Please refer to the slides and packing list for more information.
-      button: Read more
-      url: /2025-sec-1-cohort-camp-info-for-parents/
-      image: /images/2025_Sec_1_Camp_Parents__Briefing__Cover_.png
-      alt: Sec 1 camp
+      description: Calling all chef! We're looking for friendly stall owners to serve
+        tasty, affordable home-style rice dishes or other international cuisine.
+      button: More info
+      url: /school-canteen-ads/
+      image: /images/food.jpg
+      alt: Image alt text
   - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2025, Issue 1
