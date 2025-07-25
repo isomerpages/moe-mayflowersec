@@ -39,6 +39,16 @@ sections:
           link_text: Read more
           link_url: /collection-of-school-graduation-certificates/
   - infopic:
+      title: Economy Rice / International Cuisine
+      subtitle: 🍽 Canteen Stalls Available
+      id: infopic
+      description: Calling all chef! We're looking for friendly stall owners to serve
+        tasty, affordable home-style rice dishes or other international cuisine.
+      button: More info
+      url: /school-canteen-ads/
+      image: /images/food.jpg
+      alt: Image alt text
+  - infopic:
       title: Info for Parents
       subtitle: ⛺ 2025 Sec 1 Cohort Camp
       id: infopic
