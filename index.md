@@ -49,15 +49,6 @@ sections:
       image: /images/food.jpg
       alt: Image alt text
   - infopic:
-      title: Info for Parents
-      subtitle: ⛺ 2025 Sec 1 Cohort Camp
-      id: infopic
-      description: Please refer to the slides and packing list for more information.
-      button: Read more
-      url: /2025-sec-1-cohort-camp-info-for-parents/
-      image: /images/2025_Sec_1_Camp_Parents__Briefing__Cover_.png
-      alt: Sec 1 camp
-  - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2025, Issue 1
       id: infopic
