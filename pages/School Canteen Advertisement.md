@@ -23,26 +23,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Japanese</p>
-</li>
-<li>
-<p>Korean</p>
-</li>
-<li>
-<p>Thai</p>
-</li>
-<li>
-<p>Vietnamese</p>
-</li>
-<li>
-<p>Mediterranean</p>
-</li>
-</ul>
+<p>Economy Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p>Offer a variety of affordable, home-style dishes with rice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Other Cuisine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food can be any one of the following cuisine: Japanese, Korean, Thai,
+Vietnamese, Mediterranean or others.</p>
 </td>
 </tr>
 </tbody>
