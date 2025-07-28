@@ -54,8 +54,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
+<h4>Timetable for 2025 Semester 1</h4>
 <p><em>Updated as of 25/06/25</em>
 </p>
 <table style="minWidth: 50px">
@@ -102,7 +102,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>HBL Weeks</h4>
+<p><strong>HBL Weeks</strong>
+</p>
 <p>Please note that HBL is on the Friday for the following weeks for 2025
 Semester 2:</p>
 <ul data-tight="true" class="tight">
