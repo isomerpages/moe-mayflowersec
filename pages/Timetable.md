@@ -102,7 +102,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>HBL Weeks</h4>
+<p><strong>HBL Weeks</strong>
+</p>
 <p>Please note that HBL is on the Friday for the following weeks for 2025
 Semester 2:</p>
 <ul data-tight="true" class="tight">
