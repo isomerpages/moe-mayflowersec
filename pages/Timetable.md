@@ -96,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025Timetable_Sem2__Sec_4_5__wef_30June.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Timetable Sec 45 Main</a>
+<p><a href="/files/2025 Timetable/2025Timetable_Sem2__Sec_4_5__wef_30June.pdf" rel="noopener nofollow" target="_blank">2025 Sem 2 Timetable Sec 4 &amp; 5 Main</a>
 </p>
 </td>
 </tr>
