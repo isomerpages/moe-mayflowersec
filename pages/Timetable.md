@@ -55,7 +55,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h4>Timetable for 2025 Semester 1</h4>
+<h4>Timetable for 2025 Semester 2</h4>
 <p><em>Updated as of 25/06/25</em>
 </p>
 <table style="minWidth: 50px">
