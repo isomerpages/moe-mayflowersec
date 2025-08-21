@@ -6,7 +6,6 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
-<h2>Timetable for 2025 Semester 2</h2>
 <h4>End of Year Exam Timetable 2025</h4>
 <p>Updated as of 21/08/2025</p>
 <div class="isomer-image-wrapper">
