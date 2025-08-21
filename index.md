@@ -29,15 +29,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 📜 Collection of School Graduation Certificates
-          date: 24 February 2025
-          announcement: The School Graduation Certificates (SGC), testimonials & CCA
-            Reports are ready for collection. Collection is to be done by 31
-            July. Please remember to bring along your proof of identity to
-            collect your certificates from the school's General Office, 8am to
-            4pm on weekday.
-          link_text: Read more
-          link_url: /collection-of-school-graduation-certificates/
+        - title: 🗓 End of Year Exam Timetable 2025
+          date: 21 August 2025
+          announcement: End of Year Examination Timetable for Sec 1, 2, 3 are available.
+          link_text: View timetable
+          link_url: /timetable/#:~:text=End%20of%20Year%20Exam%20Timetable%202025
   - infopic:
       title: Economy Rice / International Cuisine
       subtitle: 🍽 Canteen Stalls Available
