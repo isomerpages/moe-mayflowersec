@@ -19,7 +19,7 @@ fulfil the vision of Mayflower Secondary School.</p>
 <p>Advisor</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Prashant Jayapragas (Vice Principal)</p>
+<p>Mdm Nur Hidayani Ibrahim (Vice Principal)</p>
 </th>
 </tr>
 <tr>

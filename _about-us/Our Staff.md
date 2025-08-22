@@ -43,15 +43,6 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:prashant_jayapragas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Prashant Jayapragas</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hidayani_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hidayani Ibrahim</a>
 </p>
 </td>
@@ -1172,6 +1163,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_yan_qin_katharine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Yan Qin Katharine</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flexi Adj (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tee_boon_teck_johnny_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tee Boon Teck Johnny</a>
 </p>
 </td>
 </tr>

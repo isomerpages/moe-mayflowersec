@@ -35,11 +35,11 @@ sections:
           link_text: View timetable
           link_url: /timetable/#:~:text=End%20of%20Year%20Exam%20Timetable%202025
   - infopic:
-      title: Economy Rice / International Cuisine
+      title: Noodles dishes
       subtitle: 🍽 Canteen Stalls Available
       id: infopic
       description: Calling all chef! We're looking for friendly stall owners to serve
-        tasty, affordable home-style rice dishes or other international cuisine.
+        tasty, affordable Noodle dishes.
       button: More info
       url: /school-canteen-ads/
       image: /images/food.jpg
