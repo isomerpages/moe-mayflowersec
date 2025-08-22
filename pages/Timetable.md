@@ -6,17 +6,78 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
-<h3>End of Year Exam Timetable 2025</h3>
+<h3>End of Year Exam Timetable &amp; Subject Information 2025</h3>
 <p>Updated as of 21/08/2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EOY_exam_timetable.jpg">
 </div>
+<h4>Timetable</h4>
 <p><a href="/files/2025 EOY Exam Timetable/2025_EOY_Exam_Sec_1_TT_2025__Final_.pdf" rel="noopener nofollow" target="_blank">EOY Exam Timetable 2025 - Sec 1</a>
 </p>
 <p><a href="/files/2025 EOY Exam Timetable/2025_EOY_Exam_Sec_2_TT_2025__Final_.pdf" rel="noopener nofollow" target="_blank">EOY Exam Timetable 2025 - Sec 2</a>
 </p>
 <p><a href="/files/2025 EOY Exam Timetable/2025_EOY_Exam_Sec_3_TT_2025__Final_.pdf" rel="noopener nofollow" target="_blank">EOY Exam Timetable 2025 - Sec 3</a>
 </p>
+<h4>Subject information</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_1G1_final.pdf" rel="noopener nofollow" target="_blank">1G1 Subject Information</a>
+</p>
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_1G2_final.pdf" rel="noopener nofollow" target="_blank">1G2 Subject Information</a>
+</p>
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_1G3_final.pdf" rel="noopener nofollow" target="_blank">1G3 Subject Information</a>
+</p>
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_Sec_1_Common_Curriculum.pdf" rel="noopener nofollow" target="_blank">Sec 1 Common Curriculum Subject Information</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_2G1_Final.pdf" rel="noopener nofollow" target="_blank">2G1 Subject Information</a>
+</p>
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_2G2_final.pdf" rel="noopener nofollow" target="_blank">2G2 Subject Information</a>
+</p>
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_2G3_final.pdf" rel="noopener nofollow" target="_blank">2G3 Subject Information</a>
+</p>
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_Sec_2_Common_Curriculum.pdf" rel="noopener nofollow" target="_blank">Sec 2 Common Curriculum Subject Information</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_3EX_final.pdf" rel="noopener nofollow" target="_blank">3EX Subject Information</a>
+</p>
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_3NA_final.pdf" rel="noopener nofollow" target="_blank">3NA Subject Information</a>
+</p>
+<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_3NT_final.pdf" rel="noopener nofollow" target="_blank">3NT Subject Information</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3>O Level Prelim Exam Timetable 2025</h3>
 <p>Updated as of 16/07/2025</p>
