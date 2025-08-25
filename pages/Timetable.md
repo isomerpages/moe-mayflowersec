@@ -6,6 +6,13 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
+<h3>Sec 4/5 September Holiday Schedule 2025</h3>
+<p>Updated as of 25/08/25</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sept__sec_4_5_.jpg">
+</div>
+<p><a href="/files/Sept_Hols_Acad_Prog_2025_Final.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 - September Holiday Academic Programme 2025</a>
+</p>
 <h3>End of Year Exam Timetable &amp; Subject Information 2025</h3>
 <p>Updated as of 21/08/2025</p>
 <div class="isomer-image-wrapper">
@@ -195,18 +202,21 @@ Semester 2:</p>
 </ul>
 <hr>
 <h3>N Level Prelim Exam Timetable 2025</h3>
+<p>Updated as of 14/07/2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim1.jpg">
 </div>
 <p><a href="/files/2025_N_Prelim_TT_4NA_4NT_2_June_2025.pdf" rel="noopener nofollow" target="_blank">2025 N Prelim TT 4NA 4NT (Jul-Aug 2025)</a>
 </p>
 <h3>Sec 4/5 June Holiday Schedule 2025</h3>
+<p>Updated as of 21/05/25</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/June_holiday_schedule.jpg">
 </div>
 <p><a href="/files/Sec_4_5_June_Holiday_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 - June Holiday Schedule 2025</a>
 </p>
 <h3>Term 1 Remedial / Supplementary Schedule</h3>
+<p>Updated as of 25/02/25</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/supp.jpg">
 </div>
