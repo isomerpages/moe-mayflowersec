@@ -26,7 +26,7 @@ variant: tiptap
 <p>Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nil</p>
+<p>Open to proposals that offer a variety of noodle dishes.</p>
 </td>
 </tr>
 </tbody>
