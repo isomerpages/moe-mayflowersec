@@ -35,6 +35,17 @@ sections:
           link_text: View timetable
           link_url: /timetable/#:~:text=End%20of%20Year%20Exam%20Timetable%202025
   - infopic:
+      title: Caring Teacher Awards 2026
+      subtitle: Nominate now
+      id: infopic
+      description: The Caring Teacher Awards (CTA) honor educators who go beyond the
+        call of duty, nurturing students’ holistic growth and shaping confident,
+        resilient learners.
+      button: Read more
+      url: /caring-teacher-awards-2026/
+      image: /images/CTA_2026_thumbnail.png
+      alt: NIE CTA 2026
+  - infopic:
       title: Noodles dishes
       subtitle: 🍽 Canteen Stalls Available
       id: infopic
