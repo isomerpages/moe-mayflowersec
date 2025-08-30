@@ -38,7 +38,7 @@ sections:
       title: Caring Teacher Awards 2026
       subtitle: Nominate now
       id: infopic
-      description: The Caring Teacher Awards (CTA) honor educators who go beyond the
+      description: The Caring Teacher Awards (CTA) honour educators who go beyond the
         call of duty, nurturing students’ holistic growth and shaping confident,
         resilient learners.
       button: Read more
