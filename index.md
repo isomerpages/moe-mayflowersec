@@ -65,15 +65,12 @@ sections:
       image: /images/mayflower_promise__2025_issue_1_thumbnail.png
       alt: 2025 newsletter issue
   - infopic:
-      title: Be part of MFSS Alumni Network
-      subtitle: 📢 Calling All Alumni!
+      title: Teachers' Day Celebration 2025
+      subtitle: 🎉 Schedule your appointment
       id: infopic
-      description: Sign up today to be part of the Alumni Network to strengthen our
-        alumni network and create meaningful opportunities for our students.
-      button: Sign up today
-      url: https://for.edu.sg/mfalumninetwork
-      image: /images/MFSS_Alumni_Network_Publicity_Poster.png
-      alt: Sign up poster
+      description: 4 Sep 2025,  07:30 am to 10:30 am
+      image: /images/MFSS_Teachers_Day_celebration_2025.jpg
+      alt: Teachers' Day
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
