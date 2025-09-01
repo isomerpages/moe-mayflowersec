@@ -39,7 +39,7 @@ sections:
       subtitle: 🎉 Schedule your appointment
       id: infopic
       description: 4 Sep 2025,  07:30 am to 10:30 am
-      image: /images/MFSS_Teachers_Day_celebration_2025.jpg
+      image: /images/MFSS_Teachers_Day_celebration_2025__For_Alumni_.jpg
       alt: Teachers' Day
   - infopic:
       title: Caring Teacher Awards 2026
