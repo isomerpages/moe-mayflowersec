@@ -35,6 +35,13 @@ sections:
           link_text: View timetable
           link_url: /timetable/#:~:text=End%20of%20Year%20Exam%20Timetable%202025
   - infopic:
+      title: Teachers' Day Celebration 2025
+      subtitle: 🎉 Schedule your appointment
+      id: infopic
+      description: 4 Sep 2025,  07:30 am to 10:30 am
+      image: /images/MFSS_Teachers_Day_celebration_2025.jpg
+      alt: Teachers' Day
+  - infopic:
       title: Caring Teacher Awards 2026
       subtitle: Nominate now
       id: infopic
@@ -64,13 +71,6 @@ sections:
       url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2025_?fr=sOGFjNjg2Njg1MTU
       image: /images/mayflower_promise__2025_issue_1_thumbnail.png
       alt: 2025 newsletter issue
-  - infopic:
-      title: Teachers' Day Celebration 2025
-      subtitle: 🎉 Schedule your appointment
-      id: infopic
-      description: 4 Sep 2025,  07:30 am to 10:30 am
-      image: /images/MFSS_Teachers_Day_celebration_2025.jpg
-      alt: Teachers' Day
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
