@@ -29,7 +29,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: School closure on Teacher's Day
+        - title: School closure on Teachers' Day
           date: 05 September 2025
           announcement: This is to inform all that the school will be closed on Fri, 5th
             Sep 2025. For any enquiries, please contact the school on 8th Sep
