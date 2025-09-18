@@ -51,6 +51,17 @@ a single teacher officer - Mr. Victor Seah.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,8 +192,8 @@ a single teacher officer - Mr. Victor Seah.</p>
 <p>Cadet Leaders: Leadership Group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ryan Neo (Liang Jiaxiang) (Chairperson)
-<br>Teh Jing Heng (Vice Chairperson)</p>
+<p>Lee Xin Eu (Chairperson)
+<br>Shermyn Pung Xin Lin (Vice Chairperson)</p>
 </td>
 </tr>
 </tbody>
