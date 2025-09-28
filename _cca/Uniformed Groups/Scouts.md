@@ -56,10 +56,32 @@ and personal principles as expressed in the Promise and Law</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Scout's Award (Scout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded to Fiona Lee Wen Hui, Loh Jun Yi Wilbur and Chey Tze Weng, Kedric</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frank Cooper Sands</p>
+<p>Frank Cooper Sands Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold Award (With Pennant)</p>
@@ -150,7 +172,7 @@ Benedict and Soon Ee Hern, Ethan</p>
 <p>2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frank Cooper Sands</p>
+<p>Frank Cooper Sands Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold Award</p>
@@ -183,7 +205,7 @@ Benedict and Soon Ee Hern, Ethan</p>
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frank Cooper Sands</p>
+<p>Frank Cooper Sands Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold Award</p>
@@ -194,7 +216,7 @@ Benedict and Soon Ee Hern, Ethan</p>
 <p>2017</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frank Cooper Sands</p>
+<p>Frank Cooper Sands Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold Award</p>
@@ -255,8 +277,7 @@ Jun Hyeok Brian</p>
 <p>Scout Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gananedran S Eagamparam
-<br>Jabez Wong
+<p>Jabez Wong
 <br>Ng Ying Jie
 <br>Chia Kang Xu
 <br>Bernard Sng
@@ -268,8 +289,9 @@ Jun Hyeok Brian</p>
 <p>Senior Patrol Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fiona Lee Wen Hui
-<br>Loh Jun Yi Wilbur</p>
+<p>Isabella Lee Jing Tong
+<br>Athan Darren Koh Yu Teck
+<br>Lian Jing Yuan Leonard</p>
 </td>
 </tr>
 <tr>
@@ -277,10 +299,10 @@ Jun Hyeok Brian</p>
 <p>Patrol Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maria Hasleen
-<br>Fan Zicheng
-<br>Chey Tze Weng, Kedric
-<br>Athan Darren Koh Yu Teck</p>
+<p>Matthew Ng Yi Sheng
+<br>Emma Joy Koh
+<br>Faith Ang Wan Ting
+<br>Isaac Wong Hom Kai</p>
 </td>
 </tr>
 <tr>
@@ -288,12 +310,10 @@ Jun Hyeok Brian</p>
 <p>Assistant Patrol Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ashley Suhaidah
-<br>Jayden Tang Yi Zhi
-<br>Matthew Ng Yi Sheng
-<br>Isabella Lee Jing Tong
-<br>Lian Jing Yuan Leonard
-<br>Emma Joy Koh</p>
+<p>Toh Li Zhong Joshua
+<br>Sakthivel Dharsan
+<br>Putri Letishya Binte Rohaizat
+<br>Arunachalam Aapti</p>
 </td>
 </tr>
 </tbody>
