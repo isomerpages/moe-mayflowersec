@@ -8,6 +8,8 @@ variant: tiptap
 ---
 <h3>Sec 1-3 Script checking Timetable 2025</h3>
 <p>Updated as of 7 Oct 2025</p>
+<p><strong>Script checking dates:</strong> Mon, 13th to Wed, 16th October
+2025</p>
 <p><a href="/files/2025 EOY Check Script/Sec_1_Script_Check_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 - EOY Script Checking 2025</a>
 </p>
 <p><a href="/files/2025 EOY Check Script/Sec_2_Script_Check_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 - EOY Script Checking 2025</a>
