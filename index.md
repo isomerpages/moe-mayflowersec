@@ -29,18 +29,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: School closure on Teachers' Day
-          date: 05 September 2025
-          announcement: This is to inform all that the school will be closed on Fri, 5th
-            Sep 2025. For any enquiries, please contact the school on 8th Sep
-            2025 from 8:30 am onwards. Thank you.
-          link_text: ""
-          link_url: ""
         - title: 🗓 End of Year Exam Timetable 2025
           date: 21 August 2025
           announcement: End of Year Examination Timetable for Sec 1, 2, 3 are available.
           link_text: View timetable
           link_url: /timetable/#:~:text=End%20of%20Year%20Exam%20Timetable%202025
+        - title: ✒ Marking Day
+          date: 10 October 2025
+          announcement: Students do not need to come to school.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Script checking days
       subtitle: 🗓 Timetable
