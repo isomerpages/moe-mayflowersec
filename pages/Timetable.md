@@ -7,14 +7,18 @@ image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
 <h3>Sec 1-3 Script checking Timetable 2025</h3>
-<p>Updated as of 7 Oct 2025</p>
+<p>Updated as of 8 Oct 2025</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Script checking Timetable" src="/images/script_checking.jpg">
+</div>
 <p><strong>Script checking dates:</strong> Mon, 13th to Wed, 16th October
 2025</p>
-<p><a href="/files/2025 EOY Check Script/Sec_1_Script_Check_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 - EOY Script Checking 2025</a>
+<p><a href="/files/2025 EOY Check Script/Sec_1___Script_Check_2025v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 - EOY Script Checking 2025</a>
 </p>
-<p><a href="/files/2025 EOY Check Script/Sec_2_Script_Check_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 - EOY Script Checking 2025</a>
+<p><a href="/files/2025 EOY Check Script/Sec_2___Script_Check_2025v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 - EOY Script Checking 2025</a>
 </p>
-<p><a href="/files/2025 EOY Check Script/Sec_3_Script_Check_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 - EOY Script Checking 2025</a>
+<p><a href="/files/2025 EOY Check Script/Sec_3___Script_Check_2025v2.pdf" rel="noopener nofollow" target="_blank">Sec 3 - EOY Script Checking 2025</a>
 </p>
 <hr>
 <h3>Sec 4/5 September Holiday Schedule 2025</h3>
