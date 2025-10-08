@@ -42,12 +42,14 @@ sections:
           link_text: View timetable
           link_url: /timetable/#:~:text=End%20of%20Year%20Exam%20Timetable%202025
   - infopic:
-      title: Teachers' Day Celebration 2025
-      subtitle: 🎉 Schedule your appointment
+      title: Script checking days
+      subtitle: 🗓 Timetable
       id: infopic
-      description: 4 Sep 2025,  07:30 am to 10:30 am
-      image: /images/MFSS_Teachers_Day_celebration_2025__For_Alumni_.jpg
-      alt: Teachers' Day
+      description: Mon, 13 Sep to Thu, 16 Sep 2025
+      image: /images/script_checking.jpg
+      alt: Script Checking Timetable
+      url: /timetable/
+      button: View
   - infopic:
       title: Caring Teacher Awards 2026
       subtitle: Nominate now
