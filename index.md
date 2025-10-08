@@ -29,25 +29,25 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: School closure on Teachers' Day
-          date: 05 September 2025
-          announcement: This is to inform all that the school will be closed on Fri, 5th
-            Sep 2025. For any enquiries, please contact the school on 8th Sep
-            2025 from 8:30 am onwards. Thank you.
-          link_text: ""
-          link_url: ""
         - title: 🗓 End of Year Exam Timetable 2025
           date: 21 August 2025
           announcement: End of Year Examination Timetable for Sec 1, 2, 3 are available.
           link_text: View timetable
           link_url: /timetable/#:~:text=End%20of%20Year%20Exam%20Timetable%202025
+        - title: ✒ Marking Day
+          date: 10 October 2025
+          announcement: Students do not need to come to school.
+          link_text: ""
+          link_url: ""
   - infopic:
-      title: Teachers' Day Celebration 2025
-      subtitle: 🎉 Schedule your appointment
+      title: Script checking days
+      subtitle: 🗓 Timetable
       id: infopic
-      description: 4 Sep 2025,  07:30 am to 10:30 am
-      image: /images/MFSS_Teachers_Day_celebration_2025__For_Alumni_.jpg
-      alt: Teachers' Day
+      description: Mon, 13 Sep to Thu, 16 Sep 2025
+      image: /images/script_checking.jpg
+      alt: Script Checking Timetable
+      url: /timetable/
+      button: View
   - infopic:
       title: Caring Teacher Awards 2026
       subtitle: Nominate now
