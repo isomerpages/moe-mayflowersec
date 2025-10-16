@@ -6,6 +6,20 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
+<h3>Post Exam Activities &amp; Sec 3 Prep Programme</h3>
+<p>Updated as of 15 Oct 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/post_exam_banner.jpg">
+</div>
+<p><a href="/files/2025_EOY_Post_Exams_Day_1___21_OCT_2025_Tue.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 1 - 21 OCT 2025 Tue</a>
+</p>
+<p><a href="/files/2025_EOY_Post_Exams_Day_2___22_OCT_2025_Wed.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 2 - 21 OCT 2025 Tue</a>
+</p>
+<p><a href="/files/2025_EOY_Post_Exams_Day_3___23_OCT_2025_Thu.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 3 - 21 OCT 2025 Tue</a>
+</p>
+<p><a href="/files/2025_Secondary_3_Prep_Programme_Classes.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 - Prep Programme Timetable</a>
+</p>
+<hr>
 <h3>Sec 1-3 Script checking Timetable 2025</h3>
 <p>Updated as of 8 Oct 2025</p>
 <p></p>

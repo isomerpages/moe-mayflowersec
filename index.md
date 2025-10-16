@@ -40,12 +40,12 @@ sections:
           link_text: ""
           link_url: ""
   - infopic:
-      title: Script checking days
+      title: Post Exam Activities & Sec 3 Prep Programme
       subtitle: 🗓 Timetable
       id: infopic
-      description: Mon, 13 Sep to Thu, 16 Sep 2025
-      image: /images/script_checking.jpg
-      alt: Script Checking Timetable
+      description: Post Exam Activities (21 to 23 Oct) Sec 3 Prep Programme (22 -31 Oct)
+      image: /images/post_exam_banner.jpg
+      alt: Post Exam Timetable
       url: /timetable/
       button: View
   - infopic:
