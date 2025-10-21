@@ -13,9 +13,9 @@ variant: tiptap
 </div>
 <p><a href="/files/2025_EOY_Post_Exams_Day_1___21_OCT_2025_Tue.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 1 - 21 OCT 2025 Tue</a>
 </p>
-<p><a href="/files/2025_EOY_Post_Exams_Day_2___22_OCT_2025_Wed.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 2 - 21 OCT 2025 Tue</a>
+<p><a href="/files/2025_EOY_Post_Exams_Day_2___22_OCT_2025_Wed.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 2 - 22 OCT 2025 Wed</a>
 </p>
-<p><a href="/files/2025_EOY_Post_Exams_Day_3___23_OCT_2025_Thu.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 3 - 21 OCT 2025 Tue</a>
+<p><a href="/files/2025_EOY_Post_Exams_Day_3___23_OCT_2025_Thu.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 3 - 23 OCT 2025 Thu</a>
 </p>
 <p><a href="/files/2025_Secondary_3_Prep_Programme_Classes.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 - Prep Programme Timetable</a>
 </p>
