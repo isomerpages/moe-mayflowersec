@@ -40,13 +40,14 @@ sections:
           link_text: ""
           link_url: ""
   - infopic:
-      title: Post Exam Activities & Sec 3 Prep Programme
-      subtitle: 🗓 Timetable
+      title: Purchase your books & uniform
+      subtitle: 🛒 Booklist & Uniform Purchase
       id: infopic
-      description: Post Exam Activities (21 to 23 Oct) Sec 3 Prep Programme (22 -31 Oct)
-      image: /images/post_exam_banner.jpg
+      description: Check out the booklist for your level and the various book and
+        uniform purchase options.
+      image: /images/booklist_and_uniform.png
       alt: Post Exam Timetable
-      url: /timetable/
+      url: /newest-happenings/latest-updates/book-and-uniform-2026/
       button: View
   - infopic:
       title: Caring Teacher Awards 2026
