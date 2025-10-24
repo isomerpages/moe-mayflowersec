@@ -69,44 +69,115 @@ service may take up to 2 weeks for your items to be delivered.</p>
 <hr>
 <h2>Uniform Purchase</h2>
 <h3>Uniform Sec 2-5 Walk-in purchase, online / FAS collection</h3>
-<p><strong>Dates:</strong>&nbsp;11, 14, 15, 18 Dec 2023
-<br><strong>Time:</strong>&nbsp;9am to 3pm daily
-<br><strong>Uniform Online Purchase:</strong>&nbsp;<a href="https://www.schooluniforms.sg/mayflower-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/mayflower-secondary-school</a>
-<br><strong>Note:</strong>
-<br>Please bring your own Tote Bags. Bibi&amp;Baba plastic bags are charged
-at 20 cents per piece, with the funds raised for Charities.</p>
-<h3>Bibi&amp;Baba Far East Shopping Centre Opening Hours (Xmas 2023 / New Year 2024)</h3>
-<p><strong>Daily Mon-Sat:</strong>&nbsp;10.00 am - 7.00pm
-<br><strong>Daily Sun:</strong>&nbsp;10.00 am - 6.00 pm
-<br><strong>Sun, 24 Dec 2023 (Christmas Eve):</strong>&nbsp;10.00 am - 4.00
-pm
-<br><strong>Mon, 25 Dec 2023 (Christmas Day):</strong>&nbsp;CLOSED
-<br><strong>Sun, 31 Dec 2023 (New Year's Eve):</strong>&nbsp;10.00 am - 4.00
-pm
-<br><strong>Mon, 1 Jan 2024 (New Year's Day):</strong>&nbsp;10.00 am - 6.00
-pm
-<br><strong>Note:</strong>
-<br>For made-to-measure orders: Please visit 213 Henderson Road, #01-12, Singapore
-159553</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/office.png">
-</div>
-<p><strong>Buses:</strong>&nbsp;5, 14, 32, 33, 57, 64, 65, 123, 131, 132,
-145, 147, 175, 176, 195, 196, 197, 272, 273, 275, 855, 961
-<br><strong>Office / Factory:</strong>&nbsp;213 Henderson Road #01-12 Singapore
-159553
-<br><strong>Business Hours:</strong>&nbsp;Mon-Fri, 9 am - 1 pm, 2 - 5 pm &nbsp;
-Sat, 9 am -12.30 pm
-<br><strong>☎:</strong>&nbsp;+65 6271 9248&nbsp; &nbsp;📠: 6273 9600
-<br><strong>Email:</strong>&nbsp;<a href="mailto:uniforms@bibibaba.com.sg" rel="noopener noreferrer nofollow" target="_blank">uniforms@bibibaba.com.sg</a>
+<p><a href="/files/2026 Booklist &amp; Uniform sales/Mayflower_Secondary_Year_End_Uniform_Sale.pdf" rel="noopener nofollow" target="_blank">2025 End-of_year Sale of School Uniform</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/office1.png">
-</div>
-<p><strong>Shop:</strong>&nbsp;545 Orchard Road #02-28 Far East Shopping
-Centre Singapore 238882
-<br><strong>Business Hours:</strong>&nbsp;Mon-Sat, 10am - 7.30pm &nbsp; Sun,
-10am-6pm
-<br><strong>☎:</strong>&nbsp;+65 6732 7022
-<br><strong>Web:</strong>  <a href="www.bibibaba.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.bibibaba.com.sg</a>
+<h3>Purchase uniform options</h3>
+<h4>Online purchase via home delivery</h4>
+<p>Enjoy hassle free shopping at your convenience and have the items delivered
+to your doorstep at a nominal fee of <strong>$6</strong> per sales transaction.
+To avoid delay of delivery due to high peak festive season, kindly complete
+your online purchase from the website before 30 Nov 2025, 2359Hrs.</p>
+<p><a href="https://jeepsinguniform.com/collections/mayflower-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/mayflower-secondary-school</a>
 </p>
+<p>For details, please refer to our terms and conditions on the website.
+<br>
+</p>
+<h4>Walk-in at school site</h4>
+<p>Please bring along the best fitted garment to compare and assist you to
+select the size.</p>
+<p><strong>Mode of payment:</strong> Cash, Paynow, Paylah!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date at school sites</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>18, 20, 25, 27 November 2025</p>
+</li>
+<li>
+<p>2, 4, 9, 11 December 2025</p>
+</li>
+<li>
+<p>22, 23 December 2025 (sec one only)</p>
+</li>
+<li>
+<p>26, 29 December 2025</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>9 am to 12 noon</p>
+</li>
+<li>
+<p>Lunch break 12 pm to 1 pm</p>
+</li>
+<li>
+<p>1 pm to 3 pm</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classroom 4I
+<br>(G1-04 Room)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>2, 5, 7, 12, 14 January 2026</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1.30 pm to 3 pm</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Gym</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Walk-in at Retail Outlet</h4>
+<p>Strictly by Appointment only, from 1 November 2025, please be reminded
+to book your time slots via this link: <a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
+</p>
+<p><strong>Address:</strong>
+<br>Blk 4012 Ang Mo Kio Ave 10
+<br>#01-09 Techplace 1
+<br>Singapore 569628</p>
+<p><strong>Opening Hours:</strong>
+<br>Mon - Fri: 10 am to 6 pm
+<br>Lunch break and Sanitising of Store: 1 - 2 pm
+<br>Sat: 10 am to 2 pm
+<br>Closed: Sun &amp; Publich Holiday</p>
+<p><strong>Mode of payment:</strong> Cash, Nets, PayNow, DBS PayLah!</p>
+<p><strong>Support center:</strong>  <a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/contact-us</a>
+</p>
+<p><strong>Video direction to the retail outlet:</strong>  <a href="https://youtu.be/BazMFlH6TBs" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/BazMFlH6TBs</a>
+</p>
+<p>Please take note that the retail outlet will be closed on Sec One reporting
+day. The exact date will be announced by the media at a later date. For
+details, please refer to our terms and conditions on the website.</p>
