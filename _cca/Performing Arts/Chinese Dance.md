@@ -110,7 +110,7 @@ to grow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Exploration Performance</p>
@@ -121,7 +121,7 @@ to grow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Annual Chinese New Year Performance</p>
@@ -132,10 +132,21 @@ to grow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lunch Time Concert Performance</p>
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance Fiesta @ Esplanade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -143,7 +154,7 @@ to grow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Speech Day Performance</p>
@@ -154,21 +165,10 @@ to grow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MF Got Talent Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st runner up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Concert Performance</p>
+<p>KBCC National Day Performance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -176,172 +176,7 @@ to grow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MF Open House Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mayflower Aesthetics Projector</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA exhibition performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual Chinese New Year Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chingay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KBCC National Day Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual Chinese New Year performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance exchange programme with Nan Hua High Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VIA programme - Ang Mo Kio Methodist Church Kindergarten</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Roller blading - school enrichment programme (SEP)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Exchange Trip to Bangkok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Dance Extravaganza at Bukit Panjang Plaza</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual Chinese New Year performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bowling - School Enrichment Programme (SEP)</p>
@@ -352,10 +187,109 @@ to grow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mayflower Sec Aesthetics production - Lion King</p>
+<p>School Exchange trip to Hong Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MF Open House Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Exploration Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Chinese New Year Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KBCC Chinese New Year Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Recital @ MFSS with Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MFSS Aesthetic Production – The Museum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aesthetic Outing to Esplanade – The Running Show</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance Fiesta @ Esplanade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NOMAD performance at Ang Mo Kio Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -395,7 +329,7 @@ to grow.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alyssa Low Xuan Rui</p>
+<p>Teo Yirou</p>
 </td>
 </tr>
 <tr>
@@ -404,25 +338,16 @@ to grow.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Yutong</p>
+<p>Lau Zi Xuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice President (Development)</strong>
+<p><strong>Secretary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Ruo Er</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice President (Operations)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Yu Xuan</p>
+<p>Teo Qi Han Deana</p>
 </td>
 </tr>
 </tbody>
