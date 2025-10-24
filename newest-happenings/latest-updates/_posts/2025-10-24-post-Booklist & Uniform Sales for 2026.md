@@ -22,6 +22,24 @@ variant: tiptap
 <h3>Bookshop Sec 2-5 Walk-in purchase, online / FAS collection</h3>
 <p>A printed copy of the booklist is also available in the school Bookshop
 and General Office. Do visit either location for a printed copy.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students who are taking subjects at a "More Demanding Level" (MDL), are
+advised to confirm their subject selections before purchasing textbooks.</p>
+</li>
+<li>
+<p>Please purchase online via Casco website (<a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">cascoedusupply.com.sg</a>) to ensure
+correct titles/editions.</p>
+</li>
+<li>
+<p>Please input the quantity of items required. All sold/exchangeable items
+are <strong>NON-REFUNDABLE</strong> for cash.</p>
+</li>
+<li>
+<p>Exchanged items must be in mint condition, produce your printed booklist
+for exchanges within 7 days of purchase.</p>
+</li>
+</ol>
 <h4>Online Order</h4>
 <p><strong>Online store:</strong>  <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">cascoedusupply.com.sg</a>
 <br><strong>Online order dates:</strong> 27 Oct 2025, 9 am to 14 Dec 2025,
