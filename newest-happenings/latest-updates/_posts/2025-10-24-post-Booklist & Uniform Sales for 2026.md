@@ -22,66 +22,31 @@ variant: tiptap
 <h3>Bookshop Sec 2-5 Walk-in purchase, online / FAS collection</h3>
 <p>A printed copy of the booklist is also available in the school Bookshop
 and General Office. Do visit either location for a printed copy.</p>
+<h4>Online Order</h4>
 <p><strong>Online store:</strong>  <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">cascoedusupply.com.sg</a>
 <br><strong>Online order dates:</strong> 27 Oct 2025, 9 am to 14 Dec 2025,
 11.59 pm
-<br><strong>Collection/Walk-in purchase dates:</strong>&nbsp;14 Nov to 12
-Dec 2023 (For Sec 2 - 5)
-<br><strong>Time:</strong>&nbsp;9am to 3pm daily
+<br><strong>Home delivery fee:</strong>&nbsp;S$ 14.20 per address or self-collection
+at school bookshop
+<br><strong>Mode of payment:</strong>&nbsp;Credit Card (Visa/Master), PayNow,
+GrabPay, ShopeePay
 <br><strong>Notes:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Closed on Saturday, Sunday and Public Holidays</p>
-</li>
-<li>
-<p>Please purchase online to ensure correct titles/editions. [<strong>Update</strong>:
-Online ordering is now closed. Thank you]</p>
-</li>
-<li>
-<p>Please input quantity of item required. All sold/exchangeable items are
-NON-REFUNDABLE for cash.</p>
-</li>
-<li>
-<p>Exchanged items must be in mint condition. Produce the booklist for exchanges
-within 7 working days of purchase.</p>
+<p>Due to high order volume during this season, waiting time for home delivery
+service may take up to 2 weeks for your items to be delivered.</p>
 </li>
 </ul>
-<h4>Mode of Order:</h4>
-<p><strong>Online order</strong>
+<h4>Walk-in purchase</h4>
+<p><strong>Opening dates:</strong> 03 Nov - 12 Dec 2025, 29 - 30 Dec 2025
+<br><strong>Opening hours:</strong> 9 am - 3 pm (Mon - Fri)
+<br><strong>Closed on:</strong> Sat, Sun, Holiday Eve and Public Holidays
+<br><strong>Mode of payment:</strong> Cash, PayNow and NTUC Care Fund (e-Vouchers)
+<br><strong>Bookshop Tel:</strong> 6455 0522 (9 am - 3 pm)
+<br><strong>Casco Office Tel:</strong> 6547 4204 (9 am - 3 pm)
+<br><strong>Email Address:</strong>  <a href="mailto:order@cascoedusupply.com.sg" rel="noopener nofollow" target="_blank">order@cascoedusupply.com.sg</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Login to Casco Edu Supply and register an account [<strong>Update</strong>:
-Online ordering is now closed. Thank you]</p>
-</li>
-<li>
-<p>Home delivery at $13 per address or self-collection at school bookshop</p>
-</li>
-<li>
-<p>Note - Due to high order volume during this season, waiting time for home
-delivery service may take up to 2 weeks for your items to be delivered.</p>
-</li>
-</ul>
-<p><strong>Mode of payment:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Credit Card (Visa/Master) [Online/Walk-in]</p>
-</li>
-<li>
-<p>PayNow [Online]</p>
-</li>
-<li>
-<p>Cash [Walk-in]</p>
-</li>
-<li>
-<p>NETS [Walk-in]</p>
-</li>
-<li>
-<p>NTUC Care Fund (e-Vouchers) [Walk-in]</p>
-</li>
-</ul>
 <p></p>
 <hr>
 <h2>Uniform Purchase</h2>
