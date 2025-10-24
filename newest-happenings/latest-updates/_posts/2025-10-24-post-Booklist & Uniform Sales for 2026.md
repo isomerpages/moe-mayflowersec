@@ -20,7 +20,11 @@ variant: tiptap
 <br><a href="/files/2026 Booklist &amp; Uniform sales/MFSS_Booklist_2026__S4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Booklist 2026</a>
 </p>
 <h3>Bookshop Sec 2-5 Walk-in purchase, online / FAS collection</h3>
-<p><strong>Online order dates:</strong> 8 Nov 2023, 9am to 7 Dec 2023, 11.59pm
+<p>A printed copy of the booklist is also available in the school Bookshop
+and General Office. Do visit either location for a printed copy.</p>
+<p><strong>Online store:</strong>  <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">cascoedusupply.com.sg</a>
+<br><strong>Online order dates:</strong> 27 Oct 2025, 9 am to 14 Dec 2025,
+11.59 pm
 <br><strong>Collection/Walk-in purchase dates:</strong>&nbsp;14 Nov to 12
 Dec 2023 (For Sec 2 - 5)
 <br><strong>Time:</strong>&nbsp;9am to 3pm daily
@@ -78,6 +82,8 @@ delivery service may take up to 2 weeks for your items to be delivered.</p>
 <p>NTUC Care Fund (e-Vouchers) [Walk-in]</p>
 </li>
 </ul>
+<p></p>
+<hr>
 <h2>Uniform Purchase</h2>
 <h3>Uniform Sec 2-5 Walk-in purchase, online / FAS collection</h3>
 <p><strong>Dates:</strong>&nbsp;11, 14, 15, 18 Dec 2023
