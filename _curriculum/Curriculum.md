@@ -94,7 +94,9 @@ on the different departments highlighted below.</p>
 subjects are taught at Mayflower.</p>
 <h4>Craft &amp; Technology</h4><a class="isomer-image-wrapper" href="/curriculum/Departments/craft-and-technology/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/2025_Dept___craft_and_tech.jpg"></a>
 <h4>English &amp; Literature</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/2025_Dept___english_language.jpg">
+</div>
 <h4>Humanities</h4>
 <p></p>
 <h4>Mathematics</h4>
@@ -104,4 +106,5 @@ subjects are taught at Mayflower.</p>
 <h4>Physical Education and Music</h4>
 <p></p>
 <h4>Science</h4>
+<p></p>
 <p></p>
