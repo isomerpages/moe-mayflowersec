@@ -29,14 +29,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 🗓 End of Year Exam Timetable 2025
-          date: 21 August 2025
-          announcement: End of Year Examination Timetable for Sec 1, 2, 3 are available.
-          link_text: View timetable
-          link_url: /timetable/#:~:text=End%20of%20Year%20Exam%20Timetable%202025
-        - title: ✒ Marking Day
-          date: 10 October 2025
-          announcement: Students do not need to come to school.
+        - title: 🏫 Open House
+          date: 15 November 2025
+          announcement: "Time: 8:00 am – 1:00 pm"
           link_text: ""
           link_url: ""
   - infopic:
