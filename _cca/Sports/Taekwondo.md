@@ -38,8 +38,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brian Peh
-<br>(Head Coach of Zen Academy)</p>
+<p>Mr Brian Peh</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +47,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maya Delilah Wang Chun Yun (4E)</p>
+<p>Gabrielle Cheng Jiaqi (4J)</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +56,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Luke Sim (4I)</p>
+<p>Zane Ng (4D)</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +65,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Shi Qi Claris (4D)</p>
+<p>Gabrielle Cheng Jiaqi (4J)</p>
 </td>
 </tr>
 </tbody>
@@ -132,6 +131,17 @@ and aerobics during school events.</p>
 <th rowspan="1" colspan="1">
 <p>Award / Position</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Inter-school Taekwondo Championships – B Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Overall Placing</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
