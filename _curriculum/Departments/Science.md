@@ -211,217 +211,70 @@ model – Engage, Explore, Explain, Elaborate and Evaluate.</p>
 </tr>
 </tbody>
 </table>
-<h2>Science Talent Development 2024</h2>
-<p></p>
+<h2>Science Department Photo</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MFSS_Science_students_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/2025_Dept___science.jpg">
 </div>
-<p>2024 is an exciting year for the Science department where our students
+<h2>Science Talent Development 2025</h2>
+<p>2025 has been an exciting year for the Science department where our students
 enjoyed multiple platforms and opportunities to stretch their potential
-in Science beyond the textbooks. 4 teams submitted their projects for the
-25th International Elementz Fair organised by ASRJC. The teams explored
-a diverse range of topics that enabled their scientific learning to be
-enhanced.</p>
-<p>We are proud that the team comprising of Kayla Koh 3A, Liew Hng Yee 3A
-and Teo Pei Ann 3A represented Mayflower Secondary School at the finals
-on 16 April 2024, where they achieved a Bronze award for their project
-on Investigating The Effects Of Sleep On Learning And Memory Among 13 To
-15 Year Olds.</p>
-<p>The girls went on to extend their project to develop an application prototype
-for submission for the Samsung Solve For Tomorrow competition to track
-the sleep hours of the students and encourage the collective efforts of
-community to clock sufficient sleep hours.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Investigating The Effects Of Sleep On Learning And Memory Among 13 To 15 Year Old</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+in Science beyond the classroom.</p>
+<p>2 teams submitted their projects for the 26th International Elementz Fair
+organised by ASRJC. The teams explored a diverse range of topics that enabled
+their scientific learning to be enhanced.</p>
+<p>We are proud that the team “Defending Your Dermis: A Comparative Study
+of Organic and Synthetic Sunscreens” won a silver award and the team ‘A
+Peel-ingly Clean Laundry: A comparative study evaluation the efficacy of
+homemade fruit peel extracts in cleaning” won the Bronze award.</p>
+<p>Team members of the ‘A Peel-ingly Clean Laundry: A comparative study evaluation
+the efficacy of homemade fruit peel extracts in cleaning ‘ project are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3A Kayla Koh Yan Tang</p>
+<p>Tozawa Miki</p>
 </li>
 <li>
-<p>3A Teo Pei Ann</p>
+<p>Luo Yafei</p>
 </li>
 <li>
-<p>3A Liew Hng Yee</p>
+<p>Chen Xuan Wen</p>
+</li>
+<li>
+<p>Lee Jia En Andre</p>
 </li>
 </ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Assessing The Feasibility Of Nuclear Power Plant In Singapore's Energy Landscape</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Team members of the ‘Defending Your Dermis: A Comparative Study of Organic
+and Synthetic Sunscreens’ project are :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3I Claudia Phua Xin Er</p>
+<p>Baking Gabrielle Cacho,</p>
 </li>
 <li>
-<p>3I Kher Pei Xuan</p>
+<p>Lim Ngee Hong,</p>
 </li>
 <li>
-<p>3I Zamir Zamirudin</p>
+<p>Natalie Tan Xuan Yi,</p>
 </li>
 <li>
-<p>3J Teo Yu Han</p>
+<p>Teo Yi Rou</p>
 </li>
 </ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Effect Of Gender Bias On Emotion Recognition And Its Impact On Social Behaviour Of Teenagers</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>3A Cloe Angel Chua Shanen</p>
-</li>
-<li>
-<p>3A Lim Yu Xuan</p>
-</li>
-<li>
-<p>3I Ajith Devika</p>
-</li>
-<li>
-<p>3J Er En Ying Lorynn</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Investigating Effect Of Covid-19 Infections On Performance Of Student Athletes</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>3D Charlotte Teong</p>
-</li>
-<li>
-<p>3E Ng Mei Wei Nathalia Udaundo</p>
-</li>
-<li>
-<p>3I Bekesi Rylee Sarah</p>
-</li>
-<li>
-<p>3I Glairys Teo Gexuan</p>
-</li>
-<li>
-<p>3I Xylia Tan Sin Nga</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<p>Our students also had participated in the following competitions where
-they were awarded a Certificate of Participation.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Genetic Modification Advisory Committee (GMAC) Students Challenge 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>3I Chan Rui Yi</p>
-</li>
-<li>
-<p>3I Kher Pei Xuan</p>
-</li>
-<li>
-<p>3J Lee Xin Ting</p>
-</li>
-<li>
-<p>3J Lai Yu Shan</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Singapore Junior Biology Olympiad 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>3A Cloe Angel Chua Shanen</p>
-</li>
-<li>
-<p>3A Teo Pei Ann</p>
-</li>
-<li>
-<p>3A Tyvia Teo Kai Wen</p>
-</li>
-<li>
-<p>3A Lek Li Ying Bernice</p>
-</li>
-<li>
-<p>3I Bekesi Rylee Sarah</p>
-</li>
-<li>
-<p>3I Chan Rui Yi</p>
-</li>
-<li>
-<p>3J Ong Qian Yi</p>
-</li>
-<li>
-<p>3J Er En Ying Lorynn</p>
-</li>
-<li>
-<p>3J Kakulapati Anwita</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Samsung Solve for Tomorrow 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>3A Kayla Koh</p>
-</li>
-<li>
-<p>3A Liew Hng Yee</p>
-</li>
-<li>
-<p>3A Lu Kaixin Tiara</p>
-</li>
-<li>
-<p>3A Pay Wan Qing</p>
-</li>
-<li>
-<p>3A Teo Pei Ann</p>
-</li>
-<li>
-<p>3I Fan Zicheng</p>
-</li>
-<li>
-<p>3I Gabriel Ng Eu Gene</p>
-</li>
-<li>
-<p>3I Jiang Yuanhe</p>
-</li>
-<li>
-<p>3I Ng Jeyrome</p>
-</li>
-<li>
-<p>3J Teo Yuhan</p>
-</li>
-<li>
-<p>3J Venkatesh Nishitha</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<p>Beyond competitions, our department has organised learning journeys to
-NeWater plant and I-Fly Programme, external workshops such as Squid Dissection
-by Young Nautilus and Making Strawberry Jam and Scones by Science Centre
-and in-house workshops such as Lip Balm to commemorate Mother’s Day, for
-our students to experience joy in the learning of Science. We hope to continue
-organising these activities for the development of our students’ active
-learning in Science.</p>
+<p>Beyond competitions, our department organised learning journeys to the
+i-Fly, the Sustainable Gallery at Marina Barage and Republic Polytechnic.
+Students also attended various external workshops such as ‘Understanding
+STEM with Ocean Acidification’ and ‘Introduction to Microcomputers’ at
+the Science Centre. During the Science Challenge Week in July, both in-house
+and external activities were conducted.</p>
+<p>Students enjoyed learning about marine organisms with the Marine Touch
+Tank and the hands-on Squid dissection, learnt to make fruit jam and identify
+chemicals in the ‘Lab Mystery’ activity as they experienced joy in the
+learning of Science. Sec 1 students had the opportunity to study water
+quality at AMK-Bishan Park in a collaborative study with the Geography
+unit.</p>
+<p>We hope to continue organising a wide range of activities for the development
+of our students’ active learning in Science and help them appreciate the
+Science around them.</p>
 <h2>Photo</h2>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXBHmIV_uqIBMrtKf404aVjr1u9TeQDR_1Ts8erj4cdud_bLA1_IM-_EY0nBiDFiZH2GPDxcbVuld9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p>Singapore Junior Biology Olympiad 2024</p>
+<p></p>

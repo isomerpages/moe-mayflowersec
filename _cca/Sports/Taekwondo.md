@@ -38,8 +38,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brian Peh
-<br>(Head Coach of Zen Academy)</p>
+<p>Mr Brian Peh</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +47,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maya Delilah Wang Chun Yun (4E)</p>
+<p>Gabrielle Cheng Jiaqi (4J)</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +56,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Luke Sim (4I)</p>
+<p>Zane Ng (4D)</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +65,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Shi Qi Claris (4D)</p>
+<p>Gabrielle Cheng Jiaqi (4J)</p>
 </td>
 </tr>
 </tbody>
@@ -132,6 +131,17 @@ and aerobics during school events.</p>
 <th rowspan="1" colspan="1">
 <p>Award / Position</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Inter-school Taekwondo Championships – B Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Overall Placing</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -864,10 +874,7 @@ and aerobics during school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___NSG_Reflection.png">
 </div>
-<h2>Video</h2>
-<div class="iframe-wrapper">
-<iframe height="550" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jmSurB65IZw"></iframe>
-</div>
+<h2>Video</h2><a class="isomer-image-wrapper" href="https://youtu.be/jmSurB65IZw"><img style="width: 100%;" height="auto" width="100%" alt="MFSS Taekwondo video" src="/images/mfss_taekwondo_video.png"></a>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUSJzqZtdSa7pmmtjKZpZ6r4o6_jUmU_jeeqy4XkuM6MjPojaELzltQJEBx2PdOUO92wFOV97y5S6J/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
