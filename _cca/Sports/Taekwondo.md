@@ -874,10 +874,7 @@ and aerobics during school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___NSG_Reflection.png">
 </div>
-<h2>Video</h2>
-<div class="iframe-wrapper">
-<iframe height="550" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jmSurB65IZw"></iframe>
-</div>
+<h2>Video</h2><a class="isomer-image-wrapper" href="https://youtu.be/jmSurB65IZw"><img style="width: 100%;" height="auto" width="100%" alt="MFSS Taekwondo video" src="/images/mfss_taekwondo_video.png"></a>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUSJzqZtdSa7pmmtjKZpZ6r4o6_jUmU_jeeqy4XkuM6MjPojaELzltQJEBx2PdOUO92wFOV97y5S6J/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
