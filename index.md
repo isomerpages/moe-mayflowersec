@@ -35,6 +35,16 @@ sections:
           link_text: ""
           link_url: ""
   - infopic:
+      title: Open House 2025
+      subtitle: 🗓 15 Nov 2025, 9 am - 12 pm
+      id: infopic
+      description: "📍 2 Ang Mo Kio St 21 Sinagpore 569384  🚍Bus service: 71, 76,
+        132, 165, 166, 169, 262, 265, 268, 269 🚆 MRT Station: Mayflower"
+      button: Our location
+      url: /contact-us/
+      image: /images/MFSS_Open_House_2026.png
+      alt: MFSS Open House
+  - infopic:
       title: Purchase your books & uniform
       subtitle: 🛒 Booklist & Uniform Purchase
       id: infopic
