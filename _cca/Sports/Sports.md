@@ -3,21 +3,12 @@ title: Sports
 permalink: /cca/Sports/permalink/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
-#### Basketball
-[![Basketball](/images/CCA%20thumbnails/thumbnail_basketball3.jpg)](/cca/Sports/basketball/permalink/)
-
-#### Bowling
-[![Bowling](/images/CCA%20thumbnails/thumbnail_bowling.jpg)](/cca/Sports/bowling/permalink/)
-
-#### Football
-[![Football](/images/CCA%20thumbnails/thumbnail_football.jpg)](/cca/Sports/football/permalink/)
-
-#### Netball
-[![Netball](/images/CCA%20thumbnails/thumbnail_netball.jpg)](/cca/Sports/netball/permalink/)
-
-#### Table Tennis
-[![Table Tennis](/images/CCA%20thumbnails/thumbnail_tabletennis.jpg)](/cca/Sports/table-tennis/permalink/)
-
-#### Taekwondo
-[![Taekwondo](/images/CCA%20thumbnails/thumbnail_taekwondo.jpg)](/cca/Sports/taekwondo/permalink/)
+<h4>Basketball</h4><a class="isomer-image-wrapper" href="/cca/Sports/basketball/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/thumbnail_basketball3.jpg"></a>
+<h4>Bowling</h4><a class="isomer-image-wrapper" href="/cca/Sports/bowling/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/thumbnail_bowling.jpg"></a>
+<h4>Football</h4><a class="isomer-image-wrapper" href="/cca/Sports/football/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/thumbnail_football.jpg"></a>
+<h4>Netball</h4><a class="isomer-image-wrapper" href="/cca/Sports/netball/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/thumbnail_netball.jpg"></a>
+<h4>Table Tennis</h4><a class="isomer-image-wrapper" href="/cca/Sports/table-tennis/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/thumbnail_tabletennis.jpg"></a>
+<h4>Taekwondo</h4><a class="isomer-image-wrapper" href="/cca/Sports/taekwondo/permalink/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA thumbnails/Taekwondo_group_photo.jpg"></a>
+<p></p>
