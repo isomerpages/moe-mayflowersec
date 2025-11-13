@@ -65,7 +65,7 @@ and aerobics during school events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gabrielle Cheng Jiaqi (4J)</p>
+<p>Renee Chang Yui Heen (4I)</p>
 </td>
 </tr>
 </tbody>

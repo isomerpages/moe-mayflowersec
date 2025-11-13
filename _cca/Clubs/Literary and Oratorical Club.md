@@ -297,6 +297,16 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 <p></p>
 <h2>Video</h2>
 <div class="iframe-wrapper">
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mDLgyqq8IQc?si=CNQzCJ4E4_0L1S6j"></iframe>
+</div>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2iAyqje5M9I?si=wv8ZLluuxESYAy_o"></iframe>
+</div>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PItBcyJyoy0?si=H6h_yAagMVKW_mLu"></iframe>
 </div>
 <p>

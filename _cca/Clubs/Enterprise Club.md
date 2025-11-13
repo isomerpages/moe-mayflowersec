@@ -52,6 +52,17 @@ fear to seize opportunities in future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youngtrail Blazers competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist and Best prototype Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,9 +202,6 @@ fear to seize opportunities in future.</p>
 <p>Mr Marcus Ho</p>
 </li>
 <li>
-<p>Mdm Rohayati Ismail</p>
-</li>
-<li>
 <p>Dr Ong Chiew Inn</p>
 </li>
 </ul>
@@ -217,7 +225,7 @@ fear to seize opportunities in future.</p>
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Pei Ann</p>
+<p>Ashley Lee Ke Sim</p>
 </td>
 </tr>
 <tr>
@@ -225,15 +233,7 @@ fear to seize opportunities in future.</p>
 <p>Vice Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shavonne Koh Jing Xuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hazel Calista</p>
+<p>Tozawa Miki</p>
 </td>
 </tr>
 <tr>
@@ -241,8 +241,8 @@ fear to seize opportunities in future.</p>
 <p>Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chaw Xin Yi
-<br>Ng Xiaoyi Cayden</p>
+<p>Leong Xiao Hui
+<br>Tang Yingqi</p>
 </td>
 </tr>
 </tbody>

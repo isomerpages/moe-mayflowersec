@@ -39,9 +39,10 @@ us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 - 2024</p>
+<p>2019 - 2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2025 SYF Presentation</p>
 <p>2023 SYF Arts Presentation
 <br><a href="https://www.youtube.com/watch?v=WUGmDuuWarI" rel="noopener noreferrer nofollow" target="_blank">SYF21 - Mixed Ensemble Performance</a> 
 <br><a href="https://www.youtube.com/watch?v=CUk9FP7JPf0" rel="noopener noreferrer nofollow" target="_blank">SYF21 - Sectional Ensemble Performance</a> 
@@ -53,7 +54,8 @@ us.</p>
 <br>Aesthetics Production
 <br>
 <br><strong>External Performances:</strong>
-<br>2023 SYF Festival Concert
+<br>2024 Hong Kong School Cultural Exchange Programme</p>
+<p>2023 SYF Festival Concert
 <br>KBCC Lunar New Year Dinner
 <br>CO Music Exchange with Greenridge Secondary and Maris Stella High School
 <br>
@@ -62,7 +64,8 @@ us.</p>
 Kwan Senior Activity Centre
 <br>
 <br><strong>Aesthetic Outings:</strong>
-<br>SCO performance at Botanic Garden, NYPCO
+<br>SCO SYF Demonstration Concert: Concert-in-progress, SCO performance at
+Botanic Garden, NYPCO
 <br>
 <br><strong>Sports Education Programme:</strong>
 <br>Inline Skating, Kinball</p>
