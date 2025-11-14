@@ -297,34 +297,29 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 <p></p>
 <h2>Video</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mDLgyqq8IQc?si=CNQzCJ4E4_0L1S6j"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mDLgyqq8IQc"></iframe>
 </div>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdjLefjuYRc?si=kZvcZHUcD8LZjypD"></iframe>
-</div>
-<p></p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PItBcyJyoy0?si=H6h_yAagMVKW_mLu"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdjLefjuYRc"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AHBwHhcckDc?si=hVwoikYFWNMHNJWV"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AHBwHhcckDc"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3vf_1M0FM3s?si=8sipFogc19QcRm9V"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3vf_1M0FM3s"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qy1w6NWcc88?si=tX2IavT3ZR5wzMOR"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qy1w6NWcc88"></iframe>
 </div>
 <p></p>
