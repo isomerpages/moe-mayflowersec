@@ -31,7 +31,7 @@ sections:
       announcement_items:
         - title: 🏫 Open House
           date: 15 November 2025
-          announcement: "Time: 8:00 am – 1:00 pm"
+          announcement: "Time: 8:00 am – 12:00 pm"
           link_text: ""
           link_url: ""
   - infopic:
