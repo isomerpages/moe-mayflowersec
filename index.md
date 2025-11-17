@@ -5,7 +5,7 @@ description: "MAYFLOWER SECONDARY SCHOOL. 2 Ang Mo Kio St 21 Singapore 569384
   Tel: +65 6457 7783 Fax: +65 6458 3284 Email: mayflower_ss@moe.edu.sg."
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Please note that the General Office is closed on 18 Nov 2025, 9am to 1pm.
 sections:
   - hero:
       background: /images/Hero_BG/20230309_122210.jpg
