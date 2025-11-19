@@ -35,15 +35,16 @@ sections:
           link_text: ""
           link_url: ""
   - infopic:
-      title: Open House 2025
-      subtitle: 🗓 15 Nov 2025, 9 am - 12 pm
+      title: Outstanding Youth in Education Award (OYEA) 2026
+      subtitle: 🏵️ Nominate now
       id: infopic
-      description: "📍 2 Ang Mo Kio St 21 Sinagpore 569384  🚍Bus service: 71, 76,
-        132, 165, 166, 169, 262, 265, 268, 269 🚆 MRT Station: Mayflower"
-      button: Our location
-      url: /contact-us/
-      image: /images/MFSS_Open_House_2026.png
-      alt: MFSS Open House
+      description: OYEA is open to teachers aged ≤35 years in 2026, & presently in
+        service at a Pri/Sec school, JC/MI.  Express your appreciation by
+        submitting a nomination.
+      button: Read more
+      url: /outstanding-youth-in-education-award-oyea-2026/
+      image: /images/OYEA2026.jpg
+      alt: OYEA 2026
   - infopic:
       title: Purchase your books & uniform
       subtitle: 🛒 Booklist & Uniform Purchase
@@ -56,7 +57,7 @@ sections:
       button: View
   - infopic:
       title: Caring Teacher Awards 2026
-      subtitle: Nominate now
+      subtitle: 🏵️ Nominate now
       id: infopic
       description: The Caring Teacher Awards (CTA) honour educators who go beyond the
         call of duty, nurturing students’ holistic growth and shaping confident,
