@@ -29,11 +29,23 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 🏫 Open House
-          date: 15 November 2025
-          announcement: "Time: 8:00 am – 12:00 pm"
-          link_text: ""
-          link_url: ""
+        - title: Secondary 1 (S1) Posting
+          date: 18 December 2025
+          announcement: S1 posting results will be released on either Thursday, 18
+            December or Friday, 19 December 2025 (tentative) through S1 Portal
+            and SMS.
+          link_text: Read more
+          link_url: https://www.moe.gov.sg/secondary/s1-posting
+  - infopic:
+      title: Purchase your books & uniform
+      subtitle: 🛒 Booklist & Uniform Purchase
+      id: infopic
+      description: Check out the booklist for your level and the various book and
+        uniform purchase options.
+      image: /images/booklist_and_uniform.png
+      alt: Post Exam Timetable
+      url: /newest-happenings/latest-updates/book-and-uniform-2026/
+      button: View
   - infopic:
       title: Outstanding Youth in Education Award (OYEA) 2026
       subtitle: 🏵️ Nominate now
@@ -46,15 +58,16 @@ sections:
       image: /images/OYEA2026.jpg
       alt: OYEA 2026
   - infopic:
-      title: Purchase your books & uniform
-      subtitle: 🛒 Booklist & Uniform Purchase
+      title: President’s Award for Teachers (PAT) 2026
+      subtitle: 🏵️ Nominate now
       id: infopic
-      description: Check out the booklist for your level and the various book and
-        uniform purchase options.
-      image: /images/booklist_and_uniform.png
-      alt: Post Exam Timetable
-      url: /newest-happenings/latest-updates/book-and-uniform-2026/
-      button: View
+      description: PAT is open to teachers presently in service at a Pri/Sec school,
+        JC/MI, Polytechnic, ITE or National Institute of Early Childhood
+        Development.
+      button: Read more
+      url: /president-s-award-for-teachers-pat-2026/
+      image: /images/PAT2026.jpg
+      alt: PAT 2026
   - infopic:
       title: Caring Teacher Awards 2026
       subtitle: 🏵️ Nominate now
@@ -76,15 +89,6 @@ sections:
       url: /school-canteen-ads/
       image: /images/food.jpg
       alt: Image alt text
-  - infopic:
-      title: The Mayflower Promise
-      subtitle: 📰 2025, Issue 1
-      id: infopic
-      description: 2025 Sem 1 Newsletter is out. Come take a peek!
-      button: Read more
-      url: https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2025_?fr=sOGFjNjg2Njg1MTU
-      image: /images/mayflower_promise__2025_issue_1_thumbnail.png
-      alt: 2025 newsletter issue
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
