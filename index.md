@@ -79,16 +79,6 @@ sections:
       url: /caring-teacher-awards-2026/
       image: /images/CTA_2026_thumbnail.png
       alt: NIE CTA 2026
-  - infopic:
-      title: Noodles dishes
-      subtitle: 🍽 Canteen Stalls Available
-      id: infopic
-      description: Calling all chef! We're looking for friendly stall owners to serve
-        tasty, affordable Noodle dishes.
-      button: More info
-      url: /school-canteen-ads/
-      image: /images/food.jpg
-      alt: Image alt text
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
