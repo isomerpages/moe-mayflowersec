@@ -23,10 +23,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Noodles</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open to proposals that offer a variety of noodle dishes.</p>
+<p>NIL</p>
 </td>
 </tr>
 </tbody>
