@@ -36,6 +36,13 @@ sections:
             and SMS.
           link_text: Read more
           link_url: https://www.moe.gov.sg/secondary/s1-posting
+        - title: Release of 2025 GCE N-level Result
+          date: 18 December 2025
+          announcement: Candidates can collect their results from the school starting 2:00
+            pm on 18 December 2025. More information will be shared closer to
+            the date.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Purchase your books & uniform
       subtitle: 🛒 Booklist & Uniform Purchase
