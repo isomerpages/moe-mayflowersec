@@ -13,7 +13,8 @@ variant: tiptap
 </div>
 <h2>Bookshop Purchase</h2>
 <h3>Booklist 2026</h3>
-<p><a href="/files/2026 Booklist &amp; Uniform sales/MFSS_Booklist_2026__S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist 2026</a>
+<p><a href="/files/2026 Booklist &amp; Uniform sales/MFSS_Booklist_2026__S1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist 2026</a>
+<br><a href="/files/2026 Booklist &amp; Uniform sales/MFSS_Booklist_2026__S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist 2026</a>
 <br><a href="/files/2026 Booklist &amp; Uniform sales/MFSS_Booklist_2026__S3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Booklist 2026</a>
 <br><a href="/files/2026 Booklist &amp; Uniform sales/MFSS_Booklist_2026__S4E.pdf" rel="noopener nofollow" target="_blank">Sec 4E Booklist 2026</a>
 <br><a href="/files/2026 Booklist &amp; Uniform sales/MFSS_Booklist_2026__S4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4NA Booklist 2026</a>
