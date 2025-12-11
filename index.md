@@ -31,13 +31,13 @@ sections:
       announcement_items:
         - title: Secondary 1 (S1) Posting
           date: 18 December 2025
-          announcement: Dear Parents / Guardians of Sec 1 Mayflowerians, please visit the
-            link below to complete the registration form. Details on Sec 1
-            registration can also be found in the Google Site. Students will be
-            informed of their Form Class Allocation through the Parents Gateway
-            (PG) on Monday, 29th December 2025.
-          link_text: Read more
-          link_url: https://sites.google.com/moe.edu.sg/mfss-2026-sec1-reg
+          announcement: S1 Posting results will be released on either Thursday, 18
+            December or Friday, 19 December 2025 (tentative).  Schools’ cut-off
+            points for the 2025 Primary 6 cohort will be published in
+            SchoolFinder in December 2025, after the release of S1 Posting
+            results.
+          link_text: School Finder
+          link_url: https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school
         - title: Release of 2025 GCE N-level Result
           date: 18 December 2025
           announcement: Candidates can collect their results from the school starting 2:00
