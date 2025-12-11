@@ -37,7 +37,7 @@ sections:
             informed of their Form Class Allocation through the Parents Gateway
             (PG) on Monday, 29th December 2025.
           link_text: Read more
-          link_url: https://sites.google.com/moe.edu.sg/ mfss-2025-sec1-reg
+          link_url: https://sites.google.com/moe.edu.sg/mfss-2026-sec1-reg
         - title: Release of 2025 GCE N-level Result
           date: 18 December 2025
           announcement: Candidates can collect their results from the school starting 2:00
