@@ -90,4 +90,14 @@ sections:
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
+  - infopic:
+      title: Release of 2025 GCE N-level Result
+      subtitle: 18 December 2025
+      id: infopic
+      description: Candidates can collect their results from the school starting 2:00
+        pm on 18 December 2025. Please click on the following Link for more
+        information.
+      button: More information
+      url: /newest-happenings/latest-events/n-level-result-release-2025/
+      alt: Image alt text
 ---
