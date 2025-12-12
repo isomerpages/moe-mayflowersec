@@ -29,13 +29,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Release of 2025 GCE N-level Result
-          date: 18 December 2025
-          announcement: Candidates can collect their results from the school starting 2:00
-            pm on 18 December 2025. Please click on the following Link for more
-            information.
-          link_text: More info
-          link_url: /newest-happenings/latest-events/n-level-result-release-2025/
         - title: Secondary 1 (S1) Posting
           date: 19 December 2025
           announcement: S1 Posting results will be released on Friday, 19 December
@@ -44,6 +37,17 @@ sections:
             Posting results.
           link_text: School Finder
           link_url: https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school
+  - infopic:
+      title: Release of 2025 GCE N-level Result
+      subtitle: 🗓 18 December 2025
+      id: infopic
+      description: Candidates can collect their results from the school starting 2:00
+        pm on 18 December 2025. Please click on the following Link for more
+        information.
+      button: More information
+      url: /newest-happenings/latest-events/n-level-result-release-2025/
+      alt: n level result release
+      image: /images/N_level_result_release.png
   - infopic:
       title: Purchase your books & uniform
       subtitle: 🛒 Booklist & Uniform Purchase
@@ -90,14 +94,4 @@ sections:
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
-  - infopic:
-      title: Release of 2025 GCE N-level Result
-      subtitle: 18 December 2025
-      id: infopic
-      description: Candidates can collect their results from the school starting 2:00
-        pm on 18 December 2025. Please click on the following Link for more
-        information.
-      button: More information
-      url: /newest-happenings/latest-events/n-level-result-release-2025/
-      alt: Image alt text
 ---
