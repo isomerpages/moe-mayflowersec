@@ -33,5 +33,5 @@ also appoint a proxy to collect a physical copy of their results from the
 school. Proxies are required to produce the relevant documents for the
 school’s verification when collecting the results. School candidates may
 contact their school for assistance with the appointment of a proxy.</p>
-<p><a href="https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge- gce-na-nt-level-examination-results-on-18-december-2025" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge- gce-na-nt-level-examination-results-on-18-december-2025</a>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025</a>
 </p>
