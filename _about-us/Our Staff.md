@@ -995,10 +995,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor (Lab)</p>
+<p>Adj STEM Instructor (Lab)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_pei_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Pei Leng</a>
+<p><a href="mailto:lim_li_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Li Yun</a>
 </p>
 </td>
 </tr>
@@ -1082,7 +1082,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (F&amp;N)</p>
+<p>Flexi Adj (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_wan_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Teo Wan Ping (Serene)</u></a>
@@ -1145,24 +1145,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (Math)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_yan_qin_katharine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Yan Qin Katharine</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (Math)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tee_boon_teck_johnny_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tee Boon Teck Johnny</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Flexi Adj (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1181,10 +1163,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Relief</p>
+<p>Flexi Adj (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:krishnan_malathi@schools.gov.sg" rel="noopener nofollow" target="_blank">Krishnan Malathi</a>
+<p><a href="mailto:krishnan_malathi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Krishnan Malathi</a>
 </p>
 </td>
 </tr>
