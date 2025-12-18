@@ -1077,15 +1077,6 @@ variant: tiptap
 <p>Flexi Adj (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_stephenie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Choy Stephenie</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (Art)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:teo_wan_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Teo Wan Ping (Serene)</u></a>
 </p>
 </td>
@@ -1128,11 +1119,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (Humanities)</p>
+<p>Flexi Adj (History)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yeen_yoong_eugenia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Yeen Yoong Eugenia</a>
-</p>
+<p>Sim Chong Bian</p>
 </td>
 </tr>
 <tr>
