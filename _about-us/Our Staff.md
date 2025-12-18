@@ -747,6 +747,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Art Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Gin Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -768,16 +776,16 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_boon_keng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Toh Boon Keng</a>
+<p><a href="mailto:muhammad_alif_gadaffi_abdul_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Alif Gadaffi</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Flexi Adj School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_alif_gadaffi_abdul_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Alif Gadaffi</a>
+<p><a href="mailto:toh_boon_keng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Toh Boon Keng</a>
 </p>
 </td>
 </tr>
@@ -801,11 +809,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edu. &amp; Career Guidance Counsellor (ECG)</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_jun_lai_eugene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eugene Loh Jun Lai</a>
-</p>
+<p>Geetha w/ Joshy Paul</p>
 </td>
 </tr>
 </tbody>
