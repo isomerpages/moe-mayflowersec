@@ -29,7 +29,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Secondary 1 (S1) Posting
+        - title: Secondary 1 (S1) Posting for 2026
           date: 19 December 2025
           announcement: Dear Parents / Guardians of Sec 1 Mayflowerians, please visit the
             link below to complete the registration form. Details on Sec 1
