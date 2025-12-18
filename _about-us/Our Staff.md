@@ -750,7 +750,8 @@ variant: tiptap
 <p>Art Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Gin Ming</p>
+<p><a href="mailto:wong_gin_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Wong Gin Ming</a>
+</p>
 </td>
 </tr>
 <tr>
