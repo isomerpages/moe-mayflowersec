@@ -148,6 +148,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Physical Eduation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheam_phaik_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lucinda Leong</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,15 +202,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheam_phaik_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lucinda Leong</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH CCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,6 +215,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_woan_chyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Woan Chyn</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_zhen_wei_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Jeremy Ong Zhen Wei</u></a>
 </p>
 </td>
 </tr>
