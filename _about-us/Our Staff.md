@@ -43,7 +43,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_jun_rong_darius@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Darius Tan Jun Rong</a>
+<p><a href="mailto:tan_jun_rong_darius@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Darius Tan Jun Rong</a>
 </p>
 </td>
 </tr>
@@ -148,6 +148,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Physical Eduation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheam_phaik_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lucinda Leong</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,15 +202,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheam_phaik_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Lucinda Leong</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH CCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,6 +215,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_woan_chyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Woan Chyn</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_zhen_wei_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Jeremy Ong Zhen Wei</u></a>
 </p>
 </td>
 </tr>
@@ -750,7 +759,8 @@ variant: tiptap
 <p>Art Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Gin Ming</p>
+<p><a href="mailto:wong_gin_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wong Gin Ming</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1076,15 +1086,6 @@ variant: tiptap
 <p>Flexi Adj (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_stephenie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Choy Stephenie</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi Adj (Art)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:teo_wan_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Teo Wan Ping (Serene)</u></a>
 </p>
 </td>
@@ -1127,11 +1128,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (Humanities)</p>
+<p>Flexi Adj (History)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yeen_yoong_eugenia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Yeen Yoong Eugenia</a>
-</p>
+<p>Sim Chong Bian</p>
 </td>
 </tr>
 <tr>
