@@ -507,14 +507,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2J</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Azalea Binte Azrain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -547,14 +539,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_zhen_wei_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Jeremy Ong Zhen Wei</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alastair Ang Zhan Yuan</p>
 </td>
 </tr>
 <tr>
