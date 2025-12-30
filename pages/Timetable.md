@@ -6,8 +6,8 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
-<h3>Timetable for 2025 Semester 2</h3>
-<p><em>Updated as of 25/06/25</em>
+<h3>Timetable for 2026 Semester 1</h3>
+<p><em>Updated as of 31/12/25</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
