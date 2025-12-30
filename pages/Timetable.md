@@ -6,6 +6,82 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
+<h3>Timetable for 2025 Semester 2</h3>
+<p><em>Updated as of 25/06/25</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Normal Week Timetable</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HBL Week Timetable</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Timetable/Sec_1___2026_Timetable_Sem1__classes_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Timetable Sec 1 Main</a>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p><em>Same as Normal Week Timetable.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Timetable/Sec_2___2026Timetable_Sem1__classes_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Timetable Sec 2 Main</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Timetable/Sec_3___2026Timetable_Sem1__classes_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Timetable Sec 3 Main</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Timetable/Sec_4_5___2026Timetable_Sem1__classes_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Timetable Sec 4 &amp; 5 Main</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>HBL Weeks</h4>
+<p>Please note that the 8 HBL days for 2026 Semester 1 are as follows:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mon, 26 Jan</p>
+</li>
+<li>
+<p>Tue, 10 Feb</p>
+</li>
+<li>
+<p>Wed, 25 Feb</p>
+</li>
+<li>
+<p>Thu, 12 Mar</p>
+</li>
+<li>
+<p>Fri, 10 Apr</p>
+</li>
+<li>
+<p>Mon, 20 Apr</p>
+</li>
+<li>
+<p>Wed, 29 Apr</p>
+</li>
+<li>
+<p>Wed, 20 May</p>
+</li>
+</ul>
+<hr>
 <h3>Post Exam Activities &amp; Sec 3 Prep Programme</h3>
 <p>Updated as of 15 Oct 2025</p>
 <div class="isomer-image-wrapper">
@@ -287,93 +363,5 @@ in Week 5 (3 Feb).</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3>Timetable for 2025 Semester 1</h3>
-<p><em>Updated as of 30 Dec 2024</em>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Normal Week Timetable</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>HBL Week Timetable</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_1__Main_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 1 Main</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_1__HBL_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 1 HBL</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_2__Main_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 2 Main</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_2__HBL_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 2 HBL</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_3__Main_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 3 Main</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_3__HBL_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 3 HBL</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_4___5__Main_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 4 &amp; 5 Main</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable/2025_Sem_1_Timetable_Sec_4___5__HBL_.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Timetable Sec 4 &amp; 5 HBL</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>HBL Weeks</h4>
-<p>Please note that the 8 HBL days for 2025 Semester 1 are as follows:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Friday, 24 Jan</p>
-</li>
-<li>
-<p>Friday, 7 Feb</p>
-</li>
-<li>
-<p>Friday, 21 Feb</p>
-</li>
-<li>
-<p>Friday, 7 Mar</p>
-</li>
-<li>
-<p>Friday, 28 Mar</p>
-</li>
-<li>
-<p>Friday, 11 Apr</p>
-</li>
-<li>
-<p>Friday, 25 Apr</p>
-</li>
-<li>
-<p>Friday, 23 May</p>
-</li>
-</ul>
 <hr>
 <p></p>
