@@ -181,7 +181,7 @@ Trip)</p>
 <h3>Teachers in Charge</h3>
 <p>Mdm Dzarina binte Tarih
 <br>Mr Yang Pei Qiang
-<br>Mdm Lee Low Eng</p>
+<br>Ms Chua Hwee Ling, Cindy</p>
 <h3>Instructors / Conductors / Section Tutors</h3>
 <p>Mr Tan Aik Koon (Conductor/Instructor)
 <br>Mr Png Boon Teck (Assistant Instructor)
