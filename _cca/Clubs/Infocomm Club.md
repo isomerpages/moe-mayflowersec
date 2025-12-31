@@ -240,9 +240,9 @@ events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chelsea Yam (IC)
+<p>Mr David Pang (IC)
 <br>Ms Wong Yin Sung
-<br>Mdm Lai Meei Ju</p>
+<br>Ms Ng Poh Lian</p>
 </td>
 </tr>
 </tbody>
