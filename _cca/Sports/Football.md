@@ -132,8 +132,8 @@ go through training or represent the school in competitions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Raymond Khoo</p>
-<p>Mr Eric Wong</p>
 <p>Mdm Norhidayah</p>
+<p>Ms Jeevana Rani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chang Chun Kiat Gabriel (4B)</p>
