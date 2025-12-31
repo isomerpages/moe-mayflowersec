@@ -90,8 +90,8 @@ Botanic Garden, NYPCO
 </th>
 <th rowspan="1" colspan="1">
 <p>Mrs Jasmine Chan
-<br>Mr David Pang
 <br>Mrs Evelyn Ng</p>
+<p>Ms Chua Hwee Ling, Cindy</p>
 </th>
 </tr>
 <tr>
