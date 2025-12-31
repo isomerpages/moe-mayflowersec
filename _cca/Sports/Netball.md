@@ -47,8 +47,8 @@ to 6 pm</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Gina Ng
-<br>Mdm Patricia Kwek
-<br>Ms Serene Teo Wan Ping</p>
+<br>Ms Janet Ting
+<br>Mr Ku Seow Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Clara Goh Yong En (4J)</p>
