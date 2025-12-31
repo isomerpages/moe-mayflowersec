@@ -204,6 +204,9 @@ fear to seize opportunities in future.</p>
 <li>
 <p>Dr Ong Chiew Inn</p>
 </li>
+<li>
+<p>Ms Ng Poh Lian</p>
+</li>
 </ul>
 <h3>CCA Leaders and Executive Committee Members</h3>
 <table style="minWidth: 50px">
