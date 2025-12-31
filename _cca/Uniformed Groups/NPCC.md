@@ -171,10 +171,9 @@ a single teacher officer - Mr. Victor Seah.</p>
 <p>Teachers-in-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Quek (OC Unit)
-<br>Mr Ng Tze How
+<p>Mr Ng Tze How (OC Unit)
 <br>Mdm Whong Tung Geok
-<br>Ms Su Haiyin</p>
+<br>Mr Lee Joen Yen</p>
 </td>
 </tr>
 <tr>

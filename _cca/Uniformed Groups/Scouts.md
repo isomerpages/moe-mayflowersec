@@ -268,7 +268,6 @@ Jun Hyeok Brian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Timothy Ng
-<br>Mr Chen Zhen
 <br>Mr Gananedran s/o S Eagamparam</p>
 </td>
 </tr>

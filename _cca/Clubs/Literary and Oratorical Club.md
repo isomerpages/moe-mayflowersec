@@ -210,7 +210,7 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shagun Anand (i/c)
-<br>Mr Gananedran s/o Eagamparam</p>
+<br>Ms Su Haiyin</p>
 </td>
 </tr>
 <tr>

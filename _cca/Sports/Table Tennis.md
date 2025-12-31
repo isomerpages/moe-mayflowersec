@@ -86,9 +86,9 @@ Four Positions.</p>
 <br>Mr Ten Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Su Xiaoling
-<br>Ms Janet Ting
-<br>Mr Lee Joen Yen</p>
+<p>Mr Eric Wong Yih Chon
+<br>Mdm Su Xiaoling
+<br>Mr Ku Seow Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yeo Yao Hao

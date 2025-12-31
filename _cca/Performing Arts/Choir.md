@@ -157,7 +157,7 @@ Secondary School.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Bridget Ooi (IC)
 <br>Mrs Frances Ess
-<br>Ms Goh Yan Qin Katherine</p>
+<br>Mdm Lee Low Eng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Toh Ban Sheng
