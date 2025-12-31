@@ -345,16 +345,16 @@ in their craft and carry these principles into all aspects of their lives.</p>
 <h3>Teachers-in-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Jeremy Ong Zhen Wei</p>
+<p>Ms Nadia Binte Sharin</p>
+</li>
+<li>
+<p>Mr Tan Wee Tiong</p>
 </li>
 <li>
 <p>Ms Allycia Teo Wan Ngee</p>
 </li>
 <li>
-<p>Ms Nadia Binte Sharin</p>
-</li>
-<li>
-<p>Mr Tan Wee Tiong</p>
+<p>Ms Serene Teo Wan Ping</p>
 </li>
 </ul>
 <h3>CCA Leaders &amp; Executive Committee Members</h3>
