@@ -814,7 +814,7 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geetha w/ Joshy Paul</p>
+<p>Geethu w/o Joshy Paul</p>
 </td>
 </tr>
 </tbody>
