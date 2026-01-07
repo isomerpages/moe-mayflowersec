@@ -11,11 +11,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Release_of_o_level_result.jpg">
 </div>
-<p>The results of the 2024 Singapore-Cambridge General Certificate of Education
-Ordinary Level (GCE O-Level) examination will be released on Friday, 10
-January 2025, 2.30 pm.</p>
+<p>The results of the 2025 Singapore-Cambridge General Certificate of Education
+Ordinary Level (GCE O-Level) examination will be released on Wednesday,
+14 January 2026, 2.30 pm.</p>
 <p>Arrangements have been made for school candidates to receive the results
-from their secondary schools from 2.30 pm on Friday, 10 January 2025.</p>
+from their secondary schools from 2.30 pm on Wednesday, 14 January 2025.</p>
 <p>Please note the following</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -38,6 +38,5 @@ of their results on their behalf. Proxies are required to produce the relevant
 documents for the school’s verification when collecting the results. School
 candidates may contact their schools for assistance if they are unable
 to appoint a proxy.</p>
-<p>Please see MOE Press Release for more information at:
-<br><a href="https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise</a>
+<p>Please see MOE Press Release for more information at: <a href="https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise</a>
 </p>
