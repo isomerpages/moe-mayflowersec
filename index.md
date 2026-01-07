@@ -50,6 +50,15 @@ sections:
       alt: o level result release
       image: /images/Release_of_o_level_result.jpg
   - infopic:
+      title: The Mayflower Promise
+      subtitle: 📰 2025, Issue 2
+      id: infopic
+      description: 2025 Sem 2 Newsletter is out. Check it out.
+      button: Read more
+      url: https://issuu.com/mayflowersec/docs/sem_2_-_the_mayflower_promise_issue_2_2025_?fr=sMjljYTg2Njg1MTU
+      image: /images/The_Mayflower_Promise__Issue_2__2025__cover.png
+      alt: newsletter issue 2
+  - infopic:
       title: Purchase your books & uniform
       subtitle: 🛒 Booklist & Uniform Purchase
       id: infopic
@@ -81,17 +90,6 @@ sections:
       url: /president-s-award-for-teachers-pat-2026/
       image: /images/PAT2026.jpg
       alt: PAT 2026
-  - infopic:
-      title: Caring Teacher Awards 2026
-      subtitle: 🏵️ Nominate now
-      id: infopic
-      description: The Caring Teacher Awards (CTA) honour educators who go beyond the
-        call of duty, nurturing students’ holistic growth and shaping confident,
-        resilient learners.
-      button: Read more
-      url: /caring-teacher-awards-2026/
-      image: /images/CTA_2026_thumbnail.png
-      alt: NIE CTA 2026
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
