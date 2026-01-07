@@ -46,8 +46,8 @@ sections:
         2:00 pm on 14 January 2026. Please click on the following Link for more
         information.
       button: More information
-      url: /newest-happenings/latest-events/n-level-result-release-2025/
-      alt: n level result release
+      url: /newest-happenings/latest-events/release-o-level-2025-result/
+      alt: o level result release
       image: /images/Release_of_o_level_result.jpg
   - infopic:
       title: Purchase your books & uniform
