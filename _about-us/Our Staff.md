@@ -749,6 +749,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Math Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cezanne_choo_sha_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Cezanne Choo Sha Min</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -814,7 +823,17 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geetha w/ Joshy Paul</p>
+<p><a href="mailto:geethu_wo_joshy@schools.gov.sg" rel="noopener nofollow" target="_blank">Geethu w/o Joshy Paul</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education and Career Guidance (ECG) Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ser_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Ser Yee</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1115,7 +1134,8 @@ variant: tiptap
 <p>Flexi Adj (History)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sim Chong Bian</p>
+<p><a href="mailto:sim_chong_bian@schools.gov.sg" rel="noopener nofollow" target="_blank">Sim Chong Bian</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1124,6 +1144,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_hwei_ling_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chua Hwei Ling</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flexi Adj (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tee_boon_teck_johnny_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tee Bon Teck Johnny</a>
 </p>
 </td>
 </tr>
@@ -1151,6 +1180,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:krishnan_malathi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Krishnan Malathi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Relief (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:brandon_ong_jing_jie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Brandon Ong Jing Jie</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Relief (Humanities)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_xi_er_jonie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ang Xi Er Jonie</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Relief (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yi_liang_leo_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Yi Liang Leo</a>
 </p>
 </td>
 </tr>

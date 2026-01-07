@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Newsletter</h1>
+<h2>2025, Issue 2</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/sem_2_-_the_mayflower_promise_issue_2_2025_?fr=sMjljYTg2Njg1MTU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Mayflower_Promise__Issue_2__2025__cover.png"></a>
 <h2>2025, Issue 1</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2025_?fr=sOGFjNjg2Njg1MTU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Mayflower_Promise__Issue_1__2025__cover.png"></a>
 <h2>2024, Issue 2</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_2_2024_?fr=sZmY4ODg2Njg1MTU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/mayflower_promise__2024_issue_2___cover_page.png"></a>
 <h2>2024, Issue 1</h2><a class="isomer-image-wrapper" href="https://issuu.com/mayflowersec/docs/the_mayflower_promise_issue_1_2024_?fr=sZDQzZDY2MzQ5NTI"><img style="width: 100%" height="auto" width="100%" alt="The Mayflower Promise - 2024, Issue 1" src="/images/Mayflower_Promise__2024_Issue_1___Cover_Page.png"></a>

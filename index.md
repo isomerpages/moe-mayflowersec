@@ -39,16 +39,25 @@ sections:
           link_text: Read more
           link_url: https://sites.google.com/moe.edu.sg/mfss-2026-sec1-reg
   - infopic:
-      title: Release of 2025 GCE N-level Result
-      subtitle: 🗓 18 December 2025
+      title: Release of 2025 GCE O-level Result
+      subtitle: 🗓 14 January 2026
       id: infopic
-      description: Candidates can collect their results from the school starting 2:00
-        pm on 18 December 2025. Please click on the following Link for more
+      description: Candidates can collect their results from the school starting at
+        2:00 pm on 14 January 2026. Please click on the following Link for more
         information.
       button: More information
-      url: /newest-happenings/latest-events/n-level-result-release-2025/
-      alt: n level result release
-      image: /images/N_level_result_release.png
+      url: /newest-happenings/latest-events/release-o-level-2025-result/
+      alt: o level result release
+      image: /images/Release_of_o_level_result.jpg
+  - infopic:
+      title: The Mayflower Promise
+      subtitle: 📰 2025, Issue 2
+      id: infopic
+      description: 2025 Semester 2 Newsletter is out. Check it out.
+      button: Read more
+      url: https://issuu.com/mayflowersec/docs/sem_2_-_the_mayflower_promise_issue_2_2025_?fr=sMjljYTg2Njg1MTU
+      image: /images/The_Mayflower_Promise__Issue_2__2025_thumbnail.png
+      alt: newsletter issue 2
   - infopic:
       title: Purchase your books & uniform
       subtitle: 🛒 Booklist & Uniform Purchase
@@ -81,17 +90,6 @@ sections:
       url: /president-s-award-for-teachers-pat-2026/
       image: /images/PAT2026.jpg
       alt: PAT 2026
-  - infopic:
-      title: Caring Teacher Awards 2026
-      subtitle: 🏵️ Nominate now
-      id: infopic
-      description: The Caring Teacher Awards (CTA) honour educators who go beyond the
-        call of duty, nurturing students’ holistic growth and shaping confident,
-        resilient learners.
-      button: Read more
-      url: /caring-teacher-awards-2026/
-      image: /images/CTA_2026_thumbnail.png
-      alt: NIE CTA 2026
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
