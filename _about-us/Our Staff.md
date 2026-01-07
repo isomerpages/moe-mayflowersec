@@ -1140,6 +1140,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Flexi Adj (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tee_boon_teck_johnny_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tee Bon Teck Johnny</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Flexi Adj (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
