@@ -749,6 +749,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Math Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cezanne_choo_sha_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Cezanne Choo Sha Min</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -814,7 +823,8 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geethu w/o Joshy Paul</p>
+<p><a href="mailto:geethu_wo_joshy@schools.gov.sg" rel="noopener nofollow" target="_blank">Geethu w/o Joshy Paul</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1115,7 +1125,8 @@ variant: tiptap
 <p>Flexi Adj (History)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sim Chong Bian</p>
+<p><a href="mailto:sim_chong_bian@schools.gov.sg" rel="noopener nofollow" target="_blank">Sim Chong Bian</a>
+</p>
 </td>
 </tr>
 <tr>
