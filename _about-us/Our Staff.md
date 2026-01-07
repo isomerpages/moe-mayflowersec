@@ -827,6 +827,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education and Career Guidance (ECG) Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ser_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Ser Yee</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Executive and Administration Staff</h3>
