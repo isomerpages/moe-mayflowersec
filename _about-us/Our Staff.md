@@ -1176,6 +1176,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Relief (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:brandon_ong_jing_jie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Brandon Ong Jing Jie</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Relief (Humanities)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_xi_er_jonie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ang Xi Er Jonie</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Relief (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yi_liang_leo_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Yi Liang Leo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Hindi Language</p>
 </td>
 <td rowspan="1" colspan="1">
