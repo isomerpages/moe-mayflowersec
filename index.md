@@ -56,7 +56,7 @@ sections:
       description: 2025 Sem 2 Newsletter is out. Check it out.
       button: Read more
       url: https://issuu.com/mayflowersec/docs/sem_2_-_the_mayflower_promise_issue_2_2025_?fr=sMjljYTg2Njg1MTU
-      image: /images/The_Mayflower_Promise__Issue_2__2025__cover.png
+      image: /images/The_Mayflower_Promise__Issue_2__2025_thumbnail.png
       alt: newsletter issue 2
   - infopic:
       title: Purchase your books & uniform
