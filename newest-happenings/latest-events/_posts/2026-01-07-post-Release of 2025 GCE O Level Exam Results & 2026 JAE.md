@@ -13,9 +13,9 @@ variant: tiptap
 </div>
 <p>The results of the 2025 Singapore-Cambridge General Certificate of Education
 Ordinary Level (GCE O-Level) examination will be released on Wednesday,
-14 January 2026, 2.30 pm.</p>
+14 January 2026, 2.00 pm.</p>
 <p>Arrangements have been made for school candidates to receive the results
-from their secondary schools from 2.30 pm on Wednesday, 14 January 2025.</p>
+from their secondary schools from 2.00 pm on Wednesday, 14 January 2025.</p>
 <p>Please note the following</p>
 <ol data-tight="true" class="tight">
 <li>
