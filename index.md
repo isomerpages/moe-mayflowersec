@@ -46,7 +46,7 @@ sections:
         2:00 pm on 14 January 2026. Please click on the following Link for more
         information.
       button: More information
-      url: /newest-happenings/latest-events/release-o-level-2025-result/
+      url: /supporting-your-teen-through-the-o-levels-results-release/
       alt: o level result release
       image: /images/Release_of_o_level_result.jpg
   - infopic:
