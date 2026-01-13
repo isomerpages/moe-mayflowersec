@@ -104,7 +104,7 @@ needs.</p>
 </tr>
 </tbody>
 </table>
-<h3>Device Information (2025 Model)</h3>
+<h3>Device Information (2026 Model)</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Acer Spin 512 R857TN" src="/images/Acer_Chromebook_Spin_512___R857TN.png">
 </div>
@@ -208,11 +208,20 @@ needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Warranty &amp; Insurance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 years</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Price w/ GST</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S$ 553.72</p>
+<p>S$ 588.60</p>
 </td>
 </tr>
 </tbody>
