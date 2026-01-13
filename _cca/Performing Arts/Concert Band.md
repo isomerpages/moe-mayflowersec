@@ -183,14 +183,13 @@ Trip)</p>
 <br>Mr Yang Pei Qiang
 <br>Ms Chua Hwee Ling, Cindy</p>
 <h3>Instructors / Conductors / Section Tutors</h3>
-<p>Mr Tan Aik Koon (Conductor/Instructor)
-<br>Mr Png Boon Teck (Assistant Instructor)
-<br>Mr Chua Leng Heng (Section Tutor – Percussion)</p>
+<p>Mr Tarun Jayaram (Main Conductor/Instructor)
+<br>Mr Chee Jekyi (Assistant Instructor)</p>
 <h3>Band Majors</h3>
-<p><strong>2024-2025</strong>
-<br>ZAMIR ZAMIRUDIN (Sec 4I)
-<br>LEK LI YING, BERNICE (Sec 4A)
-<br>KIRANA NUR HAFIZAH BINTE AZMAN (Sec 4B)
+<p><strong>2025-2026</strong>
+<br>Tng Shi Rou Anabelle (4E)
+<br>Poon Le Tong (4A)
+<br>Wongsaphat Jayden Lim Jia (4E)
 <br>
 </p>
 <h3>Training Schedule</h3>
