@@ -930,7 +930,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_fadhil_mulod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Fadhil Bin Mulod</a>
+<p><a href="mailto:muhammad_fadhil_mulod_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Fadhil Bin Mulod</a>
 </p>
 </td>
 </tr>
