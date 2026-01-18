@@ -163,8 +163,8 @@ select the size.</p>
 </table>
 <h4>Walk-in at Retail Outlet</h4>
 <p>Strictly by Appointment only, from 1 November 2025, please be reminded
-to book your time slots via this link: <a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
-</p>
+to book your time slots via this link:
+<br>[⚠️ Online appointment ended]</p>
 <p><strong>Address:</strong>
 <br>Blk 4012 Ang Mo Kio Ave 10
 <br>#01-09 Techplace 1
