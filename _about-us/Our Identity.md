@@ -45,7 +45,7 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 | Zest for Life | Curious Mind | Generous Spirit |
 | --- | --- | --- |
-| Mayflowerians believe in excellence with humility (moral courage, responsibility, optimism and commitment) | Mayflowerians are discerning and open-minded in the pursuit of lifelong learning. | Mayflowerians are responsible citizens who demonstrate respect, empathy and integrity. |
+| • Moral Courage <br>• Responsiblity <br>• Optimism <br>• Commitment | • Discerning <br>• Open-minded | • Respect <br>• Empathy <br>• Integrity |
 
 ----
 ### Mayflower Outcomes
