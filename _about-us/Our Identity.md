@@ -25,7 +25,7 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 ### Mayflower Promise
 
-&gt; Future Ready Mayflowerians with a&nbsp;**zest for life**, a&nbsp;**curious mind**&nbsp;and a&nbsp;**generous spirit**
+&gt; Future Ready Mayflowerians with a&nbsp;**Zest for Life**, a&nbsp;**Curious Mind**&nbsp;and a&nbsp;**Generous Spirit**
 
 ------
 
