@@ -39,9 +39,6 @@ The letter, M, is linked to the concept, "might" and from this the school motto,
 
 ### Mayflower Values
 
-<div align="center" style="margin-bottom:18px">Moral Courage • Responsiblity • Optimism • Commitment • Discerning • Open-minded • Respect • Empathy • Integrity</div>
-
-
 
 | Zest for Life | Curious Mind | Generous Spirit |
 | --- | --- | --- |
