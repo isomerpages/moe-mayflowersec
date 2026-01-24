@@ -39,6 +39,16 @@ sections:
           link_text: Read more
           link_url: https://sites.google.com/moe.edu.sg/mfss-2026-sec1-reg
   - infopic:
+      title: Congratulations to Mr Goh & Mr Nara
+      subtitle: 🎖️ National Day Awards 2025
+      id: infopic
+      description: We would like to congratulate 2 of our staff for receiving their
+        National Day Award.
+      button: Read more
+      url: /national-day-awards-2025/
+      image: /images/Staff Awards/National_Day_Award_2025.png
+      alt: OYEA 2026
+  - infopic:
       title: Release of 2025 GCE O-level Result
       subtitle: 🗓 14 January 2026
       id: infopic
@@ -58,16 +68,6 @@ sections:
       url: https://issuu.com/mayflowersec/docs/sem_2_-_the_mayflower_promise_issue_2_2025_?fr=sMjljYTg2Njg1MTU
       image: /images/The_Mayflower_Promise__Issue_2__2025_thumbnail.png
       alt: newsletter issue 2
-  - infopic:
-      title: Congratulations to Mr Goh & Mr Nara
-      subtitle: 🎖️ National Day Awards 2025
-      id: infopic
-      description: We would like to congratulate 2 of our staff for receiving their
-        National Day Award.
-      button: Read more
-      url: /national-day-awards-2025/
-      image: /images/Staff Awards/National_Day_Award_2025.png
-      alt: OYEA 2026
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
