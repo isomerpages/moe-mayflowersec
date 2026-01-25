@@ -316,11 +316,11 @@ is important when entering into a dating relationship</p>
 </ul>
 <h4>Lesson 1B: Mending a Broken Heart</h4>
 <blockquote>
-<p>Term 2, Week 4 (60 mins)</p>
+<p>Term 2, Week 3 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> Students will learn how to manage their
-emotions if they were to face a breakup and know that relationship building
-involves person emotions and vulnerabilities, and changes and challenges.
+emotions if they were to face a breakup and know that relationship-building
+involves personal emotions and vulnerabilities, and changes and challenges.
 Students will also learn that a decision to end a relationship will have
 consequences on oneself and others, and that grief and loss due to rejections
 and broken relationships is normal and that one can recover from the experience.
@@ -348,7 +348,7 @@ and friends are important pillars of support</p>
 </ul>
 <h4>Lesson 2: When Respect Takes Centre Stage</h4>
 <blockquote>
-<p>Term 2, Week 6 (60 mins)</p>
+<p>Term 2, Week 5 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson aims to help students think
 critically and make informed decisions in the contexts of sexting and voyeurism,
