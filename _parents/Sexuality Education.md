@@ -41,7 +41,7 @@ are premised on the family as the basic unit of society.
 </ul>
 </li>
 <li>
-<p>The <strong>key messages</strong> of Sexuality Education are:</p>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -61,16 +61,16 @@ ones.</p>
 </ul>
 </li>
 </ol>
-<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on MOE Sexuality Education.</p>
-<h3>Overview of Mayflower Secondary School's Sexuality Education Programme for 2025</h3>
+<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
+information on MOE Sexuality Education.</p>
+<h3>Overview of Mayflower Secondary School's Sexuality Education Programme for 2026</h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
 in the school curriculum.
 <br>
 </p>
@@ -115,7 +115,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 <hr>
-<p><strong>At Mayflower Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Mayflower Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <h3>SECONDARY 1</h3>
 <blockquote>
@@ -123,7 +123,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </blockquote>
 <h4>Lesson 1: Steady or not</h4>
 <blockquote>
-<p>Term 3, Week 8 (60 mins)</p>
+<p>Term 1, Week 8 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson helps students understand
 more about relationship building and the different types of love (e.g.
@@ -143,7 +143,7 @@ in helpful ways that are reflective of our values and principles</p>
 romantic love)</p>
 </li>
 <li>
-<p>recognise the importance and understand what builds healthy and supportive
+<p>recognise the importance of, and understand what builds healthy and supportive
 relationships, both online and offline</p>
 </li>
 <li>
@@ -153,7 +153,7 @@ in dating vary among individuals</p>
 </ul>
 <h4>Lesson 2: Being Aware, Being Safe</h4>
 <blockquote>
-<p>Term 3, Week 9 (60 mins)</p>
+<p>Term 2, Week 1 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on helping students
 to be safe from the dangers of sexual grooming and on respecting one’s
@@ -173,7 +173,7 @@ self-concept</p>
 </ul>
 <h4>Lesson 3: More than Meets the Eye</h4>
 <blockquote>
-<p>Term 4, Week 1 (60 mins)</p>
+<p>Term 3, Week 2 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson touches on two areas relevant
 to an adolescent’s curiosity on matters related to sexuality – masturbation
@@ -206,7 +206,7 @@ etc.)</p>
 </blockquote>
 <h4>Lesson 1: A Role for Everyone</h4>
 <blockquote>
-<p>Term 3, Week 8 (60 mins)</p>
+<p>Term 2, Week 7 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focus on how the family,
 culture and society can influence one’s perception of their gender roles.
@@ -237,7 +237,7 @@ as a male or female</p>
 </ul>
 <h4>Lesson 2A: Online Safety Challenge</h4>
 <blockquote>
-<p>Term 3, Week 9 (60 mins)</p>
+<p>Term 2, Week 10 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on the issue of online
 grooming and cyber-flashing. It emphasises the need for help-seeking, peer
@@ -258,7 +258,7 @@ both online and offline</p>
 </ul>
 <h4>Lesson 2B: Do I or Don’t I</h4>
 <blockquote>
-<p>Term 4, Week 1 (60 mins)</p>
+<p>Term 3, Week 7 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on respect for personal
 boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy
@@ -316,11 +316,11 @@ is important when entering into a dating relationship</p>
 </ul>
 <h4>Lesson 1B: Mending a Broken Heart</h4>
 <blockquote>
-<p>Term 2, Week 4 (60 mins)</p>
+<p>Term 2, Week 3 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> Students will learn how to manage their
-emotions if they were to face a breakup and know that relationship building
-involves person emotions and vulnerabilities, and changes and challenges.
+emotions if they were to face a breakup and know that relationship-building
+involves personal emotions and vulnerabilities, and changes and challenges.
 Students will also learn that a decision to end a relationship will have
 consequences on oneself and others, and that grief and loss due to rejections
 and broken relationships is normal and that one can recover from the experience.
@@ -348,7 +348,7 @@ and friends are important pillars of support</p>
 </ul>
 <h4>Lesson 2: When Respect Takes Centre Stage</h4>
 <blockquote>
-<p>Term 2, Week 6 (60 mins)</p>
+<p>Term 2, Week 5 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson aims to help students think
 critically and make informed decisions in the contexts of sexting and voyeurism,
@@ -407,7 +407,7 @@ and should be avoided</p>
 </ul>
 <h4>Lesson 2: When Love Hurts</h4>
 <blockquote>
-<p>Term 2, Week 4 (60 mins)</p>
+<p>Term 2, Week 5 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson aims to help students recognise
 unhealthy relationships and build their help-seeking skills. Students will
@@ -443,16 +443,17 @@ relationship</p>
 </ul>
 <h4>Lesson 3: For Better or For Worse</h4>
 <blockquote>
-<p>Term 2, Week 6 (60 mins)</p>
+<p>Term 2, Week 7 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on building a positive
 relationship with one’s partner in a marriage. Students will understand
 that while a marriage, defined in Singapore as a union between a man and
 a woman, requires mutual commitment and effort like the other relationships
 in their lives, what sets a marriage apart is its lifelong commitment.
-Students will learn that what really matters to sustain and maintain a
-long-term romantic relationship leading to marriage is understanding the
-other person’s perspective and effectively communicating with each other.</p>
+Students will learn that what really matters in sustaining and maintaining
+a long-term romantic relationship that leads to marriage, is understanding
+the other person’s perspective and effectively communicating with each
+other.</p>
 <p><strong>At the end of the lesson, students will be able to:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -473,7 +474,7 @@ of their marriage</p>
 </ul>
 <h4>Lesson 4: There’s Always More to a Story</h4>
 <blockquote>
-<p>Term 2, Week 7 (60 mins)</p>
+<p>Term 2, Week 8 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> In this lesson, students will revisit
 the impact of pornography and deepen their understanding on its impact
@@ -497,7 +498,7 @@ alignment with our beliefs</p>
 </blockquote>
 <h4>Lesson: This is Where I Draw the Line</h4>
 <blockquote>
-<p>Term 2, Week 2 (60 mins)</p>
+<p>Term 2, Week 8 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> In this lesson, students will understand
 that different individuals have different emotional and physical boundaries.
@@ -520,12 +521,15 @@ alignment with our beliefs</p>
 <h3>eTeens Programme</h3>
 <ol start="8">
 <li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.
+<p>eTeens is a programme that was developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. eTeens is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases.
 <br>
 </p>
 </li>
@@ -537,7 +541,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Mayflower Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At Mayflower Secondary School, the eTeens programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -565,17 +569,22 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Raise awareness and provide knowledge on:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
+<p>Sexually transmitted infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use), consequences and impact</p>
 </li>
 <li>
-<p>Managing relationships and risky situations in a healthy way.</p>
+<p>Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+</li>
+<li>
+<p>Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -587,7 +596,7 @@ and consistent condom use).</p>
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -595,24 +604,26 @@ of assertiveness and responsible decision-making</p>
 <h3>INFORMATION FOR PARENTS</h3>
 <ol start="10">
 <li>
-<p>Parents may opt their children out of Growing Years, eTeens and/or supplementary
-sexuality education programmes by MOE-approved external providers.</p>
+<p>Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/6b__Annex_A_Parent_Opt_Out_Form_Sexuality_Education_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="/files/Opt_Out_Sex_Ed_Lessons_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 30/01/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/7b__Annex_B_Parents_Opt_out_Form_for_eTeens_Programme_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available&nbsp;<a href="/files/E_Teens_Opt_Out_Form_ANNEX_B.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 30/01/2026.</p>
 </li>
 <li>
-<p>Parents can contact the school at HOD/CCE Mdm Suhaila Binte Bakar at 65940114
-or email <a href="mailto:suhaila_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaila_bakar@schools.gov.sg</a> for
+<p>Parents can contact the school through HOD CCE, Mdm Suhaila Binte Bakar
+at 65940114 / <a href="mailto:suhaila_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaila_bakar@schools.gov.sg</a> or
+SH CCE, Mr Mohamad Gaddafi Bin Annuar at 65940156 / <a href="mailto:mohamad_gaddafi_annuar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_gaddafi_annuar@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>

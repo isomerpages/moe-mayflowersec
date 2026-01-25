@@ -39,6 +39,16 @@ sections:
           link_text: Read more
           link_url: https://sites.google.com/moe.edu.sg/mfss-2026-sec1-reg
   - infopic:
+      title: Congratulations to Mr Goh & Mr Nara
+      subtitle: 🎖️ National Day Awards 2025
+      id: infopic
+      description: We would like to congratulate 2 of our staff for receiving their
+        National Day Award.
+      button: Read more
+      url: /national-day-awards-2025/
+      image: /images/Staff Awards/National_Day_Award_2025.png
+      alt: OYEA 2026
+  - infopic:
       title: Release of 2025 GCE O-level Result
       subtitle: 🗓 14 January 2026
       id: infopic
@@ -58,38 +68,6 @@ sections:
       url: https://issuu.com/mayflowersec/docs/sem_2_-_the_mayflower_promise_issue_2_2025_?fr=sMjljYTg2Njg1MTU
       image: /images/The_Mayflower_Promise__Issue_2__2025_thumbnail.png
       alt: newsletter issue 2
-  - infopic:
-      title: Purchase your books & uniform
-      subtitle: 🛒 Booklist & Uniform Purchase
-      id: infopic
-      description: Check out the booklist for your level and the various book and
-        uniform purchase options.
-      image: /images/booklist_and_uniform.png
-      alt: Post Exam Timetable
-      url: /newest-happenings/latest-updates/book-and-uniform-2026/
-      button: View
-  - infopic:
-      title: Outstanding Youth in Education Award (OYEA) 2026
-      subtitle: 🏵️ Nominate now
-      id: infopic
-      description: OYEA is open to teachers aged ≤35 years in 2026, & presently in
-        service at a Pri/Sec school, JC/MI.  Express your appreciation by
-        submitting a nomination.
-      button: Read more
-      url: /outstanding-youth-in-education-award-oyea-2026/
-      image: /images/OYEA2026.jpg
-      alt: OYEA 2026
-  - infopic:
-      title: President’s Award for Teachers (PAT) 2026
-      subtitle: 🏵️ Nominate now
-      id: infopic
-      description: PAT is open to teachers presently in service at a Pri/Sec school,
-        JC/MI, Polytechnic, ITE or National Institute of Early Childhood
-        Development.
-      button: Read more
-      url: /president-s-award-for-teachers-pat-2026/
-      image: /images/PAT2026.jpg
-      alt: PAT 2026
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
