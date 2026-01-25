@@ -611,13 +611,13 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="/files/6b__Annex_A_Parent_Opt_Out_Form_Sexuality_Education_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 30/01/2026.</p>
+at the start of the year and is also available <a href="/files/Opt_Out_Sex_Ed_Lessons_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 30/01/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available&nbsp;<a href="/files/7b__Annex_B_Parents_Opt_out_Form_for_eTeens_Programme_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+at the start of the year and is also available&nbsp;<a href="/files/E_Teens_Opt_Out_Form_ANNEX_B.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 30/01/2026.</p>
 </li>
 <li>
