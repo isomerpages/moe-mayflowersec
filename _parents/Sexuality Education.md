@@ -407,7 +407,7 @@ and should be avoided</p>
 </ul>
 <h4>Lesson 2: When Love Hurts</h4>
 <blockquote>
-<p>Term 2, Week 4 (60 mins)</p>
+<p>Term 2, Week 5 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson aims to help students recognise
 unhealthy relationships and build their help-seeking skills. Students will
@@ -443,16 +443,17 @@ relationship</p>
 </ul>
 <h4>Lesson 3: For Better or For Worse</h4>
 <blockquote>
-<p>Term 2, Week 6 (60 mins)</p>
+<p>Term 2, Week 7 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on building a positive
 relationship with one’s partner in a marriage. Students will understand
 that while a marriage, defined in Singapore as a union between a man and
 a woman, requires mutual commitment and effort like the other relationships
 in their lives, what sets a marriage apart is its lifelong commitment.
-Students will learn that what really matters to sustain and maintain a
-long-term romantic relationship leading to marriage is understanding the
-other person’s perspective and effectively communicating with each other.</p>
+Students will learn that what really matters in sustaining and maintaining
+a long-term romantic relationship that leads to marriage, is understanding
+the other person’s perspective and effectively communicating with each
+other.</p>
 <p><strong>At the end of the lesson, students will be able to:</strong>
 </p>
 <ul data-tight="true" class="tight">
