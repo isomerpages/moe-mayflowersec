@@ -474,7 +474,7 @@ of their marriage</p>
 </ul>
 <h4>Lesson 4: There’s Always More to a Story</h4>
 <blockquote>
-<p>Term 2, Week 7 (60 mins)</p>
+<p>Term 2, Week 8 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> In this lesson, students will revisit
 the impact of pornography and deepen their understanding on its impact
@@ -498,7 +498,7 @@ alignment with our beliefs</p>
 </blockquote>
 <h4>Lesson: This is Where I Draw the Line</h4>
 <blockquote>
-<p>Term 2, Week 2 (60 mins)</p>
+<p>Term 2, Week 8 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> In this lesson, students will understand
 that different individuals have different emotional and physical boundaries.
@@ -521,12 +521,15 @@ alignment with our beliefs</p>
 <h3>eTeens Programme</h3>
 <ol start="8">
 <li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.
+<p>eTeens is a programme that was developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. eTeens is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases.
 <br>
 </p>
 </li>
@@ -538,7 +541,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Mayflower Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At Mayflower Secondary School, the eTeens programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -566,17 +569,22 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Raise awareness and provide knowledge on:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
+<p>Sexually transmitted infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use), consequences and impact</p>
 </li>
 <li>
-<p>Managing relationships and risky situations in a healthy way.</p>
+<p>Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+</li>
+<li>
+<p>Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -588,7 +596,7 @@ and consistent condom use).</p>
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -596,24 +604,26 @@ of assertiveness and responsible decision-making</p>
 <h3>INFORMATION FOR PARENTS</h3>
 <ol start="10">
 <li>
-<p>Parents may opt their children out of Growing Years, eTeens and/or supplementary
-sexuality education programmes by MOE-approved external providers.</p>
+<p>Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/6b__Annex_A_Parent_Opt_Out_Form_Sexuality_Education_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="/files/6b__Annex_A_Parent_Opt_Out_Form_Sexuality_Education_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 30/01/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/7b__Annex_B_Parents_Opt_out_Form_for_eTeens_Programme_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available&nbsp;<a href="/files/7b__Annex_B_Parents_Opt_out_Form_for_eTeens_Programme_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 30/01/2026.</p>
 </li>
 <li>
-<p>Parents can contact the school at HOD/CCE Mdm Suhaila Binte Bakar at 65940114
-or email <a href="mailto:suhaila_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaila_bakar@schools.gov.sg</a> for
+<p>Parents can contact the school through HOD CCE, Mdm Suhaila Binte Bakar
+at 65940114 / <a href="mailto:suhaila_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaila_bakar@schools.gov.sg</a> or
+SH CCE, Mr Mohamad Gaddafi Bin Annuar at 65940156 / <a href="mailto:mohamad_gaddafi_annuar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_gaddafi_annuar@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
