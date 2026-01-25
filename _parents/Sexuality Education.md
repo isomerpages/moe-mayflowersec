@@ -41,7 +41,7 @@ are premised on the family as the basic unit of society.
 </ul>
 </li>
 <li>
-<p>The <strong>key messages</strong> of Sexuality Education are:</p>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -61,16 +61,16 @@ ones.</p>
 </ul>
 </li>
 </ol>
-<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on MOE Sexuality Education.</p>
-<h3>Overview of Mayflower Secondary School's Sexuality Education Programme for 2025</h3>
+<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
+information on MOE Sexuality Education.</p>
+<h3>Overview of Mayflower Secondary School's Sexuality Education Programme for 2026</h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
 in the school curriculum.
 <br>
 </p>
@@ -115,7 +115,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 <hr>
-<p><strong>At Mayflower Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Mayflower Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <h3>SECONDARY 1</h3>
 <blockquote>
@@ -123,7 +123,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </blockquote>
 <h4>Lesson 1: Steady or not</h4>
 <blockquote>
-<p>Term 3, Week 8 (60 mins)</p>
+<p>Term 1, Week 8 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson helps students understand
 more about relationship building and the different types of love (e.g.
@@ -143,7 +143,7 @@ in helpful ways that are reflective of our values and principles</p>
 romantic love)</p>
 </li>
 <li>
-<p>recognise the importance and understand what builds healthy and supportive
+<p>recognise the importance of, and understand what builds healthy and supportive
 relationships, both online and offline</p>
 </li>
 <li>
@@ -153,7 +153,7 @@ in dating vary among individuals</p>
 </ul>
 <h4>Lesson 2: Being Aware, Being Safe</h4>
 <blockquote>
-<p>Term 3, Week 9 (60 mins)</p>
+<p>Term 2, Week 1 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on helping students
 to be safe from the dangers of sexual grooming and on respecting one’s
@@ -173,7 +173,7 @@ self-concept</p>
 </ul>
 <h4>Lesson 3: More than Meets the Eye</h4>
 <blockquote>
-<p>Term 4, Week 1 (60 mins)</p>
+<p>Term 3, Week 2 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson touches on two areas relevant
 to an adolescent’s curiosity on matters related to sexuality – masturbation
@@ -206,7 +206,7 @@ etc.)</p>
 </blockquote>
 <h4>Lesson 1: A Role for Everyone</h4>
 <blockquote>
-<p>Term 3, Week 8 (60 mins)</p>
+<p>Term 2, Week 7 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focus on how the family,
 culture and society can influence one’s perception of their gender roles.
@@ -237,7 +237,7 @@ as a male or female</p>
 </ul>
 <h4>Lesson 2A: Online Safety Challenge</h4>
 <blockquote>
-<p>Term 3, Week 9 (60 mins)</p>
+<p>Term 2, Week 10 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on the issue of online
 grooming and cyber-flashing. It emphasises the need for help-seeking, peer
@@ -258,7 +258,7 @@ both online and offline</p>
 </ul>
 <h4>Lesson 2B: Do I or Don’t I</h4>
 <blockquote>
-<p>Term 4, Week 1 (60 mins)</p>
+<p>Term 3, Week 7 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on respect for personal
 boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy
