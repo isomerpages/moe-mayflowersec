@@ -123,7 +123,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </blockquote>
 <h4>Lesson 1: Steady or not</h4>
 <blockquote>
-<p>Term 1, Week 8 (60 mins)</p>
+<p>Term 1, Week 9 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson helps students understand
 more about relationship building and the different types of love (e.g.
