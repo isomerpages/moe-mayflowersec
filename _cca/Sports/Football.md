@@ -40,6 +40,18 @@ go through training or represent the school in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division - League 2 (Finished 4th in the group)</p>
+<p>C Division - League 3 (Finished 2nd in the group)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
