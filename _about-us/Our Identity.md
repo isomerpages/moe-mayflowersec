@@ -62,15 +62,15 @@ And that is our motto for a better tomorrow.
 </div>
 
 #### **School Song with Vocal**
-<div align="center"><audio controls="" class="">
-  <source src="https://drive.google.com/file/d/1HGuDDbXyhHjpg9oXXCVbu0Ln3gAA75bm/preview" type="audio/mpeg">
-Your browser does not support the audio element.
-  </audio>
+<div align="center"><audio controls="">
+  <source type="audio/mp3" src="https://drive.google.com/file/d/1HGuDDbXyhHjpg9oXXCVbu0Ln3gAA75bm/preview">
+  Your browser does not support the audio element.
+</audio>
 </div>
 
 #### **School Song Instrumental**
-<div align="center"><audio controls="" class="">
-  <source src="https://drive.google.com/file/d/10jhH_zEBHxJrRkXNZWZN7DNEqTdPoiiA/preview" type="audio/mpeg">
-Your browser does not support the audio element.
-  </audio>
+<div align="center"><audio controls="">
+  <source type="audio/mp3" src="https://drive.google.com/file/d/10jhH_zEBHxJrRkXNZWZN7DNEqTdPoiiA/preview">
+  Your browser does not support the audio element.
+</audio>
 </div>
