@@ -63,14 +63,14 @@ And that is our motto for a better tomorrow.
 
 #### **School Song with Vocal**
 <div align="center"><audio controls="">
-  <source type="audio/mp3" src="https://drive.google.com/file/d/1HGuDDbXyhHjpg9oXXCVbu0Ln3gAA75bm/preview">
+  <source type="audio/mp3" src="https://www.dropbox.com/scl/fi/mm9904owi2alaucxuk7x3/MFSS-School-Song-w-Vocal.mp3?rlkey=nv977r9ysf2kvgb39j0sfl34a&amp;st=bq91clt5&amp;raw=1">
   Your browser does not support the audio element.
 </audio>
 </div>
 
 #### **School Song Instrumental**
 <div align="center"><audio controls="">
-  <source type="audio/mp3" src="https://drive.google.com/file/d/10jhH_zEBHxJrRkXNZWZN7DNEqTdPoiiA/preview">
+  <source type="audio/mp3" src="https://www.dropbox.com/scl/fi/j5u1jf08fhd0wwwiqcm7c/MFSS-School-Song-Instrumental.mp3?rlkey=90cvb8530wq7gid0hv0vbcnsh&amp;st=nw46t2ew&amp;raw=1">
   Your browser does not support the audio element.
 </audio>
 </div>
