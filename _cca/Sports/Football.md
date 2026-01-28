@@ -128,16 +128,16 @@ go through training or represent the school in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mustaffa</p>
+<p>Mr Harisman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Raymond Khoo</p>
 <p>Mdm Norhidayah</p>
-<p>Ms Jeevana Rani</p>
+<p>Ms Allycia Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chang Chun Kiat Gabriel (4B)</p>
-<p>Ashrei Anil (4J)</p>
+<p>Goh Wei Siang (4I)</p>
+<p>Mohamed Aniq Danish (4E)</p>
 </td>
 </tr>
 </tbody>
@@ -187,6 +187,6 @@ go through training or represent the school in competitions.</p>
 </table>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8bq2yKDZqZKLsSk9DTwBGQGmd_XD4xPpRI22EAzdnKc1y44cEhfrriyCSvc2W8d1ObKnXN4xa4HIS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8bq2yKDZqZKLsSk9DTwBGQGmd_XD4xPpRI22EAzdnKc1y44cEhfrriyCSvc2W8d1ObKnXN4xa4HIS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
