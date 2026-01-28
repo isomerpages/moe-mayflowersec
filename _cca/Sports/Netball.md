@@ -29,10 +29,9 @@ of Student Councillor, and is currently an active member of our school
 Alumni.</p>
 <p><strong>Training sessions:</strong>&nbsp;Tuesdays and Thursdays, 3 pm
 to 6 pm</p>
-<h3>Staff and Executive Members 2023</h3>
-<table style="minWidth: 50px">
+<h3>Teachers-in-charge 2026</h3>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -40,25 +39,18 @@ to 6 pm</p>
 <th rowspan="1" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>CCA Leaders</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Gina Ng
-<br>Ms Janet Ting
+<br>Mrs Janet Ong
 <br>Mr Ku Seow Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Clara Goh Yong En (4J)</p>
-<p>Sheena Ng Xuan Wen (4D)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRc5ZFQg7LVhbxKbB4pFctbWUHwbwF0FzPOzdg-XuQva8trkDYnC9j8d9aIO27VNCaeRNL-WDVIjSn3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRc5ZFQg7LVhbxKbB4pFctbWUHwbwF0FzPOzdg-XuQva8trkDYnC9j8d9aIO27VNCaeRNL-WDVIjSn3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
