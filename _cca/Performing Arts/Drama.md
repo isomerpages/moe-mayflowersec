@@ -177,8 +177,7 @@ Play “Nothing”) - April</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Mdm Nur Shahirah Bte Shahir
-<br>Mdm Wong Mui Lin
-<br>Mr Kim Kin Seng</p>
+<br>Mdm Wong Mui Lin</p>
 </th>
 </tr>
 <tr>
@@ -186,7 +185,7 @@ Play “Nothing”) - April</p>
 <p>Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eleanor Tan</p>
+<p>Ms Deborah Hoon</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +193,7 @@ Play “Nothing”) - April</p>
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jaden Phuah</p>
+<p>Lim Jia En</p>
 </td>
 </tr>
 <tr>
@@ -202,23 +201,7 @@ Play “Nothing”) - April</p>
 <p>Vice President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jordon Chua</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Events / Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hannah Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>E-Resource / Media Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raymond Li</p>
+<p>Faustina Gwynne Oon</p>
 </td>
 </tr>
 </tbody>
@@ -268,6 +251,6 @@ Play “Nothing”) - April</p>
 </table>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEvq3BY4ndvrM2TDgXU7KcZPkhxgp7b-pE08CO5m3YW-vsVULwPYGY_a-pEhNkrmeiPVKBYAmNs2Bt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEvq3BY4ndvrM2TDgXU7KcZPkhxgp7b-pE08CO5m3YW-vsVULwPYGY_a-pEhNkrmeiPVKBYAmNs2Bt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
