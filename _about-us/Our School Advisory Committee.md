@@ -69,10 +69,7 @@ variant: tiptap
 <br>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/mr_tay_swee_yuan.png">
-</div>
-<p><strong>Mr Tay Swee Yuan</strong> 
+<p><strong>Ms Adeline Chan</strong>
 <br>Committee Member</p>
 </td>
 </tr>
