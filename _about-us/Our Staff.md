@@ -832,7 +832,7 @@ variant: tiptap
 <p>Education and Career Guidance (ECG) Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ser_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Ser Yee</a>
+<p><a href="mailto:lim_ser_yee_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Ser Yee</a>
 </p>
 </td>
 </tr>
@@ -967,6 +967,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:harish_nath_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Harish Nath Singh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Technician</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_sahlizah_azman@moe.edu.sg" rel="noopener nofollow" target="_blank">Nur Sahlizah Azman</a>
 </p>
 </td>
 </tr>

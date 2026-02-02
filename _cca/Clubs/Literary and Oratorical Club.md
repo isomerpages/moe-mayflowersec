@@ -265,7 +265,7 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 <p>Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shagun</p>
+<p>Ms Su Haiyin</p>
 </td>
 </tr>
 <tr>
@@ -279,47 +279,47 @@ ourselves to be inspired by, and to inspire with words.&nbsp;</p>
 <p>Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fatimah</p>
+<p>Mdm Shagun</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>Project</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWcsH6h-EcBG7CK0MfB98TzbFrXUHbS_pneh-KRv-dcGR2aB4itMNATxNBj4crbDnVXcUbnsgWTyQL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWcsH6h-EcBG7CK0MfB98TzbFrXUHbS_pneh-KRv-dcGR2aB4itMNATxNBj4crbDnVXcUbnsgWTyQL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><a href="https://padlet.com/makethechange/mayflower-secondary-school-fundamentals-ma3mt0dfuond1pq8" rel="noopener nofollow" target="_blank">View the student work</a>
 </p>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAE6cJwTj5NnfZtxyIFdB9TmnMDeWPscpXIQvP0Eifp9U4AzlbUiAwR2_MyogxihHgIebUD7IpMfAG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAE6cJwTj5NnfZtxyIFdB9TmnMDeWPscpXIQvP0Eifp9U4AzlbUiAwR2_MyogxihHgIebUD7IpMfAG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <h2>Video</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mDLgyqq8IQc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mDLgyqq8IQc"></iframe>
 </div>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdjLefjuYRc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OdjLefjuYRc"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AHBwHhcckDc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AHBwHhcckDc"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3vf_1M0FM3s"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3vf_1M0FM3s"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qy1w6NWcc88"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qy1w6NWcc88"></iframe>
 </div>
 <p></p>
