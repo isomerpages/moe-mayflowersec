@@ -156,10 +156,6 @@ open-ended problems.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_2_amazing_race.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_1_CSI.jpg">
 </div>
 <p></p>
