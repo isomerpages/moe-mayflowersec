@@ -972,6 +972,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Media Technician</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_sahlizah_azman@moe.edu.sg" rel="noopener nofollow" target="_blank">Nur Sahlizah Azman</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teacher Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
