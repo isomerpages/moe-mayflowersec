@@ -39,6 +39,17 @@ sections:
           link_text: Read more
           link_url: https://sites.google.com/moe.edu.sg/mfss-2026-sec1-reg
   - infopic:
+      title: Inspiring Teacher of English Award 2026
+      subtitle: 🏵️ Call for Nominations
+      id: infopic
+      description: The Inspiring Teacher of English Award 2026 is now open for
+        nomination. Everyone is invited to nominate for the Teaching Award to
+        the Principal by 6 pm 23 Mar.
+      button: Download the nomination form
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/Poster_for_Inspiring_Teacher_of_English_Award_2026.png
+      alt: Nominate
+  - infopic:
       title: Congratulations to Mr Goh & Mr Nara
       subtitle: 🎖️ National Day Awards 2025
       id: infopic
