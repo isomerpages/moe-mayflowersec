@@ -247,7 +247,7 @@ Jun Hyeok Brian</p>
 </tr>
 </tbody>
 </table>
-<h3>Staff and Committee Members 2025</h3>
+<h3>Staff and Committee Members 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -280,7 +280,9 @@ Jun Hyeok Brian</p>
 <br>Ng Ying Jie
 <br>Chia Kang Xu
 <br>Bernard Sng
-<br>Adam Tong</p>
+<br>Adam Tong
+<br>Howard Neo
+<br>Gan Jing Jie</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +292,8 @@ Jun Hyeok Brian</p>
 <td rowspan="1" colspan="1">
 <p>Isabella Lee Jing Tong
 <br>Athan Darren Koh Yu Teck
-<br>Lian Jing Yuan Leonard</p>
+<br>Lian Jing Yuan Leonard
+<br>Matthew Ng Yi Sheng</p>
 </td>
 </tr>
 <tr>
@@ -298,21 +301,8 @@ Jun Hyeok Brian</p>
 <p>Patrol Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Matthew Ng Yi Sheng
-<br>Emma Joy Koh
-<br>Faith Ang Wan Ting
-<br>Isaac Wong Hom Kai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Patrol Leaders</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Toh Li Zhong Joshua
-<br>Sakthivel Dharsan
-<br>Putri Letishya Binte Rohaizat
-<br>Arunachalam Aapti</p>
+<p>Emma Joy Koh
+<br>Faith Ang Wan Ting</p>
 </td>
 </tr>
 </tbody>
@@ -351,6 +341,6 @@ Jun Hyeok Brian</p>
 </table>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3V9MPa2gfkdprwp0rLQ7QyFm3uzRSD_ccwbgNPY6LURIZOH5CDnM6-QNOdaSG78dj-9wLTOWR5WQp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3V9MPa2gfkdprwp0rLQ7QyFm3uzRSD_ccwbgNPY6LURIZOH5CDnM6-QNOdaSG78dj-9wLTOWR5WQp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

@@ -119,22 +119,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/School Advisory Committee/6__Lau_kok_Hui.jpg">
-</div>
-<p><strong>Mr Lau Kok Hui</strong> 
-<br>Committee Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Advisory Committee/mr_daniel_tan-225x300.jpg">
 </div>
 <p><strong>Mr Tan Yong Nam Daniel</strong> 
 <br>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -142,9 +130,6 @@ variant: tiptap
 </div>
 <p><strong>Ms Tay Mei Ling Michelle</strong>
 <br>Committee Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

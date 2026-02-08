@@ -61,15 +61,7 @@ them in teaching and learning.</p>
 <p>Ms Shen Sirui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Mathenatics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cheow Chee Siang Gabriel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH ICT</p>
+<p>SH Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -90,6 +82,14 @@ them in teaching and learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cezanne Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Goh Poh Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,22 +99,6 @@ them in teaching and learning.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Jasmine Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Katherine Goh Yan Qing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Nicholas Quek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -138,7 +122,15 @@ them in teaching and learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yam Chaur Shin</p>
+<p>Ms Chua Hwei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Johnny Tee Book Teck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -154,26 +146,49 @@ them in teaching and learning.</p>
 </tr>
 </tbody>
 </table>
-<h2>Learning Beyond the Classroom</h2>
-<h3>Self-Directed Learning</h3>
+<p>Our Mathematics curriculum enactment aims to make every Mayflowerian think
+critically, adapt to ever-changing situations and be able to communicate
+their ideas effectively. We achieve this by introducing students to Mathematical
+concepts in real-world situations, novel contexts and even non-routine
+open-ended problems.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_1_amazing_race.jpg">
 </div>
-<h3>In-house Competitions</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_1_CSI.jpg">
 </div>
-<h3>Demo App: GeoGebra</h3>
-<p>Moving towards self-directed learning, the Mathematics department greatly
-harness the use of technology and the affordances of smartphones to engage
-our students with a more interactive and self-paced way of learning. One
-of the applications used is GeoGebra. Below is a sample demonstration for
-students to discover the relations between trigonometric ratios of a general
-angle.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_2_CSI.jpg">
 </div>
-<p>To view the GeoGebra applet, go to&nbsp;<a href="https://www.geogebra.org/m/xmwc2j68" rel="noopener noreferrer nofollow" target="_blank">https://www.geogebra.org/m/xmwc2j68</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_3_CSI.jpg">
+</div>
+<p>Our teachers embody the principle of life-long learning and are constantly
+undergoing various upgrading, either formally through workshops by the
+fraternity or informally via their weekly level meetings. We are proud
+to share that we had 2 submissions at the Teachers Conference and ExCEL
+Fest 2025. Our teacher, Mr Cheow, shared the Graph Grid Generator that
+he had created, a tool which is useful to many Mathematics teachers. Another
+team presented a workshop titled "Speak Good Mathematics” that unpacks
+the importance of and the strategies making a student an effective communicator
+in Mathematics.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_1_TCEF.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_2_TCEF.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_3_TCEF.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OwYmnbFSlKc?si=J3oWBhS_KmA0yRGq"></iframe>
+</div>
 <p>May the beginnings of being a Mayflower Mathematician become the seed
 of your child’s success beyond Secondary Years!</p>

@@ -11,8 +11,8 @@ variant: tiptap
 Day Award this year. Congratulations to Vice-Principal Mr Goh Keng Teng
 for receiving his Bronze Public Administration Medal. We would also like
 to congratulate Mr Narayanan for his Commendation Medal.</p>
-<p>The Public Administration Medal (Bronze) may be may be awarded to persons
-for outstanding efficiency, competence and industry.</p>
+<p>The Public Administration Medal (Bronze) may be awarded to persons for
+outstanding efficiency, competence and industry.</p>
 <p>The Commendation Medal may be awarded to persons who have distinguished
 themselves through commendable performance and conduct, or significant
 efficiency, competence and devotion to duty.</p>
