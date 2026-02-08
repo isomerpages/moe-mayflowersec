@@ -18,11 +18,10 @@ values who embrace their ethnic identities.
 appreciation for unity in diversity</p>
 </blockquote>
 <p>The Mother Tongue Department believes in the importance of nurturing students
-to learn and love Mother Tongue Languages as living languages and also
-appreciate the beauty of colourful cultures behind them. To engage our
-learners, our teachers engage in life-long learning to continuously improve
-our pedagogies and effective use of ICT in their lesson and assessment
-design.</p>
+to learn and love Mother Tongue Languages as living languages and appreciate
+the beauty of colourful cultures behind them. To engage our learners, our
+teachers engage in life-long learning to continuously improve our pedagogies
+and effective use of ICT in their lesson and assessment design.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -69,17 +68,6 @@ design.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lai Meei Ju</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -217,17 +205,6 @@ design.</p>
 <p>Chinese</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Md Ahdani Kadar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -255,9 +232,9 @@ students also rallied together for a donation drive to provide the AWWA
 elderly with daily necessities. This year, our students from Table Tennis
 Team also went down to the AWWA Dementia Care Centre to share the festivity
 with the seniors.</p>
-<h3>Mother Tongue Language Fortnight 2024</h3>
+<h3>Mother Tongue Language Fortnight 2025</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/chinese_tea_drinking.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tea_chapter_2025.jpg">
 </div>
 <p>Our Secondary 3 Chinese Language students went for a learning journey
 to Tea Chapter to learn about history of Chinese tea and the art of tea
@@ -270,10 +247,10 @@ culture and form. After attending the workshop, the students came together
 and took initiative to prepare and perform during Hari Raya assembly programme.</p>
 <h3>International Friendship Day Commemoration cum Hari Raya Celebration&nbsp;</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Dance___Dikir_Barat_performance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hari_Raya_Celebration_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Hari_Raya_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Int_friendship_Day_2025.jpg">
 </div>
 <p>Our Malay Language students put together a Malay Dance item and a Dikir
 Barat performance for the International Friendship Day cum Hari Raya Celebration
@@ -338,63 +315,85 @@ journalism and broadcasting.</p>
 <p>The ML Speech and Drama instructor conducted an engaging lesson for our
 students.</p>
 <h3>Achievements and Programmes</h3>
-<p>In 2024, we continued to stretch our students by participating in a variety
+<p>To enrich the students’ exposure to language and culture, we designed
+an ALP Programme in reading, speech and drama and Journalism and Broadcasting
+and also held Mother Tongue Language Fortnight, showcasing the theme on
+Chinese and Malay weddings. We had a festive Chinese New Year celebration
+which includes an e-concert and engaging classroom activities for the whole
+school.</p>
+<p>In 2025, we continued to stretch our students by participating in a variety
 of competitions. These includes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3T National Inter-Schools Translation Competition</p>
+<p>Malay Debate Competition 2025</p>
 </li>
 <li>
-<p>Malay Debate Competition 2024</p>
+<p>Inter Schools Malay Scrabble - Sahibba Competition</p>
 </li>
 <li>
-<p>The 7th National Textbook Recital Competition</p>
+<p>MESRA Sahibba Scrabble Competition</p>
 </li>
 <li>
-<p>Xin Lei Jiang Creative Writing Competition</p>
+<p>Forming Words - Cipta Kata Competition</p>
+</li>
+<li>
+<p>The 8th National Textbook Recital Competition</p>
+</li>
+<li>
+<p>Xin Lei Creative Writing Competition</p>
+</li>
+<li>
+<p>National Schools Translation Competition</p>
 </li>
 <li>
 <p>National Translation Competition</p>
 </li>
 <li>
-<p>“Xin Kong Xia” Xinyao Singing and Songwriting Competition 2024</p>
+<p>National Mandarin Oratorical Competition for Secondary Schools &amp; Junior
+Colleges / Centralised Institute</p>
 </li>
 <li>
-<p>NTU National Chinese Calligraphy Competition</p>
+<p>“Awe-Inspiring Virtue and Ocean of Wisdom” National Calligraphy Competition</p>
+</li>
+<li>
+<p>National Chinese Poetry-Writing competition for Secondary and Pre-university
+students</p>
 </li>
 </ul>
-<h3>7th Text Recital Competition 2024</h3>
+<h3>8th Text Recital Competition 2025</h3>
 <p>Sec 1 &amp; 2 Higher Chinese students attended the ALP Tier 2 training
-on recital skills. Two teams and two students took part in the 7th Text
-Recital Competition 2024 under the Group Category and Individual Category
-respectively. We have been sending our students for this competition for
-the few years and have attained good results for all.</p>
-<p>In 2024, our Secondary 2 Individual and Team have been awarded the gold
-award and were selected to participate in the finals. We were very proud
-and honoured to announce that they have clinched the overall 3rd and 1st
-place respectively at the finals!</p>
+on recital skills. Two teams and 1 student took part in the 8th Text Recital
+Competition 2025 under the Group Category and Individual Category respectively.
+We have been sending our students for this competition for the few years
+and have attained good results for all.</p>
+<p>In 2025, our Secondary 1 and 2 Teams have been awarded the gold award
+and were selected to participate in the finals. We were very proud and
+honoured to announce that they have clinched the accomplishment award and
+2nd place respectively at the finals!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recital_Competition___Lower_Sec_3rd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8th_Text_Recital_Competition_2025___Lower_Sec.jpg">
 </div>
-<p>Overall 3<sup>rd</sup> Place for Lower Sec Individual: Celeste Wong Rui
-Yi</p>
+<p>Accomplishment Award for Lower Sec Team</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recital_Competition___Lower_Sec_1st.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8th_Text_Recital_Competition_2025___Upper_Sec.jpg">
 </div>
-<p>Overall 1<sup>st</sup> Place for Lower Sec Team: Luo Yafei, Tao Yixuan,
-Chia Pei Enn</p>
-<h3>National Translation Competition</h3>
+<p>Overall 2nd Place for Lower Sec Team</p>
+<h3>National Translation Competition 2025</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/National_Translation_Competition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Translation_Competition_2025__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Translation_Competition_2025__2_.jpg">
 </div>
 <p>2 groups of our Secondary 3 Higher Chinese students participated in the
-National Translation Competition at Nanyang Junior College after attending
-our Tier 2 translation programme.</p>
+National Translation Competition at NYJC after attending a Tier 2 translation
+programme. We were proud that Luo Yafei was awarded the Outstanding Award
+for her exceptional performance.</p>
 <h3>Xin Lei Jiang Creative Writing Competition</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Xin_Lei_Jiang_Creative_Writing_Competition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xin_Lei_Creative_Writing_Competition_2025.jpg">
 </div>
-<h3>Rakan Bahasa 2024</h3>
+<h3>Rakan Bahasa 2025</h3>
 <p>2 of our Mayflowerians have been nominated by the Mother Tongue Department
 to be Malay Language ambassadors. This is an initiative by the Malay Language
 Council Singapore. As ambassadors, they are required to attend various
@@ -402,78 +401,47 @@ workshops conducted in Malay Language as well as apply the usage of Malay
 Language in varied forms of medium. The ambassadors are also role models
 to their peers in encouraging their peers to develop the love of the language.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Language_Ambassadors.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rakan_Bahasa_2025.jpg">
 </div>
-<p>The 2 Malay Language Ambassadors, also known as Rakan Bahasa are Nur Alisha
-from 2B and Alisa Ariana from 2E.</p>
-<h3>Malay Debate Competition 2024</h3>
+<p>The 2 Malay Language Ambassadors, also known as Rakan Bahasa are Kejora
+binte Mokhazani and Sofia Aneesa binte Ramdzan.</p>
+<h3>Malay Debate Competition 2025</h3>
 <p>We have sent a group of Malay students participated in the Malay Debate
 Competition organised by the Malay Youth Literary Association 4PM. This
-is our second year participating in this competition and the students have
+is our third year participating in this competition and the students have
 improved since last year. The students are:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Zamir 3I</p>
+<p>Marsya Adriana Binte Jeremy Sani 3E 2025</p>
 </li>
 <li>
-<p>Qurratuaini 3J</p>
+<p>Dyan Nurqasdina Binte Nurazhar 2D 2025 (Best Speaker for Round 2)</p>
 </li>
 <li>
-<p>Marsya 2D</p>
+<p>Imaad Bin Jaafar 2D 2025</p>
 </li>
 <li>
-<p>Qasdina 1D （Best speaker for the team）</p>
-<p></p>
+<p>Kejora Binte Mokhzani 2A 2025</p>
+</li>
+<li>
+<p>Narsha Erika Binte Muhammad Rostam 1F 2025</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Debate_Competition_2024__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Debate_Competition_2025.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Malay_Debate_Competition_2024__2_.jpg">
-</div>
-<h3>Professional Sharing and Accomplishment</h3>
-<p>The Chinese Unit set up a booth at the 2023 Mother Tongue Language Symposium
-to showcase the good practices of our MT department (CL unit).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Mother_Tongue_Language_Symposium__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Mother_Tongue_Language_Symposium__2_.jpg">
-</div>
-<p>Our confident students interacted with the public and engage the children
-with our language games.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Mother_Tongue_Language_Symposium__3_.jpg">
-</div>
-<p>Presenting our good practices to fellow teachers at the 7th International
-Conference on Teaching and Learning of Chinese as a Second Language cum
-the 11th International Forum on Chinese Language Education.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Naguib___Golden_Point_Award_for_Poetry.jpg">
-</div>
-<p>From Berita Harian website</p>
-<p>Congratulations to Mr Naguib for receiving the 1st Prize at the Golden
-Point Award for Poetry (Malay Category).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MT Dept Prog/Distinguished_Chinese_Teachers_Award_2024.jpg">
-</div>
-<p>Congratulations to Mdm Tan Lay Teng for receiving the Distinguished Chinese
-Teachers Award 2024.</p>
 <h2>Photo</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwzi7NNIHnMgJ1x160IDBI6BxvbRLF6_8Hvbu_H0wwhNV5GQJaotQoIeRBojh5BvkbER9eDL-sA6ln/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwzi7NNIHnMgJ1x160IDBI6BxvbRLF6_8Hvbu_H0wwhNV5GQJaotQoIeRBojh5BvkbER9eDL-sA6ln/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h2>Videos</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zo7eMSentdA?si=P4p-2AIo02rZ3-m0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zo7eMSentdA?si=P4p-2AIo02rZ3-m0"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FSulPK8PmOI?si=7z1YrvFL31kf8zKu"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FSulPK8PmOI?si=7z1YrvFL31kf8zKu"></iframe>
 </div>
 <p></p>
