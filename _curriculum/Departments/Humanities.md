@@ -241,12 +241,12 @@ developing global awareness.</p>
 <p><strong>2025 Vietnam Presentation</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYAqiZp6jh4AT8ZBWAmu2THa4GtxA50tcShEn7NEBTmcDnVlcX6yxeIW7g8h-VRxIkrSOiLbY-R-h-/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYAqiZp6jh4AT8ZBWAmu2THa4GtxA50tcShEn7NEBTmcDnVlcX6yxeIW7g8h-VRxIkrSOiLbY-R-h-/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>2024 Vietnam Presentation</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMIWUFk48aDkxB7a9dBOKMJo9MUuC9PBO4gpadJd-I6gqi0_SemAasFg80NnzK-ek7i1YOiiO4wFEm/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMIWUFk48aDkxB7a9dBOKMJo9MUuC9PBO4gpadJd-I6gqi0_SemAasFg80NnzK-ek7i1YOiiO4wFEm/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Inquiry &amp; Investigative Projects</strong></h4>
 <p>Students regularly engage in authentic inquiry across levels, including:</p>
