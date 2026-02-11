@@ -15,18 +15,6 @@ best.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_one_camp_2026.jpg">
 </div>
-<h3>Secondary Three</h3>
-<p><strong>Industrial Visit</strong>
-<br>To encourage our Secondary 3 students to start thinking of their ‘end
-goal’ they visited various industries of their choice to get a first-hand
-exposure of the working environment. Sengkang General Hospital, LTA, Conrad
-Centennial Singapore, IMH are some of the industries we partnered with
-for this experience. Students met enthusiastic professionals within the
-organization, who not only sparked their interest in joining the field
-in future, but also debunk any myths or misconceptions.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8xUL4TivwgMTPTsTkvmcp11AlDWsPUOsYcNX_xiNygYVLA2SQuvrZgQI7fj5VrUSqEXNGr_RHfMCO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <h3>Secondary Four and Five</h3>
 <p><strong>Graduation Ceremonies and Graduation Night</strong>
 <br>
