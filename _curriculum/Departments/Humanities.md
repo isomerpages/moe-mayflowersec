@@ -131,8 +131,7 @@ around them.</p>
 <p>Reflect on how their perspectives evolve</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><em>“Humanities taught me how to think, not just what to think.”</em></strong>
 </p>
 </td>
@@ -333,7 +332,7 @@ enrichment opportunities.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDkYgBWJMEBDAAWtz8ge4lU9OjflytmROu2cU5Lwc_KgulyaTSHS17Ujncy4-B8j3e_nmsAcGOT1b7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p><strong>External competitions have been challenging and particularly</strong>
+<p><strong>External competitions</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRu0JoQNNYm64ShBQuUEC7Ri-dh_smOF7HMkOrNkMCJb8P3G5KRZmp0vilWy3BDSFP300l5-Khn7V2p/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
