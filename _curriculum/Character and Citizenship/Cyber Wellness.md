@@ -129,20 +129,6 @@ for cyber wellness issues such as addiction to online gaming.</p>
 </tr>
 </tbody>
 </table>
-<h2>Cyber Wellness Ressources for Parents</h2>
-<p>Please click the following links to access a list of guides &amp; tips,
-resources and useful links to help you to reinforce Cyber Wellness education
-at home:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Tips for Parents</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Practising Cyber Wellness</a>
-</p>
-</li>
-</ul>
 <h2>More Useful Tips for Parents</h2>
 <ul data-tight="true" class="tight">
 <li>
