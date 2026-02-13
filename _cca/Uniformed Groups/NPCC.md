@@ -51,6 +51,17 @@ a single teacher officer - Mr. Victor Seah.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,50 +107,6 @@ a single teacher officer - Mr. Victor Seah.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Overall Proficiency Award</p>
@@ -220,6 +187,6 @@ a single teacher officer - Mr. Victor Seah.</p>
 </table>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnDr8CzDOZUsKp1Ol2Cn9gfvfHCyf1pRqNDzn--3biwlz9bDZzI4P-yK_dgmf01pAgu2okowuahE00/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnDr8CzDOZUsKp1Ol2Cn9gfvfHCyf1pRqNDzn--3biwlz9bDZzI4P-yK_dgmf01pAgu2okowuahE00/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
