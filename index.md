@@ -25,19 +25,6 @@ sections:
         - title: DSA
           description: ""
           url: /dsa/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Secondary 1 (S1) Posting for 2026
-          date: 19 December 2025
-          announcement: Dear Parents / Guardians of Sec 1 Mayflowerians, please visit the
-            link below to complete the registration form. Details on Sec 1
-            registration can also be found in the Google Site. Students will be
-            informed of their Form Class Allocation through the Parents Gateway
-            (PG) on Monday, 29th December 2025.
-          link_text: Read more
-          link_url: https://sites.google.com/moe.edu.sg/mfss-2026-sec1-reg
   - infopic:
       title: Distinguished Chinese Language Teacher Awards 2026
       subtitle: 🏵️ Call for Nominations
