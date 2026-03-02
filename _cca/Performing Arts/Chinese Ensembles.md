@@ -77,7 +77,7 @@ Botanic Garden, NYPCO
 </tr>
 </tbody>
 </table>
-<h3>Staff and Committee Members 2025</h3>
+<h3>Staff and Committee Members 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -90,8 +90,7 @@ Botanic Garden, NYPCO
 </th>
 <th rowspan="1" colspan="1">
 <p>Mrs Jasmine Chan
-<br>Mrs Evelyn Ng
-<br>Ms Chua Hwee Ling, Cindy</p>
+<br>Mrs Evelyn Ng</p>
 </th>
 </tr>
 <tr>
@@ -110,7 +109,7 @@ Botanic Garden, NYPCO
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jessica Lu
-<br>Mdm Helen Chen
+<br>Mr Ding Xiaofeng
 <br>Mr Wu Xiang Yang</p>
 </td>
 </tr>
@@ -120,7 +119,7 @@ Botanic Garden, NYPCO
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angel Lee (4E)</p>
+<p>Sheyenne Chua (4I)</p>
 </td>
 </tr>
 <tr>
@@ -129,17 +128,7 @@ Botanic Garden, NYPCO
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kuoh Xin Ying (4J)
-<br>Edison Ang (4A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Section Leader</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jamie Ang (4D)</p>
+<p>Lu Junhao (4I)</p>
 </td>
 </tr>
 <tr>
@@ -148,8 +137,8 @@ Botanic Garden, NYPCO
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dorielle Sin (4D)
-<br>Penelope Tay (4I)</p>
+<p>Yu En (Percussion) (4J)</p>
+<p>Yu Tong (Mixed Ensemble) (4I)</p>
 </td>
 </tr>
 </tbody>
@@ -199,6 +188,6 @@ Botanic Garden, NYPCO
 </table>
 <h2>Photos</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSujFqRcflV52xr_q-SL7ZHkEIv-T8fReOw6oCFWoXZXmxIhGltxpn0j3W1Of4071A0J4UReg88XKo6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSujFqRcflV52xr_q-SL7ZHkEIv-T8fReOw6oCFWoXZXmxIhGltxpn0j3W1Of4071A0J4UReg88XKo6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
