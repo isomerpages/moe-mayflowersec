@@ -25,19 +25,17 @@ sections:
         - title: DSA
           description: ""
           url: /dsa/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Secondary 1 (S1) Posting for 2026
-          date: 19 December 2025
-          announcement: Dear Parents / Guardians of Sec 1 Mayflowerians, please visit the
-            link below to complete the registration form. Details on Sec 1
-            registration can also be found in the Google Site. Students will be
-            informed of their Form Class Allocation through the Parents Gateway
-            (PG) on Monday, 29th December 2025.
-          link_text: Read more
-          link_url: https://sites.google.com/moe.edu.sg/mfss-2026-sec1-reg
+  - infopic:
+      title: Distinguished Chinese Language Teacher Awards 2026
+      subtitle: 🏵️ Call for Nominations
+      id: infopic
+      description: The 29th Distinguished Chinese Language Teachers Awards is now open
+        for nominations.  All students, their parents & teachers are invited to
+        send in nominations.
+      button: Nominate now
+      url: /distinguished-chinese-language-teachers-award-2026/
+      alt: Distinguished CL teacher Award
+      image: /images/Distinguisged_CL_Teachers_Award_2026_Thumbnail.png
   - infopic:
       title: Inspiring Teacher of English Award 2026
       subtitle: 🏵️ Call for Nominations
@@ -59,17 +57,6 @@ sections:
       url: /national-day-awards-2025/
       image: /images/Staff Awards/National_Day_Award_2025.png
       alt: OYEA 2026
-  - infopic:
-      title: Release of 2025 GCE O-level Result
-      subtitle: 🗓 14 January 2026
-      id: infopic
-      description: Candidates can collect their results from the school starting at
-        2:00 pm on 14 January 2026. Please click on the following Link for more
-        information.
-      button: More information
-      url: /supporting-your-teen-through-the-o-levels-results-release/
-      alt: o level result release
-      image: /images/Release_of_o_level_result.jpg
   - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2025, Issue 2
