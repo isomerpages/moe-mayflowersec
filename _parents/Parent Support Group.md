@@ -92,6 +92,6 @@ feedback about school programmes.</p>
 </div>
 <h2>Video</h2>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFniklridiE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W6_S5amNeFQ"></iframe>
 </div>
 <p></p>
