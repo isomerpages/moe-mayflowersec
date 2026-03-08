@@ -60,9 +60,6 @@ fulfil the vision of Mayflower Secondary School.</p>
 </div>
 <h2>2026 Parent Support Group Executive Committee</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_Org_Chart__2025.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MFSS_PSG_EXCO_2026.png">
 </div>
 <div class="isomer-image-wrapper">
