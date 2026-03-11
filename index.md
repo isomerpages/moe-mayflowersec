@@ -26,6 +26,17 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: Parent Talk for Graduating Students
+      subtitle: 🧑‍🏫 Presentation Slides
+      id: infopic
+      description: Please find the presentation slides for valuable information and
+        strategies discussed to help you better support your child's development
+        and learning journey.
+      button: Read more
+      url: /parent-talk-for-graduating-students/
+      image: /images/Parent_Engagement__6_Mar_2026__cover.png
+      alt: Sec 4,5 PTM
+  - infopic:
       title: Distinguished Chinese Language Teacher Awards 2026
       subtitle: 🏵️ Call for Nominations
       id: infopic
@@ -57,15 +68,6 @@ sections:
       url: /national-day-awards-2025/
       image: /images/Staff Awards/National_Day_Award_2025.png
       alt: OYEA 2026
-  - infopic:
-      title: The Mayflower Promise
-      subtitle: 📰 2025, Issue 2
-      id: infopic
-      description: 2025 Semester 2 Newsletter is out. Check it out.
-      button: Read more
-      url: https://issuu.com/mayflowersec/docs/sem_2_-_the_mayflower_promise_issue_2_2025_?fr=sMjljYTg2Njg1MTU
-      image: /images/The_Mayflower_Promise__Issue_2__2025_thumbnail.png
-      alt: newsletter issue 2
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
