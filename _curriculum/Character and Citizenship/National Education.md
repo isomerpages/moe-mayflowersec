@@ -70,7 +70,8 @@ of life, such as classroom cleaning and class duties.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Values in Action [VIA]- insert link to VIA page</p>
+<p><a href="/student-development/values-in-action/permalink/" rel="noopener nofollow" target="_blank">Values in Action [VIA]</a>
+</p>
 </li>
 <li>
 <p>Co-curricular activities (CCAs): Our students’ participation in CCAs promotes
