@@ -150,6 +150,6 @@ and society.</p>
 </div>
 <h2>Video</h2>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/f85hkwNLC-Y?si=eXgFduDfT6HqR5U5"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/f85hkwNLC-Y?si=eXgFduDfT6HqR5U5"></iframe>
 </div>
 <p></p>
