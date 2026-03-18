@@ -28,7 +28,8 @@ at critical thinking, and informed about local, regional, and global issues.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Achieving the goals</strong>
+</p>
 </td>
 </tr>
 <tr>
