@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Character and Citizenship
 variant: tiptap
 ---
-<h2>Character and Citizenship Education</h2>
 <p>At Mayflower Secondary School, our CCE programme shapes students into
 well-rounded individuals prepared to contribute to society. Through lessons,
 practical experiences, and learning that connects different subjects, we
