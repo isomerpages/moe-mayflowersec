@@ -71,7 +71,7 @@ Institutions</p>
 </tr>
 </tbody>
 </table>
-<h3>Education &amp; Career Guidance Info!</h3>
+<h3>Education &amp; Career Guidance Info!</h3><a class="isomer-image-wrapper" href="https://go.gov.sg/mfssecgc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/chat_with_ECG_Lim_Ser_Yee.jpg"></a>
 <p>🗣️ <a href="https://go.gov.sg/mfssecgc" rel="noopener noreferrer nofollow" target="_blank">Chat with your ECG counsellor</a>
 </p>
 <h3>Useful Links</h3>
