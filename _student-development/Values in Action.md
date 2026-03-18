@@ -4,4 +4,107 @@ permalink: /student-development/values-in-action/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Values-in-Action</h1><p>Our Committee, Values-in-Action (VIA) inculcates the virtue of generous spirit in our students and develop our Mayflowerians into one who respects and celebrates differences in others, and continually contributes back to society. Throughout their Mayflower journey, they will embark on level-wide VIA initiatives to contribute to the society progressively. Despite the minimal interactions with the public due to the restrictions brought about by Covid-19, the committee adapted and made slight adjustments to the program. To show their appreciation and support, our Secondary 1 and 2 students prepared and customized Care Packs Hampers for our Migrant Workers Community and Staff at NUH Department of Laboratory Medicine as part of Community @ Heart. Our Secondary 3 students selected a cause for their advocacy project as part of Service @ Heart and our Secondary 4/5 collaborated with Kebun Baru CC as part of Community @ Heart and prepared Care Packs for our elderly and residents staying at the nearby rental blocks. Beyond the cohort VIA projects, students were also given opportunities to be Community Champions where they provide support for school National Education (NE) events and initiate and carry out local or overseas VIA projects.</p><p>Mayflower Satellite Partnership started in 2018 with our friends from Pathlight School. Our Vision of “Inclusivity &amp; Friendship” inspires us to tap on this opportunity to build an inclusive school community with a generous spirit, providing an authentic context for the practice of school values. Beyond providing an inclusive school environment, both schools have also strived for a higher goal of forging lasting friendships through providing opportunities for students from both schools to work in teams on projects together. This year was no different despite the restrictions on inter-mingling due to Covid-19, our Secondary 1 Endeavour interacted and shared their National Day celebrations with some Pathlight students over digital platform through Google Meet.</p><h2>Video</h2><div class="iframe-wrapper"><iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iLRJHFhYi98"></iframe></div><p></p>
+<p>At Mayflower Secondary School, our Values in Action (VIA) programme nurtures
+students with a generous spirit who understand their role in building Singapore's
+shared future. Aligned with Forward SG's vision of "Building our Shared
+Future, Together," our programme emphasises collective responsibility where
+individuals do their part to support and uplift those around them, ensuring
+Singapore remains strong and united for generations to come.</p>
+<h2>How We Achieve These Goals</h2>
+<p>Our VIA programme integrates seamlessly with academic subjects and CCE
+lessons, creating meaningful connections that enhance learning. Through
+our Strengthen Eco Stewardship Programme, we focus on Environmental Sustainability
+and Community Sustainability across all levels.</p>
+<h3>Level Experience</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Experience</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Hydroponics Farming</strong>
+</p>
+<p>Students embrace the theme "Investing in Our Shared Tomorrow &amp; Doing
+Our Part as One United People" through hands on Hydroponics Farming. Over
+three weeks, classes collaborate to grow crops, integrating Geography concepts
+on sustainable resources and Social Skills lessons. Their harvest is shared
+with our community partners and canteen vendors, demonstrating how small
+acts create community impact.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Intergenerational Bonding</strong>
+</p>
+<p>Secondary 2 students explore "Investing in Our Shared Tomorrow &amp; Enabling
+Seniors to Age Well" through intergenerational connections. Beginning with
+a National Museum visit that connects to their History lessons on the Japanese
+Occupation, students gain a deeper understanding of our pioneer generation's
+challenges. With that, they then engage with seniors through activities
+and meaningful conversations about Singapore's journey to independence,
+creating powerful connections across generations whilst learning directly
+from those who shaped our nation's history.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Community Advocacy&nbsp;</strong>
+</p>
+<p>Secondary 3 students explore "Investing in Our Shared Tomorrow &amp; Foreword
+Singapore Together" by deepening their perspectives on identified community
+concerns and understanding how these issues affect Singapore, Singaporeans,
+and the wider regional and global community. Through peer advocacy and
+inter-class learning exchanges, students share their insights and learn
+from their cohort's diverse approaches to community challenges.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leaving a Legacy</strong>
+</p>
+<p>Through "Investing in Our Shared Tomorrow &amp; Foreword Singapore Together,"
+Secondary 4 students focus on "Leaving a Legacy" by advocating and sharing
+the insights they discovered during their Secondary 3 VIA experiences.
+Students mentor their juniors through interactive games and presentations,
+passing on their deepened understanding of community concerns and their
+impacts on Singapore and the global community.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our VIA programme transforms Mayflowerians into engaged citizens with
+a generous spirit who understand their vital role in Singapore's future.
+Through meaningful service experiences that connect classroom learning
+with real-world impact, students develop the values, skills, and commitment
+needed to build a strong, united, and caring society for generations to
+come.</p>
+<h2>Video</h2>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iLRJHFhYi98"></iframe>
+</div>
+<p></p>
