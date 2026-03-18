@@ -36,7 +36,11 @@ post-secondary options that align with their strengths, interests and aspiration
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Awareness on 3 emerging industry: Green, Digital and Care</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -44,9 +48,15 @@ post-secondary options that align with their strengths, interests and aspiration
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Applied Learning Module Experience ( Green, Digital and Care)</p>
+</li>
+<li>
 <p>Subject Combination Talks (linking back to their interest and industry
 they would like to contribute to in the community)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -54,8 +64,14 @@ they would like to contribute to in the community)</p>
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Elective Modules @ ITE Colleges</p>
+</li>
+<li>
 <p>Work attachments</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -63,10 +79,18 @@ they would like to contribute to in the community)</p>
 <p>Sec 4/5</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Learning Journeys to Post-Secondary Institutions</p>
+</li>
+<li>
 <p>Portfolio Preparation Workshop for Direct Admission to Post Secondary
 Institutions</p>
+</li>
+<li>
 <p>ECG Fair</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
