@@ -142,8 +142,4 @@ and society.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXUD5a4ykAq4CKuEvDVbs4H33f9ffJOK87BsWWGwUfj_YMElAVTgC57elWLo4n5CYUi-AHyAqueNbb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h2>Video</h2>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/f85hkwNLC-Y?si=eXgFduDfT6HqR5U5"></iframe>
-</div>
 <p></p>
