@@ -28,7 +28,7 @@ fulfil the vision of Mayflower Secondary School.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Santhi A. (HOD EL)
-<br>Ms Fateha (SH Humanities)</p>
+<br>Mdm Yeo Leng (Lower Sec Year Head)</p>
 </td>
 </tr>
 <tr>
@@ -36,10 +36,10 @@ fulfil the vision of Mayflower Secondary School.</p>
 <p>Staff members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Mui Lin
-<br>Dr Ong Chiew Inn
-<br>Mr Yang Pei Qiang
-<br>Mr Chen Zhen</p>
+<p>Dr Ong Chiew Inn
+<br>Mdm Wong Mui Lin
+<br>Mr Tham Wen Xi
+<br>Mr Timothy Chen Yanhui</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,6 @@ fulfil the vision of Mayflower Secondary School.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leow Leong Chuan
-<br>Mr Abdul Rashid
 <br>Mr Muhammad Fadhil</p>
 </td>
 </tr>
@@ -63,7 +62,7 @@ fulfil the vision of Mayflower Secondary School.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MFSS_PSG_EXCO_2026.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___MFSS_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vision_board_4.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___Sch_Home_partnership.png">
