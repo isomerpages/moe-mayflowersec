@@ -78,13 +78,29 @@ fulfil the vision of Mayflower Secondary School.</p>
 between schools and PSGs.&nbsp;</p>
 <p>We at PSG@MFSS aim to be a supportive partner by upholding the Mayflower
 Promise when we partner the school in various initiatives that involve
-parents and students.&nbsp;</p>
+parents and students. We also value-add to the experiences of parents and
+students alike by sharing our talents and expertise. As part of contributing
+to our students’ mental wellness, Fun Fridays were designed with the intention
+of introducing them to various new hobbies such as pipe cleaner art, painting
+and making simple bookmarks. We are also actively involved in the school’s
+ECG week where we share about our careers to the students.&nbsp;</p>
 <p>We aim to be a lighthouse for other parents by demonstrating sound school-home
 partnership by encouraging respectful communications between parents and
 teachers, being role models to our children and also building real connections
-with our children in an increasingly digital world.&nbsp;</p>
+with our children in an increasingly digital world. Over the 2 years, we
+have moved away from only supporting school events to also engaging parents
+directly. In 2025, we shared with fellow MFSS parents during the mid-year
+Parent-Teacher Meeting Lunchtime talk on improving communications between
+parent and child as well as hosted our first 5 Love Language Workshop online
+for our PSG parents.&nbsp;</p>
 <p>We strive to be a bridge between school as well by giving constructive
-feedback about school programmes.</p>
+feedback about school programmes. Early this year, we held our first School-PSG
+engagement session and Welcome New Members session with our school leaders
+and it was a huge success.&nbsp;</p>
+<p>Here at PSG@MFSS, we grow together as one community and journey together
+as parents.</p>
+<p><a href="https://forms.gle/R8HJv7GTAh1ALr3Z9" rel="noopener nofollow" target="_blank">🤝 Come join us.</a>
+</p>
 <h2>PSG Photo Album</h2>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbEmgtN0CynPrr0xGX4t3zEp_QbBm7C3gTSSCAlQtiL-ruSNQezUlBs4OiXvH-jiTAsVIravIPO2FM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -93,4 +109,35 @@ feedback about school programmes.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W6_S5amNeFQ"></iframe>
 </div>
+<h2>Useful resources for parents</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://5lovelanguages.com/learn" rel="noopener nofollow" target="_blank">5 Love Languages</a>
+</p>
+</li>
+<li>
+<p><a href="https://5lovelanguages.com/quizzes/love-language" rel="noopener nofollow" target="_blank">5 Love Languages Survey</a>
+</p>
+</li>
+<li>
+<p><a href="https://parentingforwellness.hpb.gov.sg" rel="noopener nofollow" target="_blank">Parenting for wellness personalised link</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">MOE and Compass on home-sch partnership refreshed guidelines</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">MOE Parent Kit</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">MOE Schoolbag</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.healthhub.sg/programmes/parent-hub/teens" rel="noopener nofollow" target="_blank">HealthHub Parent Hub: Teens</a>
+</p>
+</li>
+</ul>
 <p></p>
