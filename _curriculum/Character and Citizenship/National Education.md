@@ -85,10 +85,6 @@ and a sense of responsibility to school, community and nation.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>
-<br>
-</p>
 <h2>Photo</h2>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdsEcICKgUR6HhIK1FcdI6lUoLtWzO93iWDN_SFv7ooy6Loz7f8H5-Ss7M7Lsq0_UcslV68NZDssg9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
