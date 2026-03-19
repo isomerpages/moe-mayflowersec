@@ -12,9 +12,6 @@ variant: tiptap
 <blockquote>
 <p>To Serve, To Lead, To Grow</p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/leadership.png">
-</div>
 <p>At Mayflower Secondary School, our Student Leadership Programme serves
 as a platform to develop the generous spirit among our Mayflowerians. We
 deepen the inculcation of respect by celebrating differences and contributing
@@ -25,9 +22,6 @@ Grow with Open-Mindedness.</p>
 to develop their leadership qualities. Therefore, leadership opportunities
 are provided to all students at various levels, ensuring inclusive participation
 in building our caring school community.</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/leadership2.png">
-</div>
 <h2>Our Student Leadership Framework</h2>
 <p>Inspired by our shared vision, every group of student leaders in Mayflower
 plays a unique role in their respective leadership positions. Our student
