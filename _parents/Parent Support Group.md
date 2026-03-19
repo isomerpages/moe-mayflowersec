@@ -73,7 +73,7 @@ fulfil the vision of Mayflower Secondary School.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Role_of_PSG.png">
 </div>
-<h3>About PSG</h3>
+<h3>About our PSG</h3>
 <p>In 2024, MOE introduced a new framework for successful school-home partnership
 between schools and PSGs.&nbsp;</p>
 <p>We at PSG@MFSS aim to be a supportive partner by upholding the Mayflower
