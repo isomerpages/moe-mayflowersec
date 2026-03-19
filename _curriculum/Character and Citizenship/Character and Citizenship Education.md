@@ -115,6 +115,11 @@ lifestyle.</p>
 <p>Through this comprehensive and integrated approach, Mayflower's CCE programme
 prepares our students not just for academic success, but for life as engaged,
 responsible, and contributing citizens of Singapore and the world.</p>
+<h2>Photo</h2>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpHLsXZeqwTQNHTFtrf2B_3MGCsvQ-5G9-veFWbV6awDvbOAJA50OqLWNR7aoHUCUG16BQ7U2p1XLz/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>
 <br>
 </p>
