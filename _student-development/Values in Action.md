@@ -103,6 +103,10 @@ Through meaningful service experiences that connect classroom learning
 with real-world impact, students develop the values, skills, and commitment
 needed to build a strong, united, and caring society for generations to
 come.</p>
+<h2>Photo</h2>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwt_HX6wwXLbhj3u5dmBezLdMvCz5m0fhMw3hXqCfjV4NTJlhJoBegqI-dnPgPgrIJBiPvp1AV-EHy/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h2>Video</h2>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iLRJHFhYi98"></iframe>
