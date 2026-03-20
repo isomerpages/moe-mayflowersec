@@ -4,9 +4,41 @@ permalink: /parents/resources/permalink/
 description: ""
 variant: tiptap
 ---
-<h2>E.A.R.N. Your Smiles 2024 - Blueprint for Academic Excellence</h2>
-<p><a href="https://for.edu.sg/earn-your-smiles2024parents" rel="noopener nofollow" target="_blank">Earn your Smiles 2024 Parents Deck</a>
+<h2>Useful resources for parents</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://5lovelanguages.com/learn" rel="noopener nofollow" target="_blank">5 Love Languages</a>
 </p>
+</li>
+<li>
+<p><a href="https://5lovelanguages.com/quizzes/love-language" rel="noopener nofollow" target="_blank">5 Love Languages Survey</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.healthhub.sg/programmes/parent-hub/teens" rel="noopener nofollow" target="_blank">HealthHub Parent Hub: Teens</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">MOE and Compass on home-sch partnership refreshed guidelines</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">MOE Parent Kit</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">MOE Schoolbag</a>
+</p>
+</li>
+<li>
+<p><a href="https://parentingforwellness.hpb.gov.sg" rel="noopener nofollow" target="_blank">Parenting for wellness personalised link</a>
+</p>
+</li>
+<li>
+<p><a href="/files/hpb.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ Booklet to Encourage Healthy Eating Habits at Home</a>
+</p>
+</li>
+</ul>
 <hr>
 <h2>TOUCH Parenting</h2>
 <p><a href="/files/IT.pdf" rel="noopener noreferrer nofollow" target="_blank">TOUCH Parenting Handout - I Cant Live Without IT.pdf</a>
@@ -39,9 +71,6 @@ variant: tiptap
 <br><a href="https://go.gov.sg/moe-myindependentlearner" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-myindependentlearner</a>
 </p>
 <hr>
-<h2>Journeying with your Child in the 21st Century!</h2>
-<p><a href="/files/Journey.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view more info on Journeying with your Child in the 21st Century</a>
-</p>
 <h2>Building Resilience in Your Children</h2>
 <p><a href="/files/resilience.pdf" rel="noopener noreferrer nofollow" target="_blank">Building Resilience in your children and resilience resources</a>
 </p>
