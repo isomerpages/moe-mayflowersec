@@ -109,35 +109,4 @@ as parents.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W6_S5amNeFQ"></iframe>
 </div>
-<h2>Useful resources for parents</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://5lovelanguages.com/learn" rel="noopener nofollow" target="_blank">5 Love Languages</a>
-</p>
-</li>
-<li>
-<p><a href="https://5lovelanguages.com/quizzes/love-language" rel="noopener nofollow" target="_blank">5 Love Languages Survey</a>
-</p>
-</li>
-<li>
-<p><a href="https://parentingforwellness.hpb.gov.sg" rel="noopener nofollow" target="_blank">Parenting for wellness personalised link</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">MOE and Compass on home-sch partnership refreshed guidelines</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">MOE Parent Kit</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">MOE Schoolbag</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.healthhub.sg/programmes/parent-hub/teens" rel="noopener nofollow" target="_blank">HealthHub Parent Hub: Teens</a>
-</p>
-</li>
-</ul>
 <p></p>
