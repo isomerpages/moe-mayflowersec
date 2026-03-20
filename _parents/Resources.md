@@ -75,23 +75,4 @@ variant: tiptap
 <p><a href="/files/resilience.pdf" rel="noopener noreferrer nofollow" target="_blank">Building Resilience in your children and resilience resources</a>
 </p>
 <hr>
-<h2>Healthy Meals in Schools and at Home</h2>
-<p>Dear parents,</p>
-<p>Childhood and adolescent years are crucial to set the foundation for healthy
-growth. Eating a nutritionally balanced diet supports optimal growth and
-development. By encouraging healthy eating habits now, you can give your
-child the best opportunity to grow into a healthy adult.</p>
-<p>HPB has developed a Parents’ Booklet to encourage parents to nurture healthy
-eating habits at home. Together with the Healthy Meals in Schools Programme,
-we aim to promote the consumption of healthy meals with a balanced mix
-of the four different food groups – brown rice, whole grain noodles and
-wholemeal bread; fruit and vegetables as well as meat and alternatives,
-both in school and at home. The Booklet is available on our school website
-for your use.</p>
-<p>Thank you for partnering with us.</p>
-<p>Warm regards,
-<br>Eric Wong
-<br>HOD/PE&amp;CCA
-<br>Mayflower Sec Sch</p>
-<p><a href="/files/hpb.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents’ Booklet to Encourage Healthy Eating Habits at Home</a>
-</p>
+<p></p>
