@@ -525,6 +525,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2J</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azalea_azrain@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Azalea Binte Azrain</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -556,6 +565,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_zhen_wei_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Jeremy Ong Zhen Wei</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_zhan_yuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Alastair Ang Zhan Yuan</a>
 </p>
 </td>
 </tr>
