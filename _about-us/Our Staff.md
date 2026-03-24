@@ -1149,19 +1149,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (History)</p>
+<p>Flexi Adj (Geography)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_chong_bian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Sim Chong Bian</a>
+<p><a href="mailto:quek_chor_leng_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Quek Chor Leng</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (Humanities)</p>
+<p>Flexi Adj (History)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_chor_leng_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Quek Chor Leng</a>
+<p><a href="mailto:sim_chong_bian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Sim Chong Bian</a>
 </p>
 </td>
 </tr>
@@ -1230,7 +1230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi Adj (Humanities)</p>
+<p>Relief (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:david_nikhik_dcruz@schools.com.sg" rel="noopener nofollow" target="_blank">Mr David D'cruz</a>
