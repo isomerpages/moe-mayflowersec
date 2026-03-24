@@ -88,6 +88,15 @@ variant: tiptap
 <p>HOD Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:gan_lei_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Gan Lei Fong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Craft &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:sim_ann_chi_angie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Sim Ann Chi Angie</u></a>
 </p>
 </td>
@@ -291,6 +300,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_aqil@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Aqil Bin Suhaimi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,6 +466,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gananedran_s_eagamparam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gananedran S Eagamparam</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_gin_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wong Gin Ming</a>
 </p>
 </td>
 </tr>
@@ -728,15 +755,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_gin_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wong Gin Ming</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
