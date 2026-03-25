@@ -1251,7 +1251,7 @@ variant: tiptap
 <p>Relief (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:david_nikhik_dcruz@schools.com.sg" rel="noopener nofollow" target="_blank">Mr David D'cruz</a>
+<p><a href="mailto:david_nikhik_dcruz@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr David D'cruz</a>
 </p>
 </td>
 </tr>
