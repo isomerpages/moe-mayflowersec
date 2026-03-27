@@ -12,43 +12,10 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Advisory Committee/mr_philip_chua.png">
+<img style="height: 230px; width:auto;" alt="" src="/images/School Advisory Committee/mr_philip_chua.png">
 </div>
-<p><strong>Mr Chua Tin Sien Philip</strong> 
+<p style="text-align:center;"><strong>Mr Chua Tin Sien Philip</strong> 
 <br>Chairman</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/mr_seow_soon_hee-225x300.jpg">
-</div>
-<p><strong>Mr Seow Soon Hee</strong> 
-<br>Honorary Patron</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/mr_sum_ah_lam-225x300.jpg">
-</div>
-<p><strong>Mr Sum Ah Lam</strong> 
-<br>Honorary Patron</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/mr_albert_lai-225x300.jpg">
-</div>
-<p><strong>Mr Lai Hon Nyien Albert</strong> 
-<br>Honorary Patron</p>
 </td>
 </tr>
 </tbody>
@@ -63,16 +30,16 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mr_Lim_Yu_Kee.png">
+<img style="height: 230px; width:auto;" alt="" src="/images/Mr_Lim_Yu_Kee.png">
 </div>
-<p><strong>Mr Lim Yu Kee</strong> 
+<p style="text-align:center;"><strong>Mr Lim Yu Kee</strong> 
 <br>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Advisory Committee/Adeline_Chan.jpg">
+<img style="height: 230px; width:auto;" alt="" src="/images/School Advisory Committee/Adeline_Chan.jpg">
 </div>
-<p><strong>Ms Adeline Chan</strong>
+<p style="text-align:center;"><strong>Ms Adeline Chan</strong>
 <br>Committee Member</p>
 </td>
 </tr>
@@ -89,46 +56,46 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:160px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/mr_anselm_ng.jpg">
+<img style="height: 230px; width:auto;" src="/images/School%20Advisory%20Committee/mr_anselm_ng.jpg">
 </div>
-<p><strong>Mr Anselm Ng</strong> 
+<p style="text-align:center;"><strong>Mr Anselm Ng</strong> 
 <br>Committee Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/School Advisory Committee/Paige_Chua_mugshot.png">
+<img style="height: 230px; width:auto;" alt="" src="/images/School Advisory Committee/Paige_Chua_mugshot.png">
 </div>
-<p><strong>Ms Chua Chi Hui Paige</strong>
+<p style="text-align:center;"><strong>Ms Chua Chi Hui Paige</strong>
 <br>Committee Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:188px" height="auto" width="100%" src="/images/School%20Advisory%20Committee/Kiesha_Prem.png">
+<img style="height: 230px; width:auto;" src="/images/School%20Advisory%20Committee/Kiesha_Prem.png">
 </div>
-<p><strong>Dr Kiesha Prem</strong> 
+<p style="text-align:center;"><strong>Dr Kiesha Prem</strong> 
 <br>Committee Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Advisory Committee/7__Jessie_Chong.jpg">
+<img style="height: 230px; width:auto;" alt="" src="/images/School Advisory Committee/7__Jessie_Chong.jpg">
 </div>
-<p><strong>Ms Jessie Chong</strong> 
+<p style="text-align:center;"><strong>Ms Jessie Chong</strong> 
 <br>Committee Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Advisory Committee/mr_daniel_tan-225x300.jpg">
+<img style="height: 230px; width:auto;" alt="" src="/images/School Advisory Committee/mr_daniel_tan-225x300.jpg">
 </div>
-<p><strong>Mr Tan Yong Nam Daniel</strong> 
+<p style="text-align:center;"><strong>Mr Tan Yong Nam Daniel</strong> 
 <br>Committee Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Advisory Committee/TAY_MEI_LING_MICHELLE.png">
+<img style="height: 230px; width:auto;" alt="" src="/images/School Advisory Committee/TAY_MEI_LING_MICHELLE.png">
 </div>
-<p><strong>Ms Tay Mei Ling Michelle</strong>
+<p style="text-align:center;"><strong>Ms Tay Mei Ling Michelle</strong>
 <br>Committee Member</p>
 </td>
 </tr>
