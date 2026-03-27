@@ -87,7 +87,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/term_2_remdial.jpg">
 </div>
-<p><a href="/files/2026_Sec_1_3_Term_2_Remedial___Supp_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1-3 Term 2 Remedial / Supplementary Schedule </a>
+<p><a href="/files/2026_Sec_1_3_Term_2_Remedial___Supp_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1-3 Term 2 Remedial / Supplementary Schedule</a>
 </p>
 <h3>Post Exam Activities &amp; Sec 3 Prep Programme</h3>
 <p>Updated as of 15 Oct 2025</p>
