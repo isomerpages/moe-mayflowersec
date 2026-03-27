@@ -81,7 +81,7 @@ variant: markdown
 
 <div class="card"><img src="/images/School Advisory Committee/mr_daniel_tan-225x300.jpg" style="height: 250px; width:auto;">
 <div class="name_appt">
-<strong>Ms Tan Yong Nam Daniel</strong> 
+<strong>Mr Tan Yong Nam Daniel</strong> 
 <br>Committee Member<p></p>
 </div>
 </div>
