@@ -82,6 +82,13 @@ variant: tiptap
 </li>
 </ul>
 <hr>
+<h3>Term 2 Remedial / Supplementary Schedule</h3>
+<p>Updated as of 27/03/26</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/term_2_remdial.jpg">
+</div>
+<p><a href="/files/2026_Sec_1_3_Term_2_Remedial___Supp_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1-3 Term 2 Remedial / Supplementary Schedule</a>
+</p>
 <h3>Post Exam Activities &amp; Sec 3 Prep Programme</h3>
 <p>Updated as of 15 Oct 2025</p>
 <div class="isomer-image-wrapper">
@@ -130,6 +137,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2025 EOY Exam Timetable/2025_EOY_Exam_Sec_3_TT_2025__Final_.pdf" rel="noopener nofollow" target="_blank">EOY Exam Timetable 2025 - Sec 3</a>
 </p>
+<hr>
 <h4>Subject information</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -313,6 +321,7 @@ Semester 2:</p>
 </div>
 <p><a href="/files/2025_N_Prelim_TT_4NA_4NT_2_June_2025.pdf" rel="noopener nofollow" target="_blank">2025 N Prelim TT 4NA 4NT (Jul-Aug 2025)</a>
 </p>
+<hr>
 <h3>Sec 4/5 June Holiday Schedule 2025</h3>
 <p>Updated as of 21/05/25</p>
 <div class="isomer-image-wrapper">
@@ -320,48 +329,4 @@ Semester 2:</p>
 </div>
 <p><a href="/files/Sec_4_5_June_Holiday_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 - June Holiday Schedule 2025</a>
 </p>
-<h3>Term 1 Remedial / Supplementary Schedule</h3>
-<p>Updated as of 25/02/25</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/supp.jpg">
-</div>
-<p>Please be informed that the TERM 1 remedial/ supplementary will commence
-in Week 5 (3 Feb).</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Remedial / Supplementary</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_1_T1___2_Remedial___Supp_Schedule__docx.pdf" rel="noopener nofollow" target="_blank">2025 Term 1-2 Remedial / Supplementary Schedule for Sec 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_2_T1___2_Remedial___Supp_Schedule__docx.pdf" rel="noopener nofollow" target="_blank">2025 Term 1-2 Remedial / Supplementary Schedule for Sec 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_3_T1___2_Remedial_and_Supp_Schedule_.pdf" rel="noopener nofollow" target="_blank">2025 Term 1-2 Remedial / Supplementary Schedule for Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Remedial Supp Schedule/2025/2025_Sec_4_5_T1_Remedial_and_Supp_Schedule__update.pdf" rel="noopener nofollow" target="_blank">2025 Term 1-2 Remedial / Supplementary Schedule for Sec 4 &amp; 5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <p></p>
