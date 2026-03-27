@@ -23,7 +23,7 @@ variant: markdown
 </style>
 
 <div style="text-align: center;" id="newrow">
-<div class="card"><img src="/images/School Advisory Committee/mr_philip_chua.png" style="height: 250px;">
+<div class="card"><img src="/images/School Advisory Committee/mr_philip_chua.png" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Mr Chua Tin Sien Philip</strong> 
 <br>Chairman<p></p>
@@ -33,7 +33,7 @@ variant: markdown
 <hr>
 
 <div style="text-align: center;" id="newrow">
-<div class="card"><img src="/images/Mr_Lim_Yu_Kee.png" style="height: 250px;">
+<div class="card"><img src="/images/Mr_Lim_Yu_Kee.png" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Mr Lim Yu Kee</strong> 
 <br>Honorary Secretary<p></p>
@@ -44,49 +44,49 @@ variant: markdown
 <hr>
 
 <div style="text-align: center;" id="newrow">
-<div class="card"><img src="/images/School Advisory Committee/Adeline_Chan.jpg" style="height: 250px;">
+<div class="card"><img src="/images/School Advisory Committee/Adeline_Chan.jpg" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Ms Adeline Chan</strong> 
 <br>Committee Member<p></p>
 </div>
 </div>
 
-<div class="card"><img src="/images/School%20Advisory%20Committee/mr_anselm_ng.jpg" style="height: 250px;">
+<div class="card"><img src="/images/School%20Advisory%20Committee/mr_anselm_ng.jpg" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Mr Anselm Ng</strong> 
 <br>Committee Member<p></p>
 </div>
 </div>
 
-<div class="card"><img src="/images/School Advisory Committee/Paige_Chua_mugshot.png" style="height: 250px;">
+<div class="card"><img src="/images/School Advisory Committee/Paige_Chua_mugshot.png" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Ms Chua Chi Hui Paige</strong> 
 <br>Committee Member<p></p>
 </div>
 </div>
 
-<div class="card"><img src="/images/School%20Advisory%20Committee/Kiesha_Prem.png" style="height: 250px;">
+<div class="card"><img src="/images/School%20Advisory%20Committee/Kiesha_Prem.png" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Dr Kiesha Prem</strong> 
 <br>Committee Member<p></p>
 </div>
 </div>
 
-<div class="card"><img src="/images/School Advisory Committee/7__Jessie_Chong.jpg" style="height: 250px;">
+<div class="card"><img src="/images/School Advisory Committee/7__Jessie_Chong.jpg" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Ms Jessie Chong</strong> 
 <br>Committee Member<p></p>
 </div>
 </div>
 
-<div class="card"><img src="/images/School Advisory Committee/mr_daniel_tan-225x300.jpg" style="height: 250px;">
+<div class="card"><img src="/images/School Advisory Committee/mr_daniel_tan-225x300.jpg" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Ms Tan Yong Nam Daniel</strong> 
 <br>Committee Member<p></p>
 </div>
 </div>
 
-<div class="card"><img src="/images/School Advisory Committee/TAY_MEI_LING_MICHELLE.png" style="height: 250px;">
+<div class="card"><img src="/images/School Advisory Committee/TAY_MEI_LING_MICHELLE.png" style="height: 250px; width:auto;">
 <div class="name_appt">
 <strong>Ms Tay Mei Ling Michelle</strong> 
 <br>Committee Member<p></p>
