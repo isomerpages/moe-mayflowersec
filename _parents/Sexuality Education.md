@@ -237,7 +237,7 @@ as a male or female</p>
 </ul>
 <h4>Lesson 2A: Online Safety Challenge</h4>
 <blockquote>
-<p>Term 2, Week 10 (60 mins)</p>
+<p>Term 3, Week 1 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on the issue of online
 grooming and cyber-flashing. It emphasises the need for help-seeking, peer
@@ -288,7 +288,7 @@ both offline and online</p>
 </blockquote>
 <h4>Lesson 1A: Love Yourself, Love Others</h4>
 <blockquote>
-<p>Term 2, Week 2 (60 mins)</p>
+<p>Term 2, Week 3 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on dating respectfully
 in healthy relationships. Students will learn about self-esteem, their
@@ -316,7 +316,7 @@ is important when entering into a dating relationship</p>
 </ul>
 <h4>Lesson 1B: Mending a Broken Heart</h4>
 <blockquote>
-<p>Term 2, Week 3 (60 mins)</p>
+<p>Term 2, Week 5 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> Students will learn how to manage their
 emotions if they were to face a breakup and know that relationship-building
@@ -348,7 +348,7 @@ and friends are important pillars of support</p>
 </ul>
 <h4>Lesson 2: When Respect Takes Centre Stage</h4>
 <blockquote>
-<p>Term 2, Week 5 (60 mins)</p>
+<p>Term 3, Week 6 (60 mins)</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson aims to help students think
 critically and make informed decisions in the contexts of sexting and voyeurism,
