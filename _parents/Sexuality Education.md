@@ -288,7 +288,8 @@ both offline and online</p>
 </blockquote>
 <h4>Lesson 1A: Love Yourself, Love Others</h4>
 <blockquote>
-<p>Term 2, Week 3 (60 mins)</p>
+<p>Term 2, Week 2 (60 mins) - For 3A, 3D, 3E, 3I</p>
+<p>Term 2, Week 3 (60 mins) - For 3B, 3F</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson focuses on dating respectfully
 in healthy relationships. Students will learn about self-esteem, their
@@ -316,7 +317,8 @@ is important when entering into a dating relationship</p>
 </ul>
 <h4>Lesson 1B: Mending a Broken Heart</h4>
 <blockquote>
-<p>Term 2, Week 5 (60 mins)</p>
+<p>Term 2, Week 3 (60 mins) - For 3A, 3D, 3E, 3I</p>
+<p>Term 2, Week 5 (60 mins) - For 3B, 3F</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> Students will learn how to manage their
 emotions if they were to face a breakup and know that relationship-building
@@ -348,7 +350,8 @@ and friends are important pillars of support</p>
 </ul>
 <h4>Lesson 2: When Respect Takes Centre Stage</h4>
 <blockquote>
-<p>Term 3, Week 6 (60 mins)</p>
+<p>Term 3, Week 5 (60 mins) - For 3A, 3D, 3E, 3I</p>
+<p>Term 3, Week 6 (60 mins) - For 3B, 3F</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson aims to help students think
 critically and make informed decisions in the contexts of sexting and voyeurism,
@@ -381,7 +384,8 @@ alignment with our beliefs</p>
 </blockquote>
 <h4>Lesson 1: Levelling the Ground</h4>
 <blockquote>
-<p>Term 2, Week 2 (60 mins)</p>
+<p>Term 2, Week 2 (60 mins) - For 4A, 4D, 4E, 4F, 4I, 4J</p>
+<p>Term 2, Week 3 (60 mins) - For 4B</p>
 </blockquote>
 <p><strong>Lesson Overview:</strong> This lesson aims to help students think
 critically about gender stereotypes that exist in our society in the contexts
