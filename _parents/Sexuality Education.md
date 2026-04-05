@@ -629,7 +629,9 @@ The completed form is to be submitted by 30/01/2026.</p>
 at 65940114 / <a href="mailto:suhaila_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaila_bakar@schools.gov.sg</a> or
 SH CCE, Mr Mohamad Gaddafi Bin Annuar at 65940156 / <a href="mailto:mohamad_gaddafi_annuar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_gaddafi_annuar@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+programme.
+<br>
+</p>
 </li>
 </ol>
 <p></p>
