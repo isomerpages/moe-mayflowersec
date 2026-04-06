@@ -48,16 +48,15 @@ sections:
       alt: Distinguished CL teacher Award
       image: /images/Distinguisged_CL_Teachers_Award_2026_Thumbnail.png
   - infopic:
-      title: Inspiring Teacher of English Award 2026
-      subtitle: 🏵️ Call for Nominations
+      title: Aesthetics Production - Signal Reconnect
+      subtitle: 🎟 Book your tickets online
       id: infopic
-      description: The Inspiring Teacher of English Award 2026 is now open for
-        nomination. Everyone is invited to nominate for the Teaching Award to
-        the Principal by 6 pm 23 Mar.
-      button: Download the nomination form
-      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
-      image: /images/Poster_for_Inspiring_Teacher_of_English_Award_2026.png
-      alt: Nominate
+      description: Celebrating our 45 years of nurturing students, this production
+        reminds us that true connection is built through presence, understanding
+        & courage to reconnect.
+      button: Book Now
+      url: https://bookmyshow.sg/en/events/mayflower-secondary-school-aesthetics-production-signal-reconnect/MF280426
+      image: /images/MFSS_Aesthetic_Production_2026_banner.png
   - infopic:
       title: Congratulations to Mr Goh & Mr Nara
       subtitle: 🎖️ National Day Awards 2025
