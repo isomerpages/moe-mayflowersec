@@ -26,6 +26,16 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: Aesthetics Production - Signal Reconnect
+      subtitle: 🎟 Book your tickets online
+      id: infopic
+      description: Celebrating our 45 years of nurturing students, this production
+        reminds us that true connection is built through presence, understanding
+        & courage to reconnect.
+      button: Book Now
+      url: https://bookmyshow.sg/en/events/mayflower-secondary-school-aesthetics-production-signal-reconnect/MF280426
+      image: /images/MFSS_Aesthetic_Production_2026_banner.png
+  - infopic:
       title: Parent Talk for Graduating Students
       subtitle: 🧑‍🏫 Presentation Slides
       id: infopic
@@ -47,16 +57,6 @@ sections:
       url: /distinguished-chinese-language-teachers-award-2026/
       alt: Distinguished CL teacher Award
       image: /images/Distinguisged_CL_Teachers_Award_2026_Thumbnail.png
-  - infopic:
-      title: Aesthetics Production - Signal Reconnect
-      subtitle: 🎟 Book your tickets online
-      id: infopic
-      description: Celebrating our 45 years of nurturing students, this production
-        reminds us that true connection is built through presence, understanding
-        & courage to reconnect.
-      button: Book Now
-      url: https://bookmyshow.sg/en/events/mayflower-secondary-school-aesthetics-production-signal-reconnect/MF280426
-      image: /images/MFSS_Aesthetic_Production_2026_banner.png
   - infopic:
       title: Congratulations to Mr Goh & Mr Nara
       subtitle: 🎖️ National Day Awards 2025
