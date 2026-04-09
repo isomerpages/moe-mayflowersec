@@ -34,7 +34,7 @@ sections:
         & courage to reconnect.
       button: Book Now
       url: https://bookmyshow.sg/en/events/mayflower-secondary-school-aesthetics-production-signal-reconnect/MF280426
-      image: /images/MFSS_Aesthetic_Production_2026_banner.png
+      image: /images/Thumbnail_Signal_Reconnect.png
       alt: Aesthetic prodcution
   - infopic:
       title: Parent Talk for Graduating Students
