@@ -1020,7 +1020,7 @@ variant: tiptap
 <p>Library Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuraqilah@civica.com" rel="noopener noreferrer nofollow" target="_blank">Mdm Aqilah Bte Alim</a>
+<p><a href="mailto:nuraqilah@civica.com" rel="noopener noreferrer nofollow" target="_blank">Ms Aqilah</a>
 </p>
 </td>
 </tr>
