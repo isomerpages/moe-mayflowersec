@@ -120,7 +120,7 @@ at Mayflower Secondary School from 6th July to 28th August</p>
 </li>
 </ul>
 <p></p>
-<p>View the Performing Arts Domain Performance Task and Requirements <u>here</u>.</p>
+<p>View the Performing Arts Domain Performance Task and Requirements <a href="#:~:text=Performing%20Arts%C2%A0%20Talent%20Area" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +195,7 @@ advance of the date and time of the audition and interview.</p>
 for physical activity and arrange for loan and or bring their own equipment
 where possible.</p>
 <p>&nbsp;</p>
-<p>View the Sports Domain Performance Task and requirements <u>here</u>.</p>
+<p>View the Sports Domain Performance Task and requirements <a href="https://staging-lite.d6bdsz7u5x2y0.amplifyapp.com/dsa/#:~:text=the%20different%20areas%3A-,Sports%20Talent%20Area%C2%A0,-Performance%20Task%20Requirements" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +258,7 @@ trial and interview carried out in-person at Mayflower Secondary School
 from 6th July to 28th August</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will be notified in advance of the
 date and time of the audition and interview.</p>
-<p>View the Academic Domain Performance Task and requirements <u>here</u>.</p>
+<p>View the Academic Domain Performance Task and requirements <a href="#:~:text=Academic%20Talent%20Area%C2%A0" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
