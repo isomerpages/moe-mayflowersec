@@ -186,15 +186,20 @@ team.</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>Shortlisted applicants</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will be invited for
-a performance trial and interview carried out in-person at Mayflower Secondary
-School from 6<sup>th</sup> July to 28<sup>th</sup> August</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will be notified in
-advance of the date and time of the audition and interview.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should be suitably attired
-for physical activity and arrange for loan and or bring their own equipment
-where possible.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Will be invited for a performance trial and interview carried out in-person
+at Mayflower Secondary School from 6<sup>th</sup> July to 28<sup>th</sup> August</p>
+</li>
+<li>
+<p>Will be notified in advance of the date and time of the audition and interview.</p>
+</li>
+<li>
+<p>Should be suitably attired for physical activity and arrange for loan
+and or bring their own equipment where possible.</p>
+</li>
+</ul>
+<p></p>
 <p>View the Sports Domain Performance Task and requirements <a href="https://staging-lite.d6bdsz7u5x2y0.amplifyapp.com/dsa/#:~:text=the%20different%20areas%3A-,Sports%20Talent%20Area%C2%A0,-Performance%20Task%20Requirements" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
@@ -253,11 +258,15 @@ Oratorical/Debate/Speech and Drama/Cultural society within or outside school.</p
 </td>
 <td rowspan="4" colspan="1">
 <p>Shortlisted applicants</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; will be invited for a performance
-trial and interview carried out in-person at Mayflower Secondary School
-from 6th July to 28th August</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will be notified in advance of the
-date and time of the audition and interview.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>will be invited for a performance trial and interview carried out in-person
+at Mayflower Secondary School from 6th July to 28th August</p>
+</li>
+<li>
+<p>will be notified in advance of the date and time of the audition and interview.</p>
+</li>
+</ul>
 <p>View the Academic Domain Performance Task and requirements <a href="#:~:text=Academic%20Talent%20Area%C2%A0" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
