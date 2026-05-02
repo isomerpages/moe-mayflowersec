@@ -101,7 +101,7 @@ area of talent.</p>
 <p>Chinese Orchestra (Bass/ Percussion/ Plucking)</p>
 </td>
 <td rowspan="6" colspan="1">
-<p>Applicants should preferably</p>
+<p>Applicants should preferably fulfil one of the following:</p>
 <p>a)&nbsp;&nbsp;&nbsp; have represented in SYF Arts Presentation.</p>
 <p>b)&nbsp;&nbsp;&nbsp; have represented in local/overseas Arts Competition.</p>
 </td>
@@ -178,7 +178,7 @@ at Mayflower Secondary School from 6th July to 28th August</p>
 <p>(Boys)</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Applicants should preferably</p>
+<p>Applicants should preferably fulfil one of the following:</p>
 <p>a)&nbsp;&nbsp;&nbsp; have represented in Singapore Primary School Sports
 Council National School games, Zonal or National competitions.</p>
 <p>b)&nbsp;&nbsp;&nbsp; be a member of Junior Sports Academy (JSA) or school
@@ -248,9 +248,9 @@ and or bring their own equipment where possible.</p>
 <p>Chinese Language</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Applicants should preferably</p>
+<p>Applicants should preferably fulfil one of the following:</p>
 <p>a)&nbsp;&nbsp;&nbsp; have participated in English/Chinese/Malay Language
-Oratorical/Public Speaking/Debating competitions at the Zonal or National
+Oratorical/Public Speaking/Debating competitions at the Zonal/National
 level.</p>
 <p>b)&nbsp;&nbsp;&nbsp; be a member of the English/Chinese/Malay Language
 Oratorical/Debate/Speech and Drama/Cultural society within or outside school.</p>
@@ -295,7 +295,7 @@ the potential of the applicants.</p>
 <p>General Academic Ability Tests such as the General Ability Test (GAT)
 and the Higher Ability Selection Test (HAST) are <strong><u>not required</u></strong> in
 the selection process.</p>
-<p>You will receive notification from the school by <strong><u>&nbsp;30<sup>th</sup> July 2026</u></strong> of
+<p>You will receive notification from the school by <strong><u>30<sup>th</sup> July 2026</u></strong> of
 the exact date and time of the performance audition and an interview, if
 your child has been shortlisted to undergo Direct School Admission (DSA)
 selection. The <strong>in- person</strong> performance audition and interview
@@ -303,7 +303,7 @@ will be conducted at <strong>Mayflower Secondary School</strong> for all
 talent areas. All applicants will receive their application outcomes by <strong><u>28<sup>th</sup> August 2026</u></strong>.</p>
 <p>For further clarifications, please contact Mrs Lucinda Leong, HOD PE/CCA
 (DID: 65940158, Email: <a href="mailto:cheam_phaik_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheam_phaik_tin@moe.edu.sg</a>).</p>
-<h4>Selection Process&nbsp; (Performing Arts Talent Domain)</h4>
+<h4>Selection Process (Performing Arts Talent Domain)</h4>
 <p>There will be a short interview after the audition. All auditions and
 interviews will be carried out in-person at Mayflower Secondary School
 from 6th July to 28th August. The following are the audition requirements
@@ -316,7 +316,7 @@ for the different areas:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts&nbsp; Talent Area</strong>
+<p><strong>Performing Arts Talent Area</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,18 +332,18 @@ for the different areas:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Perform two contrasting pieces of music on their main instrument.&nbsp;
-Each piece of music should be with a minimum 1 minute duration.&nbsp; Memorization
-is required for the two music pieces presented at the audition.&nbsp;</p>
+<p>Perform two contrasting pieces of music on applicant’s main instrument.
+Each piece of music should be with a minimum 1 minute duration. Memorisation
+is required for the two music pieces presented at the audition.</p>
 </li>
 <li>
 <p>Aural testing will also be conducted.</p>
 </li>
 </ul>
 <p></p>
-<p>NB: Applicant&nbsp;should arrange with their primary school for the use
-of any required instruments for the audition.&nbsp; Only the use of Mayflower
-Secondary School’s&nbsp; percussion instruments may be arranged.</p>
+<p>NB: Applicant&nbsp;should arrange with his/her primary school for the
+use of any required instruments for the audition.&nbsp;Only the use of
+Mayflower Secondary School’s&nbsp;percussion instruments may be arranged.</p>
 </td>
 </tr>
 <tr>
@@ -354,17 +354,18 @@ Secondary School’s&nbsp; percussion instruments may be arranged.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Perform a musical piece of their choice on their main music instrument.</p>
+<p>Perform a musical piece of applicant’s choice on his/her main musical
+instrument.</p>
 </li>
 <li>
-<p>Applicant&nbsp;will also be tested&nbsp;on&nbsp;their embouchure, pitching
-and rhythm during the audition.</p>
+<p>Applicant will also be tested on his/her embouchure, pitching and rhythm
+during the audition.</p>
 </li>
 </ul>
 <p></p>
-<p>NB: Applicant&nbsp;should arrange with their primary school for the use
-of any required instruments for the audition.&nbsp; Only the use of Mayflower
-Secondary School’s&nbsp; percussion instruments may be arranged.</p>
+<p>NB: Applicant&nbsp;should arrange with his/her primary school for the
+use of any required instruments for the audition.&nbsp;Only the use of
+Mayflower Secondary School’s&nbsp;percussion instruments may be arranged.</p>
 </td>
 </tr>
 <tr>
@@ -375,10 +376,10 @@ Secondary School’s&nbsp; percussion instruments may be arranged.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Sing a 1-2 minute song of their choice.</p>
+<p>Sing a 1-2 minute song of appliciant's choice.</p>
 </li>
 <li>
-<p>Student will undergo an aural test during the audition.</p>
+<p>Applicant will undergo an aural test during the audition.</p>
 </li>
 </ul>
 </td>
@@ -396,8 +397,8 @@ music. Applicant should bring along the accompanying music in MP3 format
 for his/her audition.</p>
 </li>
 <li>
-<p>Applicant may be asked to perform a demonstrated brief dance sequence.&nbsp;
-Applicant may also be asked to demonstrate his/her technical capacity.</p>
+<p>Applicant may be asked to perform a demonstrated brief dance sequence.&nbsp;Applicant
+may also be asked to demonstrate his/her technical capacity.</p>
 </li>
 </ul>
 </td>
@@ -415,8 +416,8 @@ music. Applicant should bring along the accompanying music in MP3 format
 for his/her audition.</p>
 </li>
 <li>
-<p>Applicant may be asked to perform a demonstrated brief dance sequence.&nbsp;
-Applicant may also be asked to demonstrate his/her technical capacity.</p>
+<p>Applicant may be asked to perform a demonstrated brief dance sequence.&nbsp;Applicant
+may also be asked to demonstrate his/her technical capacity.</p>
 </li>
 </ul>
 </td>
@@ -429,7 +430,7 @@ Applicant may also be asked to demonstrate his/her technical capacity.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Perform a memorized 1.5 minute long monologue of their choice</p>
+<p>Perform a memorised 1.5-minute long monologue of applicant’s choice</p>
 </li>
 <li>
 <p>Be fluent in spoken English language.</p>
@@ -439,10 +440,10 @@ Applicant may also be asked to demonstrate his/her technical capacity.</p>
 </tr>
 </tbody>
 </table>
-<h4>Selection Process&nbsp; (Sports Talent Domain)</h4>
+<h4>Selection Process&nbsp;(Sports Talent Domain)</h4>
 <p>There will be a short interview after the trial. All trials and interviews
 will be carried out in-person at Mayflower Secondary School from 6th July
-to 28th August. The following are the audition requirements for the different
+to 28th August. The following are the trial's requirements for the different
 areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -472,7 +473,7 @@ areas:</p>
 </li>
 <li>
 <p>Perform technical skills
-<br>o&nbsp;Dribbling, passing, shooting</p>
+<br>o Dribbling, passing, shooting</p>
 </li>
 <li>
 <p>Play a 3v3 half-court game.</p>
@@ -488,14 +489,14 @@ areas:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Perform a full poomsae routine at your current belt level.</p>
+<p>Perform a full poomsae routine at applicant's current belt level.</p>
 </li>
 <li>
 <p>Perform various structured target kicking to demonstrate kicking repertoire,
-power, speed and accuracy.&nbsp;&nbsp;</p>
+power, speed and accuracy.</p>
 </li>
 <li>
-<p>Candidates displaying proficiency in both Poomsae and Kyorugi categories
+<p>Applicants displaying proficiency in both Poomsae and Kyorugi categories
 will be given extra considerations during evaluation.</p>
 </li>
 </ul>
@@ -510,12 +511,12 @@ will be given extra considerations during evaluation.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Perform the following tasks on a table tennis table with a partner:
-<br>o&nbsp;&nbsp; Stroke with a partner both forehand and backhand strokes
+<br>o&nbsp;&nbsp;Stroke with a partner both forehand and backhand strokes
 for 1 minute, demonstrating correct forehand and backhand continuous hit
 stroking or looping.
-<br>o&nbsp;&nbsp; Serve 10 balls using downspin. Serve another 10 balls using
+<br>o&nbsp;&nbsp;Serve 10 balls using downspin. Serve another 10 balls using
 topspin.
-<br>o&nbsp;&nbsp; Game performance in a table tennis game</p>
+<br>o&nbsp;&nbsp;Game performance in a table tennis game</p>
 </li>
 </ul>
 </td>
@@ -529,8 +530,8 @@ topspin.
 <ul data-tight="true" class="tight">
 <li>
 <p>Perform a set of given football drills
-<br>o&nbsp;&nbsp; Footwork, Dribbling, juggling, shooting
-<br>o&nbsp;&nbsp; For goalkeeper – additional ball handling drills will be
+<br>o&nbsp;&nbsp;Footwork, Dribbling, juggling, shooting
+<br>o&nbsp;&nbsp;For goalkeeper – additional ball handling drills will be
 given</p>
 </li>
 <li>
@@ -541,11 +542,11 @@ given</p>
 </tr>
 </tbody>
 </table>
-<h4>&nbsp;Selection Process&nbsp; (Academic Talent Domain)</h4>
-<p>There will be a short interview after the trial. All trials and interviews
+<h4>&nbsp;Selection Process (Academic Talent Domain)</h4>
+<p>There will be a short interview after the trial. All trial and interviews
 will be carried out in-person at Mayflower Secondary School 6th July to
-28th August. &nbsp;The following are the audition requirements for the
-different areas:</p>
+28th August.</p>
+<p>The following are the trial requirements for the different areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
