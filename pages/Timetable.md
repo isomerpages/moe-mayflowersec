@@ -82,6 +82,14 @@ variant: tiptap
 </li>
 </ul>
 <hr>
+<h3>Sec 4/5 June Holiday Schedule 2025</h3>
+<p>Updated as of 26/05/26</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/June_holiday_schedule.jpg">
+</div>
+<p><a href="/files/Sec_4_5_June_Holiday_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 - June Holiday Schedule 2026</a>
+</p>
+<hr>
 <h3>Term 2 Remedial / Supplementary Schedule</h3>
 <p>Updated as of 27/03/26</p>
 <div class="isomer-image-wrapper">
@@ -322,11 +330,4 @@ Semester 2:</p>
 <p><a href="/files/2025_N_Prelim_TT_4NA_4NT_2_June_2025.pdf" rel="noopener nofollow" target="_blank">2025 N Prelim TT 4NA 4NT (Jul-Aug 2025)</a>
 </p>
 <hr>
-<h3>Sec 4/5 June Holiday Schedule 2025</h3>
-<p>Updated as of 21/05/25</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/June_holiday_schedule.jpg">
-</div>
-<p><a href="/files/Sec_4_5_June_Holiday_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 - June Holiday Schedule 2025</a>
-</p>
 <p></p>

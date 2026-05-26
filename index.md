@@ -26,14 +26,22 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: Parent Lunch-Time Talk
+      subtitle: 🙏 Digital Wellness
+      id: infopic
+      description: Join us to learn how to support our children’s digital well-being.
+        Insights by our PSG EXCO. Meeting link on the Parents Gateway app.
+      image: /images/PTM_Lunchtime_talk_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Aesthetics Production - Signal Reconnect
-      subtitle: 🎟 Book your tickets online
+      subtitle: ▶️ Now on YouTube
       id: infopic
       description: Celebrating our 45 years of nurturing students, this production
         reminds us that true connection is built through presence, understanding
         & courage to reconnect.
-      button: Book Now
-      url: https://bookmyshow.sg/en/events/mayflower-secondary-school-aesthetics-production-signal-reconnect/MF280426
+      button: Watch on YouTube
+      url: https://youtu.be/H2FO3EYgGzM
       image: /images/Thumbnail_Signal_Reconnect.png
       alt: Aesthetic prodcution
   - infopic:
@@ -45,7 +53,7 @@ sections:
         and learning journey.
       button: Read more
       url: /parent-talk-for-graduating-students/
-      image: /images/Parent_Engagement__6_Mar_2026__cover.png
+      image: /images/PTM_Lunchtime_talk_2026.jpg
       alt: Sec 4,5 PTM
   - infopic:
       title: Distinguished Chinese Language Teacher Awards 2026
