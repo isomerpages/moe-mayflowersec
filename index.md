@@ -53,7 +53,7 @@ sections:
         and learning journey.
       button: Read more
       url: /parent-talk-for-graduating-students/
-      image: /images/PTM_Lunchtime_talk_2026.jpg
+      image: /images/Parent_Engagement__6_Mar_2026__cover.png
       alt: Sec 4,5 PTM
   - infopic:
       title: Distinguished Chinese Language Teacher Awards 2026
