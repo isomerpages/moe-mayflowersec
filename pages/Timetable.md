@@ -6,6 +6,73 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
+<h3>Timetable for 2026 Semester 2</h3>
+<p><em>Updated as of 25/06/26</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Normal Week Timetable</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HBL Week Timetable</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Sem 2 Timetable/2026_Sem_2_Sec_1_Timetable__23_Jun_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Timetable Sec 1</a>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p><em>Same as Normal Week Timetable.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Sem 2 Timetable/2026_Sem_2_Sec_2_Timetable__23_Jun_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Timetable Sec 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Sem 2 Timetable/2026_Sem_2_Sec_3_Timetable__23_Jun_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Timetable Sec 3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Sem 2 Timetable/2026_Sem_2_Sec_4___5_Timetable__23_Jun_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Sem 2 Timetable Sec 4 &amp; 5</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>HBL Weeks</h4>
+<p>Please note that the 5 HBL days for 2026 Semester 2 are as follows:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wed, 15 Jul</p>
+</li>
+<li>
+<p>Thu, 16 Jul</p>
+</li>
+<li>
+<p>Fri, 17 Jul</p>
+</li>
+<li>
+<p>Fri, 31 Jul</p>
+</li>
+<li>
+<p>Mon, 17 Aug</p>
+</li>
+</ul>
+<hr>
 <h3>Timetable for 2026 Semester 1</h3>
 <p><em>Updated as of 31/12/25</em>
 </p>
