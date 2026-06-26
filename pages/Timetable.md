@@ -57,13 +57,13 @@ variant: tiptap
 <p>Please note that the 5 HBL days for 2026 Semester 2 are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Tue, 14 Jul</p>
+</li>
+<li>
 <p>Wed, 15 Jul</p>
 </li>
 <li>
 <p>Thu, 16 Jul</p>
-</li>
-<li>
-<p>Fri, 17 Jul</p>
 </li>
 <li>
 <p>Fri, 31 Jul</p>
