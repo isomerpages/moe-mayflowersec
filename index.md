@@ -26,6 +26,15 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: The Mayflower Promise
+      subtitle: 📰 2026, Issue 1
+      id: infopic
+      description: 2026 Sem 1 Newsletter is out. Come take a peek!
+      button: Read more
+      url: https://issuu.com/mayflowersec/docs/2026_sem_1_-_the_mayflower_promise_issue_1_2026_?fr=sYmFmMDg2Njg1MTU
+      image: /images/2026_Sem_1___The_Mayflower_Promise___Cover_Page_cropped.png
+      alt: newsletter
+  - infopic:
       title: Parent Lunch-Time Talk
       subtitle: 🙏 Digital Wellness
       id: infopic
@@ -55,27 +64,6 @@ sections:
       url: /parent-talk-for-graduating-students/
       image: /images/Parent_Engagement__6_Mar_2026__cover.png
       alt: Sec 4,5 PTM
-  - infopic:
-      title: Distinguished Chinese Language Teacher Awards 2026
-      subtitle: 🏵️ Call for Nominations
-      id: infopic
-      description: The 29th Distinguished Chinese Language Teachers Awards is now open
-        for nominations.  All students, their parents & teachers are invited to
-        send in nominations.
-      button: Nominate now
-      url: /distinguished-chinese-language-teachers-award-2026/
-      alt: Distinguished CL teacher Award
-      image: /images/Distinguisged_CL_Teachers_Award_2026_Thumbnail.png
-  - infopic:
-      title: Congratulations to Mr Goh & Mr Nara
-      subtitle: 🎖️ National Day Awards 2025
-      id: infopic
-      description: We would like to congratulate 2 of our staff for receiving their
-        National Day Award.
-      button: Read more
-      url: /national-day-awards-2025/
-      image: /images/Staff Awards/National_Day_Award_2025.png
-      alt: OYEA 2026
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
