@@ -615,6 +615,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="" rel="noopener nofollow" target="_blank">Ms Phoebe Lim Yan Ying</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3I</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -909,15 +918,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_rashid_maali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Rashid Bin Ma'ali</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Executive Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1020,8 +1020,7 @@ variant: tiptap
 <p>Library Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuraqilah@civica.com" rel="noopener noreferrer nofollow" target="_blank">Ms Aqilah</a>
-</p>
+<p>Mdm Titty</p>
 </td>
 </tr>
 <tr>
