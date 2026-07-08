@@ -1020,7 +1020,8 @@ variant: tiptap
 <p>Library Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Titty</p>
+<p><a href="mailto:varghees@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">Mdm Titty</a>
+</p>
 </td>
 </tr>
 <tr>
