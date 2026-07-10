@@ -7,11 +7,11 @@ description: ""
 image: /images/Sch_Gaduation_Cert_Sample.jpg
 variant: tiptap
 ---
-<p>Dear Graduates of 2024 Sec 4s &amp; 5s Cohort,
+<p>Dear Graduates of 2025 Sec 4s &amp; 5s Cohort,
 <br>
 <br>The School Graduation Certificates (SGC) folders (together with SGC testimonials
 and CCA Reports) are ready for collection. Collection is to be done by
-31 July.
+31 August 2026.
 <br>
 <br>Do remember to bring along your proof of identity (EZ Link card or IC)
 to collect your certificates from the school’s General Office, between
