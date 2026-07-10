@@ -26,6 +26,17 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: Collection of School Graduation Certificates
+      subtitle: 🎓 ready for collection
+      id: infopic
+      description: Collection is to be done by 31 August 2026. Bring along your proof
+        of identity to collect your certificates from the General Office, 8am to
+        5pm weekday.
+      button: Read more
+      url: /collection-of-school-graduation-certificates/
+      image: /images/Sch_Gaduation_Cert_Sample.jpg
+      alt: Sec 4,5 cert
+  - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2026, Issue 1
       id: infopic
@@ -53,17 +64,6 @@ sections:
       url: https://youtu.be/H2FO3EYgGzM
       image: /images/Thumbnail_Signal_Reconnect.png
       alt: Aesthetic prodcution
-  - infopic:
-      title: Collection of School Graduation Certificates
-      subtitle: 🎓 ready for collection
-      id: infopic
-      description: Collection is to be done by 31 August 2026. Bring along your proof
-        of identity to collect your certificates from the General Office, 8am to
-        5pm weekday.
-      button: Read more
-      url: /collection-of-school-graduation-certificates/
-      image: /images/Sch_Gaduation_Cert_Sample.jpg
-      alt: Sec 4,5 cert
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
