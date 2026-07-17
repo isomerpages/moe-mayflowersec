@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Anti Bullying Policy.md
       - Parent Support Group.md
       - Leave of Absence (LOA).md
       - Resources.md
