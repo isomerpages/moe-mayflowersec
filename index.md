@@ -37,6 +37,16 @@ sections:
       image: /images/Sch_Gaduation_Cert_Sample.jpg
       alt: Sec 4,5 cert
   - infopic:
+      title: Congratulations Genevie & Sahana
+      subtitle: 🎓 Mayflower Sec - Alumnus
+      id: infopic
+      description: We are delighted to share that our alumni have graduated from Ngee
+        Ann Polytechnic with distinction.
+      image: /images/NP_2026___Alumni_Award.png
+      alt: Image alt text
+      url: /ngee-ann-poly-s-2026-graduating-class-award-winners/
+      button: Read more
+  - infopic:
       title: The Mayflower Promise
       subtitle: 📰 2026, Issue 1
       id: infopic
@@ -45,14 +55,6 @@ sections:
       url: https://issuu.com/mayflowersec/docs/2026_sem_1_-_the_mayflower_promise_issue_1_2026_?fr=sYmFmMDg2Njg1MTU
       image: /images/2026_Sem_1___The_Mayflower_Promise___Cover_Page_cropped.png
       alt: newsletter
-  - infopic:
-      title: Parent Lunch-Time Talk
-      subtitle: 🙏 Digital Wellness
-      id: infopic
-      description: Join us to learn how to support our children’s digital well-being.
-        Insights by our PSG EXCO. Meeting link on the Parents Gateway app.
-      image: /images/PTM_Lunchtime_talk_2026.jpg
-      alt: Image alt text
   - infopic:
       title: Aesthetics Production - Signal Reconnect
       subtitle: ▶️ Now on YouTube
