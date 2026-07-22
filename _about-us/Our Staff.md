@@ -94,15 +94,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Craft &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_ann_chi_angie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Sim Ann Chi Angie</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -633,6 +624,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cezanne_choo_sha_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Cezanne Choo Sha Min</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -785,15 +785,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cezanne_choo_sha_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Cezanne Choo Sha Min</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -844,14 +835,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wee_geok_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wee Geok Lian (Linda)</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhd Erwin Bin Othman</p>
 </td>
 </tr>
 <tr>
@@ -1044,10 +1027,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adj STEM Instructor (Lab)</p>
+<p>Technical Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_li_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Li Yun</a>
+<p><a href="mailto:zareen_fairoz_shiek_alaudeen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Zareen Fairoz</a>
 </p>
 </td>
 </tr>
@@ -1197,7 +1180,7 @@ variant: tiptap
 <p>Flexi Adj (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tee_boon_teck_johnny_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tee Bon Teck Johnny</a>
+<p><a href="mailto:tee_boon_teck_johnny_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tee Boon Teck Johnny</a>
 </p>
 </td>
 </tr>
@@ -1234,15 +1217,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:brandon_ong_jing_jie_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Brandon Ong Jing Jie</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Relief (Math)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yi_liang_leo_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Yi Liang Leo</a>
 </p>
 </td>
 </tr>
