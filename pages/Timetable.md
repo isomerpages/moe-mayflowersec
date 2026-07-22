@@ -149,6 +149,14 @@ variant: tiptap
 </li>
 </ul>
 <hr>
+<h3>O Level Prelim Exam Timetable 2026</h3>
+<p>Updated as of 22/07/2026</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim.jpeg">
+</div>
+<p><a href="/files/2026_O_Prelim_TT_4EX_5N_4NA__SBB__final.pdf" rel="noopener nofollow" target="_blank">2026 O-Level Prelim Timetable - 4EX 5N 4NA (SBB)</a>
+</p>
+<hr>
 <h3>2026 Weighted Assessment 3 - Subject information</h3>
 <p><em>Updated as of 20/07/26</em>
 </p>
@@ -202,14 +210,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim1.jpg">
 </div>
 <p><a href="/files/2026_N_Prelim_TT_4NA_4NT_26_May.pdf" rel="noopener nofollow" target="_blank">2026 N Level Prelim Timetable for 4NA, 4NT</a>
-</p>
-<hr>
-<h3>O Level Prelim Exam Timetable 2026</h3>
-<p>Updated as of 22/07/2026</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim.jpeg">
-</div>
-<p><a href="/files/2026_O_Prelim_TT_4EX_5N_4NA__SBB__final.pdf" rel="noopener nofollow" target="_blank">2026 O-Level Prelim Timetable - 4EX 5N 4NA (SBB)</a>
 </p>
 <hr>
 <h3>Sec 4/5 June Holiday Schedule 2026</h3>
