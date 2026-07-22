@@ -152,7 +152,7 @@ variant: tiptap
 <h3>O Level Prelim Exam Timetable 2026</h3>
 <p>Updated as of 22/07/2026</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/prelim.jpeg">
 </div>
 <p><a href="/files/2026_O_Prelim_TT_4EX_5N_4NA__SBB__final.pdf" rel="noopener nofollow" target="_blank">2026 O-Level Prelim Timetable - 4EX 5N 4NA (SBB)</a>
 </p>
@@ -207,7 +207,7 @@ variant: tiptap
 <h3>N Level Prelim Exam Timetable 2026</h3>
 <p>Updated as of 05/06/2026</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/prelim1.jpg">
 </div>
 <p><a href="/files/2026_N_Prelim_TT_4NA_4NT_26_May.pdf" rel="noopener nofollow" target="_blank">2026 N Level Prelim Timetable for 4NA, 4NT</a>
 </p>
@@ -215,7 +215,7 @@ variant: tiptap
 <h3>Sec 4/5 June Holiday Schedule 2026</h3>
 <p>Updated as of 26/05/26</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/June_holiday_schedule.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/June_holiday_schedule.jpg">
 </div>
 <p><a href="/files/Sec_4_5_June_Holiday_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 - June Holiday Schedule 2026</a>
 </p>
@@ -223,7 +223,7 @@ variant: tiptap
 <h3>Term 2 Remedial / Supplementary Schedule</h3>
 <p>Updated as of 27/03/26</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/term_2_remdial.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/term_2_remdial.jpg">
 </div>
 <p><a href="/files/2026_Sec_1_3_Term_2_Remedial___Supp_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1-3 Term 2 Remedial / Supplementary Schedule</a>
 </p>
@@ -231,7 +231,7 @@ variant: tiptap
 <h3>Post Exam Activities &amp; Sec 3 Prep Programme</h3>
 <p>Updated as of 15 Oct 2025</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/post_exam_banner.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/post_exam_banner.jpg">
 </div>
 <p><a href="/files/2025_EOY_Post_Exams_Day_1___21_OCT_2025_Tue.pdf" rel="noopener nofollow" target="_blank">2025 EOY Post Exams Day 1 - 21 OCT 2025 Tue</a>
 </p>
@@ -245,7 +245,7 @@ variant: tiptap
 <h3>Sec 1-3 Script checking Timetable 2025</h3>
 <p>Updated as of 8 Oct 2025</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Script checking Timetable" src="/images/script_checking.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Script checking Timetable" src="/images/script_checking.jpg">
 </div>
 <p><strong>Script checking dates:</strong> Mon, 13th to Wed, 16th October
 2025</p>
@@ -259,7 +259,7 @@ variant: tiptap
 <h3>Sec 4/5 September Holiday Schedule 2025</h3>
 <p>Updated as of 25/08/25</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sept__sec_4_5_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sept__sec_4_5_.jpg">
 </div>
 <p><a href="/files/Sept_Hols_Acad_Prog_2025_Final.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 - September Holiday Academic Programme 2025</a>
 </p>
@@ -267,7 +267,7 @@ variant: tiptap
 <h3>End of Year Exam Timetable &amp; Subject Information 2025</h3>
 <p>Updated as of 21/08/2025</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EOY_exam_timetable.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EOY_exam_timetable.jpg">
 </div>
 <h4>Timetable</h4>
 <p><a href="/files/2025 EOY Exam Timetable/2025_EOY_Exam_Sec_1_TT_2025__Final_.pdf" rel="noopener nofollow" target="_blank">EOY Exam Timetable 2025 - Sec 1</a>
@@ -276,45 +276,5 @@ variant: tiptap
 </p>
 <p><a href="/files/2025 EOY Exam Timetable/2025_EOY_Exam_Sec_3_TT_2025__Final_.pdf" rel="noopener nofollow" target="_blank">EOY Exam Timetable 2025 - Sec 3</a>
 </p>
-<hr>
-<h3>Racial Harmony Day 2025 Timetable (18 July)</h3>
-<p><em>Updated as of 16/07/25</em>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Timetable by level</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_1.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_2.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_3.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 Racial Harmony Day TT/18_Jul_RHD___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Racial Harmony Day 2025 - Sec 4 &amp; 5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <p></p>
