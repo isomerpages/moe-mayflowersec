@@ -149,6 +149,53 @@ variant: tiptap
 </li>
 </ul>
 <hr>
+<h3>2026 Weighted Assessment 3 - Subject information</h3>
+<p><em>Updated as of 20/07/26</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/WA3_Info_Sheet_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA3 Subject Information</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/WA3_Info_Sheet_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA3 Subject Information</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/WA3_Info_Sheet_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA3 Subject Information</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h3>N Level Prelim Exam Timetable 2026</h3>
 <p>Updated as of 05/06/2026</p>
 <div class="isomer-image-wrapper">
@@ -180,6 +227,7 @@ variant: tiptap
 </div>
 <p><a href="/files/2026_Sec_1_3_Term_2_Remedial___Supp_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1-3 Term 2 Remedial / Supplementary Schedule</a>
 </p>
+<hr>
 <h3>Post Exam Activities &amp; Sec 3 Prep Programme</h3>
 <p>Updated as of 15 Oct 2025</p>
 <div class="isomer-image-wrapper">
@@ -196,7 +244,6 @@ variant: tiptap
 <hr>
 <h3>Sec 1-3 Script checking Timetable 2025</h3>
 <p>Updated as of 8 Oct 2025</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Script checking Timetable" src="/images/script_checking.jpg">
 </div>
@@ -216,6 +263,7 @@ variant: tiptap
 </div>
 <p><a href="/files/Sept_Hols_Acad_Prog_2025_Final.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 - September Holiday Academic Programme 2025</a>
 </p>
+<hr>
 <h3>End of Year Exam Timetable &amp; Subject Information 2025</h3>
 <p>Updated as of 21/08/2025</p>
 <div class="isomer-image-wrapper">
@@ -228,67 +276,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2025 EOY Exam Timetable/2025_EOY_Exam_Sec_3_TT_2025__Final_.pdf" rel="noopener nofollow" target="_blank">EOY Exam Timetable 2025 - Sec 3</a>
 </p>
-<hr>
-<h4>Subject information</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Subject Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_1G1_final.pdf" rel="noopener nofollow" target="_blank">1G1 Subject Information</a>
-</p>
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_1G2_final.pdf" rel="noopener nofollow" target="_blank">1G2 Subject Information</a>
-</p>
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_1G3_final.pdf" rel="noopener nofollow" target="_blank">1G3 Subject Information</a>
-</p>
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_Sec_1_Common_Curriculum.pdf" rel="noopener nofollow" target="_blank">Sec 1 Common Curriculum Subject Information</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_2G1_Final.pdf" rel="noopener nofollow" target="_blank">2G1 Subject Information</a>
-</p>
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_2G2_final.pdf" rel="noopener nofollow" target="_blank">2G2 Subject Information</a>
-</p>
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_2G3_final.pdf" rel="noopener nofollow" target="_blank">2G3 Subject Information</a>
-</p>
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_Sec_2_Common_Curriculum.pdf" rel="noopener nofollow" target="_blank">Sec 2 Common Curriculum Subject Information</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_3EX_final.pdf" rel="noopener nofollow" target="_blank">3EX Subject Information</a>
-</p>
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_3NA_final.pdf" rel="noopener nofollow" target="_blank">3NA Subject Information</a>
-</p>
-<p><a href="/files/2025 EOY Subject Info/2025_EOY_Exam_Subject_Information_3NT_final.pdf" rel="noopener nofollow" target="_blank">3NT Subject Information</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3>Racial Harmony Day 2025 Timetable (18 July)</h3>
 <p><em>Updated as of 16/07/25</em>
