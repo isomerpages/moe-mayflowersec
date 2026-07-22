@@ -6,6 +6,14 @@ description: Timetable for normal and Home-Based Learning week,
 image: /images/Hero_BG/20230309_122833.jpg
 variant: tiptap
 ---
+<h3>O Level Prelim Exam Timetable 2026</h3>
+<p>Updated as of 22/07/2026</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim.jpeg">
+</div>
+<p><a href="/files/2026_O_Prelim_TT_4EX_5N_4NA__SBB__final.pdf" rel="noopener nofollow" target="_blank">2026 O-Level Prelim Timetable - 4EX 5N 4NA (SBB)</a>
+</p>
+<hr>
 <h3>Timetable for 2026 Semester 2</h3>
 <p><em>Updated as of 25/06/26</em>
 </p>
@@ -281,14 +289,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
-<h3>O Level Prelim Exam Timetable 2025</h3>
-<p>Updated as of 16/07/2025</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prelim.jpeg">
-</div>
-<p><a href="/files/2025_O_Prelim_TT_4EX_5N_4NA__SBB___8_July_2025_.pdf" rel="noopener nofollow" target="_blank">Sec 4EX, 5N, 4NA SBB O-Level Prelim Timetable</a>
-</p>
 <hr>
 <h3>Racial Harmony Day 2025 Timetable (18 July)</h3>
 <p><em>Updated as of 16/07/25</em>
