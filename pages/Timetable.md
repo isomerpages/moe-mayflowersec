@@ -160,6 +160,9 @@ variant: tiptap
 <h3>2026 Weighted Assessment 3 - Subject information</h3>
 <p><em>Updated as of 20/07/26</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Subject_info___wa.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
