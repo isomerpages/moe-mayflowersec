@@ -33,7 +33,7 @@ sections:
         Mayflowerians, we are gearing up to celebrate the STARS of Mayflower!
       button: Read more
       url: /mayflowerians-awards-day-2026/
-      image: /images/IMG_1603.jpg
+      image: /images/stars of mayflower 2026.jpg
       alt: Mayflowerian Award 2026
   - infopic:
       title: Collection of School Graduation Certificates
