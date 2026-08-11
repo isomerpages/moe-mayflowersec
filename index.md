@@ -26,6 +26,16 @@ sections:
           description: ""
           url: /dsa/
   - infopic:
+      title: Congratulations to our recipients!
+      subtitle: 🎖️ National Day Award 2026
+      id: infopic
+      description: Congratulations to our teacher Mrs Lucinda Leong, Mdm Whong Tung
+        Geok  & Mdm Suhaila Binte Bakar for their awards.
+      button: Read More
+      url: /national-day-awards-2026/
+      image: /images/National_Day_Award_2026.jpg
+      alt: National Day Award 2026 poster
+  - infopic:
       title: Mayflowerians Awards Day
       subtitle: 🗓️ 14 Aug 2026, 2:30-4:30 pm
       id: infopic
@@ -65,17 +75,6 @@ sections:
       url: https://issuu.com/mayflowersec/docs/2026_sem_1_-_the_mayflower_promise_issue_1_2026_?fr=sYmFmMDg2Njg1MTU
       image: /images/2026_Sem_1___The_Mayflower_Promise___Cover_Page_cropped.png
       alt: newsletter
-  - infopic:
-      title: Aesthetics Production - Signal Reconnect
-      subtitle: ▶️ Now on YouTube
-      id: infopic
-      description: Celebrating our 45 years of nurturing students, this production
-        reminds us that true connection is built through presence, understanding
-        & courage to reconnect.
-      button: Watch on YouTube
-      url: https://youtu.be/H2FO3EYgGzM
-      image: /images/Thumbnail_Signal_Reconnect.png
-      alt: Aesthetic prodcution
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
