@@ -66,16 +66,15 @@ sections:
       image: /images/2026_Sem_1___The_Mayflower_Promise___Cover_Page_cropped.png
       alt: newsletter
   - infopic:
-      title: Aesthetics Production - Signal Reconnect
-      subtitle: ▶️ Now on YouTube
+      title: Congratulations to our recipients!
+      subtitle: 🎖️ National Day Award 2026
       id: infopic
-      description: Celebrating our 45 years of nurturing students, this production
-        reminds us that true connection is built through presence, understanding
-        & courage to reconnect.
-      button: Watch on YouTube
-      url: https://youtu.be/H2FO3EYgGzM
-      image: /images/Thumbnail_Signal_Reconnect.png
-      alt: Aesthetic prodcution
+      description: Congratulations to our teacher Mrs Lucinda Leong, Mdm Whong Tung
+        Geok  & Mdm Suhaila Binte Bakar for their awards.
+      button: Read More
+      url: /national-day-awards-2026/
+      image: /images/National_Day_Award_2026.jpg
+      alt: National Day Award 2026 poster
   - resources:
       title: Latest Happenings
       button: See all Latest Happenings
