@@ -23,10 +23,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p>Economic Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p>Chinese Cooked Food</p>
 </td>
 </tr>
 </tbody>
