@@ -56,10 +56,33 @@ and personal principles as expressed in the Promise and Law</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Scout Award (Scout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded to Athan Darren Koh Yu Teck, Lian Jing Yuan Leonard, Isabella
+Lee Jing Tong, Emma Joy Koh and Matthew Ng Yi Sheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Scout's Award (Scout)</p>
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Scout Award (Scout)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awarded to Fiona Lee Wen Hui, Loh Jun Yi Wilbur and Chey Tze Weng, Kedric</p>
@@ -115,7 +138,7 @@ and Ong Chong Seng Gino</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Commissioner's Award</p>
+<p>Chief Commissioner’s Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awarded to Avis Chan Siew Ying, Koh Jing-Wei, Nabil Latifah Sumamar, Finn
@@ -138,7 +161,7 @@ Tan, Nancy Liau and Foo Kok Yeow</p>
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Commissioner's Award</p>
+<p>Chief Commissioner’s Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awarded to Liaw Hong Da and Edward Neo Hui Wu</p>
@@ -149,7 +172,7 @@ Tan, Nancy Liau and Foo Kok Yeow</p>
 <p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Commissioner's Award</p>
+<p>Chief Commissioner’s Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awarded to Ng Kian Yan, Harold Hong Jiankai, Gan Jing Jie, Pang Min Tze
@@ -165,84 +188,6 @@ Benedict and Soon Ee Hern, Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awarded to Chia Kang Xu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Frank Cooper Sands Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Commissioner's Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awarded to Joshua Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Patrol Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Frank Cooper Sands Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Frank Cooper Sands Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Istana Hospitality Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awarded to Foo Yang De and Chia Kang Xu for their services</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Commissioner’s Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awarded to Chia Kang Xu, Foo Yang De, Si Thu Soe, Tan Hang Sheng and Yee
-Jun Hyeok Brian</p>
 </td>
 </tr>
 </tbody>
@@ -268,6 +213,7 @@ Jun Hyeok Brian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Timothy Ng
+<br>Ms Cezanne Choo Sha Min
 <br>Mr Gananedran s/o S Eagamparam</p>
 </td>
 </tr>
@@ -278,6 +224,7 @@ Jun Hyeok Brian</p>
 <td rowspan="1" colspan="1">
 <p>Jabez Wong
 <br>Ng Ying Jie
+<br>Chen Zhen
 <br>Chia Kang Xu
 <br>Bernard Sng
 <br>Adam Tong
@@ -290,10 +237,8 @@ Jun Hyeok Brian</p>
 <p>Senior Patrol Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Isabella Lee Jing Tong
-<br>Athan Darren Koh Yu Teck
-<br>Lian Jing Yuan Leonard
-<br>Matthew Ng Yi Sheng</p>
+<p>Faith Ang Wan Ting
+<br>Putri Letishya Binte Rohaizat</p>
 </td>
 </tr>
 <tr>
@@ -301,8 +246,10 @@ Jun Hyeok Brian</p>
 <p>Patrol Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Emma Joy Koh
-<br>Faith Ang Wan Ting</p>
+<p>Arunachalam Aapti
+<br>Doshi Jainam
+<br>Hardik Jha
+<br>Teng Jun Xi, Joel</p>
 </td>
 </tr>
 </tbody>
